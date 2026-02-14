@@ -46,7 +46,7 @@ import { v } from "convex/values";
     status: v.string(), // "active" | "canceled" | "expired" | "past_due"
     amount: v.optional(v.number()),
     currency: v.optional(v.string()),
-    billingCycle: v.optional(v.string()), // "daily" | "weekly" | "monthly" | "quarterly" | "biannual" | "annual"
+    billingCycle: v.optional(v.string()), // "weekly" | "monthly" | "quarterly" | "biannual" | "annual"
     startedAt: v.number(),
     currentPeriodEnds: v.optional(v.number()),
     endsAt: v.optional(v.number()),
@@ -473,7 +473,7 @@ import { v } from "convex/values";
     reporterId: v.id("users"),
     reportedUserId: v.id("users"),
     // Legacy fields (kept for backwards compatibility)
-    reason: v.optional(v.string()), // "harassment", "spam", "iwnappropriate_content", "catfishing", "scam", "other"
+    reason: v.optional(v.string()), // "harassment", "spam", "inappropriate_content", "catfishing", "scam", "other"
     details: v.optional(v.string()),
 
     // Phase 6: Enhanced reporting

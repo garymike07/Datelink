@@ -1203,7 +1203,7 @@ export const getRewindAvailability = query({
 });
 
 // Phase 2: Get users who liked you
-export const getWhoLikedYou = query({
+export const getWhoLikedYous = query({
     args: {
         userId: v.id("users"),
         sortBy: v.optional(v.union(v.literal("recent"), v.literal("distance"), v.literal("score"))),
@@ -1374,7 +1374,7 @@ export const trackAction = mutation({
 });
 
 // Phase 3: Get Top Picks - Daily curated matches
-export const getTopPicks = query({
+export const getTopPickss = query({
     args: { userId: v.id("users") },
     handler: async (ctx, args) => {
         const now = Date.now();

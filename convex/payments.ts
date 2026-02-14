@@ -218,8 +218,8 @@ async function finalizePaymentCore(
     body:
       payment.productType === "subscription"
         ? "Your subscription is now active. Enjoy your premium features!"
-        : payment.productType === "profile_unlock"
-            ? "Profile unlocked! You can now view full details."
+        : payment.productType.includes("unlock")
+            ? "Item unlocked! You can now access it."
             : "Your purchase was successful!",
     priority: "high",
     category: "payment",
