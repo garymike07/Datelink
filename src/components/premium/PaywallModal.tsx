@@ -1,1 +1,159 @@
-{"data":"aW1wb3J0IHsgWCwgU3BhcmtsZXMsIEhlYXJ0LCBSb3RhdGVDY3csIFphcCwgU2xpZGVycyB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IERpYWxvZywgRGlhbG9nQ29udGVudCwgRGlhbG9nRGVzY3JpcHRpb24sIERpYWxvZ0hlYWRlciwgRGlhbG9nVGl0bGUgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvZGlhbG9nIjsKaW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2J1dHRvbiI7CmltcG9ydCB7IEJhZGdlIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2JhZGdlIjsKaW1wb3J0IHsgdXNlTmF2aWdhdGUgfSBmcm9tICJyZWFjdC1yb3V0ZXItZG9tIjsKCmludGVyZmFjZSBQYXl3YWxsTW9kYWxQcm9wcyB7CiAgZmVhdHVyZTogInN1cGVyX2xpa2UiIHwgInJld2luZCIgfCAibGlrZXMiIHwgImJvb3N0IiB8ICJmaWx0ZXJzIjsKICBpc09wZW46IGJvb2xlYW47CiAgb25DbG9zZTogKCkgPT4gdm9pZDsKfQoKY29uc3QgZmVhdHVyZUNvbmZpZyA9IHsKICBzdXBlcl9saWtlOiB7CiAgICBpY29uOiBTcGFya2xlcywKICAgIHRpdGxlOiAiVW5sb2NrIFN1cGVyIExpa2VzIiwKICAgIGRlc2NyaXB0aW9uOiAiU3RhbmQgb3V0IGFuZCBnZXQgM3ggbW9yZSBtYXRjaGVzIGJ5IHNlbmRpbmcgU3VwZXIgTGlrZXMhIiwKICAgIGJlbmVmaXRzOiBbCiAgICAgICJHZXQgbm90aWNlZCBmaXJzdCBpbiB0aGVpciBzdGFjayIsCiAgICAgICJTaG93IHlvdSdyZSByZWFsbHkgaW50ZXJlc3RlZCIsCiAgICAgICI1IFN1cGVyIExpa2VzIHBlciBkYXkgd2l0aCBQcmVtaXVtIiwKICAgIF0sCiAgICBncmFkaWVudDogImZyb20tYmx1ZS01MDAgdG8tcHVycGxlLTYwMCIsCiAgICBwcmljZTogIktFUyAxMC9kYXkg4oCiIEtFUyAxMDAvd2VlayDigKIgS0VTIDM1MC9tb250aCIsCiAgfSwKICByZXdpbmQ6IHsKICAgIGljb246IFJvdGF0ZUNjdywKICAgIHRpdGxlOiAiVW5kbyBZb3VyIExhc3QgU3dpcGUiLAogICAgZGVzY3JpcHRpb246ICJNYWRlIGEgbWlzdGFrZT8gUmV3aW5kIGxldHMgeW91IHRha2UgYmFjayB5b3VyIGxhc3QgYWN0aW9uISIsCiAgICBiZW5lZml0czogWwogICAgICAiVW5saW1pdGVkIHJld2luZHMgd2l0aCBQcmVtaXVtIiwKICAgICAgIk5ldmVyIG1pc3MgYSBwb3RlbnRpYWwgbWF0Y2giLAogICAgICAiR28gYmFjayB1cCB0byA1IG1pbnV0ZXMiLAogICAgXSwKICAgIGdyYWRpZW50OiAiZnJvbS15ZWxsb3ctNTAwIHRvLW9yYW5nZS02MDAiLAogICAgcHJpY2U6ICJLRVMgMTAvZGF5IOKAoiBLRVMgMTAwL3dlZWsg4oCiIEtFUyAzNTAvbW9udGgiLAogIH0sCiAgbGlrZXM6IHsKICAgIGljb246IEhlYXJ0LAogICAgdGl0bGU6ICJTZWUgV2hvIExpa2VzIFlvdSIsCiAgICBkZXNjcmlwdGlvbjogIlNraXAgdGhlIGd1ZXNzaW5nIGdhbWUgYW5kIG1hdGNoIGluc3RhbnRseSEiLAogICAgYmVuZWZpdHM6IFsKICAgICAgIlNlZSBhbGwgeW91ciBsaWtlcyBhdCBvbmNlIiwKICAgICAgIk1hdGNoIHdpdGggcGVvcGxlIHdobyBhbHJlYWR5IGxpa2UgeW91IiwKICAgICAgIlNvcnQgYnkgZGlzdGFuY2UsIHJlY2VudCwgb3IgbWF0Y2ggc2NvcmUiLAogICAgXSwKICAgIGdyYWRpZW50OiAiZnJvbS1wdXJwbGUtNjAwIHRvLWVtZXJhbGQtNTAwIiwKICAgIHByaWNlOiAiS0VTIDEwL2RheSDigKIgS0VTIDEwMC93ZWVrIOKAoiBLRVMgMzUwL21vbnRoIiwKICB9LAogIGJvb3N0OiB7CiAgICBpY29uOiBaYXAsCiAgICB0aXRsZTogIkJvb3N0IFlvdXIgUHJvZmlsZSIsCiAgICBkZXNjcmlwdGlvbjogIkJlIHRoZSB0b3AgcHJvZmlsZSBpbiB5b3VyIGFyZWEgZm9yIDMwIG1pbnV0ZXMhIiwKICAgIGJlbmVmaXRzOiBbCiAgICAgICJHZXQgMTB4IG1vcmUgcHJvZmlsZSB2aWV3cyIsCiAgICAgICJBcHBlYXIgZmlyc3QgZm9yIDMwIG1pbnV0ZXMiLAogICAgICAiMSBmcmVlIGJvb3N0IHBlciBtb250aCB3aXRoIFByZW1pdW0iLAogICAgXSwKICAgIGdyYWRpZW50OiAiZnJvbS1wdXJwbGUtNjAwIHRvLWVtZXJhbGQtNTAwIiwKICAgIHByaWNlOiAiS0VTIDEwL2RheSDigKIgS0VTIDEwMC93ZWVrIOKAoiBLRVMgMzUwL21vbnRoIiwKICB9LAogIGZpbHRlcnM6IHsKICAgIGljb246IFNsaWRlcnMsCiAgICB0aXRsZTogIkFkdmFuY2VkIEZpbHRlcnMiLAogICAgZGVzY3JpcHRpb246ICJGaW5kIGV4YWN0bHkgd2hvIHlvdSdyZSBsb29raW5nIGZvciB3aXRoIHByZWNpc2lvbiBmaWx0ZXJzISIsCiAgICBiZW5lZml0czogWwogICAgICAiRmlsdGVyIGJ5IGVkdWNhdGlvbiwgcmVsaWdpb24sIGxpZmVzdHlsZSIsCiAgICAgICJTZXQgc3BlY2lmaWMgcmVsYXRpb25zaGlwIGdvYWxzIiwKICAgICAgIkZpbHRlciBieSBoZWlnaHQsIGxhbmd1YWdlcywgYW5kIG1vcmUiLAogICAgXSwKICAgIGdyYWRpZW50OiAiZnJvbS1ncmVlbi01MDAgdG8tdGVhbC02MDAiLAogICAgcHJpY2U6ICJLRVMgMTAvZGF5IOKAoiBLRVMgMTAwL3dlZWsg4oCiIEtFUyAzNTAvbW9udGgiLAogIH0sCn07CgpleHBvcnQgZnVuY3Rpb24gUGF5d2FsbE1vZGFsKHsgZmVhdHVyZSwgaXNPcGVuLCBvbkNsb3NlIH06IFBheXdhbGxNb2RhbFByb3BzKSB7CiAgY29uc3QgbmF2aWdhdGUgPSB1c2VOYXZpZ2F0ZSgpOwogIGNvbnN0IGNvbmZpZyA9IGZlYXR1cmVDb25maWdbZmVhdHVyZV07CiAgY29uc3QgSWNvbiA9IGNvbmZpZy5pY29uOwoKICBjb25zdCBoYW5kbGVVcGdyYWRlID0gKCkgPT4gewogICAgb25DbG9zZSgpOwogICAgbmF2aWdhdGUoIi91cGdyYWRlIik7CiAgfTsKCiAgcmV0dXJuICgKICAgIDxEaWFsb2cgb3Blbj17aXNPcGVufSBvbk9wZW5DaGFuZ2U9e29uQ2xvc2V9PgogICAgICA8RGlhbG9nQ29udGVudCBjbGFzc05hbWU9InNtOm1heC13LW1kIG1heC1oLVs5MHZoXSBvdmVyZmxvdy15LWF1dG8iPgogICAgICAgIDxEaWFsb2dIZWFkZXI+CiAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgIG9uQ2xpY2s9e29uQ2xvc2V9CiAgICAgICAgICAgIGNsYXNzTmFtZT0iYWJzb2x1dGUgcmlnaHQtNCB0b3AtNCByb3VuZGVkLXNtIG9wYWNpdHktNzAgcmluZy1vZmZzZXQtYmFja2dyb3VuZCB0cmFuc2l0aW9uLW9wYWNpdHkgaG92ZXI6b3BhY2l0eS0xMDAgei0xMCIKICAgICAgICAgID4KICAgICAgICAgICAgPFggY2xhc3NOYW1lPSJoLTQgdy00IiAvPgogICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InNyLW9ubHkiPkNsb3NlPC9zcGFuPgogICAgICAgICAgPC9idXR0b24+CiAgICAgICAgPC9EaWFsb2dIZWFkZXI+CiAgICAgICAgCiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wgaXRlbXMtY2VudGVyIHRleHQtY2VudGVyIHNwYWNlLXktNCBweS00Ij4KICAgICAgICAgIHsvKiBJY29uIHdpdGggZ3JhZGllbnQgYmFja2dyb3VuZCAqL30KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtgYmctZ3JhZGllbnQtdG8tYnIgJHtjb25maWcuZ3JhZGllbnR9IHAtNCByb3VuZGVkLWZ1bGxgfT4KICAgICAgICAgICAgPEljb24gY2xhc3NOYW1lPSJoLTggdy04IHRleHQtd2hpdGUiIC8+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICB7LyogVGl0bGUgKi99CiAgICAgICAgICA8RGlhbG9nVGl0bGUgY2xhc3NOYW1lPSJ0ZXh0LTJ4bCBmb250LWJvbGQiPntjb25maWcudGl0bGV9PC9EaWFsb2dUaXRsZT4KCiAgICAgICAgICB7LyogRGVzY3JpcHRpb24gKi99CiAgICAgICAgICA8RGlhbG9nRGVzY3JpcHRpb24+e2NvbmZpZy5kZXNjcmlwdGlvbn08L0RpYWxvZ0Rlc2NyaXB0aW9uPgoKICAgICAgICAgIHsvKiBCZW5lZml0cyAqL30KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LWZ1bGwgc3BhY2UteS0yIHB5LTIiPgogICAgICAgICAgICB7Y29uZmlnLmJlbmVmaXRzLm1hcCgoYmVuZWZpdCwgaW5kZXgpID0+ICgKICAgICAgICAgICAgICA8ZGl2IGtleT17aW5kZXh9IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1zdGFydCBnYXAtMiB0ZXh0LWxlZnQiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e2BiZy1ncmFkaWVudC10by1iciAke2NvbmZpZy5ncmFkaWVudH0gcC0xIHJvdW5kZWQtZnVsbCBtdC0wLjVgfT4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImgtMiB3LTIgYmctd2hpdGUgcm91bmRlZC1mdWxsIiAvPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtc20iPntiZW5lZml0fTwvc3Bhbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgKSl9CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICB7LyogUHJlbWl1bSBCYWRnZSAqL30KICAgICAgICAgIDxCYWRnZSBjbGFzc05hbWU9e2BiZy1ncmFkaWVudC10by1yICR7Y29uZmlnLmdyYWRpZW50fSB0ZXh0LXdoaXRlIGJvcmRlci0wYH0+CiAgICAgICAgICAgIFByZW1pdW0gRmVhdHVyZQogICAgICAgICAgPC9CYWRnZT4KCiAgICAgICAgICB7LyogQ1RBIEJ1dHRvbnMgKi99CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LWNvbCBnYXAtMiB3LWZ1bGwgcHQtMiI+CiAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICBvbkNsaWNrPXtoYW5kbGVVcGdyYWRlfQogICAgICAgICAgICAgIGNsYXNzTmFtZT17YGJnLWdyYWRpZW50LXRvLXIgJHtjb25maWcuZ3JhZGllbnR9IGhvdmVyOm9wYWNpdHktOTAgaG92ZXI6c2NhbGUtMTA1IHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTMwMCB0ZXh0LXdoaXRlIHctZnVsbCBzaGFkb3ctbGdgfQogICAgICAgICAgICA+CiAgICAgICAgICAgICAgVXBncmFkZSB0byBQcmVtaXVtCiAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICA8QnV0dG9uIHZhcmlhbnQ9Imdob3N0IiBvbkNsaWNrPXtvbkNsb3NlfSBjbGFzc05hbWU9InctZnVsbCBob3ZlcjpiZy1tdXRlZC81MCI+CiAgICAgICAgICAgICAgTWF5YmUgTGF0ZXIKICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICB7LyogUHJpY2luZyBJbmZvICovfQogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImJnLXByaW1hcnkvNSByb3VuZGVkLWxnIHAtMyBib3JkZXIgYm9yZGVyLXByaW1hcnkvMjAiPgogICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gZm9udC1zZW1pYm9sZCB0ZXh0LWNlbnRlciI+CiAgICAgICAgICAgICAge2NvbmZpZy5wcmljZX0g4oCiIFBheSB2aWEgTS1QZXNhCiAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCB0ZXh0LWNlbnRlciBtdC0xIj4KICAgICAgICAgICAgICBTaW1wbGUgcHJpY2luZzogS0VTIDEwL2RheSwgS0VTIDEwMC93ZWVrLCBvciBLRVMgMzUwL21vbnRoCiAgICAgICAgICAgIDwvcD4KICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgIHsvKiBTb2NpYWwgUHJvb2YgKi99CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgSm9pbiA1LDAwMCsgUHJlbWl1bSBtZW1iZXJzIGZpbmRpbmcgbG92ZSBmYXN0ZXIKICAgICAgICAgIDwvcD4KICAgICAgICA8L2Rpdj4KICAgICAgPC9EaWFsb2dDb250ZW50PgogICAgPC9EaWFsb2c+CiAgKTsKfQo="}
+import { X, Sparkles, Heart, RotateCcw, Zap, Sliders } from "lucide-react";
+import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from "@/components/ui/dialog";
+import { Button } from "@/components/ui/button";
+import { Badge } from "@/components/ui/badge";
+import { useNavigate } from "react-router-dom";
+
+interface PaywallModalProps {
+  feature: "super_like" | "rewind" | "likes" | "boost" | "filters";
+  isOpen: boolean;
+  onClose: () => void;
+}
+
+const featureConfig = {
+  super_like: {
+    icon: Sparkles,
+    title: "Unlock Super Likes",
+    description: "Stand out and get 3x more matches by sending Super Likes!",
+    benefits: [
+      "Get noticed first in their stack",
+      "Show you're really interested",
+      "5 Super Likes per day with Premium",
+    ],
+    gradient: "from-blue-500 to-purple-600",
+    price: "KES 100/week • KES 350/month",
+  },
+  rewind: {
+    icon: RotateCcw,
+    title: "Undo Your Last Swipe",
+    description: "Made a mistake? Rewind lets you take back your last action!",
+    benefits: [
+      "Unlimited rewinds with Premium",
+      "Never miss a potential match",
+      "Go back up to 5 minutes",
+    ],
+    gradient: "from-yellow-500 to-orange-600",
+    price: "KES 100/week • KES 350/month",
+  },
+  likes: {
+    icon: Heart,
+    title: "See Who Likes You",
+    description: "Skip the guessing game and match instantly!",
+    benefits: [
+      "See all your likes at once",
+      "Match with people who already like you",
+      "Sort by distance, recent, or match score",
+    ],
+    gradient: "from-purple-600 to-emerald-500",
+    price: "KES 100/week • KES 350/month",
+  },
+  boost: {
+    icon: Zap,
+    title: "Boost Your Profile",
+    description: "Be the top profile in your area for 30 minutes!",
+    benefits: [
+      "Get 10x more profile views",
+      "Appear first for 30 minutes",
+      "1 free boost per month with Premium",
+    ],
+    gradient: "from-purple-600 to-emerald-500",
+    price: "KES 100/week • KES 350/month",
+  },
+  filters: {
+    icon: Sliders,
+    title: "Advanced Filters",
+    description: "Find exactly who you're looking for with precision filters!",
+    benefits: [
+      "Filter by education, religion, lifestyle",
+      "Set specific relationship goals",
+      "Filter by height, languages, and more",
+    ],
+    gradient: "from-green-500 to-teal-600",
+    price: "KES 100/week • KES 350/month",
+  },
+};
+
+export function PaywallModal({ feature, isOpen, onClose }: PaywallModalProps) {
+  const navigate = useNavigate();
+  const config = featureConfig[feature];
+  const Icon = config.icon;
+
+  const handleUpgrade = () => {
+    onClose();
+    navigate("/upgrade");
+  };
+
+  return (
+    <Dialog open={isOpen} onOpenChange={onClose}>
+      <DialogContent className="sm:max-w-md max-h-[90vh] overflow-y-auto">
+        <DialogHeader>
+          <button
+            onClick={onClose}
+            className="absolute right-4 top-4 rounded-sm opacity-70 ring-offset-background transition-opacity hover:opacity-100 z-10"
+          >
+            <X className="h-4 w-4" />
+            <span className="sr-only">Close</span>
+          </button>
+        </DialogHeader>
+
+        <div className="flex flex-col items-center text-center space-y-4 py-4">
+          {/* Icon with gradient background */}
+          <div className={`bg-gradient-to-br ${config.gradient} p-4 rounded-full`}>
+            <Icon className="h-8 w-8 text-white" />
+          </div>
+
+          {/* Title */}
+          <DialogTitle className="text-2xl font-bold">{config.title}</DialogTitle>
+
+          {/* Description */}
+          <DialogDescription>{config.description}</DialogDescription>
+
+          {/* Benefits */}
+          <div className="w-full space-y-2 py-2">
+            {config.benefits.map((benefit, index) => (
+              <div key={index} className="flex items-start gap-2 text-left">
+                <div className={`bg-gradient-to-br ${config.gradient} p-1 rounded-full mt-0.5`}>
+                  <div className="h-2 w-2 bg-white rounded-full" />
+                </div>
+                <span className="text-sm">{benefit}</span>
+              </div>
+            ))}
+          </div>
+
+          {/* Premium Badge */}
+          <Badge className={`bg-gradient-to-r ${config.gradient} text-white border-0`}>
+            Premium Feature
+          </Badge>
+
+          {/* CTA Buttons */}
+          <div className="flex flex-col gap-2 w-full pt-2">
+            <Button
+              onClick={handleUpgrade}
+              className={`bg-gradient-to-r ${config.gradient} hover:opacity-90 hover:scale-105 transition-all duration-300 text-white w-full shadow-lg`}
+            >
+              Upgrade to Premium
+            </Button>
+            <Button variant="ghost" onClick={onClose} className="w-full hover:bg-muted/50">
+              Maybe Later
+            </Button>
+          </div>
+
+          {/* Pricing Info */}
+          <div className="bg-primary/5 rounded-lg p-3 border border-primary/20">
+            <p className="text-sm font-semibold text-center">
+              {config.price} • Pay via M-Pesa
+            </p>
+            <p className="text-xs text-muted-foreground text-center mt-1">
+              Simple pricing: KES 100/week or KES 350/month
+            </p>
+          </div>
+
+          {/* Social Proof */}
+          <p className="text-xs text-muted-foreground">
+            Join 5,000+ Premium members finding love faster
+          </p>
+        </div>
+      </DialogContent>
+    </Dialog>
+  );
+}

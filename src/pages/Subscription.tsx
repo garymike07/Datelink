@@ -7,12 +7,14 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { toast } from "sonner";
 import { PaymentModal } from "@/components/premium/PaymentModal";
-import { Check, Star, Calendar } from "lucide-react";
+import { Check, Star, Calendar, History, Clock, CheckCircle2, XCircle } from "lucide-react";
+import { format } from "date-fns";
 
 export default function Subscription() {
   const { user } = useAuth();
   const userId = user?._id;
   const subscription = useQuery(api.subscriptions.getMySubscription, userId ? { userId: userId as any } : "skip");
+  const payments = useQuery(api.payments.getMyPayments, userId ? { userId: userId as any } : "skip");
   const cancelSubscription = useMutation(api.subscriptions.cancelSubscription);
   const [payOpen, setPayOpen] = useState(false);
   const isActive = subscription?.status === "active";
@@ -41,6 +43,63 @@ export default function Subscription() {
         </Card>
       </div>
       {userId && <PaymentModal userId={userId} isOpen={payOpen} onClose={() => setPayOpen(false)} />}
+
+      <Card>
+        <CardHeader>
+          <CardTitle className="flex items-center gap-2">
+            <History className="h-5 w-5" />
+            Billing History
+          </CardTitle>
+        </CardHeader>
+        <CardContent>
+          {!payments || payments.length === 0 ? (
+            <p className="text-muted-foreground text-sm py-4 text-center">No recent transactions found.</p>
+          ) : (
+            <div className="space-y-4">
+              {payments.map((payment: any) => (
+                <div key={payment._id} className="flex items-center justify-between p-3 border rounded-lg">
+                  <div className="space-y-1">
+                    <p className="text-sm font-medium capitalize">
+                      {payment.productType.replace(/_/g, " ")}
+                    </p>
+                    <p className="text-xs text-muted-foreground">
+                      {format(payment.createdAt, "PPP 'at' p")}
+                    </p>
+                    <p className="text-xs font-mono text-muted-foreground">
+                      ID: {payment.transactionId || payment._id.toString().slice(0, 8)}
+                    </p>
+                  </div>
+                  <div className="text-right space-y-1">
+                    <p className="text-sm font-bold">
+                      {payment.currency} {payment.amount}
+                    </p>
+                    <div className="flex items-center justify-end gap-1.5">
+                      {payment.status === "completed" && (
+                        <Badge variant="secondary" className="bg-green-500/10 text-green-500 border-green-500/20 gap-1">
+                          <CheckCircle2 className="h-3 w-3" />
+                          Successful
+                        </Badge>
+                      )}
+                      {payment.status === "failed" && (
+                        <Badge variant="destructive" className="bg-red-500/10 text-red-500 border-red-500/20 gap-1">
+                          <XCircle className="h-3 w-3" />
+                          Failed
+                        </Badge>
+                      )}
+                      {(payment.status === "pending" || payment.status === "processing") && (
+                        <Badge variant="outline" className="bg-yellow-500/10 text-yellow-600 border-yellow-500/20 gap-1 animate-pulse">
+                          <Clock className="h-3 w-3" />
+                          {payment.status}
+                        </Badge>
+                      )}
+                    </div>
+                  </div>
+                </div>
+              ))}
+            </div>
+          )}
+        </CardContent>
+      </Card>
     </div>
   );
 }
