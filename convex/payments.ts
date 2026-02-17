@@ -65,15 +65,15 @@ export const initiatePayment = action({
   handler: async (ctx, args): Promise<{ paymentId: Id<"payments">; transactionId: string }> => {
     const currency = args.currency ?? "KES";
 
-    // Server-side price enforcement (do not trust client-provided amount)
+    // Server-side price enforcement
     const expected = (() => {
       if (args.productType === "subscription") {
         const d = args.planDuration ?? "";
         if (d === "1_week") return 100;
         if (d === "1_month") return 350;
-        throw new Error("Invalid subscription duration. Only weekly, or monthly is allowed.");
+        throw new Error("Invalid subscription duration. Only weekly or monthly is allowed.");
       }
-      // profile_unlock etc: allow caller-provided amount for now
+      if (args.productType.includes("unlock")) return 10;
       return args.amount;
     })();
 

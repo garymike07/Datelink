@@ -11,7 +11,7 @@ import { Loader2, CheckCircle2, XCircle } from "lucide-react";
 export function PaymentModal({ userId, isOpen, onClose, mode = "subscription", itemType, targetId, defaultDuration = "1_week" }: any) {
   const initiatePayment = useAction(api.payments.initiatePayment);
   const refreshPaymentStatus = useAction(api.paymentsStatus.refreshPaymentStatus);
-  const [duration, setDuration] = useState<PremiumPlanDuration>(defaultDuration);
+  const [duration] = useState<PremiumPlanDuration>("1_week");
   const [phoneNumber, setPhoneNumber] = useState("");
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [paymentId, setPaymentId] = useState<any>(null);
@@ -102,7 +102,7 @@ export function PaymentModal({ userId, isOpen, onClose, mode = "subscription", i
         <DialogHeader>
           <DialogTitle>{mode === "subscription" ? "Upgrade to Premium" : "Unlock Profile"}</DialogTitle>
           <DialogDescription>
-            {paymentStatus === "idle" && (mode === "subscription" ? "Get 10 more profile unlocks and other premium features." : "Pay 10 KES to unlock this profile.")}
+            {paymentStatus === "idle" && (mode === "subscription" ? "Get 10 more profile unlocks and 7 days of premium access." : "Pay 10 KES to unlock this profile.")}
             {paymentStatus === "pending" && "Waiting for payment confirmation..."}
             {paymentStatus === "completed" && "Payment confirmed!"}
             {paymentStatus === "failed" && "Payment failed."}

@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { useAuth } from "@/contexts/AuthContext";
 import { useMutation, useQuery } from "convex/react";
 import { api } from "../../convex/_generated/api";
@@ -18,6 +18,8 @@ export default function Subscription() {
   
   const isActive = subscription?.status === "active";
 
+  const refreshPaymentStatus = useMutation(api.paymentsStatus.refreshPaymentStatus);
+
   const getStatusIcon = (status: string) => {
     switch (status) {
       case "completed": return <CheckCircle2 className="h-4 w-4 text-green-500" />;
@@ -27,6 +29,18 @@ export default function Subscription() {
       default: return <AlertCircle className="h-4 w-4 text-gray-500" />;
     }
   };
+
+  // Real-time status update for pending payments
+  useEffect(() => {
+    if (!userId || !payments) return;
+    const interval = setInterval(() => {
+      const pendingPayments = (payments as any[]).filter(p => p.status === "pending" || p.status === "processing");
+      pendingPayments.forEach(p => {
+        refreshPaymentStatus({ paymentId: p._id, userId: userId as any }).catch(console.error);
+      });
+    }, 5000);
+    return () => clearInterval(interval);
+  }, [userId, payments, refreshPaymentStatus]);
 
   return (
     <div className="max-w-4xl mx-auto px-4 space-y-8 pb-12">
@@ -95,7 +109,7 @@ export default function Subscription() {
             <ul className="space-y-2 text-sm">
               <li className="flex items-center gap-2">
                 <Check className="h-4 w-4 text-green-500" />
-                <span>7 days of premium access</span>
+                <span>7 days of premium access & login</span>
               </li>
               <li className="flex items-center gap-2">
                 <Check className="h-4 w-4 text-green-500" />
@@ -103,7 +117,7 @@ export default function Subscription() {
               </li>
               <li className="flex items-center gap-2">
                 <Check className="h-4 w-4 text-green-500" />
-                <span>+10 Premium profile unlocks</span>
+                <span>+10 More profiles after payment</span>
               </li>
               <li className="flex items-center gap-2">
                 <Check className="h-4 w-4 text-green-500" />

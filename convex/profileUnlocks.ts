@@ -13,6 +13,7 @@ export const getQuotaStats = query({
   args: { userId: v.id("users") },
   handler: async (ctx, args) => {
     const isPremium = await isUserPremium(ctx, args.userId);
+    // 10 free profiles + 10 more after payment (premium)
     const totalQuota = FREE_QUOTA + (isPremium ? PREMIUM_EXTRA_QUOTA : 0);
 
     const unlocks = await ctx.db
@@ -69,6 +70,7 @@ export const canAccessItem = query({
 
     // 2. Check quota
     const isPremium = await isUserPremium(ctx, args.userId);
+    // 10 free profiles + 10 more after payment (premium)
     const totalQuota = FREE_QUOTA + (isPremium ? PREMIUM_EXTRA_QUOTA : 0);
 
     const usedUnlocks = await ctx.db
@@ -144,6 +146,7 @@ export const unlockItem = mutation({
 
     // Check quota
     const isPremium = await isUserPremium(ctx, args.userId);
+    // 10 free profiles + 10 more after payment (premium)
     const totalQuota = FREE_QUOTA + (isPremium ? PREMIUM_EXTRA_QUOTA : 0);
 
     const usedUnlocks = await ctx.db
