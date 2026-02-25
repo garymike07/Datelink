@@ -238,7 +238,7 @@ async function grantStreakReward(ctx: any, userId: any, reward: DailyReward) {
   const now = Date.now();
 
   switch (reward.type) {
-    case "boost":
+    case "boost": {
       // Grant boost credits
       const boostCredits = await ctx.db
         .query("boostCredits")
@@ -257,8 +257,9 @@ async function grantStreakReward(ctx: any, userId: any, reward: DailyReward) {
         });
       }
       break;
+    }
 
-    case "unlock":
+    case "unlock": {
       // Grant unlock credits
       const unlockCredits = await ctx.db
         .query("unlockCredits")
@@ -277,13 +278,14 @@ async function grantStreakReward(ctx: any, userId: any, reward: DailyReward) {
         });
       }
       break;
+    }
 
     case "premium_trial":
       // Grant premium trial days
       // This would integrate with your subscription system
       break;
 
-    case "badge":
+    case "badge": {
       // Grant special badge
       const badgeId = `streak_${reward.day}_days`;
       await ctx.db.insert("userBadges", {
@@ -297,5 +299,6 @@ async function grantStreakReward(ctx: any, userId: any, reward: DailyReward) {
         earnedAt: now,
       });
       break;
+    }
   }
 }

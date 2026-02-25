@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
-import { MapPin, Briefcase, Info, ChevronLeft, ChevronRight, Star } from "lucide-react";
+import { MapPin, Briefcase, Info, Star } from "lucide-react";
 import { DistanceBadge } from "./DistanceBadge";
 
 interface Photo {
@@ -32,8 +32,10 @@ interface ProfileCardProps {
   onInfoClick?: () => void;
 }
 
-export function ProfileCard({ profile, currentUserId, onInfoClick }: ProfileCardProps) {
+export function ProfileCard({ profile, onInfoClick }: ProfileCardProps) {
   const [photoIndex, setPhotoIndex] = useState(0);
+
+  if (!profile) return null;
 
   const sortedPhotos = [...(profile.photos || [])].sort((a, b) => {
     if (a.isPrimary) return -1;
@@ -53,12 +55,6 @@ export function ProfileCard({ profile, currentUserId, onInfoClick }: ProfileCard
     e.stopPropagation();
     setPhotoIndex((prev) => (prev < sortedPhotos.length - 1 ? prev + 1 : 0));
   };
-
-  const distanceText = DistanceBadge({
-    distanceKm: profile.distanceKm,
-    city: profile.distanceCity,
-    passportMode: profile.passportMode,
-  });
 
   return (
     <div className="relative w-full h-full rounded-3xl overflow-hidden bg-card select-none">
@@ -126,7 +122,7 @@ export function ProfileCard({ profile, currentUserId, onInfoClick }: ProfileCard
         <Button
           size="icon"
           variant="ghost"
-          className="absolute bottom-4 right-4 z-20 w-10 h-10 rounded-full bg-white/20 backdrop-blur-sm text-white hover:bg-white/30 border border-white/30"
+          className="absolute bottom-4 right-4 z-20 w-10 h-10 rounded-full bg-white/20 backdrop-blur-sm text-white hover:bg-white/30 border border-white/30 pointer-events-auto"
           onClick={(e) => {
             e.stopPropagation();
             onInfoClick();
@@ -158,14 +154,16 @@ export function ProfileCard({ profile, currentUserId, onInfoClick }: ProfileCard
           )}
 
           {/* Location / Distance */}
-          {(distanceText || profile.location) && (
-            <div className="flex items-center gap-1.5 text-white/80 text-sm">
-              <MapPin className="w-3.5 h-3.5 flex-shrink-0" />
-              <span className="truncate">
-                {distanceText || profile.location}
-              </span>
-            </div>
-          )}
+          <div className="flex items-center gap-1.5 text-white/80 text-sm">
+            <MapPin className="w-3.5 h-3.5 flex-shrink-0" />
+            <span className="truncate">
+              <DistanceBadge 
+                distanceKm={profile.distanceKm} 
+                city={profile.distanceCity || profile.location} 
+                passportMode={profile.passportMode} 
+              />
+            </span>
+          </div>
 
           {/* Interests */}
           {profile.interests && profile.interests.length > 0 && (
