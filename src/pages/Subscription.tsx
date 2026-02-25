@@ -18,6 +18,16 @@ export default function Subscription() {
   const subscription = useQuery(api.subscriptions.getMySubscription, userId ? { userId: userId as any } : "skip");
   const payments = useQuery(api.payments.getMyBillingHistory, userId ? { userId: userId as any, limit: 50 } : "skip");
   const [payOpen, setPayOpen] = useState(false);
+
+  // Handle loading and error states
+  if (userId && (subscription === undefined || payments === undefined)) {
+    return (
+      <div className="flex flex-col items-center justify-center min-h-[60vh] space-y-4">
+        <Clock className="h-12 w-12 text-primary animate-spin opacity-20" />
+        <p className="text-muted-foreground animate-pulse">Loading subscription details...</p>
+      </div>
+    );
+  }
   const [payMode, setPayMode] = useState<"subscription" | "daily_unlock">("subscription");
   const [defaultDuration, setDefaultDuration] = useState<"1_week" | "1_month">("1_week");
   const isActive = subscription?.status === "active";

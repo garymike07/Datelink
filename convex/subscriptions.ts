@@ -11,17 +11,26 @@ function getDayKeyUtc(nowMs: number) {
 
 export async function isUserPremium(ctx: any, userId: any) {
   const now = Date.now();
+  
+  // 1. Check for active subscription
   const sub = await ctx.db
     .query("subscriptions")
     .withIndex("userId", (q: any) => q.eq("userId", userId))
     .order("desc")
     .first();
 
-  if (!sub) return false;
-  if (sub.status !== "active") return false;
-  if (sub.plan !== "premium") return false;
-  if (typeof sub.endsAt === "number" && sub.endsAt <= now) return false;
-  return true;
+  if (sub && sub.status === "active" && sub.plan === "premium" && (typeof sub.endsAt !== "number" || sub.endsAt > now)) {
+    return true;
+  }
+
+  // 2. Check for active free trial or daily unlock in user record
+  const user = await ctx.db.get(userId);
+  if (!user) return false;
+
+  const trialActive = !!user.freeTrialEndsAt && user.freeTrialEndsAt > now;
+  const dailyUnlockActive = !!user.dailyUnlockEndsAt && user.dailyUnlockEndsAt > now;
+
+  return trialActive || dailyUnlockActive;
 }
 
 // Query version of isUserPremium for use in actions
