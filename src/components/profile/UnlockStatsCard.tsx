@@ -1,1 +1,73 @@
-{"data":"aW1wb3J0IHsgdXNlUXVlcnkgfSBmcm9tICJjb252ZXgvcmVhY3QiOwppbXBvcnQgeyBhcGkgfSBmcm9tICIuLi8uLi8uLi9jb252ZXgvX2dlbmVyYXRlZC9hcGkiOwppbXBvcnQgeyBDYXJkLCBDYXJkQ29udGVudCwgQ2FyZEhlYWRlciwgQ2FyZFRpdGxlIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2NhcmQiOwppbXBvcnQgeyBCYWRnZSB9IGZyb20gIkAvY29tcG9uZW50cy91aS9iYWRnZSI7CmltcG9ydCB7IExvY2ssIFVubG9jaywgVHJlbmRpbmdVcCB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IElkIH0gZnJvbSAiLi4vLi4vLi4vY29udmV4L19nZW5lcmF0ZWQvZGF0YU1vZGVsIjsKCmludGVyZmFjZSBVbmxvY2tTdGF0c0NhcmRQcm9wcyB7CiAgdXNlcklkOiBJZDwidXNlcnMiPjsKfQoKZXhwb3J0IGZ1bmN0aW9uIFVubG9ja1N0YXRzQ2FyZCh7IHVzZXJJZCB9OiBVbmxvY2tTdGF0c0NhcmRQcm9wcykgewogIGNvbnN0IHN0YXRzID0gdXNlUXVlcnkoYXBpLnByb2ZpbGVVbmxvY2tzLmdldFVubG9ja1N0YXRzLCB7IHVzZXJJZCB9KTsKICBjb25zdCB0cmlhbFN0YXR1cyA9IHVzZVF1ZXJ5KGFwaS5mcmVlVHJpYWwuZ2V0RnJlZVRyaWFsU3RhdHVzLCB7IHVzZXJJZCB9KTsKCiAgaWYgKCFzdGF0cykgcmV0dXJuIG51bGw7CgogIHJldHVybiAoCiAgICA8Q2FyZD4KICAgICAgPENhcmRIZWFkZXI+CiAgICAgICAgPENhcmRUaXRsZSBjbGFzc05hbWU9InRleHQtYmFzZSBmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiI+CiAgICAgICAgICA8VW5sb2NrIGNsYXNzTmFtZT0idy00IGgtNCIgLz4KICAgICAgICAgIFByb2ZpbGUgVW5sb2NrcwogICAgICAgIDwvQ2FyZFRpdGxlPgogICAgICA8L0NhcmRIZWFkZXI+CiAgICAgIDxDYXJkQ29udGVudCBjbGFzc05hbWU9InNwYWNlLXktMyI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTMgZ2FwLTIiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtY2VudGVyIHAtMiBiZy1ncmVlbi01MCByb3VuZGVkIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtMnhsIGZvbnQtYm9sZCB0ZXh0LWdyZWVuLTYwMCI+e3N0YXRzLmZyZWVUcmlhbFVubG9ja3N9PC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+RnJlZSBUcmlhbDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idGV4dC1jZW50ZXIgcC0yIGJnLWJsdWUtNTAgcm91bmRlZCI+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LTJ4bCBmb250LWJvbGQgdGV4dC1ibHVlLTYwMCI+e3N0YXRzLnByZW1pdW1VbmxvY2tzfTwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LW11dGVkLWZvcmVncm91bmQiPlByZW1pdW08L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtY2VudGVyIHAtMiBiZy1wdXJwbGUtNTAgcm91bmRlZCI+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LTJ4bCBmb250LWJvbGQgdGV4dC1wdXJwbGUtNjAwIj57c3RhdHMucGFpZFVubG9ja3N9PC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+UGFpZDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CgogICAgICAgIHtzdGF0cy50b3RhbFNwZW50ID4gMCAmJiAoCiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icC0zIGJnLW11dGVkIHJvdW5kZWQtbGciPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtc20iPlRvdGFsIFNwZW50IG9uIFVubG9ja3M6PC9zcGFuPgogICAgICAgICAgICAgIDxCYWRnZSB2YXJpYW50PSJzZWNvbmRhcnkiPktFUyB7c3RhdHMudG90YWxTcGVudH08L0JhZGdlPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAge3N0YXRzLnRvdGFsU3BlbnQgPj0gMzUgJiYgKAogICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LWFtYmVyLTYwMCBtdC0yIGZsZXggaXRlbXMtY2VudGVyIGdhcC0xIj4KICAgICAgICAgICAgICAgIDxUcmVuZGluZ1VwIGNsYXNzTmFtZT0idy0zIGgtMyIgLz4KICAgICAgICAgICAgICAgIFRpcDogWW91IGNvdWxkIHNhdmUgd2l0aCBhIG1vbnRobHkgc3Vic2NyaXB0aW9uIChLRVMgMzUwKSEKICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICl9CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApfQoKICAgICAgICB7dHJpYWxTdGF0dXM/LnRyaWFsQWN0aXZlICYmICgKICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwLTMgYmctcHJpbWFyeS81IHJvdW5kZWQtbGcgYm9yZGVyIGJvcmRlci1wcmltYXJ5LzIwIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiBtYi0xIj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtc20gZm9udC1tZWRpdW0iPkZyZWUgVHJpYWwgQWN0aXZlPC9zcGFuPgogICAgICAgICAgICAgIDxCYWRnZSBjbGFzc05hbWU9ImJnLWdyZWVuLTYwMCI+CiAgICAgICAgICAgICAgICB7dHJpYWxTdGF0dXMucHJvZmlsZVVubG9ja3NSZW1haW5pbmd9IGxlZnQKICAgICAgICAgICAgICA8L0JhZGdlPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+CiAgICAgICAgICAgICAgRXhwaXJlcyBpbiB7TWF0aC5jZWlsKCh0cmlhbFN0YXR1cy50cmlhbEVuZHMhIC0gRGF0ZS5ub3coKSkgLyAoNjAgKiA2MCAqIDEwMDApKX0gaG91cnMKICAgICAgICAgICAgPC9wPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgKX0KICAgICAgPC9DYXJkQ29udGVudD4KICAgIDwvQ2FyZD4KICApOwp9Cg=="}
+import { useQuery } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
+import { Lock, Unlock, TrendingUp } from "lucide-react";
+import { Id } from "../../../convex/_generated/dataModel";
+
+interface UnlockStatsCardProps {
+  userId: Id<"users">;
+}
+
+export function UnlockStatsCard({ userId }: UnlockStatsCardProps) {
+  const stats = useQuery(api.profileUnlocks.getUnlockStats, { userId });
+  const trialStatus = useQuery(api.freeTrial.getFreeTrialStatus, { userId });
+
+  if (!stats) return null;
+
+  return (
+    <Card>
+      <CardHeader>
+        <CardTitle className="text-base flex items-center gap-2">
+          <Unlock className="w-4 h-4" />
+          Profile Unlocks
+        </CardTitle>
+      </CardHeader>
+      <CardContent className="space-y-3">
+        <div className="grid grid-cols-3 gap-2">
+          <div className="text-center p-2 bg-green-50 rounded">
+            <div className="text-2xl font-bold text-green-600">{stats.freeTrialUnlocks}</div>
+            <div className="text-xs text-muted-foreground">Free Trial</div>
+          </div>
+          <div className="text-center p-2 bg-blue-50 rounded">
+            <div className="text-2xl font-bold text-blue-600">{stats.premiumUnlocks}</div>
+            <div className="text-xs text-muted-foreground">Premium</div>
+          </div>
+          <div className="text-center p-2 bg-purple-50 rounded">
+            <div className="text-2xl font-bold text-purple-600">{stats.paidUnlocks}</div>
+            <div className="text-xs text-muted-foreground">Paid</div>
+          </div>
+        </div>
+
+        {stats.totalSpent > 0 && (
+          <div className="p-3 bg-muted rounded-lg">
+            <div className="flex items-center justify-between">
+              <span className="text-sm">Total Spent on Unlocks:</span>
+              <Badge variant="secondary">KES {stats.totalSpent}</Badge>
+            </div>
+            {stats.totalSpent >= 35 && (
+              <p className="text-xs text-amber-600 mt-2 flex items-center gap-1">
+                <TrendingUp className="w-3 h-3" />
+                Tip: You could save with a monthly subscription (KES 350)!
+              </p>
+            )}
+          </div>
+        )}
+
+        {trialStatus?.trialActive && (
+          <div className="p-3 bg-primary/5 rounded-lg border border-primary/20">
+            <div className="flex items-center justify-between mb-1">
+              <span className="text-sm font-medium">Free Trial Active</span>
+              <Badge className="bg-green-600">
+                {trialStatus.profileUnlocksRemaining} left
+              </Badge>
+            </div>
+            <p className="text-xs text-muted-foreground">
+              Expires in {Math.ceil((trialStatus.trialEnds! - Date.now()) / (60 * 60 * 1000))} hours
+            </p>
+          </div>
+        )}
+      </CardContent>
+    </Card>
+  );
+}

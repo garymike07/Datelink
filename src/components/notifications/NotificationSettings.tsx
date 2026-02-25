@@ -1,1 +1,194 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IHVzZVF1ZXJ5LCB1c2VNdXRhdGlvbiB9IGZyb20gImNvbnZleC9yZWFjdCI7CmltcG9ydCB7IGFwaSB9IGZyb20gIi4uLy4uLy4uL2NvbnZleC9fZ2VuZXJhdGVkL2FwaSI7CmltcG9ydCB7IENhcmQsIENhcmRDb250ZW50LCBDYXJkRGVzY3JpcHRpb24sIENhcmRIZWFkZXIsIENhcmRUaXRsZSB9IGZyb20gIkAvY29tcG9uZW50cy91aS9jYXJkIjsKaW1wb3J0IHsgU3dpdGNoIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL3N3aXRjaCI7CmltcG9ydCB7IExhYmVsIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2xhYmVsIjsKaW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2J1dHRvbiI7CmltcG9ydCB7IFNlcGFyYXRvciB9IGZyb20gIkAvY29tcG9uZW50cy91aS9zZXBhcmF0b3IiOwppbXBvcnQgeyBCZWxsLCBWb2x1bWUyLCBWaWJyYXRlLCBNb29uLCBNYWlsLCBTbWFydHBob25lLCBIZWFydCwgTWVzc2FnZUNpcmNsZSwgUGhvbmUsIFN0YXIgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyB1c2VUb2FzdCB9IGZyb20gIkAvaG9va3MvdXNlLXRvYXN0IjsKaW1wb3J0IHsgUHVzaFBlcm1pc3Npb25JbmxpbmUgfSBmcm9tICIuL1B1c2hQZXJtaXNzaW9uUHJvbXB0IjsKaW1wb3J0IHsgdXNlUHVzaE5vdGlmaWNhdGlvbnMgfSBmcm9tICJAL2hvb2tzL3VzZVB1c2hOb3RpZmljYXRpb25zIjsKaW1wb3J0IHsgSW5wdXQgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvaW5wdXQiOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gTm90aWZpY2F0aW9uU2V0dGluZ3MoeyB1c2VySWQgfTogeyB1c2VySWQ6IHN0cmluZyB9KSB7CiAgY29uc3QgeyB0b2FzdCB9ID0gdXNlVG9hc3QoKTsKICBjb25zdCBwcmVmZXJlbmNlcyA9IHVzZVF1ZXJ5KGFwaS5ub3RpZmljYXRpb25QcmVmZXJlbmNlcy5nZXRQcmVmZXJlbmNlcywgewogICAgdXNlcklkOiB1c2VySWQgYXMgYW55LAogIH0pOwogIAogIC8vIFBoYXNlIDM6IFB1c2ggbm90aWZpY2F0aW9uIHByZWZlcmVuY2VzCiAgY29uc3QgcHVzaFByZWZlcmVuY2VzID0gdXNlUXVlcnkoYXBpLnB1c2hOb3RpZmljYXRpb25zLmdldFByZWZlcmVuY2VzKTsKICBjb25zdCB1cGRhdGVQdXNoUHJlZmVyZW5jZXMgPSB1c2VNdXRhdGlvbihhcGkucHVzaE5vdGlmaWNhdGlvbnMudXBkYXRlUHJlZmVyZW5jZXMpOwogIGNvbnN0IHsgdGVzdE5vdGlmaWNhdGlvbiB9ID0gdXNlUHVzaE5vdGlmaWNhdGlvbnMoKTsKICAKICBjb25zdCB1cGRhdGVQcmVmZXJlbmNlcyA9IHVzZU11dGF0aW9uKGFwaS5ub3RpZmljYXRpb25QcmVmZXJlbmNlcy51cGRhdGVQcmVmZXJlbmNlcyk7CiAgCiAgY29uc3QgW2lzU2F2aW5nLCBzZXRJc1NhdmluZ10gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgW3F1aWV0U3RhcnQsIHNldFF1aWV0U3RhcnRdID0gdXNlU3RhdGUoIjIyOjAwIik7CiAgY29uc3QgW3F1aWV0RW5kLCBzZXRRdWlldEVuZF0gPSB1c2VTdGF0ZSgiMDg6MDAiKTsKCiAgY29uc3QgaGFuZGxlVG9nZ2xlID0gYXN5bmMgKGZpZWxkOiBzdHJpbmcsIHZhbHVlOiBib29sZWFuKSA9PiB7CiAgICBzZXRJc1NhdmluZyh0cnVlKTsKICAgIHRyeSB7CiAgICAgIGF3YWl0IHVwZGF0ZVByZWZlcmVuY2VzKHsKICAgICAgICB1c2VySWQ6IHVzZXJJZCBhcyBhbnksCiAgICAgICAgdXBkYXRlczogeyBbZmllbGRdOiB2YWx1ZSB9LAogICAgICB9KTsKICAgICAgCiAgICAgIHRvYXN0KHsKICAgICAgICB0aXRsZTogIlByZWZlcmVuY2VzIHVwZGF0ZWQiLAogICAgICAgIGRlc2NyaXB0aW9uOiAiWW91ciBub3RpZmljYXRpb24gc2V0dGluZ3MgaGF2ZSBiZWVuIHNhdmVkLiIsCiAgICAgIH0pOwogICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgdG9hc3QoewogICAgICAgIHRpdGxlOiAiRXJyb3IiLAogICAgICAgIGRlc2NyaXB0aW9uOiAiRmFpbGVkIHRvIHVwZGF0ZSBwcmVmZXJlbmNlcy4gUGxlYXNlIHRyeSBhZ2Fpbi4iLAogICAgICAgIHZhcmlhbnQ6ICJkZXN0cnVjdGl2ZSIsCiAgICAgIH0pOwogICAgfSBmaW5hbGx5IHsKICAgICAgc2V0SXNTYXZpbmcoZmFsc2UpOwogICAgfQogIH07CgogIGNvbnN0IGhhbmRsZVB1c2hUb2dnbGUgPSBhc3luYyAoZmllbGQ6IHN0cmluZywgdmFsdWU6IGJvb2xlYW4pID0+IHsKICAgIHNldElzU2F2aW5nKHRydWUpOwogICAgdHJ5IHsKICAgICAgYXdhaXQgdXBkYXRlUHVzaFByZWZlcmVuY2VzKHsKICAgICAgICBbZmllbGRdOiB2YWx1ZSwKICAgICAgfSk7CiAgICAgIAogICAgICB0b2FzdCh7CiAgICAgICAgdGl0bGU6ICJQcmVmZXJlbmNlcyB1cGRhdGVkIiwKICAgICAgICBkZXNjcmlwdGlvbjogIllvdXIgcHVzaCBub3RpZmljYXRpb24gc2V0dGluZ3MgaGF2ZSBiZWVuIHNhdmVkLiIsCiAgICAgIH0pOwogICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgdG9hc3QoewogICAgICAgIHRpdGxlOiAiRXJyb3IiLAogICAgICAgIGRlc2NyaXB0aW9uOiAiRmFpbGVkIHRvIHVwZGF0ZSBwcmVmZXJlbmNlcy4gUGxlYXNlIHRyeSBhZ2Fpbi4iLAogICAgICAgIHZhcmlhbnQ6ICJkZXN0cnVjdGl2ZSIsCiAgICAgIH0pOwogICAgfSBmaW5hbGx5IHsKICAgICAgc2V0SXNTYXZpbmcoZmFsc2UpOwogICAgfQogIH07CgogIGNvbnN0IGhhbmRsZVF1aWV0SG91cnNVcGRhdGUgPSBhc3luYyAoKSA9PiB7CiAgICBzZXRJc1NhdmluZyh0cnVlKTsKICAgIHRyeSB7CiAgICAgIGF3YWl0IHVwZGF0ZVB1c2hQcmVmZXJlbmNlcyh7CiAgICAgICAgcXVpZXRIb3Vyc1N0YXJ0OiBxdWlldFN0YXJ0LAogICAgICAgIHF1aWV0SG91cnNFbmQ6IHF1aWV0RW5kLAogICAgICB9KTsKICAgICAgCiAgICAgIHRvYXN0KHsKICAgICAgICB0aXRsZTogIlF1aWV0IGhvdXJzIHVwZGF0ZWQiLAogICAgICAgIGRlc2NyaXB0aW9uOiBgTm90aWZpY2F0aW9ucyBwYXVzZWQgZnJvbSAke3F1aWV0U3RhcnR9IHRvICR7cXVpZXRFbmR9YCwKICAgICAgfSk7CiAgICB9IGNhdGNoIChlcnJvcikgewogICAgICB0b2FzdCh7CiAgICAgICAgdGl0bGU6ICJFcnJvciIsCiAgICAgICAgZGVzY3JpcHRpb246ICJGYWlsZWQgdG8gdXBkYXRlIHF1aWV0IGhvdXJzLiBQbGVhc2UgdHJ5IGFnYWluLiIsCiAgICAgICAgdmFyaWFudDogImRlc3RydWN0aXZlIiwKICAgICAgfSk7CiAgICB9IGZpbmFsbHkgewogICAgICBzZXRJc1NhdmluZyhmYWxzZSk7CiAgICB9CiAgfTsKCiAgaWYgKCFwcmVmZXJlbmNlcykgewogICAgcmV0dXJuIAogICAgICAgICAgICAgIDxTd2l0Y2gKICAgICAgICAgICAgICAgIGNoZWNrZWQ9e3ByZWZlcmVuY2VzLm1lc3NhZ2VFbmFibGVkfQogICAgICAgICAgICAgICAgb25DaGVja2VkQ2hhbmdlPXsoY2hlY2tlZCkgPT4gaGFuZGxlVG9nZ2xlKCJtZXNzYWdlRW5hYmxlZCIsIGNoZWNrZWQpfQogICAgICAgICAgICAgICAgZGlzYWJsZWQ9e2lzU2F2aW5nIHx8ICFwcmVmZXJlbmNlcy5lbmFibGVkfQogICAgICAgICAgICAgIC8+CiAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgCiAgICAgICAgICAgICAgICA8U3dpdGNoCiAgICAgICAgICAgICAgICAgIGNoZWNrZWQ9e3B1c2hQcmVmZXJlbmNlcy5xdWlldEhvdXJzRW5hYmxlZH0KICAgICAgICAgICAgICAgICAgb25DaGVja2VkQ2hhbmdlPXsoY2hlY2tlZCkgPT4gaGFuZGxlUHVzaFRvZ2dsZSgicXVpZXRIb3Vyc0VuYWJsZWQiLCBjaGVja2VkKX0KICAgICAgICAgICAgICAgICAgZGlzYWJsZWQ9e2lzU2F2aW5nIHx8ICFwdXNoUHJlZmVyZW5jZXMucHVzaEVuYWJsZWR9CiAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICB7cHVzaFByZWZlcmVuY2VzLnF1aWV0SG91cnNFbmFibGVkICYmICgKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJncmlkIGdyaWQtY29scy0yIGdhcC00Ij4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMiI+CiAgICAgICAgICAgICAgICAgICAgPExhYmVsIGh0bWxGb3I9InF1aWV0LXN0YXJ0Ij5TdGFydCBUaW1lPC9MYWJlbD4KICAgICAgICAgICAgICAgICAgICA8SW5wdXQKICAgICAgICAgICAgICAgICAgICAgIGlkPSJxdWlldC1zdGFydCIKICAgICAgICAgICAgICAgICAgICAgIHR5cGU9InRpbWUiCiAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT17cXVpZXRTdGFydH0KICAgICAgICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXsoZSkgPT4gc2V0UXVpZXRTdGFydChlLnRhcmdldC52YWx1ZSl9CiAgICAgICAgICAgICAgICAgICAgICBkaXNhYmxlZD17aXNTYXZpbmd9CiAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTIiPgogICAgICAgICAgICAgICAgICAgIDxMYWJlbCBodG1sRm9yPSJxdWlldC1lbmQiPkVuZCBUaW1lPC9MYWJlbD4KICAgICAgICAgICAgICAgICAgICA8SW5wdXQKICAgICAgICAgICAgICAgICAgICAgIGlkPSJxdWlldC1lbmQiCiAgICAgICAgICAgICAgICAgICAgICB0eXBlPSJ0aW1lIgogICAgICAgICAgICAgICAgICAgICAgdmFsdWU9e3F1aWV0RW5kfQogICAgICAgICAgICAgICAgICAgICAgb25DaGFuZ2U9eyhlKSA9PiBzZXRRdWlldEVuZChlLnRhcmdldC52YWx1ZSl9CiAgICAgICAgICAgICAgICAgICAgICBkaXNhYmxlZD17aXNTYXZpbmd9CiAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb2wtc3Bhbi0yIj4KICAgICAgICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXtoYW5kbGVRdWlldEhvdXJzVXBkYXRlfQogICAgICAgICAgICAgICAgICAgICAgZGlzYWJsZWQ9e2lzU2F2aW5nfQogICAgICAgICAgICAgICAgICAgICAgdmFyaWFudD0ib3V0bGluZSIKICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0idy1mdWxsIgogICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgIHtpc1NhdmluZyA/ICJVcGRhdGluZy4uLiIgOiAiVXBkYXRlIFF1aWV0IEhvdXJzIn0KICAgICAgICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICApfQogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgIDxTZXBhcmF0b3IgLz4KCiAgICAgICAgICAgIHsvKiBCYXRjaCBOb3RpZmljYXRpb25zICovfQogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS00Ij4KICAgICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtbWVkaXVtIj5Ob3RpZmljYXRpb24gR3JvdXBpbmc8L2gzPgogICAgICAgICAgICAgIAogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4iPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMC41Ij4KICAgICAgICAgICAgICAgICAgPExhYmVsPkJhdGNoIFNpbWlsYXIgTm90aWZpY2F0aW9uczwvTGFiZWw+CiAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgICAgICAgICAgIEdyb3VwIG11bHRpcGxlIGxpa2VzL3ZpZXdzIGludG8gb25lIG5vdGlmaWNhdGlvbgogICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxTd2l0Y2gKICAgICAgICAgICAgICAgICAgY2hlY2tlZD17cHVzaFByZWZlcmVuY2VzLmJhdGNoTm90aWZpY2F0aW9uc30KICAgICAgICAgICAgICAgICAgb25DaGVja2VkQ2hhbmdlPXsoY2hlY2tlZCkgPT4gaGFuZGxlUHVzaFRvZ2dsZSgiYmF0Y2hOb3RpZmljYXRpb25zIiwgY2hlY2tlZCl9CiAgICAgICAgICAgICAgICAgIGRpc2FibGVkPXtpc1NhdmluZyB8fCAhcHVzaFByZWZlcmVuY2VzLnB1c2hFbmFibGVkfQogICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8U2VwYXJhdG9yIC8+CgogICAgICAgICAgICB7LyogVGVzdCBOb3RpZmljYXRpb24gKi99CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTQiPgogICAgICAgICAgICAgIDxoMyBjbGFzc05hbWU9InRleHQtc20gZm9udC1tZWRpdW0iPlRlc3QgTm90aWZpY2F0aW9uczwvaDM+CiAgICAgICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICAgICAgb25DbGljaz17dGVzdE5vdGlmaWNhdGlvbn0KICAgICAgICAgICAgICAgIHZhcmlhbnQ9Im91dGxpbmUiCiAgICAgICAgICAgICAgICBjbGFzc05hbWU9InctZnVsbCIKICAgICAgICAgICAgICAgIGRpc2FibGVkPXshcHVzaFByZWZlcmVuY2VzLnB1c2hFbmFibGVkfQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxCZWxsIGNsYXNzTmFtZT0ibXItMiBoLTQgdy00IiAvPgogICAgICAgICAgICAgICAgU2VuZCBUZXN0IE5vdGlmaWNhdGlvbgogICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvQ2FyZENvbnRlbnQ+CiAgICAgICAgPC9DYXJkPgogICAgICApfQogICAgPC9kaXY+CiAgKTsKfQo="}
+import { useState } from "react";
+import { useQuery, useMutation } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import { Switch } from "@/components/ui/switch";
+import { Label } from "@/components/ui/label";
+import { Button } from "@/components/ui/button";
+import { Separator } from "@/components/ui/separator";
+import { Bell, Volume2, Vibrate, Moon, Mail, Smartphone, Heart, MessageCircle, Phone, Star } from "lucide-react";
+import { useToast } from "@/hooks/use-toast";
+import { PushPermissionInline } from "./PushPermissionPrompt";
+import { usePushNotifications } from "@/hooks/usePushNotifications";
+import { Input } from "@/components/ui/input";
+
+export default function NotificationSettings({ userId }: { userId: string }) {
+  const { toast } = useToast();
+  const preferences = useQuery(api.notificationPreferences.getPreferences, {
+    userId: userId as any,
+  });
+  
+  // Phase 3: Push notification preferences
+  const pushPreferences = useQuery(api.pushNotifications.getPreferences);
+  const updatePushPreferences = useMutation(api.pushNotifications.updatePreferences);
+  const { testNotification } = usePushNotifications();
+  
+  const updatePreferences = useMutation(api.notificationPreferences.updatePreferences);
+  
+  const [isSaving, setIsSaving] = useState(false);
+  const [quietStart, setQuietStart] = useState("22:00");
+  const [quietEnd, setQuietEnd] = useState("08:00");
+
+  const handleToggle = async (field: string, value: boolean) => {
+    setIsSaving(true);
+    try {
+      await updatePreferences({
+        userId: userId as any,
+        updates: { [field]: value },
+      });
+      
+      toast({
+        title: "Preferences updated",
+        description: "Your notification settings have been saved.",
+      });
+    } catch (error) {
+      toast({
+        title: "Error",
+        description: "Failed to update preferences. Please try again.",
+        variant: "destructive",
+      });
+    } finally {
+      setIsSaving(false);
+    }
+  };
+
+  const handlePushToggle = async (field: string, value: boolean) => {
+    setIsSaving(true);
+    try {
+      await updatePushPreferences({
+        [field]: value,
+      });
+      
+      toast({
+        title: "Preferences updated",
+        description: "Your push notification settings have been saved.",
+      });
+    } catch (error) {
+      toast({
+        title: "Error",
+        description: "Failed to update preferences. Please try again.",
+        variant: "destructive",
+      });
+    } finally {
+      setIsSaving(false);
+    }
+  };
+
+  const handleQuietHoursUpdate = async () => {
+    setIsSaving(true);
+    try {
+      await updatePushPreferences({
+        quietHoursStart: quietStart,
+        quietHoursEnd: quietEnd,
+      });
+      
+      toast({
+        title: "Quiet hours updated",
+        description: `Notifications paused from ${quietStart} to ${quietEnd}`,
+      });
+    } catch (error) {
+      toast({
+        title: "Error",
+        description: "Failed to update quiet hours. Please try again.",
+        variant: "destructive",
+      });
+    } finally {
+      setIsSaving(false);
+    }
+  };
+
+  if (!preferences) {
+    return 
+              <Switch
+                checked={preferences.messageEnabled}
+                onCheckedChange={(checked) => handleToggle("messageEnabled", checked)}
+                disabled={isSaving || !preferences.enabled}
+              />
+            </div>
+
+            
+                <Switch
+                  checked={pushPreferences.quietHoursEnabled}
+                  onCheckedChange={(checked) => handlePushToggle("quietHoursEnabled", checked)}
+                  disabled={isSaving || !pushPreferences.pushEnabled}
+                />
+              </div>
+
+              {pushPreferences.quietHoursEnabled && (
+                <div className="grid grid-cols-2 gap-4">
+                  <div className="space-y-2">
+                    <Label htmlFor="quiet-start">Start Time</Label>
+                    <Input
+                      id="quiet-start"
+                      type="time"
+                      value={quietStart}
+                      onChange={(e) => setQuietStart(e.target.value)}
+                      disabled={isSaving}
+                    />
+                  </div>
+                  <div className="space-y-2">
+                    <Label htmlFor="quiet-end">End Time</Label>
+                    <Input
+                      id="quiet-end"
+                      type="time"
+                      value={quietEnd}
+                      onChange={(e) => setQuietEnd(e.target.value)}
+                      disabled={isSaving}
+                    />
+                  </div>
+                  <div className="col-span-2">
+                    <Button
+                      onClick={handleQuietHoursUpdate}
+                      disabled={isSaving}
+                      variant="outline"
+                      className="w-full"
+                    >
+                      {isSaving ? "Updating..." : "Update Quiet Hours"}
+                    </Button>
+                  </div>
+                </div>
+              )}
+            </div>
+
+            <Separator />
+
+            {/* Batch Notifications */}
+            <div className="space-y-4">
+              <h3 className="text-sm font-medium">Notification Grouping</h3>
+              
+              <div className="flex items-center justify-between">
+                <div className="space-y-0.5">
+                  <Label>Batch Similar Notifications</Label>
+                  <p className="text-xs text-muted-foreground">
+                    Group multiple likes/views into one notification
+                  </p>
+                </div>
+                <Switch
+                  checked={pushPreferences.batchNotifications}
+                  onCheckedChange={(checked) => handlePushToggle("batchNotifications", checked)}
+                  disabled={isSaving || !pushPreferences.pushEnabled}
+                />
+              </div>
+            </div>
+
+            <Separator />
+
+            {/* Test Notification */}
+            <div className="space-y-4">
+              <h3 className="text-sm font-medium">Test Notifications</h3>
+              <Button
+                onClick={testNotification}
+                variant="outline"
+                className="w-full"
+                disabled={!pushPreferences.pushEnabled}
+              >
+                <Bell className="mr-2 h-4 w-4" />
+                Send Test Notification
+              </Button>
+            </div>
+          </CardContent>
+        </Card>
+      )}
+    </div>
+  );
+}

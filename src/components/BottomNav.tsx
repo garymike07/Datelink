@@ -1,1 +1,65 @@
-{"data":"aW1wb3J0IHsgdXNlTG9jYXRpb24gfSBmcm9tICJyZWFjdC1yb3V0ZXItZG9tIjsKaW1wb3J0IHsgSG9tZSwgSGVhcnQsIE1lc3NhZ2VDaXJjbGUsIFVzZXIsIFNwYXJrbGVzIH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKaW1wb3J0IHsgTGluayB9IGZyb20gInJlYWN0LXJvdXRlci1kb20iOwppbXBvcnQgeyBjbiB9IGZyb20gIkAvbGliL3V0aWxzIjsKaW1wb3J0IHsgbW90aW9uIH0gZnJvbSAiZnJhbWVyLW1vdGlvbiI7Cgpjb25zdCBCb3R0b21OYXYgPSAoKSA9PiB7CiAgICBjb25zdCBsb2NhdGlvbiA9IHVzZUxvY2F0aW9uKCk7CgogICAgY29uc3QgbmF2SXRlbXMgPSBbCiAgICAgICAgeyBwYXRoOiAiL2Rpc2NvdmVyIiwgaWNvbjogSG9tZSwgbGFiZWw6ICJEaXNjb3ZlciIsIGNvbG9yOiAidGV4dC1ibHVlLTUwMCIsIGFjdGl2ZUNvbG9yOiAidGV4dC1ibHVlLTYwMCIsIGJnQ29sb3I6ICJiZy1ibHVlLTUwMC8xMCIgfSwKICAgICAgICB7IHBhdGg6ICIvbGlrZXMiLCBpY29uOiBTcGFya2xlcywgbGFiZWw6ICJMaWtlcyIsIGNvbG9yOiAidGV4dC15ZWxsb3ctNTAwIiwgYWN0aXZlQ29sb3I6ICJ0ZXh0LXllbGxvdy02MDAiLCBiZ0NvbG9yOiAiYmcteWVsbG93LTUwMC8xMCIgfSwKICAgICAgICB7IHBhdGg6ICIvbWF0Y2hlcyIsIGljb246IEhlYXJ0LCBsYWJlbDogIk1hdGNoZXMiLCBjb2xvcjogInRleHQtcm9zZS01MDAiLCBhY3RpdmVDb2xvcjogInRleHQtcm9zZS02MDAiLCBiZ0NvbG9yOiAiYmctcm9zZS01MDAvMTAiIH0sCiAgICAgICAgeyBwYXRoOiAiL21lc3NhZ2VzIiwgaWNvbjogTWVzc2FnZUNpcmNsZSwgbGFiZWw6ICJNZXNzYWdlcyIsIGNvbG9yOiAidGV4dC1lbWVyYWxkLTUwMCIsIGFjdGl2ZUNvbG9yOiAidGV4dC1lbWVyYWxkLTYwMCIsIGJnQ29sb3I6ICJiZy1lbWVyYWxkLTUwMC8xMCIgfSwKICAgICAgICB7IHBhdGg6ICIvZGFzaGJvYXJkIiwgaWNvbjogVXNlciwgbGFiZWw6ICJQcm9maWxlIiwgY29sb3I6ICJ0ZXh0LXB1cnBsZS01MDAiLCBhY3RpdmVDb2xvcjogInRleHQtcHVycGxlLTYwMCIsIGJnQ29sb3I6ICJiZy1wdXJwbGUtNTAwLzEwIiB9LAogICAgXTsKCiAgICByZXR1cm4gKAogICAgICAgIDxuYXYgY2xhc3NOYW1lPSJmaXhlZCBib3R0b20tMyBsZWZ0LTMgcmlnaHQtMyB6LTUwIG1kOmhpZGRlbiI+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJnbGFzcy1jYXJkIHJvdW5kZWQtMnhsIHNoYWRvdy14bCBzaGFkb3ctYmxhY2svMTAgYm9yZGVyLXdoaXRlLzIwIGRhcms6Ym9yZGVyLXdoaXRlLzUgYmctd2hpdGUvODAgZGFyazpiZy1ibGFjay84MCBiYWNrZHJvcC1ibHVyLXhsIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGp1c3RpZnktYXJvdW5kIGl0ZW1zLWNlbnRlciBoLTE0IHB4LTEiPgogICAgICAgICAgICAgICAgICAgIHtuYXZJdGVtcy5tYXAoKGl0ZW0pID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgSWNvbiA9IGl0ZW0uaWNvbjsKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgaXNBY3RpdmUgPSBsb2NhdGlvbi5wYXRobmFtZSA9PT0gaXRlbS5wYXRoOwoKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxMaW5rCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAga2V5PXtpdGVtLnBhdGh9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdG89e2l0ZW0ucGF0aH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2NuKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAicmVsYXRpdmUgZmxleCBmbGV4LWNvbCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgZ2FwLTAuNSBwLTEuNSByb3VuZGVkLXhsIHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTMwMCB3LWZ1bGwgYWN0aXZlOnNjYWxlLTk1IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXNBY3RpdmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID8gaXRlbS5hY3RpdmVDb2xvcgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOiBgJHtpdGVtLmNvbG9yfSBob3ZlcjpvcGFjaXR5LTgwYAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge2lzQWN0aXZlICYmICgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPG1vdGlvbi5kaXYKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxheW91dElkPSJuYXYtcGlsbCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17Y24oImFic29sdXRlIGluc2V0LTAgcm91bmRlZC14bCAtei0xMCIsIGl0ZW0uYmdDb2xvcil9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmFuc2l0aW9uPXt7IHR5cGU6ICJzcHJpbmciLCBzdGlmZm5lc3M6IDMwMCwgZGFtcGluZzogMzAgfX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyZWxhdGl2ZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxJY29uIGNsYXNzTmFtZT17Y24oInctNSBoLTUgdHJhbnNpdGlvbi1hbGwgZHVyYXRpb24tMzAwIiwgaXNBY3RpdmUgJiYgImZpbGwtY3VycmVudCBhbmltYXRlLXB1bHNlLXNvZnQgc2NhbGUtMTEwIil9IC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtpdGVtLmxhYmVsID09PSAiTWVzc2FnZXMiICYmICgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iYWJzb2x1dGUgLXRvcC0wLjUgLXJpZ2h0LTAuNSB3LTIgaC0yIGJnLWVtZXJhbGQtNTAwIHJvdW5kZWQtZnVsbCBib3JkZXIgYm9yZGVyLXdoaXRlIGRhcms6Ym9yZGVyLWJsYWNrIiAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17Y24oCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ0ZXh0LVs5cHhdIGZvbnQtYm9sZCB0cmFuc2l0aW9uLWFsbCBkdXJhdGlvbi0zMDAiLCAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXNBY3RpdmUgPyAib3BhY2l0eS0xMDAgdHJhbnNsYXRlLXktMCIgOiAib3BhY2l0eS0wIC10cmFuc2xhdGUteS0yIGhpZGRlbiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApfT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge2l0ZW0ubGFiZWx9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgICAgIH0pfQogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvbmF2PgogICAgKTsKfTsKCmV4cG9ydCBkZWZhdWx0IEJvdHRvbU5hdjsK"}
+import { useLocation } from "react-router-dom";
+import { Home, Heart, MessageCircle, User, Sparkles } from "lucide-react";
+import { Link } from "react-router-dom";
+import { cn } from "@/lib/utils";
+import { motion } from "framer-motion";
+
+const BottomNav = () => {
+    const location = useLocation();
+
+    const navItems = [
+        { path: "/discover", icon: Home, label: "Discover", color: "text-blue-500", activeColor: "text-blue-600", bgColor: "bg-blue-500/10" },
+        { path: "/likes", icon: Sparkles, label: "Likes", color: "text-yellow-500", activeColor: "text-yellow-600", bgColor: "bg-yellow-500/10" },
+        { path: "/matches", icon: Heart, label: "Matches", color: "text-rose-500", activeColor: "text-rose-600", bgColor: "bg-rose-500/10" },
+        { path: "/messages", icon: MessageCircle, label: "Messages", color: "text-emerald-500", activeColor: "text-emerald-600", bgColor: "bg-emerald-500/10" },
+        { path: "/dashboard", icon: User, label: "Profile", color: "text-purple-500", activeColor: "text-purple-600", bgColor: "bg-purple-500/10" },
+    ];
+
+    return (
+        <nav className="fixed bottom-3 left-3 right-3 z-50 md:hidden">
+            <div className="glass-card rounded-2xl shadow-xl shadow-black/10 border-white/20 dark:border-white/5 bg-white/80 dark:bg-black/80 backdrop-blur-xl">
+                <div className="flex justify-around items-center h-14 px-1">
+                    {navItems.map((item) => {
+                        const Icon = item.icon;
+                        const isActive = location.pathname === item.path;
+
+                        return (
+                            <Link
+                                key={item.path}
+                                to={item.path}
+                                className={cn(
+                                    "relative flex flex-col items-center justify-center gap-0.5 p-1.5 rounded-xl transition-all duration-300 w-full active:scale-95",
+                                    isActive
+                                        ? item.activeColor
+                                        : `${item.color} hover:opacity-80`
+                                )}
+                            >
+                                {isActive && (
+                                    <motion.div
+                                        layoutId="nav-pill"
+                                        className={cn("absolute inset-0 rounded-xl -z-10", item.bgColor)}
+                                        transition={{ type: "spring", stiffness: 300, damping: 30 }}
+                                    />
+                                )}
+                                <div className="relative">
+                                    <Icon className={cn("w-5 h-5 transition-all duration-300", isActive && "fill-current animate-pulse-soft scale-110")} />
+                                    {item.label === "Messages" && (
+                                        <span className="absolute -top-0.5 -right-0.5 w-2 h-2 bg-emerald-500 rounded-full border border-white dark:border-black" />
+                                    )}
+                                </div>
+                                <span className={cn(
+                                    "text-[9px] font-bold transition-all duration-300", 
+                                    isActive ? "opacity-100 translate-y-0" : "opacity-0 -translate-y-2 hidden"
+                                )}>
+                                    {item.label}
+                                </span>
+                            </Link>
+                        );
+                    })}
+                </div>
+            </div>
+        </nav>
+    );
+};
+
+export default BottomNav;

@@ -179,3 +179,33 @@ export const cancelSubscription = mutation({
     return { status: "canceled", endsAt: endsAt };
   },
 });
+
+/**
+ * Get daily usage stats for the current user (messages sent, profile views today)
+ * Used by the frontend to show remaining quota to restricted users.
+ */
+export const getDailyUsageStats = query({
+  args: { userId: v.id("users") },
+  handler: async (ctx, args) => {
+    const now = Date.now();
+    const d = new Date(now);
+    const dayKey = `${d.getUTCFullYear()}-${String(d.getUTCMonth() + 1).padStart(2, "0")}-${String(d.getUTCDate()).padStart(2, "0")}`;
+    const usage = await ctx.db
+      .query("dailyUsage")
+      .withIndex("userDay", (q) => q.eq("userId", args.userId).eq("dayKey", dayKey))
+      .first();
+    const DAILY_MESSAGE_LIMIT = 20;
+    const DAILY_PROFILE_VIEW_LIMIT = 10;
+    const messagesSent = usage?.messages ?? 0;
+    const profileViewsToday = usage?.profileViews ?? 0;
+    return {
+      dayKey,
+      messagesSent,
+      messagesRemaining: Math.max(0, DAILY_MESSAGE_LIMIT - messagesSent),
+      dailyMessageLimit: DAILY_MESSAGE_LIMIT,
+      profileViewsToday,
+      profileViewsRemaining: Math.max(0, DAILY_PROFILE_VIEW_LIMIT - profileViewsToday),
+      dailyProfileViewLimit: DAILY_PROFILE_VIEW_LIMIT,
+    };
+  },
+});

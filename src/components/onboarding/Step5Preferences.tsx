@@ -1,1 +1,137 @@
-{"data":"aW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2J1dHRvbiI7CmltcG9ydCB7IENhcmQsIENhcmRDb250ZW50LCBDYXJkRGVzY3JpcHRpb24sIENhcmRIZWFkZXIsIENhcmRUaXRsZSB9IGZyb20gIkAvY29tcG9uZW50cy91aS9jYXJkIjsKaW1wb3J0IHsgTGFiZWwgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvbGFiZWwiOwppbXBvcnQgeyBJbnB1dCB9IGZyb20gIkAvY29tcG9uZW50cy91aS9pbnB1dCI7CmltcG9ydCB7IENoZWNrYm94IH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2NoZWNrYm94IjsKaW1wb3J0IHsgU2xpZGVycyB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CgppbnRlcmZhY2UgU3RlcDVQcm9wcyB7CiAgZm9ybURhdGE6IHsKICAgIG1pbkFnZTogc3RyaW5nOwogICAgbWF4QWdlOiBzdHJpbmc7CiAgICBtYXhEaXN0YW5jZTogc3RyaW5nOwogICAgZ2VuZGVyUHJlZmVyZW5jZTogc3RyaW5nW107CiAgfTsKICBvbkNoYW5nZTogKGZpZWxkOiBzdHJpbmcsIHZhbHVlOiBzdHJpbmcgfCBzdHJpbmdbXSkgPT4gdm9pZDsKICBvbkNvbXBsZXRlOiAoKSA9PiB2b2lkOwogIG9uQmFjazogKCkgPT4gdm9pZDsKICBvblNhdmVBbmRFeGl0OiAoKSA9PiB2b2lkOwp9CgpleHBvcnQgY29uc3QgU3RlcDVQcmVmZXJlbmNlcyA9ICh7IGZvcm1EYXRhLCBvbkNoYW5nZSwgb25Db21wbGV0ZSwgb25CYWNrLCBvblNhdmVBbmRFeGl0IH06IFN0ZXA1UHJvcHMpID0+IHsKICBjb25zdCBjYW5Qcm9jZWVkID0KICAgIGZvcm1EYXRhLm1pbkFnZSAmJgogICAgZm9ybURhdGEubWF4QWdlICYmCiAgICBmb3JtRGF0YS5tYXhEaXN0YW5jZSAmJgogICAgZm9ybURhdGEuZ2VuZGVyUHJlZmVyZW5jZS5sZW5ndGggPiAwOwoKICBjb25zdCB0b2dnbGVHZW5kZXJQcmVmZXJlbmNlID0gKGdlbmRlcjogc3RyaW5nKSA9PiB7CiAgICBjb25zdCBjdXJyZW50ID0gZm9ybURhdGEuZ2VuZGVyUHJlZmVyZW5jZTsKICAgIGlmIChjdXJyZW50LmluY2x1ZGVzKGdlbmRlcikpIHsKICAgICAgb25DaGFuZ2UoImdlbmRlclByZWZlcmVuY2UiLCBjdXJyZW50LmZpbHRlcigoZykgPT4gZyAhPT0gZ2VuZGVyKSk7CiAgICB9IGVsc2UgewogICAgICBvbkNoYW5nZSgiZ2VuZGVyUHJlZmVyZW5jZSIsIFsuLi5jdXJyZW50LCBnZW5kZXJdKTsKICAgIH0KICB9OwoKICByZXR1cm4gKAogICAgPENhcmQgY2xhc3NOYW1lPSJtYXgtdy0yeGwgbXgtYXV0byI+CiAgICAgIDxDYXJkSGVhZGVyPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBzcGFjZS14LTIgbWItMiI+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idy0xMCBoLTEwIGJnLWluZGlnby0xMDAgZGFyazpiZy1pbmRpZ28tOTAwLzMwIHJvdW5kZWQtZnVsbCBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciI+CiAgICAgICAgICAgIDxTbGlkZXJzIGNsYXNzTmFtZT0idy01IGgtNSB0ZXh0LWluZGlnby02MDAgZGFyazp0ZXh0LWluZGlnby00MDAiIC8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxDYXJkVGl0bGU+TWF0Y2hpbmcgUHJlZmVyZW5jZXM8L0NhcmRUaXRsZT4KICAgICAgICA8L2Rpdj4KICAgICAgICA8Q2FyZERlc2NyaXB0aW9uPlNldCB5b3VyIHByZWZlcmVuY2VzIGZvciBkaXNjb3ZlcmluZyBtYXRjaGVzPC9DYXJkRGVzY3JpcHRpb24+CiAgICAgIDwvQ2FyZEhlYWRlcj4KICAgICAgPENhcmRDb250ZW50IGNsYXNzTmFtZT0ic3BhY2UteS02Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0yIj4KICAgICAgICAgIDxMYWJlbD5HZW5kZXIgUHJlZmVyZW5jZSAqPC9MYWJlbD4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTIiPgogICAgICAgICAgICB7WyJ3b21hbiIsICJtYW4iLCAibm9uLWJpbmFyeSJdLm1hcCgoZ2VuZGVyKSA9PiAoCiAgICAgICAgICAgICAgPGRpdiBrZXk9e2dlbmRlcn0gY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBzcGFjZS14LTIiPgogICAgICAgICAgICAgICAgPENoZWNrYm94CiAgICAgICAgICAgICAgICAgIGlkPXtnZW5kZXJ9CiAgICAgICAgICAgICAgICAgIGNoZWNrZWQ9e2Zvcm1EYXRhLmdlbmRlclByZWZlcmVuY2UuaW5jbHVkZXMoZ2VuZGVyKX0KICAgICAgICAgICAgICAgICAgb25DaGVja2VkQ2hhbmdlPXsoKSA9PiB0b2dnbGVHZW5kZXJQcmVmZXJlbmNlKGdlbmRlcil9CiAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgPExhYmVsIGh0bWxGb3I9e2dlbmRlcn0gY2xhc3NOYW1lPSJjdXJzb3ItcG9pbnRlciBjYXBpdGFsaXplIGZvbnQtbm9ybWFsIj4KICAgICAgICAgICAgICAgICAge2dlbmRlciA9PT0gIm5vbi1iaW5hcnkiID8gIk5vbi1iaW5hcnkiIDogZ2VuZGVyfQogICAgICAgICAgICAgICAgPC9MYWJlbD4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgKSl9CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTIgZ2FwLTQiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMiI+CiAgICAgICAgICAgIDxMYWJlbCBodG1sRm9yPSJtaW5BZ2UiPk1pbiBBZ2UgKjwvTGFiZWw+CiAgICAgICAgICAgIDxJbnB1dAogICAgICAgICAgICAgIGlkPSJtaW5BZ2UiCiAgICAgICAgICAgICAgdHlwZT0ibnVtYmVyIgogICAgICAgICAgICAgIG1pbj0iMTgiCiAgICAgICAgICAgICAgbWF4PSIxMDAiCiAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IjE4IgogICAgICAgICAgICAgIHZhbHVlPXtmb3JtRGF0YS5taW5BZ2V9CiAgICAgICAgICAgICAgb25DaGFuZ2U9eyhlKSA9PiBvbkNoYW5nZSgibWluQWdlIiwgZS50YXJnZXQudmFsdWUpfQogICAgICAgICAgICAvPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0yIj4KICAgICAgICAgICAgPExhYmVsIGh0bWxGb3I9Im1heEFnZSI+TWF4IEFnZSAqPC9MYWJlbD4KICAgICAgICAgICAgPElucHV0CiAgICAgICAgICAgICAgaWQ9Im1heEFnZSIKICAgICAgICAgICAgICB0eXBlPSJudW1iZXIiCiAgICAgICAgICAgICAgbWluPSIxOCIKICAgICAgICAgICAgICBtYXg9IjEwMCIKICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iMzUiCiAgICAgICAgICAgICAgdmFsdWU9e2Zvcm1EYXRhLm1heEFnZX0KICAgICAgICAgICAgICBvbkNoYW5nZT17KGUpID0+IG9uQ2hhbmdlKCJtYXhBZ2UiLCBlLnRhcmdldC52YWx1ZSl9CiAgICAgICAgICAgIC8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMiI+CiAgICAgICAgICA8TGFiZWwgaHRtbEZvcj0ibWF4RGlzdGFuY2UiPk1heGltdW0gRGlzdGFuY2UgKGttKSAqPC9MYWJlbD4KICAgICAgICAgIDxJbnB1dAogICAgICAgICAgICBpZD0ibWF4RGlzdGFuY2UiCiAgICAgICAgICAgIHR5cGU9Im51bWJlciIKICAgICAgICAgICAgbWluPSIxIgogICAgICAgICAgICBtYXg9IjUwMCIKICAgICAgICAgICAgcGxhY2Vob2xkZXI9IjUwIgogICAgICAgICAgICB2YWx1ZT17Zm9ybURhdGEubWF4RGlzdGFuY2V9CiAgICAgICAgICAgIG9uQ2hhbmdlPXsoZSkgPT4gb25DaGFuZ2UoIm1heERpc3RhbmNlIiwgZS50YXJnZXQudmFsdWUpfQogICAgICAgICAgLz4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgICBTaG93IG1lIHBlb3BsZSB3aXRoaW4ge2Zvcm1EYXRhLm1heERpc3RhbmNlIHx8ICI1MCJ9IGttCiAgICAgICAgICA8L3A+CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJiZy1ncmVlbi01MCBkYXJrOmJnLWdyZWVuLTkwMC8yMCBib3JkZXIgYm9yZGVyLWdyZWVuLTIwMCBkYXJrOmJvcmRlci1ncmVlbi04MDAgcm91bmRlZC1sZyBwLTQiPgogICAgICAgICAgPGg0IGNsYXNzTmFtZT0iZm9udC1tZWRpdW0gdGV4dC1zbSBtYi0yIj7wn46JIEFsbW9zdCBEb25lITwvaDQ+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgWW91IGNhbiBhbHdheXMgdXBkYXRlIHRoZXNlIHByZWZlcmVuY2VzIGxhdGVyIGluIHlvdXIgc2V0dGluZ3MKICAgICAgICAgIDwvcD4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZ2FwLTMgcHQtNCI+CiAgICAgICAgICA8QnV0dG9uIHZhcmlhbnQ9Im91dGxpbmUiIG9uQ2xpY2s9e29uQmFja30+CiAgICAgICAgICAgIEJhY2sKICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgPEJ1dHRvbiB2YXJpYW50PSJvdXRsaW5lIiBvbkNsaWNrPXtvblNhdmVBbmRFeGl0fSBjbGFzc05hbWU9ImZsZXgtMSI+CiAgICAgICAgICAgIFNhdmUgJiBFeGl0CiAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgIDxCdXR0b24gb25DbGljaz17b25Db21wbGV0ZX0gZGlzYWJsZWQ9eyFjYW5Qcm9jZWVkfSBjbGFzc05hbWU9ImZsZXgtMSI+CiAgICAgICAgICAgIENvbXBsZXRlIFNldHVwCiAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgeyFjYW5Qcm9jZWVkICYmICgKICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LWNlbnRlciB0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgICBQbGVhc2UgZmlsbCBpbiBhbGwgcmVxdWlyZWQgZmllbGRzIHRvIGNvbXBsZXRlCiAgICAgICAgICA8L3A+CiAgICAgICAgKX0KICAgICAgPC9DYXJkQ29udGVudD4KICAgIDwvQ2FyZD4KICApOwp9Owo="}
+import { Button } from "@/components/ui/button";
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import { Label } from "@/components/ui/label";
+import { Input } from "@/components/ui/input";
+import { Checkbox } from "@/components/ui/checkbox";
+import { Sliders } from "lucide-react";
+
+interface Step5Props {
+  formData: {
+    minAge: string;
+    maxAge: string;
+    maxDistance: string;
+    genderPreference: string[];
+  };
+  onChange: (field: string, value: string | string[]) => void;
+  onComplete: () => void;
+  onBack: () => void;
+  onSaveAndExit: () => void;
+}
+
+export const Step5Preferences = ({ formData, onChange, onComplete, onBack, onSaveAndExit }: Step5Props) => {
+  const canProceed =
+    formData.minAge &&
+    formData.maxAge &&
+    formData.maxDistance &&
+    formData.genderPreference.length > 0;
+
+  const toggleGenderPreference = (gender: string) => {
+    const current = formData.genderPreference;
+    if (current.includes(gender)) {
+      onChange("genderPreference", current.filter((g) => g !== gender));
+    } else {
+      onChange("genderPreference", [...current, gender]);
+    }
+  };
+
+  return (
+    <Card className="max-w-2xl mx-auto">
+      <CardHeader>
+        <div className="flex items-center space-x-2 mb-2">
+          <div className="w-10 h-10 bg-indigo-100 dark:bg-indigo-900/30 rounded-full flex items-center justify-center">
+            <Sliders className="w-5 h-5 text-indigo-600 dark:text-indigo-400" />
+          </div>
+          <CardTitle>Matching Preferences</CardTitle>
+        </div>
+        <CardDescription>Set your preferences for discovering matches</CardDescription>
+      </CardHeader>
+      <CardContent className="space-y-6">
+        <div className="space-y-2">
+          <Label>Gender Preference *</Label>
+          <div className="space-y-2">
+            {["woman", "man", "non-binary"].map((gender) => (
+              <div key={gender} className="flex items-center space-x-2">
+                <Checkbox
+                  id={gender}
+                  checked={formData.genderPreference.includes(gender)}
+                  onCheckedChange={() => toggleGenderPreference(gender)}
+                />
+                <Label htmlFor={gender} className="cursor-pointer capitalize font-normal">
+                  {gender === "non-binary" ? "Non-binary" : gender}
+                </Label>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        <div className="grid grid-cols-2 gap-4">
+          <div className="space-y-2">
+            <Label htmlFor="minAge">Min Age *</Label>
+            <Input
+              id="minAge"
+              type="number"
+              min="18"
+              max="100"
+              placeholder="18"
+              value={formData.minAge}
+              onChange={(e) => onChange("minAge", e.target.value)}
+            />
+          </div>
+          <div className="space-y-2">
+            <Label htmlFor="maxAge">Max Age *</Label>
+            <Input
+              id="maxAge"
+              type="number"
+              min="18"
+              max="100"
+              placeholder="35"
+              value={formData.maxAge}
+              onChange={(e) => onChange("maxAge", e.target.value)}
+            />
+          </div>
+        </div>
+
+        <div className="space-y-2">
+          <Label htmlFor="maxDistance">Maximum Distance (km) *</Label>
+          <Input
+            id="maxDistance"
+            type="number"
+            min="1"
+            max="500"
+            placeholder="50"
+            value={formData.maxDistance}
+            onChange={(e) => onChange("maxDistance", e.target.value)}
+          />
+          <p className="text-xs text-muted-foreground">
+            Show me people within {formData.maxDistance || "50"} km
+          </p>
+        </div>
+
+        <div className="bg-green-50 dark:bg-green-900/20 border border-green-200 dark:border-green-800 rounded-lg p-4">
+          <h4 className="font-medium text-sm mb-2">🎉 Almost Done!</h4>
+          <p className="text-sm text-muted-foreground">
+            You can always update these preferences later in your settings
+          </p>
+        </div>
+
+        <div className="flex gap-3 pt-4">
+          <Button variant="outline" onClick={onBack}>
+            Back
+          </Button>
+          <Button variant="outline" onClick={onSaveAndExit} className="flex-1">
+            Save & Exit
+          </Button>
+          <Button onClick={onComplete} disabled={!canProceed} className="flex-1">
+            Complete Setup
+          </Button>
+        </div>
+
+        {!canProceed && (
+          <p className="text-sm text-center text-muted-foreground">
+            Please fill in all required fields to complete
+          </p>
+        )}
+      </CardContent>
+    </Card>
+  );
+};

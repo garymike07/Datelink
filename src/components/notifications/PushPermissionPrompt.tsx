@@ -1,1 +1,232 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUsIHVzZUVmZmVjdCB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsgQmVsbCwgQmVsbE9mZiwgWCB9IGZyb20gJ2x1Y2lkZS1yZWFjdCc7CmltcG9ydCB7IEJ1dHRvbiB9IGZyb20gJ0AvY29tcG9uZW50cy91aS9idXR0b24nOwppbXBvcnQgeyBDYXJkLCBDYXJkQ29udGVudCwgQ2FyZERlc2NyaXB0aW9uLCBDYXJkSGVhZGVyLCBDYXJkVGl0bGUgfSBmcm9tICdAL2NvbXBvbmVudHMvdWkvY2FyZCc7CmltcG9ydCB7IHVzZVB1c2hOb3RpZmljYXRpb25zIH0gZnJvbSAnQC9ob29rcy91c2VQdXNoTm90aWZpY2F0aW9ucyc7CgppbnRlcmZhY2UgUHVzaFBlcm1pc3Npb25Qcm9tcHRQcm9wcyB7CiAgb25EaXNtaXNzPzogKCkgPT4gdm9pZDsKICBhdXRvU2hvdz86IGJvb2xlYW47CiAgc2hvd09ubHlJZk5vdEdyYW50ZWQ/OiBib29sZWFuOwp9CgpleHBvcnQgZnVuY3Rpb24gUHVzaFBlcm1pc3Npb25Qcm9tcHQoewogIG9uRGlzbWlzcywKICBhdXRvU2hvdyA9IHRydWUsCiAgc2hvd09ubHlJZk5vdEdyYW50ZWQgPSB0cnVlLAp9OiBQdXNoUGVybWlzc2lvblByb21wdFByb3BzKSB7CiAgY29uc3QgW2lzVmlzaWJsZSwgc2V0SXNWaXNpYmxlXSA9IHVzZVN0YXRlKGZhbHNlKTsKICBjb25zdCBbaXNEaXNtaXNzZWQsIHNldElzRGlzbWlzc2VkXSA9IHVzZVN0YXRlKGZhbHNlKTsKICBjb25zdCB7CiAgICBwZXJtaXNzaW9uLAogICAgaXNTdXBwb3J0ZWQsCiAgICBpc1N1YnNjcmliZWQsCiAgICBpc0xvYWRpbmcsCiAgICBzdWJzY3JpYmUsCiAgfSA9IHVzZVB1c2hOb3RpZmljYXRpb25zKCk7CgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICAvLyBDaGVjayBpZiB1c2VyIGhhcyBkaXNtaXNzZWQgdGhpcyBiZWZvcmUKICAgIGNvbnN0IGRpc21pc3NlZCA9IGxvY2FsU3RvcmFnZS5nZXRJdGVtKCdwdXNoLXByb21wdC1kaXNtaXNzZWQnKTsKICAgIGlmIChkaXNtaXNzZWQpIHsKICAgICAgc2V0SXNEaXNtaXNzZWQodHJ1ZSk7CiAgICAgIHJldHVybjsKICAgIH0KCiAgICAvLyBTaG93IHByb21wdCBpZiBjb25kaXRpb25zIGFyZSBtZXQKICAgIGlmIChhdXRvU2hvdyAmJiBpc1N1cHBvcnRlZCkgewogICAgICBpZiAoc2hvd09ubHlJZk5vdEdyYW50ZWQgJiYgcGVybWlzc2lvbiA9PT0gJ2dyYW50ZWQnICYmIGlzU3Vic2NyaWJlZCkgewogICAgICAgIHJldHVybjsKICAgICAgfQoKICAgICAgLy8gU2hvdyBhZnRlciBhIHNob3J0IGRlbGF5IHRvIG5vdCBiZSBpbnRydXNpdmUKICAgICAgY29uc3QgdGltZXIgPSBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgICBzZXRJc1Zpc2libGUodHJ1ZSk7CiAgICAgIH0sIDMwMDApOwoKICAgICAgcmV0dXJuICgpID0+IGNsZWFyVGltZW91dCh0aW1lcik7CiAgICB9CiAgfSwgW2F1dG9TaG93LCBpc1N1cHBvcnRlZCwgcGVybWlzc2lvbiwgaXNTdWJzY3JpYmVkLCBzaG93T25seUlmTm90R3JhbnRlZF0pOwoKICBjb25zdCBoYW5kbGVFbmFibGUgPSBhc3luYyAoKSA9PiB7CiAgICBjb25zdCBzdWNjZXNzID0gYXdhaXQgc3Vic2NyaWJlKCk7CiAgICBpZiAoc3VjY2VzcykgewogICAgICBzZXRJc1Zpc2libGUoZmFsc2UpOwogICAgICBvbkRpc21pc3M/LigpOwogICAgfQogIH07CgogIGNvbnN0IGhhbmRsZURpc21pc3MgPSAoKSA9PiB7CiAgICBzZXRJc1Zpc2libGUoZmFsc2UpOwogICAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oJ3B1c2gtcHJvbXB0LWRpc21pc3NlZCcsICd0cnVlJyk7CiAgICBzZXRJc0Rpc21pc3NlZCh0cnVlKTsKICAgIG9uRGlzbWlzcz8uKCk7CiAgfTsKCiAgY29uc3QgaGFuZGxlTGF0ZXIgPSAoKSA9PiB7CiAgICBzZXRJc1Zpc2libGUoZmFsc2UpOwogICAgb25EaXNtaXNzPy4oKTsKICB9OwoKICBpZiAoIWlzU3VwcG9ydGVkIHx8IGlzRGlzbWlzc2VkIHx8ICFpc1Zpc2libGUpIHsKICAgIHJldHVybiBudWxsOwogIH0KCiAgLy8gRG9uJ3Qgc2hvdyBpZiBhbHJlYWR5IGdyYW50ZWQgYW5kIHN1YnNjcmliZWQKICBpZiAoc2hvd09ubHlJZk5vdEdyYW50ZWQgJiYgcGVybWlzc2lvbiA9PT0gJ2dyYW50ZWQnICYmIGlzU3Vic2NyaWJlZCkgewogICAgcmV0dXJuIG51bGw7CiAgfQoKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImZpeGVkIGJvdHRvbS00IHJpZ2h0LTQgei01MCBtYXgtdy1tZCBhbmltYXRlLWluIHNsaWRlLWluLWZyb20tYm90dG9tLTUiPgogICAgICA8Q2FyZCBjbGFzc05hbWU9InNoYWRvdy1sZyBib3JkZXItMiI+CiAgICAgICAgPENhcmRIZWFkZXIgY2xhc3NOYW1lPSJwYi0zIj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLXN0YXJ0IGp1c3RpZnktYmV0d2VlbiI+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InJvdW5kZWQtZnVsbCBiZy1wcmltYXJ5LzEwIHAtMiI+CiAgICAgICAgICAgICAgICA8QmVsbCBjbGFzc05hbWU9ImgtNSB3LTUgdGV4dC1wcmltYXJ5IiAvPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDxDYXJkVGl0bGUgY2xhc3NOYW1lPSJ0ZXh0LWxnIj5FbmFibGUgTm90aWZpY2F0aW9uczwvQ2FyZFRpdGxlPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICAgIHZhcmlhbnQ9Imdob3N0IgogICAgICAgICAgICAgIHNpemU9Imljb24iCiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJoLTYgdy02IgogICAgICAgICAgICAgIG9uQ2xpY2s9e2hhbmRsZURpc21pc3N9CiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8WCBjbGFzc05hbWU9ImgtNCB3LTQiIC8+CiAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8Q2FyZERlc2NyaXB0aW9uIGNsYXNzTmFtZT0ibXQtMiI+CiAgICAgICAgICAgIEdldCBub3RpZmllZCBhYm91dCBuZXcgbWF0Y2hlcywgbWVzc2FnZXMsIGFuZCBsaWtlcyBpbnN0YW50bHkKICAgICAgICAgIDwvQ2FyZERlc2NyaXB0aW9uPgogICAgICAgIDwvQ2FyZEhlYWRlcj4KICAgICAgICA8Q2FyZENvbnRlbnQgY2xhc3NOYW1lPSJzcGFjZS15LTMgcGItNCI+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0yIHRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iaC0xLjUgdy0xLjUgcm91bmRlZC1mdWxsIGJnLXByaW1hcnkiIC8+CiAgICAgICAgICAgICAgPHNwYW4+TmV2ZXIgbWlzcyBhIG1hdGNoPC9zcGFuPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iaC0xLjUgdy0xLjUgcm91bmRlZC1mdWxsIGJnLXByaW1hcnkiIC8+CiAgICAgICAgICAgICAgPHNwYW4+UmVzcG9uZCB0byBtZXNzYWdlcyBmYXN0ZXI8L3NwYW4+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJoLTEuNSB3LTEuNSByb3VuZGVkLWZ1bGwgYmctcHJpbWFyeSIgLz4KICAgICAgICAgICAgICA8c3Bhbj5HZXQgYWxlcnRlZCBhYm91dCBpbmNvbWluZyBjYWxsczwvc3Bhbj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBnYXAtMiBwdC0yIj4KICAgICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICAgIG9uQ2xpY2s9e2hhbmRsZUVuYWJsZX0KICAgICAgICAgICAgICBkaXNhYmxlZD17aXNMb2FkaW5nfQogICAgICAgICAgICAgIGNsYXNzTmFtZT0iZmxleC0xIgogICAgICAgICAgICA+CiAgICAgICAgICAgICAge2lzTG9hZGluZyA/ICgKICAgICAgICAgICAgICAgIDw+RW5hYmxpbmcuLi48Lz4KICAgICAgICAgICAgICApIDogKAogICAgICAgICAgICAgICAgPD4KICAgICAgICAgICAgICAgICAgPEJlbGwgY2xhc3NOYW1lPSJtci0yIGgtNCB3LTQiIC8+CiAgICAgICAgICAgICAgICAgIEVuYWJsZQogICAgICAgICAgICAgICAgPC8+CiAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICB2YXJpYW50PSJvdXRsaW5lIgogICAgICAgICAgICAgIG9uQ2xpY2s9e2hhbmRsZUxhdGVyfQogICAgICAgICAgICAgIGRpc2FibGVkPXtpc0xvYWRpbmd9CiAgICAgICAgICAgID4KICAgICAgICAgICAgICBMYXRlcgogICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LW11dGVkLWZvcmVncm91bmQgdGV4dC1jZW50ZXIiPgogICAgICAgICAgICBZb3UgY2FuIGNoYW5nZSB0aGlzIGFueXRpbWUgaW4gc2V0dGluZ3MKICAgICAgICAgIDwvcD4KICAgICAgICA8L0NhcmRDb250ZW50PgogICAgICA8L0NhcmQ+CiAgICA8L2Rpdj4KICApOwp9CgovLyBJbmxpbmUgY29tcGFjdCB2ZXJzaW9uIGZvciBzZXR0aW5ncyBwYWdlCmV4cG9ydCBmdW5jdGlvbiBQdXNoUGVybWlzc2lvbklubGluZSgpIHsKICBjb25zdCB7CiAgICBwZXJtaXNzaW9uLAogICAgaXNTdXBwb3J0ZWQsCiAgICBpc1N1YnNjcmliZWQsCiAgICBpc0xvYWRpbmcsCiAgICBzdWJzY3JpYmUsCiAgICB1bnN1YnNjcmliZSwKICB9ID0gdXNlUHVzaE5vdGlmaWNhdGlvbnMoKTsKCiAgaWYgKCFpc1N1cHBvcnRlZCkgewogICAgcmV0dXJuICgKICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIHJvdW5kZWQtbGcgYm9yZGVyIGJvcmRlci1kYXNoZWQgcC00Ij4KICAgICAgICA8QmVsbE9mZiBjbGFzc05hbWU9ImgtNSB3LTUgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIiAvPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4LTEiPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtbWVkaXVtIj5QdXNoIG5vdGlmaWNhdGlvbnMgbm90IHN1cHBvcnRlZDwvcD4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgICBZb3VyIGJyb3dzZXIgZG9lc24ndCBzdXBwb3J0IHB1c2ggbm90aWZpY2F0aW9ucwogICAgICAgICAgPC9wPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgICk7CiAgfQoKICBpZiAocGVybWlzc2lvbiA9PT0gJ2RlbmllZCcpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiByb3VuZGVkLWxnIGJvcmRlciBib3JkZXItZGVzdHJ1Y3RpdmUvNTAgYmctZGVzdHJ1Y3RpdmUvNSBwLTQiPgogICAgICAgIDxCZWxsT2ZmIGNsYXNzTmFtZT0iaC01IHctNSB0ZXh0LWRlc3RydWN0aXZlIiAvPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4LTEiPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtbWVkaXVtIj5Ob3RpZmljYXRpb25zIGJsb2NrZWQ8L3A+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgWW91J3ZlIGJsb2NrZWQgbm90aWZpY2F0aW9ucy4gUGxlYXNlIGVuYWJsZSB0aGVtIGluIHlvdXIgYnJvd3NlciBzZXR0aW5ncy4KICAgICAgICAgIDwvcD4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICApOwogIH0KCiAgaWYgKGlzU3Vic2NyaWJlZCkgewogICAgcmV0dXJuICgKICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIHJvdW5kZWQtbGcgYm9yZGVyIGJvcmRlci1ncmVlbi01MDAvNTAgYmctZ3JlZW4tNTAwLzUgcC00Ij4KICAgICAgICA8QmVsbCBjbGFzc05hbWU9ImgtNSB3LTUgdGV4dC1ncmVlbi02MDAiIC8+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXgtMSI+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gZm9udC1tZWRpdW0iPlB1c2ggbm90aWZpY2F0aW9ucyBlbmFibGVkPC9wPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+CiAgICAgICAgICAgIFlvdSdsbCByZWNlaXZlIG5vdGlmaWNhdGlvbnMgZm9yIG5ldyBhY3Rpdml0eQogICAgICAgICAgPC9wPgogICAgICAgIDwvZGl2PgogICAgICAgIDxCdXR0b24KICAgICAgICAgIHZhcmlhbnQ9Im91dGxpbmUiCiAgICAgICAgICBzaXplPSJzbSIKICAgICAgICAgIG9uQ2xpY2s9e3Vuc3Vic2NyaWJlfQogICAgICAgICAgZGlzYWJsZWQ9e2lzTG9hZGluZ30KICAgICAgICA+CiAgICAgICAgICB7aXNMb2FkaW5nID8gJ0Rpc2FibGluZy4uLicgOiAnRGlzYWJsZSd9CiAgICAgICAgPC9CdXR0b24+CiAgICAgIDwvZGl2PgogICAgKTsKICB9CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgcm91bmRlZC1sZyBib3JkZXIgcC00Ij4KICAgICAgPEJlbGwgY2xhc3NOYW1lPSJoLTUgdy01IHRleHQtbXV0ZWQtZm9yZWdyb3VuZCIgLz4KICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXgtMSI+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtbWVkaXVtIj5FbmFibGUgcHVzaCBub3RpZmljYXRpb25zPC9wPgogICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgR2V0IG5vdGlmaWVkIGFib3V0IG1hdGNoZXMsIG1lc3NhZ2VzLCBhbmQgbW9yZQogICAgICAgIDwvcD4KICAgICAgPC9kaXY+CiAgICAgIDxCdXR0b24KICAgICAgICBvbkNsaWNrPXtzdWJzY3JpYmV9CiAgICAgICAgZGlzYWJsZWQ9e2lzTG9hZGluZ30KICAgICAgICBzaXplPSJzbSIKICAgICAgPgogICAgICAgIHtpc0xvYWRpbmcgPyAnRW5hYmxpbmcuLi4nIDogJ0VuYWJsZSd9CiAgICAgIDwvQnV0dG9uPgogICAgPC9kaXY+CiAgKTsKfQo="}
+import { useState, useEffect } from 'react';
+import { Bell, BellOff, X } from 'lucide-react';
+import { Button } from '@/components/ui/button';
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
+import { usePushNotifications } from '@/hooks/usePushNotifications';
+
+interface PushPermissionPromptProps {
+  onDismiss?: () => void;
+  autoShow?: boolean;
+  showOnlyIfNotGranted?: boolean;
+}
+
+export function PushPermissionPrompt({
+  onDismiss,
+  autoShow = true,
+  showOnlyIfNotGranted = true,
+}: PushPermissionPromptProps) {
+  const [isVisible, setIsVisible] = useState(false);
+  const [isDismissed, setIsDismissed] = useState(false);
+  const {
+    permission,
+    isSupported,
+    isSubscribed,
+    isLoading,
+    subscribe,
+  } = usePushNotifications();
+
+  useEffect(() => {
+    // Check if user has dismissed this before
+    const dismissed = localStorage.getItem('push-prompt-dismissed');
+    if (dismissed) {
+      setIsDismissed(true);
+      return;
+    }
+
+    // Show prompt if conditions are met
+    if (autoShow && isSupported) {
+      if (showOnlyIfNotGranted && permission === 'granted' && isSubscribed) {
+        return;
+      }
+
+      // Show after a short delay to not be intrusive
+      const timer = setTimeout(() => {
+        setIsVisible(true);
+      }, 3000);
+
+      return () => clearTimeout(timer);
+    }
+  }, [autoShow, isSupported, permission, isSubscribed, showOnlyIfNotGranted]);
+
+  const handleEnable = async () => {
+    const success = await subscribe();
+    if (success) {
+      setIsVisible(false);
+      onDismiss?.();
+    }
+  };
+
+  const handleDismiss = () => {
+    setIsVisible(false);
+    localStorage.setItem('push-prompt-dismissed', 'true');
+    setIsDismissed(true);
+    onDismiss?.();
+  };
+
+  const handleLater = () => {
+    setIsVisible(false);
+    onDismiss?.();
+  };
+
+  if (!isSupported || isDismissed || !isVisible) {
+    return null;
+  }
+
+  // Don't show if already granted and subscribed
+  if (showOnlyIfNotGranted && permission === 'granted' && isSubscribed) {
+    return null;
+  }
+
+  return (
+    <div className="fixed bottom-4 right-4 z-50 max-w-md animate-in slide-in-from-bottom-5">
+      <Card className="shadow-lg border-2">
+        <CardHeader className="pb-3">
+          <div className="flex items-start justify-between">
+            <div className="flex items-center gap-2">
+              <div className="rounded-full bg-primary/10 p-2">
+                <Bell className="h-5 w-5 text-primary" />
+              </div>
+              <CardTitle className="text-lg">Enable Notifications</CardTitle>
+            </div>
+            <Button
+              variant="ghost"
+              size="icon"
+              className="h-6 w-6"
+              onClick={handleDismiss}
+            >
+              <X className="h-4 w-4" />
+            </Button>
+          </div>
+          <CardDescription className="mt-2">
+            Get notified about new matches, messages, and likes instantly
+          </CardDescription>
+        </CardHeader>
+        <CardContent className="space-y-3 pb-4">
+          <div className="space-y-2 text-sm text-muted-foreground">
+            <div className="flex items-center gap-2">
+              <div className="h-1.5 w-1.5 rounded-full bg-primary" />
+              <span>Never miss a match</span>
+            </div>
+            <div className="flex items-center gap-2">
+              <div className="h-1.5 w-1.5 rounded-full bg-primary" />
+              <span>Respond to messages faster</span>
+            </div>
+            <div className="flex items-center gap-2">
+              <div className="h-1.5 w-1.5 rounded-full bg-primary" />
+              <span>Get alerted about incoming calls</span>
+            </div>
+          </div>
+
+          <div className="flex gap-2 pt-2">
+            <Button
+              onClick={handleEnable}
+              disabled={isLoading}
+              className="flex-1"
+            >
+              {isLoading ? (
+                <>Enabling...</>
+              ) : (
+                <>
+                  <Bell className="mr-2 h-4 w-4" />
+                  Enable
+                </>
+              )}
+            </Button>
+            <Button
+              variant="outline"
+              onClick={handleLater}
+              disabled={isLoading}
+            >
+              Later
+            </Button>
+          </div>
+
+          <p className="text-xs text-muted-foreground text-center">
+            You can change this anytime in settings
+          </p>
+        </CardContent>
+      </Card>
+    </div>
+  );
+}
+
+// Inline compact version for settings page
+export function PushPermissionInline() {
+  const {
+    permission,
+    isSupported,
+    isSubscribed,
+    isLoading,
+    subscribe,
+    unsubscribe,
+  } = usePushNotifications();
+
+  if (!isSupported) {
+    return (
+      <div className="flex items-center gap-2 rounded-lg border border-dashed p-4">
+        <BellOff className="h-5 w-5 text-muted-foreground" />
+        <div className="flex-1">
+          <p className="text-sm font-medium">Push notifications not supported</p>
+          <p className="text-xs text-muted-foreground">
+            Your browser doesn't support push notifications
+          </p>
+        </div>
+      </div>
+    );
+  }
+
+  if (permission === 'denied') {
+    return (
+      <div className="flex items-center gap-2 rounded-lg border border-destructive/50 bg-destructive/5 p-4">
+        <BellOff className="h-5 w-5 text-destructive" />
+        <div className="flex-1">
+          <p className="text-sm font-medium">Notifications blocked</p>
+          <p className="text-xs text-muted-foreground">
+            You've blocked notifications. Please enable them in your browser settings.
+          </p>
+        </div>
+      </div>
+    );
+  }
+
+  if (isSubscribed) {
+    return (
+      <div className="flex items-center gap-2 rounded-lg border border-green-500/50 bg-green-500/5 p-4">
+        <Bell className="h-5 w-5 text-green-600" />
+        <div className="flex-1">
+          <p className="text-sm font-medium">Push notifications enabled</p>
+          <p className="text-xs text-muted-foreground">
+            You'll receive notifications for new activity
+          </p>
+        </div>
+        <Button
+          variant="outline"
+          size="sm"
+          onClick={unsubscribe}
+          disabled={isLoading}
+        >
+          {isLoading ? 'Disabling...' : 'Disable'}
+        </Button>
+      </div>
+    );
+  }
+
+  return (
+    <div className="flex items-center gap-2 rounded-lg border p-4">
+      <Bell className="h-5 w-5 text-muted-foreground" />
+      <div className="flex-1">
+        <p className="text-sm font-medium">Enable push notifications</p>
+        <p className="text-xs text-muted-foreground">
+          Get notified about matches, messages, and more
+        </p>
+      </div>
+      <Button
+        onClick={subscribe}
+        disabled={isLoading}
+        size="sm"
+      >
+        {isLoading ? 'Enabling...' : 'Enable'}
+      </Button>
+    </div>
+  );
+}

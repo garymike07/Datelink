@@ -1,1 +1,31 @@
-{"data":"aW1wb3J0IHsgQWxlcnQsIEFsZXJ0RGVzY3JpcHRpb24sIEFsZXJ0VGl0bGUgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvYWxlcnQiOwppbXBvcnQgeyBCdXR0b24gfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvYnV0dG9uIjsKCmV4cG9ydCBmdW5jdGlvbiBTYWZldHlCYW5uZXIocHJvcHM6IHsKICBvbkRpc21pc3M6ICgpID0+IHZvaWQ7CiAgb25MZWFybk1vcmU6ICgpID0+IHZvaWQ7CiAgb25SZXBvcnQ6ICgpID0+IHZvaWQ7Cn0pIHsKICByZXR1cm4gKAogICAgPEFsZXJ0IGNsYXNzTmFtZT0ibWItMyI+CiAgICAgIDxBbGVydFRpdGxlPlN0YXkgc2FmZTwvQWxlcnRUaXRsZT4KICAgICAgPEFsZXJ0RGVzY3JpcHRpb24gY2xhc3NOYW1lPSJtdC0xIHNwYWNlLXktMyI+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIj4KICAgICAgICAgIE5ldmVyIHNlbmQgbW9uZXkgb3Igc2hhcmUgcGVyc29uYWwgaW5mb3JtYXRpb24gbGlrZSB5b3VyIGFkZHJlc3Mgb3IgZmluYW5jaWFsIGRldGFpbHMuIFJlcG9ydCBzdXNwaWNpb3VzCiAgICAgICAgICBiZWhhdmlvci4KICAgICAgICA8L3A+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZmxleC13cmFwIGdhcC0yIj4KICAgICAgICAgIDxCdXR0b24gc2l6ZT0ic20iIHZhcmlhbnQ9Im91dGxpbmUiIG9uQ2xpY2s9e3Byb3BzLm9uTGVhcm5Nb3JlfT4KICAgICAgICAgICAgTGVhcm4gbW9yZQogICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICA8QnV0dG9uIHNpemU9InNtIiB2YXJpYW50PSJvdXRsaW5lIiBvbkNsaWNrPXtwcm9wcy5vblJlcG9ydH0+CiAgICAgICAgICAgIFJlcG9ydCB0aGlzIHVzZXIKICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgPEJ1dHRvbiBzaXplPSJzbSIgb25DbGljaz17cHJvcHMub25EaXNtaXNzfT4KICAgICAgICAgICAgSSB1bmRlcnN0YW5kCiAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9BbGVydERlc2NyaXB0aW9uPgogICAgPC9BbGVydD4KICApOwp9Cg=="}
+import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
+import { Button } from "@/components/ui/button";
+
+export function SafetyBanner(props: {
+  onDismiss: () => void;
+  onLearnMore: () => void;
+  onReport: () => void;
+}) {
+  return (
+    <Alert className="mb-3">
+      <AlertTitle>Stay safe</AlertTitle>
+      <AlertDescription className="mt-1 space-y-3">
+        <p className="text-sm">
+          Never send money or share personal information like your address or financial details. Report suspicious
+          behavior.
+        </p>
+        <div className="flex flex-wrap gap-2">
+          <Button size="sm" variant="outline" onClick={props.onLearnMore}>
+            Learn more
+          </Button>
+          <Button size="sm" variant="outline" onClick={props.onReport}>
+            Report this user
+          </Button>
+          <Button size="sm" onClick={props.onDismiss}>
+            I understand
+          </Button>
+        </div>
+      </AlertDescription>
+    </Alert>
+  );
+}

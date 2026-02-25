@@ -1,1 +1,328 @@
-{"data":"aW1wb3J0IHsgdXNlUXVlcnksIHVzZU11dGF0aW9uIH0gZnJvbSAiY29udmV4L3JlYWN0IjsKaW1wb3J0IHsgYXBpIH0gZnJvbSAiLi4vLi4vY29udmV4L19nZW5lcmF0ZWQvYXBpIjsKaW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2J1dHRvbiI7CmltcG9ydCB7IENhcmQsIENhcmRDb250ZW50IH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2NhcmQiOwppbXBvcnQgeyBCYWRnZSB9IGZyb20gIkAvY29tcG9uZW50cy91aS9iYWRnZSI7CmltcG9ydCB7IEhlYXJ0LCBYLCBTdGFyLCBTcGFya2xlcywgQ2xvY2sgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyB1c2VTdGF0ZSB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgdXNlQXV0aCB9IGZyb20gIkAvY29udGV4dHMvQXV0aENvbnRleHQiOwppbXBvcnQgeyB1c2VOYXZpZ2F0ZSB9IGZyb20gInJlYWN0LXJvdXRlci1kb20iOwppbXBvcnQgeyB0b2FzdCB9IGZyb20gInNvbm5lciI7Cgpjb25zdCBUb3BQaWNrcyA9ICgpID0+IHsKICBjb25zdCBuYXZpZ2F0ZSA9IHVzZU5hdmlnYXRlKCk7CiAgY29uc3QgeyB1c2VyIH0gPSB1c2VBdXRoKCk7CiAgY29uc3QgdXNlcklkID0gdXNlcj8uX2lkOwoKICBjb25zdCB0b3BQaWNrcyA9IHVzZVF1ZXJ5KGFwaS5tYXRjaGluZy5nZXRUb3BQaWNrcywgdXNlcklkID8geyB1c2VySWQgfSA6ICJza2lwIik7CiAgY29uc3QgbGlrZVByb2ZpbGUgPSB1c2VNdXRhdGlvbihhcGkubWF0Y2hpbmcubGlrZVByb2ZpbGUpOwogIGNvbnN0IHBhc3NQcm9maWxlID0gdXNlTXV0YXRpb24oYXBpLm1hdGNoaW5nLnBhc3NQcm9maWxlKTsKICBjb25zdCBzdXBlckxpa2VQcm9maWxlID0gdXNlTXV0YXRpb24oYXBpLm1hdGNoaW5nLnN1cGVyTGlrZVByb2ZpbGUpOwoKICBjb25zdCBbY3VycmVudEluZGV4LCBzZXRDdXJyZW50SW5kZXhdID0gdXNlU3RhdGUoMCk7CiAgY29uc3QgW2lzQW5pbWF0aW5nLCBzZXRJc0FuaW1hdGluZ10gPSB1c2VTdGF0ZShmYWxzZSk7CgogIGlmICghdXNlcklkKSB7CiAgICByZXR1cm4gKAogICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgbWluLWgtWzUwdmhdIj4KICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+UGxlYXNlIGxvZyBpbiB0byBzZWUgeW91ciB0b3AgcGlja3M8L3A+CiAgICAgIDwvZGl2PgogICAgKTsKICB9CgogIGlmICghdG9wUGlja3MpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBtaW4taC1bNTB2aF0iPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LWNlbnRlciBhbmltYXRlLXB1bHNlLXNvZnQiPgogICAgICAgICAgPFNwYXJrbGVzIGNsYXNzTmFtZT0idy0xMiBoLTEyIHRleHQtcHJpbWFyeSBteC1hdXRvIG1iLTQiIC8+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+TG9hZGluZyB5b3VyIHRvcCBwaWNrcy4uLjwvcD4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICApOwogIH0KCiAgY29uc3QgcHJvZmlsZXMgPSB0b3BQaWNrcy5wcm9maWxlcyB8fCBbXTsKICBjb25zdCBjdXJyZW50UHJvZmlsZSA9IHByb2ZpbGVzW2N1cnJlbnRJbmRleF07CgogIGNvbnN0IGhhbmRsZUxpa2UgPSBhc3luYyAoKSA9PiB7CiAgICBpZiAoIWN1cnJlbnRQcm9maWxlIHx8IGlzQW5pbWF0aW5nKSByZXR1cm47CiAgICBzZXRJc0FuaW1hdGluZyh0cnVlKTsKCiAgICB0cnkgewogICAgICBjb25zdCByZXN1bHQgPSBhd2FpdCBsaWtlUHJvZmlsZSh7CiAgICAgICAgdXNlcklkLAogICAgICAgIGxpa2VkVXNlcklkOiBjdXJyZW50UHJvZmlsZS51c2VySWQsCiAgICAgIH0pOwoKICAgICAgaWYgKHJlc3VsdC5tYXRjaGVkKSB7CiAgICAgICAgdG9hc3Quc3VjY2VzcygiSXQncyBhIE1hdGNoISDwn46JIiwgewogICAgICAgICAgZGVzY3JpcHRpb246IGBZb3UgYW5kICR7Y3VycmVudFByb2ZpbGUubmFtZX0gbGlrZWQgZWFjaCBvdGhlciFgLAogICAgICAgIH0pOwogICAgICB9IGVsc2UgewogICAgICAgIHRvYXN0LnN1Y2Nlc3MoYFlvdSBsaWtlZCAke2N1cnJlbnRQcm9maWxlLm5hbWV9IWApOwogICAgICB9CgogICAgICAvLyBNb3ZlIHRvIG5leHQgcHJvZmlsZQogICAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgICBzZXRDdXJyZW50SW5kZXgoKHByZXYpID0+IHByZXYgKyAxKTsKICAgICAgICBzZXRJc0FuaW1hdGluZyhmYWxzZSk7CiAgICAgIH0sIDMwMCk7CiAgICB9IGNhdGNoIChlcnJvcjogYW55KSB7CiAgICAgIHRvYXN0LmVycm9yKCJFcnJvciIsIHsgZGVzY3JpcHRpb246IGVycm9yLm1lc3NhZ2UgfSk7CiAgICAgIHNldElzQW5pbWF0aW5nKGZhbHNlKTsKICAgIH0KICB9OwoKICBjb25zdCBoYW5kbGVQYXNzID0gYXN5bmMgKCkgPT4gewogICAgaWYgKCFjdXJyZW50UHJvZmlsZSB8fCBpc0FuaW1hdGluZykgcmV0dXJuOwogICAgc2V0SXNBbmltYXRpbmcodHJ1ZSk7CgogICAgdHJ5IHsKICAgICAgYXdhaXQgcGFzc1Byb2ZpbGUoewogICAgICAgIHVzZXJJZCwKICAgICAgICBwYXNzZWRVc2VySWQ6IGN1cnJlbnRQcm9maWxlLnVzZXJJZCwKICAgICAgfSk7CgogICAgICAvLyBNb3ZlIHRvIG5leHQgcHJvZmlsZQogICAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgICBzZXRDdXJyZW50SW5kZXgoKHByZXYpID0+IHByZXYgKyAxKTsKICAgICAgICBzZXRJc0FuaW1hdGluZyhmYWxzZSk7CiAgICAgIH0sIDMwMCk7CiAgICB9IGNhdGNoIChlcnJvcjogYW55KSB7CiAgICAgIHRvYXN0LmVycm9yKCJFcnJvciIsIHsgZGVzY3JpcHRpb246IGVycm9yLm1lc3NhZ2UgfSk7CiAgICAgIHNldElzQW5pbWF0aW5nKGZhbHNlKTsKICAgIH0KICB9OwoKICBjb25zdCBoYW5kbGVTdXBlckxpa2UgPSBhc3luYyAoKSA9PiB7CiAgICBpZiAoIWN1cnJlbnRQcm9maWxlIHx8IGlzQW5pbWF0aW5nKSByZXR1cm47CiAgICBzZXRJc0FuaW1hdGluZyh0cnVlKTsKCiAgICB0cnkgewogICAgICBjb25zdCByZXN1bHQgPSBhd2FpdCBzdXBlckxpa2VQcm9maWxlKHsKICAgICAgICB1c2VySWQsCiAgICAgICAgc3VwZXJMaWtlZFVzZXJJZDogY3VycmVudFByb2ZpbGUudXNlcklkLAogICAgICB9KTsKCiAgICAgIGlmIChyZXN1bHQubWF0Y2hlZCkgewogICAgICAgIHRvYXN0LnN1Y2Nlc3MoIkl0J3MgYSBNYXRjaCEg8J+OiSIsIHsKICAgICAgICAgIGRlc2NyaXB0aW9uOiBgWW91IGFuZCAke2N1cnJlbnRQcm9maWxlLm5hbWV9IGxpa2VkIGVhY2ggb3RoZXIhYCwKICAgICAgICB9KTsKICAgICAgfSBlbHNlIHsKICAgICAgICB0b2FzdC5zdWNjZXNzKGBZb3Ugc3VwZXIgbGlrZWQgJHtjdXJyZW50UHJvZmlsZS5uYW1lfSEg4q2QYCk7CiAgICAgIH0KCiAgICAgIC8vIE1vdmUgdG8gbmV4dCBwcm9maWxlCiAgICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICAgIHNldEN1cnJlbnRJbmRleCgocHJldikgPT4gcHJldiArIDEpOwogICAgICAgIHNldElzQW5pbWF0aW5nKGZhbHNlKTsKICAgICAgfSwgMzAwKTsKICAgIH0gY2F0Y2ggKGVycm9yOiBhbnkpIHsKICAgICAgdG9hc3QuZXJyb3IoIkVycm9yIiwgeyBkZXNjcmlwdGlvbjogZXJyb3IubWVzc2FnZSB9KTsKICAgICAgc2V0SXNBbmltYXRpbmcoZmFsc2UpOwogICAgfQogIH07CgogIGNvbnN0IGdldFJlZnJlc2hUaW1lID0gKCkgPT4gewogICAgaWYgKCF0b3BQaWNrcy5yZWZyZXNoZXNBdCkgcmV0dXJuICIiOwogICAgY29uc3QgcmVmcmVzaERhdGUgPSBuZXcgRGF0ZSh0b3BQaWNrcy5yZWZyZXNoZXNBdCk7CiAgICByZXR1cm4gcmVmcmVzaERhdGUudG9Mb2NhbGVUaW1lU3RyaW5nKFtdLCB7IGhvdXI6ICIyLWRpZ2l0IiwgbWludXRlOiAiMi1kaWdpdCIgfSk7CiAgfTsKCiAgaWYgKHByb2ZpbGVzLmxlbmd0aCA9PT0gMCkgewogICAgcmV0dXJuICgKICAgICAgPGRpdiBjbGFzc05hbWU9Im1heC13LTR4bCBteC1hdXRvIHB4LTIgc206cHgtMyBtZDpweC00IHB5LTMgc206cHktNCBtZDpweS02IGxnOnB5LTgiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LWNlbnRlciBzcGFjZS15LTQgc206c3BhY2UteS01IG1kOnNwYWNlLXktNiI+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIiPgogICAgICAgICAgICA8U3BhcmtsZXMgY2xhc3NOYW1lPSJ3LTE2IGgtMTYgdGV4dC1wcmltYXJ5IGFuaW1hdGUtcHVsc2Utc29mdCIgLz4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGgxIGNsYXNzTmFtZT0idGV4dC0zeGwgZm9udC1oZWFkaW5nIGZvbnQtYm9sZCI+Tm8gVG9wIFBpY2tzIFlldDwvaDE+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtbXV0ZWQtZm9yZWdyb3VuZCBtYXgtdy1tZCBteC1hdXRvIj4KICAgICAgICAgICAgV2UncmUgd29ya2luZyBvbiBmaW5kaW5nIHlvdXIgcGVyZmVjdCBtYXRjaGVzLiBDaGVjayBiYWNrIGxhdGVyIG9yIHN0YXJ0IHN3aXBpbmcgdG8KICAgICAgICAgICAgaGVscCB1cyB1bmRlcnN0YW5kIHlvdXIgcHJlZmVyZW5jZXMgYmV0dGVyLgogICAgICAgICAgPC9wPgogICAgICAgICAgPEJ1dHRvbiBvbkNsaWNrPXsoKSA9PiBuYXZpZ2F0ZSgiL2Rpc2NvdmVyIil9IHNpemU9ImxnIiBjbGFzc05hbWU9ImJnLWdyYWRpZW50LWxvdmUiPgogICAgICAgICAgICBTdGFydCBEaXNjb3ZlcmluZwogICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgKTsKICB9CgogIGlmIChjdXJyZW50SW5kZXggPj0gcHJvZmlsZXMubGVuZ3RoKSB7CiAgICByZXR1cm4gKAogICAgICA8ZGl2IGNsYXNzTmFtZT0ibWF4LXctNHhsIG14LWF1dG8gcHgtMiBzbTpweC0zIG1kOnB4LTQgcHktMyBzbTpweS00IG1kOnB5LTYgbGc6cHktOCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtY2VudGVyIHNwYWNlLXktNCBzbTpzcGFjZS15LTUgbWQ6c3BhY2UteS02Ij4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciI+CiAgICAgICAgICAgIDxDbG9jayBjbGFzc05hbWU9InctMTYgaC0xNiB0ZXh0LXByaW1hcnkgYW5pbWF0ZS1wdWxzZS1zb2Z0IiAvPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8aDEgY2xhc3NOYW1lPSJ0ZXh0LTN4bCBmb250LWhlYWRpbmcgZm9udC1ib2xkIj5Zb3UndmUgU2VlbiBBbGwgWW91ciBUb3AgUGlja3MhPC9oMT4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1tdXRlZC1mb3JlZ3JvdW5kIG1heC13LW1kIG14LWF1dG8iPgogICAgICAgICAgICBOZXcgcGlja3Mgd2lsbCBiZSBhdmFpbGFibGUgdG9tb3Jyb3cgYXQgbWlkbmlnaHQuIEluIHRoZSBtZWFudGltZSwga2VlcCBzd2lwaW5nIGluCiAgICAgICAgICAgIERpc2NvdmVyIQogICAgICAgICAgPC9wPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wgc206ZmxleC1yb3cgZ2FwLTQganVzdGlmeS1jZW50ZXIiPgogICAgICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9eygpID0+IG5hdmlnYXRlKCIvZGlzY292ZXIiKX0gc2l6ZT0ibGciIGNsYXNzTmFtZT0iYmctZ3JhZGllbnQtbG92ZSI+CiAgICAgICAgICAgICAgQ29udGludWUgRGlzY292ZXJpbmcKICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgIDxCdXR0b24gb25DbGljaz17KCkgPT4gbmF2aWdhdGUoIi9tYXRjaGVzIil9IHNpemU9ImxnIiB2YXJpYW50PSJvdXRsaW5lIj4KICAgICAgICAgICAgICBWaWV3IE1hdGNoZXMKICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIHt0b3BQaWNrcy5yZWZyZXNoZXNBdCAmJiAoCiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgZ2FwLTIiPgogICAgICAgICAgICAgIDxDbG9jayBjbGFzc05hbWU9InctNCBoLTQiIC8+CiAgICAgICAgICAgICAgTmV3IHBpY2tzIHJlZnJlc2ggYXQge2dldFJlZnJlc2hUaW1lKCl9CiAgICAgICAgICAgIDwvcD4KICAgICAgICAgICl9CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgKTsKICB9CgogIGNvbnN0IHByaW1hcnlQaG90byA9IGN1cnJlbnRQcm9maWxlLnBob3Rvcz8uWzBdOwoKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9Im1heC13LTR4bCBteC1hdXRvIHB4LTIgc206cHgtMyBtZDpweC00IHB5LTMgc206cHktNCBtZDpweS02IGxnOnB5LTgiPgogICAgICB7LyogSGVhZGVyICovfQogICAgICA8ZGl2IGNsYXNzTmFtZT0ibWItNCBzbTptYi01IG1kOm1iLTYgdGV4dC1jZW50ZXIgc3BhY2UteS0xLjUgc206c3BhY2UteS0yIj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgZ2FwLTIiPgogICAgICAgICAgPFNwYXJrbGVzIGNsYXNzTmFtZT0idy02IGgtNiB0ZXh0LXByaW1hcnkgYW5pbWF0ZS1wdWxzZS1zb2Z0IiAvPgogICAgICAgICAgPGgxIGNsYXNzTmFtZT0idGV4dC0zeGwgZm9udC1oZWFkaW5nIGZvbnQtYm9sZCBiZy1ncmFkaWVudC1sb3ZlIGJnLWNsaXAtdGV4dCB0ZXh0LXRyYW5zcGFyZW50Ij4KICAgICAgICAgICAgVG9kYXkncyBUb3AgUGlja3MKICAgICAgICAgIDwvaDE+CiAgICAgICAgICA8U3BhcmtsZXMgY2xhc3NOYW1lPSJ3LTYgaC02IHRleHQtcHJpbWFyeSBhbmltYXRlLXB1bHNlLXNvZnQiIC8+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgSGlnaC1xdWFsaXR5IG1hdGNoZXMgY3VyYXRlZCBqdXN0IGZvciB5b3UKICAgICAgICA8L3A+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIGdhcC0yIHRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgIDxzcGFuPgogICAgICAgICAgICB7Y3VycmVudEluZGV4ICsgMX0gb2Yge3Byb2ZpbGVzLmxlbmd0aH0KICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgIHt0b3BQaWNrcy5yZWZyZXNoZXNBdCAmJiAoCiAgICAgICAgICAgIDw+CiAgICAgICAgICAgICAgPHNwYW4+4oCiPC9zcGFuPgogICAgICAgICAgICAgIDxDbG9jayBjbGFzc05hbWU9InctNCBoLTQiIC8+CiAgICAgICAgICAgICAgPHNwYW4+UmVmcmVzaGVzIGF0IHtnZXRSZWZyZXNoVGltZSgpfTwvc3Bhbj4KICAgICAgICAgICAgPC8+CiAgICAgICAgICApfQogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KCiAgICAgIHsvKiBQcm9maWxlIENhcmQgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYXgtdy1tZCBteC1hdXRvIj4KICAgICAgICA8Q2FyZAogICAgICAgICAgY2xhc3NOYW1lPXtgZ2xhc3MtY2FyZCBib3JkZXItbm9uZSBvdmVyZmxvdy1oaWRkZW4gdHJhbnNpdGlvbi1hbGwgZHVyYXRpb24tMzAwICR7CiAgICAgICAgICAgIGlzQW5pbWF0aW5nID8gInNjYWxlLTk1IG9wYWNpdHktNTAiIDogInNjYWxlLTEwMCBvcGFjaXR5LTEwMCIKICAgICAgICAgIH1gfQogICAgICAgID4KICAgICAgICAgIHsvKiBQaG90byAqL30KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyZWxhdGl2ZSBhc3BlY3QtWzMvNF0gYmctZ3JhZGllbnQtdG8tYnIgZnJvbS1wcmltYXJ5LzIwIHRvLXNlY29uZGFyeS8yMCI+CiAgICAgICAgICAgIHtwcmltYXJ5UGhvdG8gPyAoCiAgICAgICAgICAgICAgPGltZwogICAgICAgICAgICAgICAgc3JjPXtwcmltYXJ5UGhvdG8udXJsfQogICAgICAgICAgICAgICAgYWx0PXtjdXJyZW50UHJvZmlsZS5uYW1lfQogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ3LWZ1bGwgaC1mdWxsIG9iamVjdC1jb3ZlciIKICAgICAgICAgICAgICAvPgogICAgICAgICAgICApIDogKAogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LWZ1bGwgaC1mdWxsIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIj4KICAgICAgICAgICAgICAgIDxIZWFydCBjbGFzc05hbWU9InctMTYgaC0xNiB0ZXh0LW11dGVkLWZvcmVncm91bmQgb3BhY2l0eS0yMCIgLz4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgKX0KCiAgICAgICAgICAgIHsvKiBNYXRjaCBTY29yZSBCYWRnZSAqL30KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIHRvcC00IHJpZ2h0LTQiPgogICAgICAgICAgICAgIDxCYWRnZSBjbGFzc05hbWU9ImJnLWdyYWRpZW50LXRvLXIgZnJvbS1hbWJlci01MDAgdG8tb3JhbmdlLTUwMCB0ZXh0LXdoaXRlIHNoYWRvdy1sZyI+CiAgICAgICAgICAgICAgICA8U3BhcmtsZXMgY2xhc3NOYW1lPSJ3LTMgaC0zIG1yLTEiIC8+CiAgICAgICAgICAgICAgICB7Y3VycmVudFByb2ZpbGUubWF0Y2hTY29yZX0lIE1hdGNoCiAgICAgICAgICAgICAgPC9CYWRnZT4KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICB7LyogR3JhZGllbnQgT3ZlcmxheSAqL30KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgYmctZ3JhZGllbnQtdG8tdCBmcm9tLWJsYWNrLzgwIHZpYS10cmFuc3BhcmVudCB0by10cmFuc3BhcmVudCIgLz4KCiAgICAgICAgICAgIHsvKiBQcm9maWxlIEluZm8gKi99CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBib3R0b20tMCBsZWZ0LTAgcmlnaHQtMCBwLTYgdGV4dC13aGl0ZSI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMiI+CiAgICAgICAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LTJ4bCBmb250LWJvbGQiPgogICAgICAgICAgICAgICAgICB7Y3VycmVudFByb2ZpbGUubmFtZX0sIHtjdXJyZW50UHJvZmlsZS5hZ2V9CiAgICAgICAgICAgICAgICA8L2gyPgogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIG9wYWNpdHktOTAiPntjdXJyZW50UHJvZmlsZS5sb2NhdGlvbn08L3A+CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIHsvKiBNYXRjaCBSZWFzb24gKi99CiAgICAgICAgICAgICAgICB7Y3VycmVudFByb2ZpbGUubWF0Y2hSZWFzb24gJiYgKAogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgdGV4dC1zbSBiZy13aGl0ZS8yMCBiYWNrZHJvcC1ibHVyLXNtIHJvdW5kZWQtZnVsbCBweC0zIHB5LTEuNSB3LWZpdCI+CiAgICAgICAgICAgICAgICAgICAgPFNwYXJrbGVzIGNsYXNzTmFtZT0idy0zIGgtMyIgLz4KICAgICAgICAgICAgICAgICAgICA8c3Bhbj57Y3VycmVudFByb2ZpbGUubWF0Y2hSZWFzb259PC9zcGFuPgogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICl9CgogICAgICAgICAgICAgICAgey8qIEJpbyBQcmV2aWV3ICovfQogICAgICAgICAgICAgICAge2N1cnJlbnRQcm9maWxlLmJpbyAmJiAoCiAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSBvcGFjaXR5LTkwIGxpbmUtY2xhbXAtMiBtdC0yIj4KICAgICAgICAgICAgICAgICAgICB7Y3VycmVudFByb2ZpbGUuYmlvfQogICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICApfQoKICAgICAgICAgICAgICAgIHsvKiBJbnRlcmVzdHMgKi99CiAgICAgICAgICAgICAgICB7Y3VycmVudFByb2ZpbGUuaW50ZXJlc3RzICYmIGN1cnJlbnRQcm9maWxlLmludGVyZXN0cy5sZW5ndGggPiAwICYmICgKICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZmxleC13cmFwIGdhcC0yIG10LTMiPgogICAgICAgICAgICAgICAgICAgIHtjdXJyZW50UHJvZmlsZS5pbnRlcmVzdHMuc2xpY2UoMCwgMykubWFwKChpbnRlcmVzdDogc3RyaW5nLCBpZHg6IG51bWJlcikgPT4gKAogICAgICAgICAgICAgICAgICAgICAgPEJhZGdlIGtleT17aWR4fSB2YXJpYW50PSJzZWNvbmRhcnkiIGNsYXNzTmFtZT0iYmctd2hpdGUvMjAgYmFja2Ryb3AtYmx1ci1zbSB0ZXh0LXdoaXRlIGJvcmRlci1ub25lIj4KICAgICAgICAgICAgICAgICAgICAgICAge2ludGVyZXN0fQogICAgICAgICAgICAgICAgICAgICAgPC9CYWRnZT4KICAgICAgICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgICAgICAgICB7Y3VycmVudFByb2ZpbGUuaW50ZXJlc3RzLmxlbmd0aCA+IDMgJiYgKAogICAgICAgICAgICAgICAgICAgICAgPEJhZGdlIHZhcmlhbnQ9InNlY29uZGFyeSIgY2xhc3NOYW1lPSJiZy13aGl0ZS8yMCBiYWNrZHJvcC1ibHVyLXNtIHRleHQtd2hpdGUgYm9yZGVyLW5vbmUiPgogICAgICAgICAgICAgICAgICAgICAgICAre2N1cnJlbnRQcm9maWxlLmludGVyZXN0cy5sZW5ndGggLSAzfQogICAgICAgICAgICAgICAgICAgICAgPC9CYWRnZT4KICAgICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgey8qIEFjdGlvbiBCdXR0b25zICovfQogICAgICAgICAgPENhcmRDb250ZW50IGNsYXNzTmFtZT0icC02Ij4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIGdhcC00Ij4KICAgICAgICAgICAgICB7LyogUGFzcyBCdXR0b24gKi99CiAgICAgICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICAgICAgb25DbGljaz17aGFuZGxlUGFzc30KICAgICAgICAgICAgICAgIGRpc2FibGVkPXtpc0FuaW1hdGluZ30KICAgICAgICAgICAgICAgIHNpemU9ImxnIgogICAgICAgICAgICAgICAgdmFyaWFudD0ib3V0bGluZSIKICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0icm91bmRlZC1mdWxsIHctMTYgaC0xNiBwLTAgYm9yZGVyLTIgYm9yZGVyLXJlZC01MDAgaG92ZXI6YmctcmVkLTUwIGhvdmVyOmJvcmRlci1yZWQtNjAwIHRyYW5zaXRpb24tYWxsIgogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxYIGNsYXNzTmFtZT0idy04IGgtOCB0ZXh0LXJlZC01MDAiIC8+CiAgICAgICAgICAgICAgPC9CdXR0b24+CgogICAgICAgICAgICAgIHsvKiBTdXBlciBMaWtlIEJ1dHRvbiAqL30KICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICBvbkNsaWNrPXtoYW5kbGVTdXBlckxpa2V9CiAgICAgICAgICAgICAgICBkaXNhYmxlZD17aXNBbmltYXRpbmd9CiAgICAgICAgICAgICAgICBzaXplPSJsZyIKICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0icm91bmRlZC1mdWxsIHctMTQgaC0xNCBwLTAgYmctZ3JhZGllbnQtdG8tciBmcm9tLWJsdWUtNTAwIHRvLXB1cnBsZS01MDAgaG92ZXI6ZnJvbS1ibHVlLTYwMCBob3Zlcjp0by1wdXJwbGUtNjAwIHNoYWRvdy1sZyBob3ZlcjpzaGFkb3cteGwgdHJhbnNpdGlvbi1hbGwiCiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPFN0YXIgY2xhc3NOYW1lPSJ3LTYgaC02IHRleHQtd2hpdGUgZmlsbC13aGl0ZSIgLz4KICAgICAgICAgICAgICA8L0J1dHRvbj4KCiAgICAgICAgICAgICAgey8qIExpa2UgQnV0dG9uICovfQogICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgIG9uQ2xpY2s9e2hhbmRsZUxpa2V9CiAgICAgICAgICAgICAgICBkaXNhYmxlZD17aXNBbmltYXRpbmd9CiAgICAgICAgICAgICAgICBzaXplPSJsZyIKICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0icm91bmRlZC1mdWxsIHctMTYgaC0xNiBwLTAgYmctZ3JhZGllbnQtdG8tciBmcm9tLWdyZWVuLTUwMCB0by1lbWVyYWxkLTUwMCBob3Zlcjpmcm9tLWdyZWVuLTYwMCBob3Zlcjp0by1lbWVyYWxkLTYwMCBzaGFkb3ctbGcgaG92ZXI6c2hhZG93LXhsIHRyYW5zaXRpb24tYWxsIgogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxIZWFydCBjbGFzc05hbWU9InctOCBoLTggdGV4dC13aGl0ZSIgLz4KICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L0NhcmRDb250ZW50PgogICAgICAgIDwvQ2FyZD4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9OwoKZXhwb3J0IGRlZmF1bHQgVG9wUGlja3M7Cg=="}
+import { useQuery, useMutation } from "convex/react";
+import { api } from "../../convex/_generated/api";
+import { Button } from "@/components/ui/button";
+import { Card, CardContent } from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
+import { Heart, X, Star, Sparkles, Clock } from "lucide-react";
+import { useState } from "react";
+import { useAuth } from "@/contexts/AuthContext";
+import { useNavigate } from "react-router-dom";
+import { toast } from "sonner";
+
+const TopPicks = () => {
+  const navigate = useNavigate();
+  const { user } = useAuth();
+  const userId = user?._id;
+
+  const topPicks = useQuery(api.matching.getTopPicks, userId ? { userId } : "skip");
+  const likeProfile = useMutation(api.matching.likeProfile);
+  const passProfile = useMutation(api.matching.passProfile);
+  const superLikeProfile = useMutation(api.matching.superLikeProfile);
+
+  const [currentIndex, setCurrentIndex] = useState(0);
+  const [isAnimating, setIsAnimating] = useState(false);
+
+  if (!userId) {
+    return (
+      <div className="flex items-center justify-center min-h-[50vh]">
+        <p className="text-muted-foreground">Please log in to see your top picks</p>
+      </div>
+    );
+  }
+
+  if (!topPicks) {
+    return (
+      <div className="flex items-center justify-center min-h-[50vh]">
+        <div className="text-center animate-pulse-soft">
+          <Sparkles className="w-12 h-12 text-primary mx-auto mb-4" />
+          <p className="text-muted-foreground">Loading your top picks...</p>
+        </div>
+      </div>
+    );
+  }
+
+  const profiles = topPicks.profiles || [];
+  const currentProfile = profiles[currentIndex];
+
+  const handleLike = async () => {
+    if (!currentProfile || isAnimating) return;
+    setIsAnimating(true);
+
+    try {
+      const result = await likeProfile({
+        userId,
+        likedUserId: currentProfile.userId,
+      });
+
+      if (result.matched) {
+        toast.success("It's a Match! 🎉", {
+          description: `You and ${currentProfile.name} liked each other!`,
+        });
+      } else {
+        toast.success(`You liked ${currentProfile.name}!`);
+      }
+
+      // Move to next profile
+      setTimeout(() => {
+        setCurrentIndex((prev) => prev + 1);
+        setIsAnimating(false);
+      }, 300);
+    } catch (error: any) {
+      toast.error("Error", { description: error.message });
+      setIsAnimating(false);
+    }
+  };
+
+  const handlePass = async () => {
+    if (!currentProfile || isAnimating) return;
+    setIsAnimating(true);
+
+    try {
+      await passProfile({
+        userId,
+        passedUserId: currentProfile.userId,
+      });
+
+      // Move to next profile
+      setTimeout(() => {
+        setCurrentIndex((prev) => prev + 1);
+        setIsAnimating(false);
+      }, 300);
+    } catch (error: any) {
+      toast.error("Error", { description: error.message });
+      setIsAnimating(false);
+    }
+  };
+
+  const handleSuperLike = async () => {
+    if (!currentProfile || isAnimating) return;
+    setIsAnimating(true);
+
+    try {
+      const result = await superLikeProfile({
+        userId,
+        superLikedUserId: currentProfile.userId,
+      });
+
+      if (result.matched) {
+        toast.success("It's a Match! 🎉", {
+          description: `You and ${currentProfile.name} liked each other!`,
+        });
+      } else {
+        toast.success(`You super liked ${currentProfile.name}! ⭐`);
+      }
+
+      // Move to next profile
+      setTimeout(() => {
+        setCurrentIndex((prev) => prev + 1);
+        setIsAnimating(false);
+      }, 300);
+    } catch (error: any) {
+      toast.error("Error", { description: error.message });
+      setIsAnimating(false);
+    }
+  };
+
+  const getRefreshTime = () => {
+    if (!topPicks.refreshesAt) return "";
+    const refreshDate = new Date(topPicks.refreshesAt);
+    return refreshDate.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
+  };
+
+  if (profiles.length === 0) {
+    return (
+      <div className="max-w-4xl mx-auto px-2 sm:px-3 md:px-4 py-3 sm:py-4 md:py-6 lg:py-8">
+        <div className="text-center space-y-4 sm:space-y-5 md:space-y-6">
+          <div className="flex items-center justify-center">
+            <Sparkles className="w-16 h-16 text-primary animate-pulse-soft" />
+          </div>
+          <h1 className="text-3xl font-heading font-bold">No Top Picks Yet</h1>
+          <p className="text-muted-foreground max-w-md mx-auto">
+            We're working on finding your perfect matches. Check back later or start swiping to
+            help us understand your preferences better.
+          </p>
+          <Button onClick={() => navigate("/discover")} size="lg" className="bg-gradient-love">
+            Start Discovering
+          </Button>
+        </div>
+      </div>
+    );
+  }
+
+  if (currentIndex >= profiles.length) {
+    return (
+      <div className="max-w-4xl mx-auto px-2 sm:px-3 md:px-4 py-3 sm:py-4 md:py-6 lg:py-8">
+        <div className="text-center space-y-4 sm:space-y-5 md:space-y-6">
+          <div className="flex items-center justify-center">
+            <Clock className="w-16 h-16 text-primary animate-pulse-soft" />
+          </div>
+          <h1 className="text-3xl font-heading font-bold">You've Seen All Your Top Picks!</h1>
+          <p className="text-muted-foreground max-w-md mx-auto">
+            New picks will be available tomorrow at midnight. In the meantime, keep swiping in
+            Discover!
+          </p>
+          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+            <Button onClick={() => navigate("/discover")} size="lg" className="bg-gradient-love">
+              Continue Discovering
+            </Button>
+            <Button onClick={() => navigate("/matches")} size="lg" variant="outline">
+              View Matches
+            </Button>
+          </div>
+          {topPicks.refreshesAt && (
+            <p className="text-sm text-muted-foreground flex items-center justify-center gap-2">
+              <Clock className="w-4 h-4" />
+              New picks refresh at {getRefreshTime()}
+            </p>
+          )}
+        </div>
+      </div>
+    );
+  }
+
+  const primaryPhoto = currentProfile.photos?.[0];
+
+  return (
+    <div className="max-w-4xl mx-auto px-2 sm:px-3 md:px-4 py-3 sm:py-4 md:py-6 lg:py-8">
+      {/* Header */}
+      <div className="mb-4 sm:mb-5 md:mb-6 text-center space-y-1.5 sm:space-y-2">
+        <div className="flex items-center justify-center gap-2">
+          <Sparkles className="w-6 h-6 text-primary animate-pulse-soft" />
+          <h1 className="text-3xl font-heading font-bold bg-gradient-love bg-clip-text text-transparent">
+            Today's Top Picks
+          </h1>
+          <Sparkles className="w-6 h-6 text-primary animate-pulse-soft" />
+        </div>
+        <p className="text-muted-foreground">
+          High-quality matches curated just for you
+        </p>
+        <div className="flex items-center justify-center gap-2 text-sm text-muted-foreground">
+          <span>
+            {currentIndex + 1} of {profiles.length}
+          </span>
+          {topPicks.refreshesAt && (
+            <>
+              <span>•</span>
+              <Clock className="w-4 h-4" />
+              <span>Refreshes at {getRefreshTime()}</span>
+            </>
+          )}
+        </div>
+      </div>
+
+      {/* Profile Card */}
+      <div className="max-w-md mx-auto">
+        <Card
+          className={`glass-card border-none overflow-hidden transition-all duration-300 ${
+            isAnimating ? "scale-95 opacity-50" : "scale-100 opacity-100"
+          }`}
+        >
+          {/* Photo */}
+          <div className="relative aspect-[3/4] bg-gradient-to-br from-primary/20 to-secondary/20">
+            {primaryPhoto ? (
+              <img
+                src={primaryPhoto.url}
+                alt={currentProfile.name}
+                className="w-full h-full object-cover"
+              />
+            ) : (
+              <div className="w-full h-full flex items-center justify-center">
+                <Heart className="w-16 h-16 text-muted-foreground opacity-20" />
+              </div>
+            )}
+
+            {/* Match Score Badge */}
+            <div className="absolute top-4 right-4">
+              <Badge className="bg-gradient-to-r from-amber-500 to-orange-500 text-white shadow-lg">
+                <Sparkles className="w-3 h-3 mr-1" />
+                {currentProfile.matchScore}% Match
+              </Badge>
+            </div>
+
+            {/* Gradient Overlay */}
+            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent" />
+
+            {/* Profile Info */}
+            <div className="absolute bottom-0 left-0 right-0 p-6 text-white">
+              <div className="space-y-2">
+                <h2 className="text-2xl font-bold">
+                  {currentProfile.name}, {currentProfile.age}
+                </h2>
+                <p className="text-sm opacity-90">{currentProfile.location}</p>
+                
+                {/* Match Reason */}
+                {currentProfile.matchReason && (
+                  <div className="flex items-center gap-2 text-sm bg-white/20 backdrop-blur-sm rounded-full px-3 py-1.5 w-fit">
+                    <Sparkles className="w-3 h-3" />
+                    <span>{currentProfile.matchReason}</span>
+                  </div>
+                )}
+
+                {/* Bio Preview */}
+                {currentProfile.bio && (
+                  <p className="text-sm opacity-90 line-clamp-2 mt-2">
+                    {currentProfile.bio}
+                  </p>
+                )}
+
+                {/* Interests */}
+                {currentProfile.interests && currentProfile.interests.length > 0 && (
+                  <div className="flex flex-wrap gap-2 mt-3">
+                    {currentProfile.interests.slice(0, 3).map((interest: string, idx: number) => (
+                      <Badge key={idx} variant="secondary" className="bg-white/20 backdrop-blur-sm text-white border-none">
+                        {interest}
+                      </Badge>
+                    ))}
+                    {currentProfile.interests.length > 3 && (
+                      <Badge variant="secondary" className="bg-white/20 backdrop-blur-sm text-white border-none">
+                        +{currentProfile.interests.length - 3}
+                      </Badge>
+                    )}
+                  </div>
+                )}
+              </div>
+            </div>
+          </div>
+
+          {/* Action Buttons */}
+          <CardContent className="p-6">
+            <div className="flex items-center justify-center gap-4">
+              {/* Pass Button */}
+              <Button
+                onClick={handlePass}
+                disabled={isAnimating}
+                size="lg"
+                variant="outline"
+                className="rounded-full w-16 h-16 p-0 border-2 border-red-500 hover:bg-red-50 hover:border-red-600 transition-all"
+              >
+                <X className="w-8 h-8 text-red-500" />
+              </Button>
+
+              {/* Super Like Button */}
+              <Button
+                onClick={handleSuperLike}
+                disabled={isAnimating}
+                size="lg"
+                className="rounded-full w-14 h-14 p-0 bg-gradient-to-r from-blue-500 to-purple-500 hover:from-blue-600 hover:to-purple-600 shadow-lg hover:shadow-xl transition-all"
+              >
+                <Star className="w-6 h-6 text-white fill-white" />
+              </Button>
+
+              {/* Like Button */}
+              <Button
+                onClick={handleLike}
+                disabled={isAnimating}
+                size="lg"
+                className="rounded-full w-16 h-16 p-0 bg-gradient-to-r from-green-500 to-emerald-500 hover:from-green-600 hover:to-emerald-600 shadow-lg hover:shadow-xl transition-all"
+              >
+                <Heart className="w-8 h-8 text-white" />
+              </Button>
+            </div>
+          </CardContent>
+        </Card>
+      </div>
+    </div>
+  );
+};
+
+export default TopPicks;

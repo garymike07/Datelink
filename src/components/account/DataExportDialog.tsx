@@ -1,1 +1,226 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IHVzZU11dGF0aW9uLCB1c2VRdWVyeSB9IGZyb20gImNvbnZleC9yZWFjdCI7CmltcG9ydCB7IGFwaSB9IGZyb20gIi4uLy4uLy4uL2NvbnZleC9fZ2VuZXJhdGVkL2FwaSI7CmltcG9ydCB7CiAgRGlhbG9nLAogIERpYWxvZ0NvbnRlbnQsCiAgRGlhbG9nRGVzY3JpcHRpb24sCiAgRGlhbG9nRm9vdGVyLAogIERpYWxvZ0hlYWRlciwKICBEaWFsb2dUaXRsZSwKICBEaWFsb2dUcmlnZ2VyLAp9IGZyb20gIkAvY29tcG9uZW50cy91aS9kaWFsb2ciOwppbXBvcnQgeyBCdXR0b24gfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvYnV0dG9uIjsKaW1wb3J0IHsgdG9hc3QgfSBmcm9tICJzb25uZXIiOwppbXBvcnQgeyBEb3dubG9hZCwgRmlsZUpzb24sIENsb2NrLCBDaGVja0NpcmNsZTIsIExvYWRlcjIsIEluZm8gfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyBBbGVydCwgQWxlcnREZXNjcmlwdGlvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS9hbGVydCI7CmltcG9ydCB7IFByb2dyZXNzIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL3Byb2dyZXNzIjsKaW1wb3J0IHsgdXNlQXV0aCB9IGZyb20gIkAvY29udGV4dHMvQXV0aENvbnRleHQiOwoKZXhwb3J0IGZ1bmN0aW9uIERhdGFFeHBvcnREaWFsb2coKSB7CiAgY29uc3QgW29wZW4sIHNldE9wZW5dID0gdXNlU3RhdGUoZmFsc2UpOwogIGNvbnN0IFtpc1JlcXVlc3RpbmcsIHNldElzUmVxdWVzdGluZ10gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgeyB0b2tlbiB9ID0gdXNlQXV0aCgpOwoKICBjb25zdCBkYXRhRXhwb3J0ID0gdXNlUXVlcnkoYXBpLmRhdGFFeHBvcnQuZ2V0RGF0YUV4cG9ydCwgdG9rZW4gPyB7IHRva2VuIH0gOiAic2tpcCIpOwogIGNvbnN0IHJlcXVlc3RFeHBvcnQgPSB1c2VNdXRhdGlvbihhcGkuZGF0YUV4cG9ydC5yZXF1ZXN0RGF0YUV4cG9ydCk7CiAgY29uc3QgbWFya0Rvd25sb2FkZWQgPSB1c2VNdXRhdGlvbihhcGkuZGF0YUV4cG9ydC5tYXJrRXhwb3J0RG93bmxvYWRlZCk7CgogIGNvbnN0IGhhbmRsZVJlcXVlc3RFeHBvcnQgPSBhc3luYyAoKSA9PiB7CiAgICBpZiAoIXRva2VuKSB7CiAgICAgIHRvYXN0LmVycm9yKCJZb3UgbXVzdCBiZSBsb2dnZWQgaW4gdG8gcmVxdWVzdCBhbiBleHBvcnQiKTsKICAgICAgcmV0dXJuOwogICAgfQogICAgc2V0SXNSZXF1ZXN0aW5nKHRydWUpOwogICAgdHJ5IHsKICAgICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgcmVxdWVzdEV4cG9ydCh7IHRva2VuIH0pOwogICAgICB0b2FzdC5zdWNjZXNzKHJlc3VsdC5tZXNzYWdlKTsKICAgIH0gY2F0Y2ggKGVycm9yOiBhbnkpIHsKICAgICAgdG9hc3QuZXJyb3IoZXJyb3IubWVzc2FnZSB8fCAiRmFpbGVkIHRvIHJlcXVlc3QgZGF0YSBleHBvcnQiKTsKICAgIH0gZmluYWxseSB7CiAgICAgIHNldElzUmVxdWVzdGluZyhmYWxzZSk7CiAgICB9CiAgfTsKCiAgY29uc3QgaGFuZGxlRG93bmxvYWQgPSBhc3luYyAoKSA9PiB7CiAgICBpZiAoIWRhdGFFeHBvcnQgfHwgIWRhdGFFeHBvcnQuZmlsZVVybCkgcmV0dXJuOwogICAgaWYgKCF0b2tlbikgewogICAgICB0b2FzdC5lcnJvcigiWW91IG11c3QgYmUgbG9nZ2VkIGluIHRvIGRvd25sb2FkIGV4cG9ydHMiKTsKICAgICAgcmV0dXJuOwogICAgfQoKICAgIHRyeSB7CiAgICAgIC8vIENyZWF0ZSBhIGJsb2IgZnJvbSB0aGUgZGF0YSBVUkwKICAgICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBmZXRjaChkYXRhRXhwb3J0LmZpbGVVcmwpOwogICAgICBjb25zdCBibG9iID0gYXdhaXQgcmVzcG9uc2UuYmxvYigpOwogICAgICAKICAgICAgLy8gQ3JlYXRlIGRvd25sb2FkIGxpbmsKICAgICAgY29uc3QgdXJsID0gd2luZG93LlVSTC5jcmVhdGVPYmplY3RVUkwoYmxvYik7CiAgICAgIGNvbnN0IGxpbmsgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCJhIik7CiAgICAgIGxpbmsuaHJlZiA9IHVybDsKICAgICAgbGluay5kb3dubG9hZCA9IGBkYXRlbGluay1kYXRhLWV4cG9ydC0ke25ldyBEYXRlKCkudG9JU09TdHJpbmcoKS5zcGxpdCgiVCIpWzBdfS5qc29uYDsKICAgICAgZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChsaW5rKTsKICAgICAgbGluay5jbGljaygpOwogICAgICBkb2N1bWVudC5ib2R5LnJlbW92ZUNoaWxkKGxpbmspOwogICAgICB3aW5kb3cuVVJMLnJldm9rZU9iamVjdFVSTCh1cmwpOwoKICAgICAgLy8gTWFyayBhcyBkb3dubG9hZGVkCiAgICAgIGF3YWl0IG1hcmtEb3dubG9hZGVkKHsgZXhwb3J0SWQ6IGRhdGFFeHBvcnQuX2lkLCB0b2tlbiB9KTsKICAgICAgdG9hc3Quc3VjY2VzcygiRGF0YSBleHBvcnQgZG93bmxvYWRlZCBzdWNjZXNzZnVsbHkiKTsKICAgIH0gY2F0Y2ggKGVycm9yOiBhbnkpIHsKICAgICAgdG9hc3QuZXJyb3IoIkZhaWxlZCB0byBkb3dubG9hZCBleHBvcnQiKTsKICAgIH0KICB9OwoKICBjb25zdCBnZXRFeHBpcmVzSW5EYXlzID0gKCkgPT4gewogICAgaWYgKCFkYXRhRXhwb3J0Py5leHBpcmVzQXQpIHJldHVybiAwOwogICAgcmV0dXJuIE1hdGguY2VpbCgoZGF0YUV4cG9ydC5leHBpcmVzQXQgLSBEYXRlLm5vdygpKSAvICgxMDAwICogNjAgKiA2MCAqIDI0KSk7CiAgfTsKCiAgY29uc3QgZm9ybWF0RmlsZVNpemUgPSAoYnl0ZXM/OiBudW1iZXIpID0+IHsKICAgIGlmICghYnl0ZXMpIHJldHVybiAiVW5rbm93biI7CiAgICBpZiAoYnl0ZXMgPCAxMDI0KSByZXR1cm4gYnl0ZXMgKyAiIEIiOwogICAgaWYgKGJ5dGVzIDwgMTAyNCAqIDEwMjQpIHJldHVybiAoYnl0ZXMgLyAxMDI0KS50b0ZpeGVkKDIpICsgIiBLQiI7CiAgICByZXR1cm4gKGJ5dGVzIC8gKDEwMjQgKiAxMDI0KSkudG9GaXhlZCgyKSArICIgTUIiOwogIH07CgogIHJldHVybiAoCiAgICA8RGlhbG9nIG9wZW49e29wZW59IG9uT3BlbkNoYW5nZT17c2V0T3Blbn0+CiAgICAgIDxEaWFsb2dUcmlnZ2VyIGFzQ2hpbGQ+CiAgICAgICAgPEJ1dHRvbiB2YXJpYW50PSJvdXRsaW5lIiBjbGFzc05hbWU9InctZnVsbCI+CiAgICAgICAgICA8RG93bmxvYWQgY2xhc3NOYW1lPSJtci0yIGgtNCB3LTQiIC8+CiAgICAgICAgICBEb3dubG9hZCBNeSBEYXRhCiAgICAgICAgPC9CdXR0b24+CiAgICAgIDwvRGlhbG9nVHJpZ2dlcj4KICAgICAgPERpYWxvZ0NvbnRlbnQgY2xhc3NOYW1lPSJtYXgtdy1sZyI+CiAgICAgICAgPERpYWxvZ0hlYWRlcj4KICAgICAgICAgIDxEaWFsb2dUaXRsZSBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIj4KICAgICAgICAgICAgPEZpbGVKc29uIGNsYXNzTmFtZT0iaC01IHctNSIgLz4KICAgICAgICAgICAgRG93bmxvYWQgWW91ciBEYXRhCiAgICAgICAgICA8L0RpYWxvZ1RpdGxlPgogICAgICAgICAgPERpYWxvZ0Rlc2NyaXB0aW9uPgogICAgICAgICAgICBFeHBvcnQgYWxsIHlvdXIgcGVyc29uYWwgZGF0YSBpbiBKU09OIGZvcm1hdCBmb3IgR0RQUiBjb21wbGlhbmNlLgogICAgICAgICAgPC9EaWFsb2dEZXNjcmlwdGlvbj4KICAgICAgICA8L0RpYWxvZ0hlYWRlcj4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktNCBweS00Ij4KICAgICAgICAgIDxBbGVydD4KICAgICAgICAgICAgPEluZm8gY2xhc3NOYW1lPSJoLTQgdy00IiAvPgogICAgICAgICAgICA8QWxlcnREZXNjcmlwdGlvbj4KICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9ImZvbnQtc2VtaWJvbGQgbWItMSI+V2hhdCdzIGluY2x1ZGVkOjwvcD4KICAgICAgICAgICAgICA8dWwgY2xhc3NOYW1lPSJ0ZXh0LXNtIHNwYWNlLXktMSBsaXN0LWRpc2MgcGwtNCI+CiAgICAgICAgICAgICAgICA8bGk+QWNjb3VudCBpbmZvcm1hdGlvbiBhbmQgcHJvZmlsZSBkYXRhPC9saT4KICAgICAgICAgICAgICAgIDxsaT5QaG90b3MgYW5kIHZlcmlmaWNhdGlvbiBzdGF0dXM8L2xpPgogICAgICAgICAgICAgICAgPGxpPk1hdGNoZXMgYW5kIG1lc3NhZ2VzIChhbm9ueW1pemVkKTwvbGk+CiAgICAgICAgICAgICAgICA8bGk+TGlrZXMgc2VudCBhbmQgcmVjZWl2ZWQ8L2xpPgogICAgICAgICAgICAgICAgPGxpPlNldHRpbmdzIGFuZCBwcmVmZXJlbmNlczwvbGk+CiAgICAgICAgICAgICAgICA8bGk+U3Vic2NyaXB0aW9uIGFuZCBwYXltZW50IGhpc3Rvcnk8L2xpPgogICAgICAgICAgICAgICAgPGxpPkFjdGl2aXR5IGxvZ3MgYW5kIGdhbWlmaWNhdGlvbiBkYXRhPC9saT4KICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICA8L0FsZXJ0RGVzY3JpcHRpb24+CiAgICAgICAgICA8L0FsZXJ0PgoKICAgICAgICAgIHtkYXRhRXhwb3J0Py5zdGF0dXMgPT09ICJwcm9jZXNzaW5nIiAmJiAoCiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTIiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4gdGV4dC1zbSI+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIj4KICAgICAgICAgICAgICAgICAgPExvYWRlcjIgY2xhc3NOYW1lPSJoLTQgdy00IGFuaW1hdGUtc3BpbiIgLz4KICAgICAgICAgICAgICAgICAgUHJvY2Vzc2luZyB5b3VyIGRhdGEuLi4KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8UHJvZ3Jlc3MgdmFsdWU9ezUwfSBjbGFzc05hbWU9ImgtMiIgLz4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICApfQoKICAgICAgICAgIHtkYXRhRXhwb3J0Py5zdGF0dXMgPT09ICJjb21wbGV0ZWQiICYmICgKICAgICAgICAgICAgPEFsZXJ0IGNsYXNzTmFtZT0iYm9yZGVyLWdyZWVuLTIwMCBiZy1ncmVlbi01MCI+CiAgICAgICAgICAgICAgPENoZWNrQ2lyY2xlMiBjbGFzc05hbWU9ImgtNCB3LTQgdGV4dC1ncmVlbi02MDAiIC8+CiAgICAgICAgICAgICAgPEFsZXJ0RGVzY3JpcHRpb24+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0yIj4KICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJmb250LXNlbWlib2xkIHRleHQtZ3JlZW4tODAwIj4KICAgICAgICAgICAgICAgICAgICBZb3VyIGRhdGEgZXhwb3J0IGlzIHJlYWR5IQogICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LXNtIHNwYWNlLXktMSI+CiAgICAgICAgICAgICAgICAgICAgPHA+RmlsZSBzaXplOiB7Zm9ybWF0RmlsZVNpemUoZGF0YUV4cG9ydC5maWxlU2l6ZSl9PC9wPgogICAgICAgICAgICAgICAgICAgIDxwPkNyZWF0ZWQ6IHtuZXcgRGF0ZShkYXRhRXhwb3J0LmNvbXBsZXRlZEF0ISkudG9Mb2NhbGVTdHJpbmcoKX08L3A+CiAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMSI+CiAgICAgICAgICAgICAgICAgICAgICA8Q2xvY2sgY2xhc3NOYW1lPSJoLTMgdy0zIiAvPgogICAgICAgICAgICAgICAgICAgICAgRXhwaXJlcyBpbiB7Z2V0RXhwaXJlc0luRGF5cygpfSBkYXlzCiAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICAgIHtkYXRhRXhwb3J0LmRvd25sb2FkZWRBdCAmJiAoCiAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgICAgICAgICAgICAgTGFzdCBkb3dubG9hZGVkOnsiICJ9CiAgICAgICAgICAgICAgICAgICAgICAgIHtuZXcgRGF0ZShkYXRhRXhwb3J0LmRvd25sb2FkZWRBdCkudG9Mb2NhbGVTdHJpbmcoKX0KICAgICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvQWxlcnREZXNjcmlwdGlvbj4KICAgICAgICAgICAgPC9BbGVydD4KICAgICAgICAgICl9CgogICAgICAgICAge2RhdGFFeHBvcnQ/LnN0YXR1cyA9PT0gImV4cGlyZWQiICYmICgKICAgICAgICAgICAgPEFsZXJ0IHZhcmlhbnQ9ImRlc3RydWN0aXZlIj4KICAgICAgICAgICAgICA8QWxlcnREZXNjcmlwdGlvbj4KICAgICAgICAgICAgICAgIFlvdXIgcHJldmlvdXMgZGF0YSBleHBvcnQgaGFzIGV4cGlyZWQuIFJlcXVlc3QgYSBuZXcgb25lIGJlbG93LgogICAgICAgICAgICAgIDwvQWxlcnREZXNjcmlwdGlvbj4KICAgICAgICAgICAgPC9BbGVydD4KICAgICAgICAgICl9CgogICAgICAgICAge2RhdGFFeHBvcnQ/LnN0YXR1cyA9PT0gImZhaWxlZCIgJiYgKAogICAgICAgICAgICA8QWxlcnQgdmFyaWFudD0iZGVzdHJ1Y3RpdmUiPgogICAgICAgICAgICAgIDxBbGVydERlc2NyaXB0aW9uPgogICAgICAgICAgICAgICAgRmFpbGVkIHRvIGdlbmVyYXRlIGRhdGEgZXhwb3J0LiBQbGVhc2UgdHJ5IGFnYWluIG9yIGNvbnRhY3Qgc3VwcG9ydC4KICAgICAgICAgICAgICA8L0FsZXJ0RGVzY3JpcHRpb24+CiAgICAgICAgICAgIDwvQWxlcnQ+CiAgICAgICAgICApfQoKICAgICAgICAgIHshZGF0YUV4cG9ydCAmJiAoCiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgICAgIE5vIGRhdGEgZXhwb3J0IHJlcXVlc3RlZCB5ZXQuIENsaWNrIGJlbG93IHRvIGdlbmVyYXRlIHlvdXIgZXhwb3J0LgogICAgICAgICAgICA8L3A+CiAgICAgICAgICApfQogICAgICAgIDwvZGl2PgoKICAgICAgICA8RGlhbG9nRm9vdGVyIGNsYXNzTmFtZT0iZmxleC1jb2wgc206ZmxleC1yb3cgZ2FwLTIiPgogICAgICAgICAge2RhdGFFeHBvcnQ/LnN0YXR1cyA9PT0gImNvbXBsZXRlZCIgJiYgKAogICAgICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9e2hhbmRsZURvd25sb2FkfSBjbGFzc05hbWU9InctZnVsbCBzbTp3LWF1dG8iPgogICAgICAgICAgICAgIDxEb3dubG9hZCBjbGFzc05hbWU9Im1yLTIgaC00IHctNCIgLz4KICAgICAgICAgICAgICBEb3dubG9hZCBKU09OCiAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgKX0KICAgICAgICAgIAogICAgICAgICAgeyghZGF0YUV4cG9ydCB8fCAKICAgICAgICAgICAgZGF0YUV4cG9ydC5zdGF0dXMgPT09ICJleHBpcmVkIiB8fCAKICAgICAgICAgICAgZGF0YUV4cG9ydC5zdGF0dXMgPT09ICJmYWlsZWQiKSAmJiAoCiAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICBvbkNsaWNrPXtoYW5kbGVSZXF1ZXN0RXhwb3J0fQogICAgICAgICAgICAgIGRpc2FibGVkPXtpc1JlcXVlc3Rpbmd9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ3LWZ1bGwgc206dy1hdXRvIgogICAgICAgICAgICA+CiAgICAgICAgICAgICAge2lzUmVxdWVzdGluZyA/ICgKICAgICAgICAgICAgICAgIDw+CiAgICAgICAgICAgICAgICAgIDxMb2FkZXIyIGNsYXNzTmFtZT0ibXItMiBoLTQgdy00IGFuaW1hdGUtc3BpbiIgLz4KICAgICAgICAgICAgICAgICAgR2VuZXJhdGluZy4uLgogICAgICAgICAgICAgICAgPC8+CiAgICAgICAgICAgICAgKSA6ICgKICAgICAgICAgICAgICAgIDw+CiAgICAgICAgICAgICAgICAgIDxGaWxlSnNvbiBjbGFzc05hbWU9Im1yLTIgaC00IHctNCIgLz4KICAgICAgICAgICAgICAgICAgR2VuZXJhdGUgRXhwb3J0CiAgICAgICAgICAgICAgICA8Lz4KICAgICAgICAgICAgICApfQogICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICl9CiAgICAgICAgICAKICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgdmFyaWFudD0ib3V0bGluZSIKICAgICAgICAgICAgb25DbGljaz17KCkgPT4gc2V0T3BlbihmYWxzZSl9CiAgICAgICAgICAgIGNsYXNzTmFtZT0idy1mdWxsIHNtOnctYXV0byIKICAgICAgICAgID4KICAgICAgICAgICAgQ2xvc2UKICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgIDwvRGlhbG9nRm9vdGVyPgogICAgICA8L0RpYWxvZ0NvbnRlbnQ+CiAgICA8L0RpYWxvZz4KICApOwp9Cg=="}
+import { useState } from "react";
+import { useMutation, useQuery } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogFooter,
+  DialogHeader,
+  DialogTitle,
+  DialogTrigger,
+} from "@/components/ui/dialog";
+import { Button } from "@/components/ui/button";
+import { toast } from "sonner";
+import { Download, FileJson, Clock, CheckCircle2, Loader2, Info } from "lucide-react";
+import { Alert, AlertDescription } from "@/components/ui/alert";
+import { Progress } from "@/components/ui/progress";
+import { useAuth } from "@/contexts/AuthContext";
+
+export function DataExportDialog() {
+  const [open, setOpen] = useState(false);
+  const [isRequesting, setIsRequesting] = useState(false);
+  const { token } = useAuth();
+
+  const dataExport = useQuery(api.dataExport.getDataExport, token ? { token } : "skip");
+  const requestExport = useMutation(api.dataExport.requestDataExport);
+  const markDownloaded = useMutation(api.dataExport.markExportDownloaded);
+
+  const handleRequestExport = async () => {
+    if (!token) {
+      toast.error("You must be logged in to request an export");
+      return;
+    }
+    setIsRequesting(true);
+    try {
+      const result = await requestExport({ token });
+      toast.success(result.message);
+    } catch (error: any) {
+      toast.error(error.message || "Failed to request data export");
+    } finally {
+      setIsRequesting(false);
+    }
+  };
+
+  const handleDownload = async () => {
+    if (!dataExport || !dataExport.fileUrl) return;
+    if (!token) {
+      toast.error("You must be logged in to download exports");
+      return;
+    }
+
+    try {
+      // Create a blob from the data URL
+      const response = await fetch(dataExport.fileUrl);
+      const blob = await response.blob();
+      
+      // Create download link
+      const url = window.URL.createObjectURL(blob);
+      const link = document.createElement("a");
+      link.href = url;
+      link.download = `datelink-data-export-${new Date().toISOString().split("T")[0]}.json`;
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+      window.URL.revokeObjectURL(url);
+
+      // Mark as downloaded
+      await markDownloaded({ exportId: dataExport._id, token });
+      toast.success("Data export downloaded successfully");
+    } catch (error: any) {
+      toast.error("Failed to download export");
+    }
+  };
+
+  const getExpiresInDays = () => {
+    if (!dataExport?.expiresAt) return 0;
+    return Math.ceil((dataExport.expiresAt - Date.now()) / (1000 * 60 * 60 * 24));
+  };
+
+  const formatFileSize = (bytes?: number) => {
+    if (!bytes) return "Unknown";
+    if (bytes < 1024) return bytes + " B";
+    if (bytes < 1024 * 1024) return (bytes / 1024).toFixed(2) + " KB";
+    return (bytes / (1024 * 1024)).toFixed(2) + " MB";
+  };
+
+  return (
+    <Dialog open={open} onOpenChange={setOpen}>
+      <DialogTrigger asChild>
+        <Button variant="outline" className="w-full">
+          <Download className="mr-2 h-4 w-4" />
+          Download My Data
+        </Button>
+      </DialogTrigger>
+      <DialogContent className="max-w-lg">
+        <DialogHeader>
+          <DialogTitle className="flex items-center gap-2">
+            <FileJson className="h-5 w-5" />
+            Download Your Data
+          </DialogTitle>
+          <DialogDescription>
+            Export all your personal data in JSON format for GDPR compliance.
+          </DialogDescription>
+        </DialogHeader>
+
+        <div className="space-y-4 py-4">
+          <Alert>
+            <Info className="h-4 w-4" />
+            <AlertDescription>
+              <p className="font-semibold mb-1">What's included:</p>
+              <ul className="text-sm space-y-1 list-disc pl-4">
+                <li>Account information and profile data</li>
+                <li>Photos and verification status</li>
+                <li>Matches and messages (anonymized)</li>
+                <li>Likes sent and received</li>
+                <li>Settings and preferences</li>
+                <li>Subscription and payment history</li>
+                <li>Activity logs and gamification data</li>
+              </ul>
+            </AlertDescription>
+          </Alert>
+
+          {dataExport?.status === "processing" && (
+            <div className="space-y-2">
+              <div className="flex items-center justify-between text-sm">
+                <span className="flex items-center gap-2">
+                  <Loader2 className="h-4 w-4 animate-spin" />
+                  Processing your data...
+                </span>
+              </div>
+              <Progress value={50} className="h-2" />
+            </div>
+          )}
+
+          {dataExport?.status === "completed" && (
+            <Alert className="border-green-200 bg-green-50">
+              <CheckCircle2 className="h-4 w-4 text-green-600" />
+              <AlertDescription>
+                <div className="space-y-2">
+                  <p className="font-semibold text-green-800">
+                    Your data export is ready!
+                  </p>
+                  <div className="text-sm space-y-1">
+                    <p>File size: {formatFileSize(dataExport.fileSize)}</p>
+                    <p>Created: {new Date(dataExport.completedAt!).toLocaleString()}</p>
+                    <p className="flex items-center gap-1">
+                      <Clock className="h-3 w-3" />
+                      Expires in {getExpiresInDays()} days
+                    </p>
+                    {dataExport.downloadedAt && (
+                      <p className="text-xs text-muted-foreground">
+                        Last downloaded:{" "}
+                        {new Date(dataExport.downloadedAt).toLocaleString()}
+                      </p>
+                    )}
+                  </div>
+                </div>
+              </AlertDescription>
+            </Alert>
+          )}
+
+          {dataExport?.status === "expired" && (
+            <Alert variant="destructive">
+              <AlertDescription>
+                Your previous data export has expired. Request a new one below.
+              </AlertDescription>
+            </Alert>
+          )}
+
+          {dataExport?.status === "failed" && (
+            <Alert variant="destructive">
+              <AlertDescription>
+                Failed to generate data export. Please try again or contact support.
+              </AlertDescription>
+            </Alert>
+          )}
+
+          {!dataExport && (
+            <p className="text-sm text-muted-foreground">
+              No data export requested yet. Click below to generate your export.
+            </p>
+          )}
+        </div>
+
+        <DialogFooter className="flex-col sm:flex-row gap-2">
+          {dataExport?.status === "completed" && (
+            <Button onClick={handleDownload} className="w-full sm:w-auto">
+              <Download className="mr-2 h-4 w-4" />
+              Download JSON
+            </Button>
+          )}
+          
+          {(!dataExport || 
+            dataExport.status === "expired" || 
+            dataExport.status === "failed") && (
+            <Button
+              onClick={handleRequestExport}
+              disabled={isRequesting}
+              className="w-full sm:w-auto"
+            >
+              {isRequesting ? (
+                <>
+                  <Loader2 className="mr-2 h-4 w-4 animate-spin" />
+                  Generating...
+                </>
+              ) : (
+                <>
+                  <FileJson className="mr-2 h-4 w-4" />
+                  Generate Export
+                </>
+              )}
+            </Button>
+          )}
+          
+          <Button
+            variant="outline"
+            onClick={() => setOpen(false)}
+            className="w-full sm:w-auto"
+          >
+            Close
+          </Button>
+        </DialogFooter>
+      </DialogContent>
+    </Dialog>
+  );
+}

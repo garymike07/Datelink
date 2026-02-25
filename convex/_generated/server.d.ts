@@ -1,1 +1,143 @@
-{"data":"LyogZXNsaW50LWRpc2FibGUgKi8KLyoqCiAqIEdlbmVyYXRlZCB1dGlsaXRpZXMgZm9yIGltcGxlbWVudGluZyBzZXJ2ZXItc2lkZSBDb252ZXggcXVlcnkgYW5kIG11dGF0aW9uIGZ1bmN0aW9ucy4KICoKICogVEhJUyBDT0RFIElTIEFVVE9NQVRJQ0FMTFkgR0VORVJBVEVELgogKgogKiBUbyByZWdlbmVyYXRlLCBydW4gYG5weCBjb252ZXggZGV2YC4KICogQG1vZHVsZQogKi8KCmltcG9ydCB7CiAgQWN0aW9uQnVpbGRlciwKICBIdHRwQWN0aW9uQnVpbGRlciwKICBNdXRhdGlvbkJ1aWxkZXIsCiAgUXVlcnlCdWlsZGVyLAogIEdlbmVyaWNBY3Rpb25DdHgsCiAgR2VuZXJpY011dGF0aW9uQ3R4LAogIEdlbmVyaWNRdWVyeUN0eCwKICBHZW5lcmljRGF0YWJhc2VSZWFkZXIsCiAgR2VuZXJpY0RhdGFiYXNlV3JpdGVyLAp9IGZyb20gImNvbnZleC9zZXJ2ZXIiOwppbXBvcnQgdHlwZSB7IERhdGFNb2RlbCB9IGZyb20gIi4vZGF0YU1vZGVsLmpzIjsKCi8qKgogKiBEZWZpbmUgYSBxdWVyeSBpbiB0aGlzIENvbnZleCBhcHAncyBwdWJsaWMgQVBJLgogKgogKiBUaGlzIGZ1bmN0aW9uIHdpbGwgYmUgYWxsb3dlZCB0byByZWFkIHlvdXIgQ29udmV4IGRhdGFiYXNlIGFuZCB3aWxsIGJlIGFjY2Vzc2libGUgZnJvbSB0aGUgY2xpZW50LgogKgogKiBAcGFyYW0gZnVuYyAtIFRoZSBxdWVyeSBmdW5jdGlvbi4gSXQgcmVjZWl2ZXMgYSB7QGxpbmsgUXVlcnlDdHh9IGFzIGl0cyBmaXJzdCBhcmd1bWVudC4KICogQHJldHVybnMgVGhlIHdyYXBwZWQgcXVlcnkuIEluY2x1ZGUgdGhpcyBhcyBhbiBgZXhwb3J0YCB0byBuYW1lIGl0IGFuZCBtYWtlIGl0IGFjY2Vzc2libGUuCiAqLwpleHBvcnQgZGVjbGFyZSBjb25zdCBxdWVyeTogUXVlcnlCdWlsZGVyPERhdGFNb2RlbCwgInB1YmxpYyI+OwoKLyoqCiAqIERlZmluZSBhIHF1ZXJ5IHRoYXQgaXMgb25seSBhY2Nlc3NpYmxlIGZyb20gb3RoZXIgQ29udmV4IGZ1bmN0aW9ucyAoYnV0IG5vdCBmcm9tIHRoZSBjbGllbnQpLgogKgogKiBUaGlzIGZ1bmN0aW9uIHdpbGwgYmUgYWxsb3dlZCB0byByZWFkIGZyb20geW91ciBDb252ZXggZGF0YWJhc2UuIEl0IHdpbGwgbm90IGJlIGFjY2Vzc2libGUgZnJvbSB0aGUgY2xpZW50LgogKgogKiBAcGFyYW0gZnVuYyAtIFRoZSBxdWVyeSBmdW5jdGlvbi4gSXQgcmVjZWl2ZXMgYSB7QGxpbmsgUXVlcnlDdHh9IGFzIGl0cyBmaXJzdCBhcmd1bWVudC4KICogQHJldHVybnMgVGhlIHdyYXBwZWQgcXVlcnkuIEluY2x1ZGUgdGhpcyBhcyBhbiBgZXhwb3J0YCB0byBuYW1lIGl0IGFuZCBtYWtlIGl0IGFjY2Vzc2libGUuCiAqLwpleHBvcnQgZGVjbGFyZSBjb25zdCBpbnRlcm5hbFF1ZXJ5OiBRdWVyeUJ1aWxkZXI8RGF0YU1vZGVsLCAiaW50ZXJuYWwiPjsKCi8qKgogKiBEZWZpbmUgYSBtdXRhdGlvbiBpbiB0aGlzIENvbnZleCBhcHAncyBwdWJsaWMgQVBJLgogKgogKiBUaGlzIGZ1bmN0aW9uIHdpbGwgYmUgYWxsb3dlZCB0byBtb2RpZnkgeW91ciBDb252ZXggZGF0YWJhc2UgYW5kIHdpbGwgYmUgYWNjZXNzaWJsZSBmcm9tIHRoZSBjbGllbnQuCiAqCiAqIEBwYXJhbSBmdW5jIC0gVGhlIG11dGF0aW9uIGZ1bmN0aW9uLiBJdCByZWNlaXZlcyBhIHtAbGluayBNdXRhdGlvbkN0eH0gYXMgaXRzIGZpcnN0IGFyZ3VtZW50LgogKiBAcmV0dXJucyBUaGUgd3JhcHBlZCBtdXRhdGlvbi4gSW5jbHVkZSB0aGlzIGFzIGFuIGBleHBvcnRgIHRvIG5hbWUgaXQgYW5kIG1ha2UgaXQgYWNjZXNzaWJsZS4KICovCmV4cG9ydCBkZWNsYXJlIGNvbnN0IG11dGF0aW9uOiBNdXRhdGlvbkJ1aWxkZXI8RGF0YU1vZGVsLCAicHVibGljIj47CgovKioKICogRGVmaW5lIGEgbXV0YXRpb24gdGhhdCBpcyBvbmx5IGFjY2Vzc2libGUgZnJvbSBvdGhlciBDb252ZXggZnVuY3Rpb25zIChidXQgbm90IGZyb20gdGhlIGNsaWVudCkuCiAqCiAqIFRoaXMgZnVuY3Rpb24gd2lsbCBiZSBhbGxvd2VkIHRvIG1vZGlmeSB5b3VyIENvbnZleCBkYXRhYmFzZS4gSXQgd2lsbCBub3QgYmUgYWNjZXNzaWJsZSBmcm9tIHRoZSBjbGllbnQuCiAqCiAqIEBwYXJhbSBmdW5jIC0gVGhlIG11dGF0aW9uIGZ1bmN0aW9uLiBJdCByZWNlaXZlcyBhIHtAbGluayBNdXRhdGlvbkN0eH0gYXMgaXRzIGZpcnN0IGFyZ3VtZW50LgogKiBAcmV0dXJucyBUaGUgd3JhcHBlZCBtdXRhdGlvbi4gSW5jbHVkZSB0aGlzIGFzIGFuIGBleHBvcnRgIHRvIG5hbWUgaXQgYW5kIG1ha2UgaXQgYWNjZXNzaWJsZS4KICovCmV4cG9ydCBkZWNsYXJlIGNvbnN0IGludGVybmFsTXV0YXRpb246IE11dGF0aW9uQnVpbGRlcjxEYXRhTW9kZWwsICJpbnRlcm5hbCI+OwoKLyoqCiAqIERlZmluZSBhbiBhY3Rpb24gaW4gdGhpcyBDb252ZXggYXBwJ3MgcHVibGljIEFQSS4KICoKICogQW4gYWN0aW9uIGlzIGEgZnVuY3Rpb24gd2hpY2ggY2FuIGV4ZWN1dGUgYW55IEphdmFTY3JpcHQgY29kZSwgaW5jbHVkaW5nIG5vbi1kZXRlcm1pbmlzdGljCiAqIGNvZGUgYW5kIGNvZGUgd2l0aCBzaWRlLWVmZmVjdHMsIGxpa2UgY2FsbGluZyB0aGlyZC1wYXJ0eSBzZXJ2aWNlcy4KICogVGhleSBjYW4gYmUgcnVuIGluIENvbnZleCdzIEphdmFTY3JpcHQgZW52aXJvbm1lbnQgb3IgaW4gTm9kZS5qcyB1c2luZyB0aGUgInVzZSBub2RlIiBkaXJlY3RpdmUuCiAqIFRoZXkgY2FuIGludGVyYWN0IHdpdGggdGhlIGRhdGFiYXNlIGluZGlyZWN0bHkgYnkgY2FsbGluZyBxdWVyaWVzIGFuZCBtdXRhdGlvbnMgdXNpbmcgdGhlIHtAbGluayBBY3Rpb25DdHh9LgogKgogKiBAcGFyYW0gZnVuYyAtIFRoZSBhY3Rpb24uIEl0IHJlY2VpdmVzIGFuIHtAbGluayBBY3Rpb25DdHh9IGFzIGl0cyBmaXJzdCBhcmd1bWVudC4KICogQHJldHVybnMgVGhlIHdyYXBwZWQgYWN0aW9uLiBJbmNsdWRlIHRoaXMgYXMgYW4gYGV4cG9ydGAgdG8gbmFtZSBpdCBhbmQgbWFrZSBpdCBhY2Nlc3NpYmxlLgogKi8KZXhwb3J0IGRlY2xhcmUgY29uc3QgYWN0aW9uOiBBY3Rpb25CdWlsZGVyPERhdGFNb2RlbCwgInB1YmxpYyI+OwoKLyoqCiAqIERlZmluZSBhbiBhY3Rpb24gdGhhdCBpcyBvbmx5IGFjY2Vzc2libGUgZnJvbSBvdGhlciBDb252ZXggZnVuY3Rpb25zIChidXQgbm90IGZyb20gdGhlIGNsaWVudCkuCiAqCiAqIEBwYXJhbSBmdW5jIC0gVGhlIGZ1bmN0aW9uLiBJdCByZWNlaXZlcyBhbiB7QGxpbmsgQWN0aW9uQ3R4fSBhcyBpdHMgZmlyc3QgYXJndW1lbnQuCiAqIEByZXR1cm5zIFRoZSB3cmFwcGVkIGZ1bmN0aW9uLiBJbmNsdWRlIHRoaXMgYXMgYW4gYGV4cG9ydGAgdG8gbmFtZSBpdCBhbmQgbWFrZSBpdCBhY2Nlc3NpYmxlLgogKi8KZXhwb3J0IGRlY2xhcmUgY29uc3QgaW50ZXJuYWxBY3Rpb246IEFjdGlvbkJ1aWxkZXI8RGF0YU1vZGVsLCAiaW50ZXJuYWwiPjsKCi8qKgogKiBEZWZpbmUgYW4gSFRUUCBhY3Rpb24uCiAqCiAqIFRoZSB3cmFwcGVkIGZ1bmN0aW9uIHdpbGwgYmUgdXNlZCB0byByZXNwb25kIHRvIEhUVFAgcmVxdWVzdHMgcmVjZWl2ZWQKICogYnkgYSBDb252ZXggZGVwbG95bWVudCBpZiB0aGUgcmVxdWVzdHMgbWF0Y2hlcyB0aGUgcGF0aCBhbmQgbWV0aG9kIHdoZXJlCiAqIHRoaXMgYWN0aW9uIGlzIHJvdXRlZC4gQmUgc3VyZSB0byByb3V0ZSB5b3VyIGh0dHBBY3Rpb24gaW4gYGNvbnZleC9odHRwLmpzYC4KICoKICogQHBhcmFtIGZ1bmMgLSBUaGUgZnVuY3Rpb24uIEl0IHJlY2VpdmVzIGFuIHtAbGluayBBY3Rpb25DdHh9IGFzIGl0cyBmaXJzdCBhcmd1bWVudAogKiBhbmQgYSBGZXRjaCBBUEkgYFJlcXVlc3RgIG9iamVjdCBhcyBpdHMgc2Vjb25kLgogKiBAcmV0dXJucyBUaGUgd3JhcHBlZCBmdW5jdGlvbi4gSW1wb3J0IHRoaXMgZnVuY3Rpb24gZnJvbSBgY29udmV4L2h0dHAuanNgIGFuZCByb3V0ZSBpdCB0byBob29rIGl0IHVwLgogKi8KZXhwb3J0IGRlY2xhcmUgY29uc3QgaHR0cEFjdGlvbjogSHR0cEFjdGlvbkJ1aWxkZXI7CgovKioKICogQSBzZXQgb2Ygc2VydmljZXMgZm9yIHVzZSB3aXRoaW4gQ29udmV4IHF1ZXJ5IGZ1bmN0aW9ucy4KICoKICogVGhlIHF1ZXJ5IGNvbnRleHQgaXMgcGFzc2VkIGFzIHRoZSBmaXJzdCBhcmd1bWVudCB0byBhbnkgQ29udmV4IHF1ZXJ5CiAqIGZ1bmN0aW9uIHJ1biBvbiB0aGUgc2VydmVyLgogKgogKiBUaGlzIGRpZmZlcnMgZnJvbSB0aGUge0BsaW5rIE11dGF0aW9uQ3R4fSBiZWNhdXNlIGFsbCBvZiB0aGUgc2VydmljZXMgYXJlCiAqIHJlYWQtb25seS4KICovCmV4cG9ydCB0eXBlIFF1ZXJ5Q3R4ID0gR2VuZXJpY1F1ZXJ5Q3R4PERhdGFNb2RlbD47CgovKioKICogQSBzZXQgb2Ygc2VydmljZXMgZm9yIHVzZSB3aXRoaW4gQ29udmV4IG11dGF0aW9uIGZ1bmN0aW9ucy4KICoKICogVGhlIG11dGF0aW9uIGNvbnRleHQgaXMgcGFzc2VkIGFzIHRoZSBmaXJzdCBhcmd1bWVudCB0byBhbnkgQ29udmV4IG11dGF0aW9uCiAqIGZ1bmN0aW9uIHJ1biBvbiB0aGUgc2VydmVyLgogKi8KZXhwb3J0IHR5cGUgTXV0YXRpb25DdHggPSBHZW5lcmljTXV0YXRpb25DdHg8RGF0YU1vZGVsPjsKCi8qKgogKiBBIHNldCBvZiBzZXJ2aWNlcyBmb3IgdXNlIHdpdGhpbiBDb252ZXggYWN0aW9uIGZ1bmN0aW9ucy4KICoKICogVGhlIGFjdGlvbiBjb250ZXh0IGlzIHBhc3NlZCBhcyB0aGUgZmlyc3QgYXJndW1lbnQgdG8gYW55IENvbnZleCBhY3Rpb24KICogZnVuY3Rpb24gcnVuIG9uIHRoZSBzZXJ2ZXIuCiAqLwpleHBvcnQgdHlwZSBBY3Rpb25DdHggPSBHZW5lcmljQWN0aW9uQ3R4PERhdGFNb2RlbD47CgovKioKICogQW4gaW50ZXJmYWNlIHRvIHJlYWQgZnJvbSB0aGUgZGF0YWJhc2Ugd2l0aGluIENvbnZleCBxdWVyeSBmdW5jdGlvbnMuCiAqCiAqIFRoZSB0d28gZW50cnkgcG9pbnRzIGFyZSB7QGxpbmsgRGF0YWJhc2VSZWFkZXIuZ2V0fSwgd2hpY2ggZmV0Y2hlcyBhIHNpbmdsZQogKiBkb2N1bWVudCBieSBpdHMge0BsaW5rIElkfSwgb3Ige0BsaW5rIERhdGFiYXNlUmVhZGVyLnF1ZXJ5fSwgd2hpY2ggc3RhcnRzCiAqIGJ1aWxkaW5nIGEgcXVlcnkuCiAqLwpleHBvcnQgdHlwZSBEYXRhYmFzZVJlYWRlciA9IEdlbmVyaWNEYXRhYmFzZVJlYWRlcjxEYXRhTW9kZWw+OwoKLyoqCiAqIEFuIGludGVyZmFjZSB0byByZWFkIGZyb20gYW5kIHdyaXRlIHRvIHRoZSBkYXRhYmFzZSB3aXRoaW4gQ29udmV4IG11dGF0aW9uCiAqIGZ1bmN0aW9ucy4KICoKICogQ29udmV4IGd1YXJhbnRlZXMgdGhhdCBhbGwgd3JpdGVzIHdpdGhpbiBhIHNpbmdsZSBtdXRhdGlvbiBhcmUKICogZXhlY3V0ZWQgYXRvbWljYWxseSwgc28geW91IG5ldmVyIGhhdmUgdG8gd29ycnkgYWJvdXQgcGFydGlhbCB3cml0ZXMgbGVhdmluZwogKiB5b3VyIGRhdGEgaW4gYW4gaW5jb25zaXN0ZW50IHN0YXRlLiBTZWUgW3RoZSBDb252ZXggR3VpZGVdKGh0dHBzOi8vZG9jcy5jb252ZXguZGV2L3VuZGVyc3RhbmRpbmcvY29udmV4LWZ1bmRhbWVudGFscy9mdW5jdGlvbnMjYXRvbWljaXR5LWFuZC1vcHRpbWlzdGljLWNvbmN1cnJlbmN5LWNvbnRyb2wpCiAqIGZvciB0aGUgZ3VhcmFudGVlcyBDb252ZXggcHJvdmlkZXMgeW91ciBmdW5jdGlvbnMuCiAqLwpleHBvcnQgdHlwZSBEYXRhYmFzZVdyaXRlciA9IEdlbmVyaWNEYXRhYmFzZVdyaXRlcjxEYXRhTW9kZWw+Owo="}
+/* eslint-disable */
+/**
+ * Generated utilities for implementing server-side Convex query and mutation functions.
+ *
+ * THIS CODE IS AUTOMATICALLY GENERATED.
+ *
+ * To regenerate, run `npx convex dev`.
+ * @module
+ */
+
+import {
+  ActionBuilder,
+  HttpActionBuilder,
+  MutationBuilder,
+  QueryBuilder,
+  GenericActionCtx,
+  GenericMutationCtx,
+  GenericQueryCtx,
+  GenericDatabaseReader,
+  GenericDatabaseWriter,
+} from "convex/server";
+import type { DataModel } from "./dataModel.js";
+
+/**
+ * Define a query in this Convex app's public API.
+ *
+ * This function will be allowed to read your Convex database and will be accessible from the client.
+ *
+ * @param func - The query function. It receives a {@link QueryCtx} as its first argument.
+ * @returns The wrapped query. Include this as an `export` to name it and make it accessible.
+ */
+export declare const query: QueryBuilder<DataModel, "public">;
+
+/**
+ * Define a query that is only accessible from other Convex functions (but not from the client).
+ *
+ * This function will be allowed to read from your Convex database. It will not be accessible from the client.
+ *
+ * @param func - The query function. It receives a {@link QueryCtx} as its first argument.
+ * @returns The wrapped query. Include this as an `export` to name it and make it accessible.
+ */
+export declare const internalQuery: QueryBuilder<DataModel, "internal">;
+
+/**
+ * Define a mutation in this Convex app's public API.
+ *
+ * This function will be allowed to modify your Convex database and will be accessible from the client.
+ *
+ * @param func - The mutation function. It receives a {@link MutationCtx} as its first argument.
+ * @returns The wrapped mutation. Include this as an `export` to name it and make it accessible.
+ */
+export declare const mutation: MutationBuilder<DataModel, "public">;
+
+/**
+ * Define a mutation that is only accessible from other Convex functions (but not from the client).
+ *
+ * This function will be allowed to modify your Convex database. It will not be accessible from the client.
+ *
+ * @param func - The mutation function. It receives a {@link MutationCtx} as its first argument.
+ * @returns The wrapped mutation. Include this as an `export` to name it and make it accessible.
+ */
+export declare const internalMutation: MutationBuilder<DataModel, "internal">;
+
+/**
+ * Define an action in this Convex app's public API.
+ *
+ * An action is a function which can execute any JavaScript code, including non-deterministic
+ * code and code with side-effects, like calling third-party services.
+ * They can be run in Convex's JavaScript environment or in Node.js using the "use node" directive.
+ * They can interact with the database indirectly by calling queries and mutations using the {@link ActionCtx}.
+ *
+ * @param func - The action. It receives an {@link ActionCtx} as its first argument.
+ * @returns The wrapped action. Include this as an `export` to name it and make it accessible.
+ */
+export declare const action: ActionBuilder<DataModel, "public">;
+
+/**
+ * Define an action that is only accessible from other Convex functions (but not from the client).
+ *
+ * @param func - The function. It receives an {@link ActionCtx} as its first argument.
+ * @returns The wrapped function. Include this as an `export` to name it and make it accessible.
+ */
+export declare const internalAction: ActionBuilder<DataModel, "internal">;
+
+/**
+ * Define an HTTP action.
+ *
+ * The wrapped function will be used to respond to HTTP requests received
+ * by a Convex deployment if the requests matches the path and method where
+ * this action is routed. Be sure to route your httpAction in `convex/http.js`.
+ *
+ * @param func - The function. It receives an {@link ActionCtx} as its first argument
+ * and a Fetch API `Request` object as its second.
+ * @returns The wrapped function. Import this function from `convex/http.js` and route it to hook it up.
+ */
+export declare const httpAction: HttpActionBuilder;
+
+/**
+ * A set of services for use within Convex query functions.
+ *
+ * The query context is passed as the first argument to any Convex query
+ * function run on the server.
+ *
+ * This differs from the {@link MutationCtx} because all of the services are
+ * read-only.
+ */
+export type QueryCtx = GenericQueryCtx<DataModel>;
+
+/**
+ * A set of services for use within Convex mutation functions.
+ *
+ * The mutation context is passed as the first argument to any Convex mutation
+ * function run on the server.
+ */
+export type MutationCtx = GenericMutationCtx<DataModel>;
+
+/**
+ * A set of services for use within Convex action functions.
+ *
+ * The action context is passed as the first argument to any Convex action
+ * function run on the server.
+ */
+export type ActionCtx = GenericActionCtx<DataModel>;
+
+/**
+ * An interface to read from the database within Convex query functions.
+ *
+ * The two entry points are {@link DatabaseReader.get}, which fetches a single
+ * document by its {@link Id}, or {@link DatabaseReader.query}, which starts
+ * building a query.
+ */
+export type DatabaseReader = GenericDatabaseReader<DataModel>;
+
+/**
+ * An interface to read from and write to the database within Convex mutation
+ * functions.
+ *
+ * Convex guarantees that all writes within a single mutation are
+ * executed atomically, so you never have to worry about partial writes leaving
+ * your data in an inconsistent state. See [the Convex Guide](https://docs.convex.dev/understanding/convex-fundamentals/functions#atomicity-and-optimistic-concurrency-control)
+ * for the guarantees Convex provides your functions.
+ */
+export type DatabaseWriter = GenericDatabaseWriter<DataModel>;

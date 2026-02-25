@@ -1,1 +1,41 @@
-{"data":"aW1wb3J0IFJlYWN0IGZyb20gInJlYWN0IjsKCnR5cGUgUHJvcHMgPSB7CiAgY2hpbGRyZW46IFJlYWN0LlJlYWN0Tm9kZTsKICBmYWxsYmFjaz86IFJlYWN0LlJlYWN0Tm9kZTsKfTsKCnR5cGUgU3RhdGUgPSB7IGhhc0Vycm9yOiBib29sZWFuOyBlcnJvcj86IEVycm9yIH07CgpleHBvcnQgY2xhc3MgRXJyb3JCb3VuZGFyeSBleHRlbmRzIFJlYWN0LkNvbXBvbmVudDxQcm9wcywgU3RhdGU+IHsKICBzdGF0ZTogU3RhdGUgPSB7IGhhc0Vycm9yOiBmYWxzZSB9OwoKICBzdGF0aWMgZ2V0RGVyaXZlZFN0YXRlRnJvbUVycm9yKGVycm9yOiBFcnJvcik6IFN0YXRlIHsKICAgIHJldHVybiB7IGhhc0Vycm9yOiB0cnVlLCBlcnJvciB9OwogIH0KCiAgY29tcG9uZW50RGlkQ2F0Y2goZXJyb3I6IEVycm9yKSB7CiAgICBjb25zb2xlLmVycm9yKCJVSSBlcnJvcjoiLCBlcnJvcik7CiAgfQoKICByZW5kZXIoKSB7CiAgICBpZiAoIXRoaXMuc3RhdGUuaGFzRXJyb3IpIHJldHVybiB0aGlzLnByb3BzLmNoaWxkcmVuOwogICAgcmV0dXJuICgKICAgICAgdGhpcy5wcm9wcy5mYWxsYmFjayB8fCAoCiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1pbi1oLVs2MHZoXSBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBwLTYiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1heC13LW1kIHctZnVsbCBnbGFzcy1jYXJkIHJvdW5kZWQtM3hsIHAtOCB0ZXh0LWNlbnRlciI+CiAgICAgICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQtMnhsIGZvbnQtaGVhZGluZyBmb250LWJvbGQgbWItMiI+U29tZXRoaW5nIHdlbnQgd3Jvbmc8L2gyPgogICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtbXV0ZWQtZm9yZWdyb3VuZCBtYi02Ij5QbGVhc2UgcmVmcmVzaCB0aGUgcGFnZSBhbmQgdHJ5IGFnYWluLjwvcD4KICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgIHR5cGU9ImJ1dHRvbiIKICAgICAgICAgICAgICBjbGFzc05hbWU9ImlubGluZS1mbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciByb3VuZGVkLW1kIGJnLXByaW1hcnkgdGV4dC1wcmltYXJ5LWZvcmVncm91bmQgcHgtNCBweS0yIHRleHQtc20gZm9udC1tZWRpdW0iCiAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gd2luZG93LmxvY2F0aW9uLnJlbG9hZCgpfQogICAgICAgICAgICA+CiAgICAgICAgICAgICAgUmVmcmVzaAogICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICApCiAgICApOwogIH0KfQo="}
+import React from "react";
+
+type Props = {
+  children: React.ReactNode;
+  fallback?: React.ReactNode;
+};
+
+type State = { hasError: boolean; error?: Error };
+
+export class ErrorBoundary extends React.Component<Props, State> {
+  state: State = { hasError: false };
+
+  static getDerivedStateFromError(error: Error): State {
+    return { hasError: true, error };
+  }
+
+  componentDidCatch(error: Error) {
+    console.error("UI error:", error);
+  }
+
+  render() {
+    if (!this.state.hasError) return this.props.children;
+    return (
+      this.props.fallback || (
+        <div className="min-h-[60vh] flex items-center justify-center p-6">
+          <div className="max-w-md w-full glass-card rounded-3xl p-8 text-center">
+            <h2 className="text-2xl font-heading font-bold mb-2">Something went wrong</h2>
+            <p className="text-muted-foreground mb-6">Please refresh the page and try again.</p>
+            <button
+              type="button"
+              className="inline-flex items-center justify-center rounded-md bg-primary text-primary-foreground px-4 py-2 text-sm font-medium"
+              onClick={() => window.location.reload()}
+            >
+              Refresh
+            </button>
+          </div>
+        </div>
+      )
+    );
+  }
+}

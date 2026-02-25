@@ -1,1 +1,95 @@
-{"data":"aW1wb3J0IHsgdXNlTWVtbywgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IHVzZU11dGF0aW9uLCB1c2VRdWVyeSB9IGZyb20gImNvbnZleC9yZWFjdCI7CmltcG9ydCB7IGFwaSB9IGZyb20gIi4uLy4uLy4uL2NvbnZleC9fZ2VuZXJhdGVkL2FwaSI7CmltcG9ydCB7IEJ1dHRvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS9idXR0b24iOwppbXBvcnQgeyBCYWRnZSB9IGZyb20gIkAvY29tcG9uZW50cy91aS9iYWRnZSI7CmltcG9ydCB7IHRvYXN0IH0gZnJvbSAic29ubmVyIjsKCmV4cG9ydCBmdW5jdGlvbiBTbWFydFBob3RvT3JkZXIoeyB1c2VySWQgfTogeyB1c2VySWQ6IHN0cmluZyB9KSB7CiAgY29uc3QgaXRlbXMgPSB1c2VRdWVyeShhcGkuYW5hbHl0aWNzLmdldFBob3RvQW5hbHl0aWNzRm9yVXNlciwgdXNlcklkID8geyB1c2VySWQgfSA6ICJza2lwIik7CiAgY29uc3QgcmVvcmRlclBob3RvcyA9IHVzZU11dGF0aW9uKGFwaS5wcm9maWxlcy5yZW9yZGVyUGhvdG9zKTsKICBjb25zdCBzZXRQcmltYXJ5ID0gdXNlTXV0YXRpb24oYXBpLnByb2ZpbGVzLnNldFByaW1hcnlQaG90byk7CiAgY29uc3QgW3NhdmluZywgc2V0U2F2aW5nXSA9IHVzZVN0YXRlKGZhbHNlKTsKCiAgY29uc3Qgb3JkZXJlZCA9IHVzZU1lbW8oKCkgPT4gewogICAgaWYgKCFpdGVtcykgcmV0dXJuIFtdOwogICAgcmV0dXJuIFsuLi5pdGVtc10uc29ydCgoYTogYW55LCBiOiBhbnkpID0+IChhLnBob3RvLm9yZGVyID8/IDApIC0gKGIucGhvdG8ub3JkZXIgPz8gMCkpOwogIH0sIFtpdGVtc10pOwoKICBjb25zdCBiZXN0ID0gdXNlTWVtbygoKSA9PiB7CiAgICBpZiAoIW9yZGVyZWQubGVuZ3RoKSByZXR1cm4gbnVsbDsKICAgIHJldHVybiBbLi4ub3JkZXJlZF0uc29ydCgoYTogYW55LCBiOiBhbnkpID0+IChiLmFuYWx5dGljcy5saWtlUmF0ZSA/PyAwKSAtIChhLmFuYWx5dGljcy5saWtlUmF0ZSA/PyAwKSlbMF07CiAgfSwgW29yZGVyZWRdKTsKCiAgY29uc3QgbW92ZSA9IGFzeW5jIChmcm9tOiBudW1iZXIsIHRvOiBudW1iZXIpID0+IHsKICAgIGlmICh0byA8IDAgfHwgdG8gPj0gb3JkZXJlZC5sZW5ndGgpIHJldHVybjsKICAgIGNvbnN0IG5leHQgPSBbLi4ub3JkZXJlZF07CiAgICBjb25zdCBbbW92ZWRdID0gbmV4dC5zcGxpY2UoZnJvbSwgMSk7CiAgICBuZXh0LnNwbGljZSh0bywgMCwgbW92ZWQpOwogICAgY29uc3Qgb3JkZXJlZFBob3RvSWRzID0gbmV4dC5tYXAoKHg6IGFueSkgPT4geC5waG90by5faWQpOwoKICAgIHNldFNhdmluZyh0cnVlKTsKICAgIHRyeSB7CiAgICAgIGF3YWl0IHJlb3JkZXJQaG90b3MoeyB1c2VySWQ6IHVzZXJJZCBhcyBhbnksIG9yZGVyZWRQaG90b0lkcyB9KTsKICAgICAgdG9hc3Quc3VjY2VzcygiUGhvdG8gb3JkZXIgdXBkYXRlZCIpOwogICAgfSBjYXRjaCAoZTogYW55KSB7CiAgICAgIHRvYXN0LmVycm9yKGU/Lm1lc3NhZ2UgfHwgIkZhaWxlZCB0byByZW9yZGVyIHBob3RvcyIpOwogICAgfSBmaW5hbGx5IHsKICAgICAgc2V0U2F2aW5nKGZhbHNlKTsKICAgIH0KICB9OwoKICBjb25zdCBtYWtlUHJpbWFyeSA9IGFzeW5jIChwaG90b0lkOiBzdHJpbmcpID0+IHsKICAgIHNldFNhdmluZyh0cnVlKTsKICAgIHRyeSB7CiAgICAgIGF3YWl0IHNldFByaW1hcnkoeyB1c2VySWQ6IHVzZXJJZCBhcyBhbnksIHBob3RvSWQ6IHBob3RvSWQgYXMgYW55IH0pOwogICAgICB0b2FzdC5zdWNjZXNzKCJQcmltYXJ5IHBob3RvIHVwZGF0ZWQiKTsKICAgIH0gY2F0Y2ggKGU6IGFueSkgewogICAgICB0b2FzdC5lcnJvcihlPy5tZXNzYWdlIHx8ICJGYWlsZWQgdG8gc2V0IHByaW1hcnkgcGhvdG8iKTsKICAgIH0gZmluYWxseSB7CiAgICAgIHNldFNhdmluZyhmYWxzZSk7CiAgICB9CiAgfTsKCiAgaWYgKCFpdGVtcyB8fCBvcmRlcmVkLmxlbmd0aCA9PT0gMCkgcmV0dXJuIG51bGw7CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0zIj4KICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiI+CiAgICAgICAgPGg0IGNsYXNzTmFtZT0iZm9udC1zZW1pYm9sZCI+U21hcnQgUGhvdG8gT3JkZXI8L2g0PgogICAgICAgIHtiZXN0Py5waG90bz8uX2lkICYmIGJlc3QucGhvdG8uX2lkICE9PSBvcmRlcmVkWzBdPy5waG90bz8uX2lkICYmICgKICAgICAgICAgIDxCYWRnZSB2YXJpYW50PSJzZWNvbmRhcnkiPlN1Z2dlc3Rpb246IG1ha2UgeW91ciBiZXN0IHBob3RvIHByaW1hcnk8L0JhZGdlPgogICAgICAgICl9CiAgICAgIDwvZGl2PgoKICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMiI+CiAgICAgICAge29yZGVyZWQubWFwKChpdGVtOiBhbnksIGlkeDogbnVtYmVyKSA9PiAoCiAgICAgICAgICA8ZGl2IGtleT17aXRlbS5waG90by5faWR9IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTMgcm91bmRlZC1sZyBib3JkZXIgcC0yIj4KICAgICAgICAgICAgPGltZyBzcmM9e2l0ZW0ucGhvdG8udXJsfSBjbGFzc05hbWU9ImgtMTQgdy0xNCByb3VuZGVkLW1kIG9iamVjdC1jb3ZlciIgLz4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXgtMSBtaW4tdy0wIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIiPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtbWVkaXVtIj5QaG90byB7aWR4ICsgMX08L3NwYW4+CiAgICAgICAgICAgICAgICB7aXRlbS5waG90by5pc1ByaW1hcnkgJiYgPEJhZGdlPlByaW1hcnk8L0JhZGdlPn0KICAgICAgICAgICAgICAgIHtiZXN0Py5waG90bz8uX2lkID09PSBpdGVtLnBob3RvLl9pZCAmJiA8QmFkZ2UgdmFyaWFudD0ic2Vjb25kYXJ5Ij5CZXN0IHBlcmZvcm1pbmc8L0JhZGdlPn0KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgICAgICAge2l0ZW0uYW5hbHl0aWNzLmltcHJlc3Npb25zfSB2aWV3cyDCtyB7aXRlbS5hbmFseXRpY3MubGlrZXN9IGxpa2VzIMK3IHtNYXRoLnJvdW5kKChpdGVtLmFuYWx5dGljcy5saWtlUmF0ZSB8fCAwKSAqIDEwMCl9JSBsaWtlIHJhdGUKICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtY29sIGdhcC0xIj4KICAgICAgICAgICAgICA8QnV0dG9uIHNpemU9InNtIiB2YXJpYW50PSJvdXRsaW5lIiBvbkNsaWNrPXsoKSA9PiBtb3ZlKGlkeCwgaWR4IC0gMSl9IGRpc2FibGVkPXtzYXZpbmcgfHwgaWR4ID09PSAwfT4KICAgICAgICAgICAgICAgIFVwCiAgICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgICAgPEJ1dHRvbiBzaXplPSJzbSIgdmFyaWFudD0ib3V0bGluZSIgb25DbGljaz17KCkgPT4gbW92ZShpZHgsIGlkeCArIDEpfSBkaXNhYmxlZD17c2F2aW5nIHx8IGlkeCA9PT0gb3JkZXJlZC5sZW5ndGggLSAxfT4KICAgICAgICAgICAgICAgIERvd24KICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgICA8QnV0dG9uIHNpemU9InNtIiBvbkNsaWNrPXsoKSA9PiBtYWtlUHJpbWFyeShpdGVtLnBob3RvLl9pZCl9IGRpc2FibGVkPXtzYXZpbmcgfHwgaXRlbS5waG90by5pc1ByaW1hcnl9PgogICAgICAgICAgICAgICAgUHJpbWFyeQogICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICkpfQogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K"}
+import { useMemo, useState } from "react";
+import { useMutation, useQuery } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import { Button } from "@/components/ui/button";
+import { Badge } from "@/components/ui/badge";
+import { toast } from "sonner";
+
+export function SmartPhotoOrder({ userId }: { userId: string }) {
+  const items = useQuery(api.analytics.getPhotoAnalyticsForUser, userId ? { userId } : "skip");
+  const reorderPhotos = useMutation(api.profiles.reorderPhotos);
+  const setPrimary = useMutation(api.profiles.setPrimaryPhoto);
+  const [saving, setSaving] = useState(false);
+
+  const ordered = useMemo(() => {
+    if (!items) return [];
+    return [...items].sort((a: any, b: any) => (a.photo.order ?? 0) - (b.photo.order ?? 0));
+  }, [items]);
+
+  const best = useMemo(() => {
+    if (!ordered.length) return null;
+    return [...ordered].sort((a: any, b: any) => (b.analytics.likeRate ?? 0) - (a.analytics.likeRate ?? 0))[0];
+  }, [ordered]);
+
+  const move = async (from: number, to: number) => {
+    if (to < 0 || to >= ordered.length) return;
+    const next = [...ordered];
+    const [moved] = next.splice(from, 1);
+    next.splice(to, 0, moved);
+    const orderedPhotoIds = next.map((x: any) => x.photo._id);
+
+    setSaving(true);
+    try {
+      await reorderPhotos({ userId: userId as any, orderedPhotoIds });
+      toast.success("Photo order updated");
+    } catch (e: any) {
+      toast.error(e?.message || "Failed to reorder photos");
+    } finally {
+      setSaving(false);
+    }
+  };
+
+  const makePrimary = async (photoId: string) => {
+    setSaving(true);
+    try {
+      await setPrimary({ userId: userId as any, photoId: photoId as any });
+      toast.success("Primary photo updated");
+    } catch (e: any) {
+      toast.error(e?.message || "Failed to set primary photo");
+    } finally {
+      setSaving(false);
+    }
+  };
+
+  if (!items || ordered.length === 0) return null;
+
+  return (
+    <div className="space-y-3">
+      <div className="flex items-center justify-between">
+        <h4 className="font-semibold">Smart Photo Order</h4>
+        {best?.photo?._id && best.photo._id !== ordered[0]?.photo?._id && (
+          <Badge variant="secondary">Suggestion: make your best photo primary</Badge>
+        )}
+      </div>
+
+      <div className="space-y-2">
+        {ordered.map((item: any, idx: number) => (
+          <div key={item.photo._id} className="flex items-center gap-3 rounded-lg border p-2">
+            <img src={item.photo.url} className="h-14 w-14 rounded-md object-cover" />
+            <div className="flex-1 min-w-0">
+              <div className="flex items-center gap-2">
+                <span className="text-sm font-medium">Photo {idx + 1}</span>
+                {item.photo.isPrimary && <Badge>Primary</Badge>}
+                {best?.photo?._id === item.photo._id && <Badge variant="secondary">Best performing</Badge>}
+              </div>
+              <div className="text-xs text-muted-foreground">
+                {item.analytics.impressions} views · {item.analytics.likes} likes · {Math.round((item.analytics.likeRate || 0) * 100)}% like rate
+              </div>
+            </div>
+            <div className="flex flex-col gap-1">
+              <Button size="sm" variant="outline" onClick={() => move(idx, idx - 1)} disabled={saving || idx === 0}>
+                Up
+              </Button>
+              <Button size="sm" variant="outline" onClick={() => move(idx, idx + 1)} disabled={saving || idx === ordered.length - 1}>
+                Down
+              </Button>
+              <Button size="sm" onClick={() => makePrimary(item.photo._id)} disabled={saving || item.photo.isPrimary}>
+                Primary
+              </Button>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}

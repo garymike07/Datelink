@@ -1,1 +1,191 @@
-{"data":"aW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VNZW1vLCB1c2VTdGF0ZSB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgRGlhbG9nLCBEaWFsb2dDb250ZW50LCBEaWFsb2dEZXNjcmlwdGlvbiwgRGlhbG9nSGVhZGVyLCBEaWFsb2dUaXRsZSB9IGZyb20gIkAvY29tcG9uZW50cy91aS9kaWFsb2ciOwppbXBvcnQgeyBUYWJzLCBUYWJzQ29udGVudCwgVGFic0xpc3QsIFRhYnNUcmlnZ2VyIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL3RhYnMiOwppbXBvcnQgeyBTbGlkZXIgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvc2xpZGVyIjsKaW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2J1dHRvbiI7CmltcG9ydCB7IFN3aXRjaCB9IGZyb20gIkAvY29tcG9uZW50cy91aS9zd2l0Y2giOwppbXBvcnQgeyBMYWJlbCB9IGZyb20gIkAvY29tcG9uZW50cy91aS9sYWJlbCI7CmltcG9ydCB7IHVzZU11dGF0aW9uLCB1c2VRdWVyeSB9IGZyb20gImNvbnZleC9yZWFjdCI7CmltcG9ydCB7IGFwaSB9IGZyb20gIi4uLy4uLy4uL2NvbnZleC9fZ2VuZXJhdGVkL2FwaSI7CmltcG9ydCB7IHRvYXN0IH0gZnJvbSAic29ubmVyIjsKCnR5cGUgQWR2YW5jZWRGaWx0ZXJzU3RhdGUgPSB7CiAgYWdlOiBbbnVtYmVyLCBudW1iZXJdOwogIGRpc3RhbmNlTWF4OiBudW1iZXI7CiAgaGVpZ2h0OiBbbnVtYmVyLCBudW1iZXJdOwogIG11c3RCZVZlcmlmaWVkOiBib29sZWFuOwogIG11c3RIYXZlUGhvdG9zOiBib29sZWFuOwogIG11c3RIYXZlQmlvOiBib29sZWFuOwogIGFjdGl2ZUluTGFzdDdEYXlzOiBib29sZWFuOwp9OwoKZXhwb3J0IGZ1bmN0aW9uIEFkdmFuY2VkRmlsdGVycyh7IHVzZXJJZCwgaXNPcGVuLCBvbkNsb3NlIH06IHsgdXNlcklkOiBzdHJpbmc7IGlzT3BlbjogYm9vbGVhbjsgb25DbG9zZTogKCkgPT4gdm9pZCB9KSB7CiAgY29uc3QgbWUgPSB1c2VRdWVyeShhcGkucHJvZmlsZXMuZ2V0TXlQcm9maWxlLCB1c2VySWQgPyB7IHVzZXJJZCB9IDogInNraXAiKTsKICBjb25zdCB1cGRhdGVQcmVmZXJlbmNlcyA9IHVzZU11dGF0aW9uKGFwaS5wcm9maWxlcy51cGRhdGVQcmVmZXJlbmNlcyk7CgogIGNvbnN0IGRlZmF1bHRzID0gdXNlTWVtbzxBZHZhbmNlZEZpbHRlcnNTdGF0ZT4oKCkgPT4gewogICAgY29uc3QgcHJlZnM6IGFueSA9IG1lPy5wcmVmZXJlbmNlczsKICAgIHJldHVybiB7CiAgICAgIGFnZTogW3ByZWZzPy5taW5BZ2UgPz8gMTgsIHByZWZzPy5tYXhBZ2UgPz8gNTBdLAogICAgICBkaXN0YW5jZU1heDogcHJlZnM/Lm1heERpc3RhbmNlID8/IDUwLAogICAgICBoZWlnaHQ6IFtwcmVmcz8ubWluSGVpZ2h0ID8/IDE0MCwgcHJlZnM/Lm1heEhlaWdodCA/PyAyMjBdLAogICAgICBtdXN0QmVWZXJpZmllZDogISFwcmVmcz8ubXVzdEJlVmVyaWZpZWQsCiAgICAgIG11c3RIYXZlUGhvdG9zOiAhIXByZWZzPy5tdXN0SGF2ZVBob3RvcywKICAgICAgbXVzdEhhdmVCaW86ICEhcHJlZnM/Lm11c3RIYXZlQmlvLAogICAgICBhY3RpdmVJbkxhc3Q3RGF5czogISFwcmVmcz8uYWN0aXZlSW5MYXN0N0RheXMsCiAgICB9OwogIH0sIFttZT8ucHJlZmVyZW5jZXNdKTsKCiAgY29uc3QgW3N0YXRlLCBzZXRTdGF0ZV0gPSB1c2VTdGF0ZTxBZHZhbmNlZEZpbHRlcnNTdGF0ZT4oZGVmYXVsdHMpOwogIGNvbnN0IFtzYXZpbmcsIHNldFNhdmluZ10gPSB1c2VTdGF0ZShmYWxzZSk7CgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBzZXRTdGF0ZShkZWZhdWx0cyk7CiAgfSwgW2RlZmF1bHRzLCBpc09wZW5dKTsKCiAgY29uc3QgaGFuZGxlU2F2ZSA9IGFzeW5jICgpID0+IHsKICAgIHNldFNhdmluZyh0cnVlKTsKICAgIHRyeSB7CiAgICAgIGF3YWl0IHVwZGF0ZVByZWZlcmVuY2VzKHsKICAgICAgICB1c2VySWQ6IHVzZXJJZCBhcyBhbnksCiAgICAgICAgbWluQWdlOiBzdGF0ZS5hZ2VbMF0sCiAgICAgICAgbWF4QWdlOiBzdGF0ZS5hZ2VbMV0sCiAgICAgICAgbWF4RGlzdGFuY2U6IHN0YXRlLmRpc3RhbmNlTWF4LAogICAgICAgIG1pbkhlaWdodDogc3RhdGUuaGVpZ2h0WzBdLAogICAgICAgIG1heEhlaWdodDogc3RhdGUuaGVpZ2h0WzFdLAogICAgICAgIG11c3RCZVZlcmlmaWVkOiBzdGF0ZS5tdXN0QmVWZXJpZmllZCwKICAgICAgICBtdXN0SGF2ZVBob3Rvczogc3RhdGUubXVzdEhhdmVQaG90b3MsCiAgICAgICAgbXVzdEhhdmVCaW86IHN0YXRlLm11c3RIYXZlQmlvLAogICAgICAgIGFjdGl2ZUluTGFzdDdEYXlzOiBzdGF0ZS5hY3RpdmVJbkxhc3Q3RGF5cywKICAgICAgfSk7CiAgICAgIHRvYXN0LnN1Y2Nlc3MoIkZpbHRlcnMgc2F2ZWQiKTsKICAgICAgb25DbG9zZSgpOwogICAgfSBjYXRjaCAoZTogYW55KSB7CiAgICAgIHRvYXN0LmVycm9yKGU/Lm1lc3NhZ2UgfHwgIkZhaWxlZCB0byBzYXZlIGZpbHRlcnMiKTsKICAgIH0gZmluYWxseSB7CiAgICAgIHNldFNhdmluZyhmYWxzZSk7CiAgICB9CiAgfTsKCiAgY29uc3QgaGFuZGxlUmVzZXQgPSAoKSA9PiBzZXRTdGF0ZSh7IC4uLmRlZmF1bHRzIH0pOwoKICByZXR1cm4gKAogICAgPERpYWxvZyBvcGVuPXtpc09wZW59IG9uT3BlbkNoYW5nZT17b25DbG9zZX0+CiAgICAgIDxEaWFsb2dDb250ZW50IGNsYXNzTmFtZT0ic206bWF4LXctbGciPgogICAgICAgIDxEaWFsb2dIZWFkZXI+CiAgICAgICAgICA8RGlhbG9nVGl0bGU+QWR2YW5jZWQgRmlsdGVyczwvRGlhbG9nVGl0bGU+CiAgICAgICAgICA8RGlhbG9nRGVzY3JpcHRpb24+CiAgICAgICAgICAgIEN1c3RvbWl6ZSB5b3VyIGRpc2NvdmVyeSBwcmVmZXJlbmNlcwogICAgICAgICAgPC9EaWFsb2dEZXNjcmlwdGlvbj4KICAgICAgICA8L0RpYWxvZ0hlYWRlcj4KCiAgICAgICAgPFRhYnMgZGVmYXVsdFZhbHVlPSJkZW1vZ3JhcGhpY3MiIGNsYXNzTmFtZT0idy1mdWxsIj4KICAgICAgICAgIDxUYWJzTGlzdCBjbGFzc05hbWU9ImdyaWQgdy1mdWxsIGdyaWQtY29scy0zIj4KICAgICAgICAgICAgPFRhYnNUcmlnZ2VyIHZhbHVlPSJkZW1vZ3JhcGhpY3MiPkJhc2ljczwvVGFic1RyaWdnZXI+CiAgICAgICAgICAgIDxUYWJzVHJpZ2dlciB2YWx1ZT0ibGlmZXN0eWxlIj5MaWZlc3R5bGU8L1RhYnNUcmlnZ2VyPgogICAgICAgICAgICA8VGFic1RyaWdnZXIgdmFsdWU9ImRlYWxicmVha2VycyI+RGVhbGJyZWFrZXJzPC9UYWJzVHJpZ2dlcj4KICAgICAgICAgIDwvVGFic0xpc3Q+CgogICAgICAgICAgPFRhYnNDb250ZW50IHZhbHVlPSJkZW1vZ3JhcGhpY3MiIGNsYXNzTmFtZT0ic3BhY2UteS02IHB0LTQiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0yIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIj4KICAgICAgICAgICAgICAgIDxMYWJlbD5BZ2UgcmFuZ2U8L0xhYmVsPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+CiAgICAgICAgICAgICAgICAgIHtzdGF0ZS5hZ2VbMF194oCTe3N0YXRlLmFnZVsxXX0KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8U2xpZGVyCiAgICAgICAgICAgICAgICB2YWx1ZT17c3RhdGUuYWdlfQogICAgICAgICAgICAgICAgbWluPXsxOH0KICAgICAgICAgICAgICAgIG1heD17ODB9CiAgICAgICAgICAgICAgICBzdGVwPXsxfQogICAgICAgICAgICAgICAgb25WYWx1ZUNoYW5nZT17KHYpID0+IHNldFN0YXRlKChzKSA9PiAoeyAuLi5zLCBhZ2U6IHYgYXMgYW55IH0pKX0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTIiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4iPgogICAgICAgICAgICAgICAgPExhYmVsPkRpc3RhbmNlIG1heDwvTGFiZWw+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj57c3RhdGUuZGlzdGFuY2VNYXh9IGttPC9zcGFuPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDxTbGlkZXIKICAgICAgICAgICAgICAgIHZhbHVlPXtbc3RhdGUuZGlzdGFuY2VNYXhdfQogICAgICAgICAgICAgICAgbWluPXs1fQogICAgICAgICAgICAgICAgbWF4PXs1MDB9CiAgICAgICAgICAgICAgICBzdGVwPXs1fQogICAgICAgICAgICAgICAgb25WYWx1ZUNoYW5nZT17KHYpID0+IHNldFN0YXRlKChzKSA9PiAoeyAuLi5zLCBkaXN0YW5jZU1heDogdlswXSB9KSl9CiAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0yIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIj4KICAgICAgICAgICAgICAgIDxMYWJlbD5IZWlnaHQgcmFuZ2U8L0xhYmVsPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+CiAgICAgICAgICAgICAgICAgIHtzdGF0ZS5oZWlnaHRbMF194oCTe3N0YXRlLmhlaWdodFsxXX0gY20KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8U2xpZGVyCiAgICAgICAgICAgICAgICB2YWx1ZT17c3RhdGUuaGVpZ2h0fQogICAgICAgICAgICAgICAgbWluPXsxNDB9CiAgICAgICAgICAgICAgICBtYXg9ezIyMH0KICAgICAgICAgICAgICAgIHN0ZXA9ezF9CiAgICAgICAgICAgICAgICBvblZhbHVlQ2hhbmdlPXsodikgPT4gc2V0U3RhdGUoKHMpID0+ICh7IC4uLnMsIGhlaWdodDogdiBhcyBhbnkgfSkpfQogICAgICAgICAgICAgIC8+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9UYWJzQ29udGVudD4KCiAgICAgICAgICA8VGFic0NvbnRlbnQgdmFsdWU9ImxpZmVzdHlsZSIgY2xhc3NOYW1lPSJzcGFjZS15LTQgcHQtNCI+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4iPgogICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICA8TGFiZWw+VmVyaWZpZWQgb25seTwvTGFiZWw+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj5Pbmx5IHNob3cgdmVyaWZpZWQgcHJvZmlsZXM8L3A+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPFN3aXRjaCBjaGVja2VkPXtzdGF0ZS5tdXN0QmVWZXJpZmllZH0gb25DaGVja2VkQ2hhbmdlPXsodikgPT4gc2V0U3RhdGUoKHMpID0+ICh7IC4uLnMsIG11c3RCZVZlcmlmaWVkOiB2IH0pKX0gLz4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L1RhYnNDb250ZW50PgoKICAgICAgICAgIDxUYWJzQ29udGVudCB2YWx1ZT0iZGVhbGJyZWFrZXJzIiBjbGFzc05hbWU9InNwYWNlLXktNCBwdC00Ij4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiI+CiAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgIDxMYWJlbD5NdXN0IGhhdmUgcGhvdG9zPC9MYWJlbD4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQiPkhpZGUgcHJvZmlsZXMgd2l0aG91dCBwaG90b3M8L3A+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPFN3aXRjaCBjaGVja2VkPXtzdGF0ZS5tdXN0SGF2ZVBob3Rvc30gb25DaGVja2VkQ2hhbmdlPXsodikgPT4gc2V0U3RhdGUoKHMpID0+ICh7IC4uLnMsIG11c3RIYXZlUGhvdG9zOiB2IH0pKX0gLz4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4iPgogICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICA8TGFiZWw+TXVzdCBoYXZlIGJpbzwvTGFiZWw+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj5IaWRlIHByb2ZpbGVzIHdpdGggZW1wdHkgYmlvPC9wPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDxTd2l0Y2ggY2hlY2tlZD17c3RhdGUubXVzdEhhdmVCaW99IG9uQ2hlY2tlZENoYW5nZT17KHYpID0+IHNldFN0YXRlKChzKSA9PiAoeyAuLi5zLCBtdXN0SGF2ZUJpbzogdiB9KSl9IC8+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIj4KICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgPExhYmVsPkFjdGl2ZSBpbiBsYXN0IDcgZGF5czwvTGFiZWw+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj5Qcmlvcml0aXplIGFjdGl2ZSBwcm9maWxlczwvcD4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8U3dpdGNoCiAgICAgICAgICAgICAgICBjaGVja2VkPXtzdGF0ZS5hY3RpdmVJbkxhc3Q3RGF5c30KICAgICAgICAgICAgICAgIG9uQ2hlY2tlZENoYW5nZT17KHYpID0+IHNldFN0YXRlKChzKSA9PiAoeyAuLi5zLCBhY3RpdmVJbkxhc3Q3RGF5czogdiB9KSl9CiAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L1RhYnNDb250ZW50PgogICAgICAgIDwvVGFicz4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXgganVzdGlmeS1iZXR3ZWVuIGdhcC0yIHB0LTIiPgogICAgICAgICAgPEJ1dHRvbiB2YXJpYW50PSJvdXRsaW5lIiBvbkNsaWNrPXtoYW5kbGVSZXNldH0gZGlzYWJsZWQ9e3NhdmluZ30+CiAgICAgICAgICAgIFJlc2V0CiAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGdhcC0yIj4KICAgICAgICAgICAgPEJ1dHRvbiB2YXJpYW50PSJnaG9zdCIgb25DbGljaz17b25DbG9zZX0gZGlzYWJsZWQ9e3NhdmluZ30+CiAgICAgICAgICAgICAgQ2FuY2VsCiAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9e2hhbmRsZVNhdmV9IGRpc2FibGVkPXtzYXZpbmd9PgogICAgICAgICAgICAgIFNhdmUKICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9EaWFsb2dDb250ZW50PgogICAgPC9EaWFsb2c+CiAgKTsKfQo="}
+import { useEffect, useMemo, useState } from "react";
+import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from "@/components/ui/dialog";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { Slider } from "@/components/ui/slider";
+import { Button } from "@/components/ui/button";
+import { Switch } from "@/components/ui/switch";
+import { Label } from "@/components/ui/label";
+import { useMutation, useQuery } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import { toast } from "sonner";
+
+type AdvancedFiltersState = {
+  age: [number, number];
+  distanceMax: number;
+  height: [number, number];
+  mustBeVerified: boolean;
+  mustHavePhotos: boolean;
+  mustHaveBio: boolean;
+  activeInLast7Days: boolean;
+};
+
+export function AdvancedFilters({ userId, isOpen, onClose }: { userId: string; isOpen: boolean; onClose: () => void }) {
+  const me = useQuery(api.profiles.getMyProfile, userId ? { userId } : "skip");
+  const updatePreferences = useMutation(api.profiles.updatePreferences);
+
+  const defaults = useMemo<AdvancedFiltersState>(() => {
+    const prefs: any = me?.preferences;
+    return {
+      age: [prefs?.minAge ?? 18, prefs?.maxAge ?? 50],
+      distanceMax: prefs?.maxDistance ?? 50,
+      height: [prefs?.minHeight ?? 140, prefs?.maxHeight ?? 220],
+      mustBeVerified: !!prefs?.mustBeVerified,
+      mustHavePhotos: !!prefs?.mustHavePhotos,
+      mustHaveBio: !!prefs?.mustHaveBio,
+      activeInLast7Days: !!prefs?.activeInLast7Days,
+    };
+  }, [me?.preferences]);
+
+  const [state, setState] = useState<AdvancedFiltersState>(defaults);
+  const [saving, setSaving] = useState(false);
+
+  useEffect(() => {
+    setState(defaults);
+  }, [defaults, isOpen]);
+
+  const handleSave = async () => {
+    setSaving(true);
+    try {
+      await updatePreferences({
+        userId: userId as any,
+        minAge: state.age[0],
+        maxAge: state.age[1],
+        maxDistance: state.distanceMax,
+        minHeight: state.height[0],
+        maxHeight: state.height[1],
+        mustBeVerified: state.mustBeVerified,
+        mustHavePhotos: state.mustHavePhotos,
+        mustHaveBio: state.mustHaveBio,
+        activeInLast7Days: state.activeInLast7Days,
+      });
+      toast.success("Filters saved");
+      onClose();
+    } catch (e: any) {
+      toast.error(e?.message || "Failed to save filters");
+    } finally {
+      setSaving(false);
+    }
+  };
+
+  const handleReset = () => setState({ ...defaults });
+
+  return (
+    <Dialog open={isOpen} onOpenChange={onClose}>
+      <DialogContent className="sm:max-w-lg">
+        <DialogHeader>
+          <DialogTitle>Advanced Filters</DialogTitle>
+          <DialogDescription>
+            Customize your discovery preferences
+          </DialogDescription>
+        </DialogHeader>
+
+        <Tabs defaultValue="demographics" className="w-full">
+          <TabsList className="grid w-full grid-cols-3">
+            <TabsTrigger value="demographics">Basics</TabsTrigger>
+            <TabsTrigger value="lifestyle">Lifestyle</TabsTrigger>
+            <TabsTrigger value="dealbreakers">Dealbreakers</TabsTrigger>
+          </TabsList>
+
+          <TabsContent value="demographics" className="space-y-6 pt-4">
+            <div className="space-y-2">
+              <div className="flex items-center justify-between">
+                <Label>Age range</Label>
+                <span className="text-sm text-muted-foreground">
+                  {state.age[0]}–{state.age[1]}
+                </span>
+              </div>
+              <Slider
+                value={state.age}
+                min={18}
+                max={80}
+                step={1}
+                onValueChange={(v) => setState((s) => ({ ...s, age: v as any }))}
+              />
+            </div>
+
+            <div className="space-y-2">
+              <div className="flex items-center justify-between">
+                <Label>Distance max</Label>
+                <span className="text-sm text-muted-foreground">{state.distanceMax} km</span>
+              </div>
+              <Slider
+                value={[state.distanceMax]}
+                min={5}
+                max={500}
+                step={5}
+                onValueChange={(v) => setState((s) => ({ ...s, distanceMax: v[0] }))}
+              />
+            </div>
+
+            <div className="space-y-2">
+              <div className="flex items-center justify-between">
+                <Label>Height range</Label>
+                <span className="text-sm text-muted-foreground">
+                  {state.height[0]}–{state.height[1]} cm
+                </span>
+              </div>
+              <Slider
+                value={state.height}
+                min={140}
+                max={220}
+                step={1}
+                onValueChange={(v) => setState((s) => ({ ...s, height: v as any }))}
+              />
+            </div>
+          </TabsContent>
+
+          <TabsContent value="lifestyle" className="space-y-4 pt-4">
+            <div className="flex items-center justify-between">
+              <div>
+                <Label>Verified only</Label>
+                <p className="text-sm text-muted-foreground">Only show verified profiles</p>
+              </div>
+              <Switch checked={state.mustBeVerified} onCheckedChange={(v) => setState((s) => ({ ...s, mustBeVerified: v }))} />
+            </div>
+          </TabsContent>
+
+          <TabsContent value="dealbreakers" className="space-y-4 pt-4">
+            <div className="flex items-center justify-between">
+              <div>
+                <Label>Must have photos</Label>
+                <p className="text-sm text-muted-foreground">Hide profiles without photos</p>
+              </div>
+              <Switch checked={state.mustHavePhotos} onCheckedChange={(v) => setState((s) => ({ ...s, mustHavePhotos: v }))} />
+            </div>
+            <div className="flex items-center justify-between">
+              <div>
+                <Label>Must have bio</Label>
+                <p className="text-sm text-muted-foreground">Hide profiles with empty bio</p>
+              </div>
+              <Switch checked={state.mustHaveBio} onCheckedChange={(v) => setState((s) => ({ ...s, mustHaveBio: v }))} />
+            </div>
+            <div className="flex items-center justify-between">
+              <div>
+                <Label>Active in last 7 days</Label>
+                <p className="text-sm text-muted-foreground">Prioritize active profiles</p>
+              </div>
+              <Switch
+                checked={state.activeInLast7Days}
+                onCheckedChange={(v) => setState((s) => ({ ...s, activeInLast7Days: v }))}
+              />
+            </div>
+          </TabsContent>
+        </Tabs>
+
+        <div className="flex justify-between gap-2 pt-2">
+          <Button variant="outline" onClick={handleReset} disabled={saving}>
+            Reset
+          </Button>
+          <div className="flex gap-2">
+            <Button variant="ghost" onClick={onClose} disabled={saving}>
+              Cancel
+            </Button>
+            <Button onClick={handleSave} disabled={saving}>
+              Save
+            </Button>
+          </div>
+        </div>
+      </DialogContent>
+    </Dialog>
+  );
+}

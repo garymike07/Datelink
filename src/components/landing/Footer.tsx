@@ -1,1 +1,140 @@
-{"data":"aW1wb3J0IHsgRmFjZWJvb2ssIEluc3RhZ3JhbSwgVHdpdHRlciwgTWFpbCB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IExpbmsgfSBmcm9tICJyZWFjdC1yb3V0ZXItZG9tIjsKCmNvbnN0IEZvb3RlciA9ICgpID0+IHsKICBjb25zdCBmb290ZXJMaW5rcyA9IHsKICAgIGNvbXBhbnk6IFsKICAgICAgeyBuYW1lOiAiQWJvdXQgVXMiLCBocmVmOiAiL2Fib3V0IiB9LAogICAgICB7IG5hbWU6ICJIb3cgSXQgV29ya3MiLCBocmVmOiAiLyNob3ctaXQtd29ya3MiIH0sCiAgICAgIHsgbmFtZTogIlN1Y2Nlc3MgU3RvcmllcyIsIGhyZWY6ICIvI3N1Y2Nlc3Mtc3RvcmllcyIgfSwKICAgICAgeyBuYW1lOiAiQmxvZyIsIGhyZWY6ICIvYmxvZyIgfSwKICAgICAgeyBuYW1lOiAiQ2FyZWVycyIsIGhyZWY6ICIvY2FyZWVycyIgfSwKICAgIF0sCiAgICBzdXBwb3J0OiBbCiAgICAgIHsgbmFtZTogIkhlbHAgQ2VudGVyIiwgaHJlZjogIi9oZWxwIiB9LAogICAgICB7IG5hbWU6ICJTYWZldHkgQ2VudGVyIiwgaHJlZjogIi9zYWZldHktY2VudGVyIiB9LAogICAgICB7IG5hbWU6ICJDb21tdW5pdHkgR3VpZGVsaW5lcyIsIGhyZWY6ICIvZ3VpZGVsaW5lcyIgfSwKICAgICAgeyBuYW1lOiAiQ29udGFjdCBVcyIsIGhyZWY6ICIvY29udGFjdCIgfSwKICAgICAgeyBuYW1lOiAiUmVwb3J0IGEgUHJvYmxlbSIsIGhyZWY6ICIvcmVwb3J0IiB9LAogICAgXSwKICAgIGxlZ2FsOiBbCiAgICAgIHsgbmFtZTogIlRlcm1zIG9mIFNlcnZpY2UiLCBocmVmOiAiL3Rlcm1zIiB9LAogICAgICB7IG5hbWU6ICJQcml2YWN5IFBvbGljeSIsIGhyZWY6ICIvcHJpdmFjeSIgfSwKICAgICAgeyBuYW1lOiAiQ29va2llIFBvbGljeSIsIGhyZWY6ICIvY29va2llcyIgfSwKICAgICAgeyBuYW1lOiAiUmVmdW5kIFBvbGljeSIsIGhyZWY6ICIvcmVmdW5kcyIgfSwKICAgIF0sCiAgfTsKCiAgY29uc3Qgc29jaWFsTGlua3MgPSBbCiAgICB7IGljb246IEZhY2Vib29rLCBocmVmOiAiIyIsIGxhYmVsOiAiRmFjZWJvb2siIH0sCiAgICB7IGljb246IEluc3RhZ3JhbSwgaHJlZjogIiMiLCBsYWJlbDogIkluc3RhZ3JhbSIgfSwKICAgIHsgaWNvbjogVHdpdHRlciwgaHJlZjogIiMiLCBsYWJlbDogIlR3aXR0ZXIiIH0sCiAgXTsKCiAgcmV0dXJuICgKICAgIDxmb290ZXIgY2xhc3NOYW1lPSJiZy1iYWNrZ3JvdW5kIHRleHQtZm9yZWdyb3VuZCBwdC0xNiBwYi04IGJvcmRlci10IGJvcmRlci1ib3JkZXIiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGFpbmVyIG14LWF1dG8gcHgtNCI+CiAgICAgICAgey8qIE1haW4gRm9vdGVyIENvbnRlbnQgKi99CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgbWQ6Z3JpZC1jb2xzLTIgbGc6Z3JpZC1jb2xzLTUgZ2FwLTYgbWItOCI+CiAgICAgICAgICB7LyogQnJhbmQgQ29sdW1uICovfQogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImxnOmNvbC1zcGFuLTIiPgogICAgICAgICAgICA8TGluayB0bz0iLyIgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiBtYi00Ij4KICAgICAgICAgICAgICA8aW1nIHNyYz0iL2xvZ28ucG5nIiBhbHQ9IkRhdGVMaW5rIiBjbGFzc05hbWU9InctMTAgaC1hdXRvIG9iamVjdC1jb250YWluIiAvPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZm9udC1oZWFkaW5nIGZvbnQtYm9sZCB0ZXh0LXhsIHRyYWNraW5nLXRpZ2h0IHRleHQtZm9yZWdyb3VuZCI+CiAgICAgICAgICAgICAgICBEYXRlTGluawogICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIG1iLTQgbWF4LXctc20iPgogICAgICAgICAgICAgIEtlbnlhJ3MgcHJlbWl1bSBkYXRpbmcgcGxhdGZvcm0uIENvbm5lY3QsIGxvdmUsIGFuZCB1bml0ZSB3aXRoIHZlcmlmaWVkIHNpbmdsZXMuCiAgICAgICAgICAgIDwvcD4KCiAgICAgICAgICAgIHsvKiBDb250YWN0IEluZm8gKi99CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTIgdGV4dC14cyI+CiAgICAgICAgICAgICAgPGEgaHJlZj0ibWFpbHRvOnN1cHBvcnRAZGF0ZWxpbmsuY29tIiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0zIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBob3Zlcjp0ZXh0LWZvcmVncm91bmQgdHJhbnNpdGlvbi1jb2xvcnMiPgogICAgICAgICAgICAgICAgPE1haWwgY2xhc3NOYW1lPSJ3LTQgaC00IiAvPgogICAgICAgICAgICAgICAgc3VwcG9ydEBkYXRlbGluay5jb20KICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgey8qIENvbXBhbnkgTGlua3MgKi99CiAgICAgICAgICA8ZGl2PgogICAgICAgICAgICA8aDQgY2xhc3NOYW1lPSJmb250LXNlbWlib2xkIHRleHQtZm9yZWdyb3VuZCB0ZXh0LXhzIG1iLTMiPkNvbXBhbnk8L2g0PgogICAgICAgICAgICA8dWwgY2xhc3NOYW1lPSJzcGFjZS15LTIiPgogICAgICAgICAgICAgIHtmb290ZXJMaW5rcy5jb21wYW55Lm1hcCgobGluaykgPT4gKAogICAgICAgICAgICAgICAgPGxpIGtleT17bGluay5uYW1lfT4KICAgICAgICAgICAgICAgICAgPExpbmsKICAgICAgICAgICAgICAgICAgICB0bz17bGluay5ocmVmfQogICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0idGV4dC1tdXRlZC1mb3JlZ3JvdW5kIGhvdmVyOnRleHQtZm9yZWdyb3VuZCB0cmFuc2l0aW9uLWNvbG9ycyB0ZXh0LXhzIgogICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAge2xpbmsubmFtZX0KICAgICAgICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgPC91bD4KICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgIHsvKiBTdXBwb3J0IExpbmtzICovfQogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPGg0IGNsYXNzTmFtZT0iZm9udC1zZW1pYm9sZCB0ZXh0LWZvcmVncm91bmQgdGV4dC14cyBtYi0zIj5TdXBwb3J0PC9oND4KICAgICAgICAgICAgPHVsIGNsYXNzTmFtZT0ic3BhY2UteS0yIj4KICAgICAgICAgICAgICB7Zm9vdGVyTGlua3Muc3VwcG9ydC5tYXAoKGxpbmspID0+ICgKICAgICAgICAgICAgICAgIDxsaSBrZXk9e2xpbmsubmFtZX0+CiAgICAgICAgICAgICAgICAgIDxMaW5rCiAgICAgICAgICAgICAgICAgICAgdG89e2xpbmsuaHJlZn0KICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InRleHQtbXV0ZWQtZm9yZWdyb3VuZCBob3Zlcjp0ZXh0LWZvcmVncm91bmQgdHJhbnNpdGlvbi1jb2xvcnMgdGV4dC14cyIKICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIHtsaW5rLm5hbWV9CiAgICAgICAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICB7LyogTGVnYWwgTGlua3MgKi99CiAgICAgICAgICA8ZGl2PgogICAgICAgICAgICA8aDQgY2xhc3NOYW1lPSJmb250LXNlbWlib2xkIHRleHQtZm9yZWdyb3VuZCB0ZXh0LXhzIG1iLTMiPkxlZ2FsPC9oND4KICAgICAgICAgICAgPHVsIGNsYXNzTmFtZT0ic3BhY2UteS0yIj4KICAgICAgICAgICAgICB7Zm9vdGVyTGlua3MubGVnYWwubWFwKChsaW5rKSA9PiAoCiAgICAgICAgICAgICAgICA8bGkga2V5PXtsaW5rLm5hbWV9PgogICAgICAgICAgICAgICAgICA8TGluawogICAgICAgICAgICAgICAgICAgIHRvPXtsaW5rLmhyZWZ9CiAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LW11dGVkLWZvcmVncm91bmQgaG92ZXI6dGV4dC1mb3JlZ3JvdW5kIHRyYW5zaXRpb24tY29sb3JzIHRleHQteHMiCiAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICB7bGluay5uYW1lfQogICAgICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICkpfQogICAgICAgICAgICA8L3VsPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CgogICAgICAgIHsvKiBEaXZpZGVyICovfQogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJib3JkZXItdCBib3JkZXItYm9yZGVyIHB0LTYiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wgbWQ6ZmxleC1yb3cgaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiBnYXAtNCI+CiAgICAgICAgICAgIHsvKiBDb3B5cmlnaHQgKi99CiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1tdXRlZC1mb3JlZ3JvdW5kIHRleHQteHMgdGV4dC1jZW50ZXIgbWQ6dGV4dC1sZWZ0Ij4KICAgICAgICAgICAgICDCqSB7bmV3IERhdGUoKS5nZXRGdWxsWWVhcigpfSBEYXRlTGluay4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KICAgICAgICAgICAgPC9wPgoKICAgICAgICAgICAgey8qIFNvY2lhbCBMaW5rcyAqL30KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0zIj4KICAgICAgICAgICAgICB7c29jaWFsTGlua3MubWFwKChzb2NpYWwpID0+ICgKICAgICAgICAgICAgICAgIDxhCiAgICAgICAgICAgICAgICAgIGtleT17c29jaWFsLmxhYmVsfQogICAgICAgICAgICAgICAgICBocmVmPXtzb2NpYWwuaHJlZn0KICAgICAgICAgICAgICAgICAgYXJpYS1sYWJlbD17c29jaWFsLmxhYmVsfQogICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InctOSBoLTkgcm91bmRlZC1mdWxsIGJvcmRlciBib3JkZXItYm9yZGVyIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBob3Zlcjp0ZXh0LXByaW1hcnkgaG92ZXI6Ym9yZGVyLXByaW1hcnkgdHJhbnNpdGlvbi1hbGwiCiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgIDxzb2NpYWwuaWNvbiBjbGFzc05hbWU9InctNCBoLTQiIC8+CiAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9mb290ZXI+CiAgKTsKfTsKCmV4cG9ydCBkZWZhdWx0IEZvb3RlcjsK"}
+import { Facebook, Instagram, Twitter, Mail } from "lucide-react";
+import { Link } from "react-router-dom";
+
+const Footer = () => {
+  const footerLinks = {
+    company: [
+      { name: "About Us", href: "/about" },
+      { name: "How It Works", href: "/#how-it-works" },
+      { name: "Success Stories", href: "/#success-stories" },
+      { name: "Blog", href: "/blog" },
+      { name: "Careers", href: "/careers" },
+    ],
+    support: [
+      { name: "Help Center", href: "/help" },
+      { name: "Safety Center", href: "/safety-center" },
+      { name: "Community Guidelines", href: "/guidelines" },
+      { name: "Contact Us", href: "/contact" },
+      { name: "Report a Problem", href: "/report" },
+    ],
+    legal: [
+      { name: "Terms of Service", href: "/terms" },
+      { name: "Privacy Policy", href: "/privacy" },
+      { name: "Cookie Policy", href: "/cookies" },
+      { name: "Refund Policy", href: "/refunds" },
+    ],
+  };
+
+  const socialLinks = [
+    { icon: Facebook, href: "#", label: "Facebook" },
+    { icon: Instagram, href: "#", label: "Instagram" },
+    { icon: Twitter, href: "#", label: "Twitter" },
+  ];
+
+  return (
+    <footer className="bg-background text-foreground pt-16 pb-8 border-t border-border">
+      <div className="container mx-auto px-4">
+        {/* Main Footer Content */}
+        <div className="grid md:grid-cols-2 lg:grid-cols-5 gap-6 mb-8">
+          {/* Brand Column */}
+          <div className="lg:col-span-2">
+            <Link to="/" className="flex items-center gap-2 mb-4">
+              <img src="/logo.png" alt="DateLink" className="w-10 h-auto object-contain" />
+              <span className="font-heading font-bold text-xl tracking-tight text-foreground">
+                DateLink
+              </span>
+            </Link>
+            <p className="text-xs text-muted-foreground mb-4 max-w-sm">
+              Kenya's premium dating platform. Connect, love, and unite with verified singles.
+            </p>
+
+            {/* Contact Info */}
+            <div className="space-y-2 text-xs">
+              <a href="mailto:support@datelink.com" className="flex items-center gap-3 text-muted-foreground hover:text-foreground transition-colors">
+                <Mail className="w-4 h-4" />
+                support@datelink.com
+              </a>
+            </div>
+          </div>
+
+          {/* Company Links */}
+          <div>
+            <h4 className="font-semibold text-foreground text-xs mb-3">Company</h4>
+            <ul className="space-y-2">
+              {footerLinks.company.map((link) => (
+                <li key={link.name}>
+                  <Link
+                    to={link.href}
+                    className="text-muted-foreground hover:text-foreground transition-colors text-xs"
+                  >
+                    {link.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Support Links */}
+          <div>
+            <h4 className="font-semibold text-foreground text-xs mb-3">Support</h4>
+            <ul className="space-y-2">
+              {footerLinks.support.map((link) => (
+                <li key={link.name}>
+                  <Link
+                    to={link.href}
+                    className="text-muted-foreground hover:text-foreground transition-colors text-xs"
+                  >
+                    {link.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Legal Links */}
+          <div>
+            <h4 className="font-semibold text-foreground text-xs mb-3">Legal</h4>
+            <ul className="space-y-2">
+              {footerLinks.legal.map((link) => (
+                <li key={link.name}>
+                  <Link
+                    to={link.href}
+                    className="text-muted-foreground hover:text-foreground transition-colors text-xs"
+                  >
+                    {link.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </div>
+
+        {/* Divider */}
+        <div className="border-t border-border pt-6">
+          <div className="flex flex-col md:flex-row items-center justify-between gap-4">
+            {/* Copyright */}
+            <p className="text-muted-foreground text-xs text-center md:text-left">
+              © {new Date().getFullYear()} DateLink. All rights reserved.
+            </p>
+
+            {/* Social Links */}
+            <div className="flex items-center gap-3">
+              {socialLinks.map((social) => (
+                <a
+                  key={social.label}
+                  href={social.href}
+                  aria-label={social.label}
+                  className="w-9 h-9 rounded-full border border-border flex items-center justify-center text-muted-foreground hover:text-primary hover:border-primary transition-all"
+                >
+                  <social.icon className="w-4 h-4" />
+                </a>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+  );
+};
+
+export default Footer;

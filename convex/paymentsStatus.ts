@@ -1,1 +1,101 @@
-{"data":"aW1wb3J0IHsgYWN0aW9uLCBxdWVyeSB9IGZyb20gIi4vX2dlbmVyYXRlZC9zZXJ2ZXIiOwppbXBvcnQgeyB2IH0gZnJvbSAiY29udmV4L3ZhbHVlcyI7CmltcG9ydCB0eXBlIHsgSWQgfSBmcm9tICIuL19nZW5lcmF0ZWQvZGF0YU1vZGVsIjsKaW1wb3J0IHsgYXBpLCBpbnRlcm5hbCB9IGZyb20gIi4vX2dlbmVyYXRlZC9hcGkiOwoKZnVuY3Rpb24gbm9ybWFsaXplU3RhdHVzKHJhdzogYW55KTogc3RyaW5nIHwgbnVsbCB7CiAgY29uc3QgY2FuZGlkYXRlcyA9IFtyYXc/LnN0YXR1cywgcmF3Py5kYXRhPy5zdGF0dXMsIHJhdz8ucGF5bWVudF9saW5rPy5zdGF0dXMsIHJhdz8ucGF5bWVudD8uc3RhdHVzXTsKICBjb25zdCBmb3VuZCA9IGNhbmRpZGF0ZXMuZmluZCgocykgPT4gdHlwZW9mIHMgPT09ICJzdHJpbmciICYmIHMudHJpbSgpLmxlbmd0aCA+IDApOwogIHJldHVybiBmb3VuZCA/IFN0cmluZyhmb3VuZCkudG9Mb3dlckNhc2UoKSA6IG51bGw7Cn0KCmZ1bmN0aW9uIGlzRmFpbGVkKHN0YXR1czogc3RyaW5nIHwgbnVsbCkgewogIHJldHVybiAhIXN0YXR1cyAmJiBbImZhaWxlZCIsICJjYW5jZWxsZWQiLCAiY2FuY2VsZWQiLCAiZXhwaXJlZCJdLmluY2x1ZGVzKHN0YXR1cyk7Cn0KCmV4cG9ydCBjb25zdCBnZXRQYXltZW50ID0gcXVlcnkoewogIGFyZ3M6IHsgcGF5bWVudElkOiB2LmlkKCJwYXltZW50cyIpLCB1c2VySWQ6IHYuaWQoInVzZXJzIikgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICBjb25zdCBwID0gYXdhaXQgY3R4LmRiLmdldChhcmdzLnBheW1lbnRJZCk7CiAgICBpZiAoIXApIHRocm93IG5ldyBFcnJvcigiUGF5bWVudCBub3QgZm91bmQiKTsKICAgIGlmIChwLnVzZXJJZCAhPT0gYXJncy51c2VySWQpIHRocm93IG5ldyBFcnJvcigiVW5hdXRob3JpemVkIik7CiAgICByZXR1cm4gcDsKICB9LAp9KTsKCi8vIFBvbGwgZnJvbSB0aGUgY2xpZW50LiBUaGlzIHdpbGwgY2hlY2sgTGlwYW5hIHNlcnZlci1zaWRlIGFuZCBmaW5hbGl6ZSB0aGUgcGF5bWVudCBpZiBuZWVkZWQuCmV4cG9ydCBjb25zdCByZWZyZXNoUGF5bWVudFN0YXR1cyA9IGFjdGlvbih7CiAgYXJnczogeyBwYXltZW50SWQ6IHYuaWQoInBheW1lbnRzIiksIHVzZXJJZDogdi5pZCgidXNlcnMiKSB9LAogIGhhbmRsZXI6IGFzeW5jICgKICAgIGN0eCwKICAgIGFyZ3MKICApOiBQcm9taXNlPHsgc3RhdHVzOiBzdHJpbmc7IHByb3ZpZGVyU3RhdHVzPzogc3RyaW5nIHwgbnVsbDsgZXhwaXJlc0luTXM/OiBudW1iZXIgfT4gPT4gewogICAgY29uc3QgcGF5bWVudCA9IChhd2FpdCBjdHgucnVuUXVlcnkoYXBpLnBheW1lbnRzU3RhdHVzLmdldFBheW1lbnQsIGFyZ3MpKSBhcyBhbnk7CgogICAgLy8gSWYgYWxyZWFkeSB0ZXJtaW5hbCwgcmV0dXJuIHF1aWNrbHkuCiAgICBpZiAocGF5bWVudC5zdGF0dXMgPT09ICJjb21wbGV0ZWQiIHx8IHBheW1lbnQuc3RhdHVzID09PSAiZmFpbGVkIikgewogICAgICByZXR1cm4geyBzdGF0dXM6IHBheW1lbnQuc3RhdHVzIH07CiAgICB9CgogICAgLy8gRW5mb3JjZSBhIDMtbWludXRlIHZlcmlmaWNhdGlvbiB3aW5kb3cuCiAgICBjb25zdCBjcmVhdGVkQXQgPSB0eXBlb2YgcGF5bWVudC5jcmVhdGVkQXQgPT09ICJudW1iZXIiID8gcGF5bWVudC5jcmVhdGVkQXQgOiBEYXRlLm5vdygpOwogICAgY29uc3QgZWxhcHNlZCA9IERhdGUubm93KCkgLSBjcmVhdGVkQXQ7CiAgICBjb25zdCB0aW1lb3V0TXMgPSAzICogNjAgKiAxMDAwOwogICAgY29uc3QgZXhwaXJlc0luTXMgPSBNYXRoLm1heCh0aW1lb3V0TXMgLSBlbGFwc2VkLCAwKTsKCiAgICBjb25zdCB0cmFuc2FjdGlvbklkID0gKHBheW1lbnQubWV0YWRhdGEgYXMgYW55KT8ubGlwYW5hPy5zdGs/LnRyYW5zYWN0aW9uSWQgPz8gcGF5bWVudC50cmFuc2FjdGlvbklkOwogICAgaWYgKCF0cmFuc2FjdGlvbklkKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcigiTWlzc2luZyBMaXBhbmEgdHJhbnNhY3Rpb24gaWQiKTsKICAgIH0KCiAgICBsZXQgcmF3OiBhbnk7CiAgICB0cnkgewogICAgICAoeyByYXcgfSA9IChhd2FpdCBjdHgucnVuQWN0aW9uKGFwaS5saXBhbmEuZ2V0VHJhbnNhY3Rpb24sIHsgdHJhbnNhY3Rpb25JZCB9KSkgYXMgYW55KTsKICAgIH0gY2F0Y2ggKGU6IGFueSkgewogICAgICAvLyBUcmFuc2llbnQgcHJvdmlkZXIgZXJyb3JzOiBrZWVwIHBlbmRpbmcgYW5kIGxldCB0aGUgY2xpZW50IGtlZXAgcG9sbGluZy4KICAgICAgcmV0dXJuIHsgc3RhdHVzOiBwYXltZW50LnN0YXR1cywgcHJvdmlkZXJTdGF0dXM6ICJwcm92aWRlcl9lcnJvciIsIGV4cGlyZXNJbk1zIH0gYXMgY29uc3Q7CiAgICB9CgogICAgLy8gSWYgZ2V0VHJhbnNhY3Rpb24gcmV0dXJuZWQgYSBsaXN0LCB0cnkgdG8gZmluZCBvdXIgdHJhbnNhY3Rpb24gaW4gaXQuCiAgICBpZiAoQXJyYXkuaXNBcnJheShyYXcpKSB7CiAgICAgIGNvbnN0IGZvdW5kID0gcmF3LmZpbmQoKHQ6IGFueSkgPT4gU3RyaW5nKHQ/LmlkID8/IHQ/Ll9pZCA/PyB0Py50cmFuc2FjdGlvbklkID8/ICIiKSA9PT0gU3RyaW5nKHRyYW5zYWN0aW9uSWQpKTsKICAgICAgcmF3ID0gZm91bmQgPz8gcmF3OwogICAgfSBlbHNlIGlmIChBcnJheS5pc0FycmF5KHJhdz8uZGF0YSkpIHsKICAgICAgY29uc3QgZm91bmQgPSByYXcuZGF0YS5maW5kKCh0OiBhbnkpID0+IFN0cmluZyh0Py5pZCA/PyB0Py5faWQgPz8gdD8udHJhbnNhY3Rpb25JZCA/PyAiIikgPT09IFN0cmluZyh0cmFuc2FjdGlvbklkKSk7CiAgICAgIHJhdyA9IGZvdW5kID8/IHJhdzsKICAgIH0KCiAgICBjb25zdCBzdGF0dXMgPSBub3JtYWxpemVTdGF0dXMocmF3KTsKCiAgICAvLyBGb3IgdHJhbnNhY3Rpb25zLCBzdGF0dXMgaXMgZXhwZWN0ZWQgdG8gYmUgcGVuZGluZy9zdWNjZXNzL2ZhaWxlZAogICAgaWYgKHN0YXR1cyAmJiBbInN1Y2Nlc3MiLCAic3VjY2Vzc2Z1bCIsICJwYWlkIiwgImNvbXBsZXRlZCJdLmluY2x1ZGVzKHN0YXR1cykpIHsKICAgICAgYXdhaXQgY3R4LnJ1bk11dGF0aW9uKGludGVybmFsLnBheW1lbnRzLmZpbmFsaXplUGF5bWVudEludGVybmFsLCB7CiAgICAgICAgcGF5bWVudElkOiBhcmdzLnBheW1lbnRJZCwKICAgICAgICB1c2VySWQ6IGFyZ3MudXNlcklkLAogICAgICAgIHN1Y2Nlc3M6IHRydWUsCiAgICAgIH0pOwogICAgICByZXR1cm4geyBzdGF0dXM6ICJjb21wbGV0ZWQiLCBwcm92aWRlclN0YXR1czogc3RhdHVzLCBleHBpcmVzSW5NcyB9IGFzIGNvbnN0OwogICAgfQoKICAgIGlmIChpc0ZhaWxlZChzdGF0dXMpKSB7CiAgICAgIGF3YWl0IGN0eC5ydW5NdXRhdGlvbihpbnRlcm5hbC5wYXltZW50cy5maW5hbGl6ZVBheW1lbnRJbnRlcm5hbCwgewogICAgICAgIHBheW1lbnRJZDogYXJncy5wYXltZW50SWQsCiAgICAgICAgdXNlcklkOiBhcmdzLnVzZXJJZCwKICAgICAgICBzdWNjZXNzOiBmYWxzZSwKICAgICAgfSk7CiAgICAgIHJldHVybiB7IHN0YXR1czogImZhaWxlZCIsIHByb3ZpZGVyU3RhdHVzOiBzdGF0dXMsIGV4cGlyZXNJbk1zIH0gYXMgY29uc3Q7CiAgICB9CgogICAgLy8gSWYgc3RpbGwgcGVuZGluZyBhbmQgd2UndmUgZXhjZWVkZWQgdGhlIHRpbWVvdXQgd2luZG93LCBtYXJrIGFzIGZhaWxlZC4KICAgIGlmIChleHBpcmVzSW5NcyA9PT0gMCkgewogICAgICBhd2FpdCBjdHgucnVuTXV0YXRpb24oaW50ZXJuYWwucGF5bWVudHMuZmluYWxpemVQYXltZW50SW50ZXJuYWwsIHsKICAgICAgICBwYXltZW50SWQ6IGFyZ3MucGF5bWVudElkLAogICAgICAgIHVzZXJJZDogYXJncy51c2VySWQsCiAgICAgICAgc3VjY2VzczogZmFsc2UsCiAgICAgIH0pOwogICAgICByZXR1cm4geyBzdGF0dXM6ICJmYWlsZWQiLCBwcm92aWRlclN0YXR1czogc3RhdHVzLCBleHBpcmVzSW5NcyB9IGFzIGNvbnN0OwogICAgfQoKICAgIHJldHVybiB7IHN0YXR1czogcGF5bWVudC5zdGF0dXMsIHByb3ZpZGVyU3RhdHVzOiBzdGF0dXMsIGV4cGlyZXNJbk1zIH0gYXMgY29uc3Q7CiAgfSwKfSk7Cg=="}
+import { action, query } from "./_generated/server";
+import { v } from "convex/values";
+import type { Id } from "./_generated/dataModel";
+import { api, internal } from "./_generated/api";
+
+function normalizeStatus(raw: any): string | null {
+  const candidates = [raw?.status, raw?.data?.status, raw?.payment_link?.status, raw?.payment?.status];
+  const found = candidates.find((s) => typeof s === "string" && s.trim().length > 0);
+  return found ? String(found).toLowerCase() : null;
+}
+
+function isFailed(status: string | null) {
+  return !!status && ["failed", "cancelled", "canceled", "expired"].includes(status);
+}
+
+export const getPayment = query({
+  args: { paymentId: v.id("payments"), userId: v.id("users") },
+  handler: async (ctx, args) => {
+    const p = await ctx.db.get(args.paymentId);
+    if (!p) throw new Error("Payment not found");
+    if (p.userId !== args.userId) throw new Error("Unauthorized");
+    return p;
+  },
+});
+
+// Poll from the client. This will check Lipana server-side and finalize the payment if needed.
+export const refreshPaymentStatus = action({
+  args: { paymentId: v.id("payments"), userId: v.id("users") },
+  handler: async (
+    ctx,
+    args
+  ): Promise<{ status: string; providerStatus?: string | null; expiresInMs?: number }> => {
+    const payment = (await ctx.runQuery(api.paymentsStatus.getPayment, args)) as any;
+
+    // If already terminal, return quickly.
+    if (payment.status === "completed" || payment.status === "failed") {
+      return { status: payment.status };
+    }
+
+    // Enforce a 3-minute verification window.
+    const createdAt = typeof payment.createdAt === "number" ? payment.createdAt : Date.now();
+    const elapsed = Date.now() - createdAt;
+    const timeoutMs = 3 * 60 * 1000;
+    const expiresInMs = Math.max(timeoutMs - elapsed, 0);
+
+    const transactionId = (payment.metadata as any)?.lipana?.stk?.transactionId ?? payment.transactionId;
+    if (!transactionId) {
+      throw new Error("Missing Lipana transaction id");
+    }
+
+    let raw: any;
+    try {
+      ({ raw } = (await ctx.runAction(api.lipana.getTransaction, { transactionId })) as any);
+    } catch (e: any) {
+      // Transient provider errors: keep pending and let the client keep polling.
+      return { status: payment.status, providerStatus: "provider_error", expiresInMs } as const;
+    }
+
+    // If getTransaction returned a list, try to find our transaction in it.
+    if (Array.isArray(raw)) {
+      const found = raw.find((t: any) => String(t?.id ?? t?._id ?? t?.transactionId ?? "") === String(transactionId));
+      raw = found ?? raw;
+    } else if (Array.isArray(raw?.data)) {
+      const found = raw.data.find((t: any) => String(t?.id ?? t?._id ?? t?.transactionId ?? "") === String(transactionId));
+      raw = found ?? raw;
+    }
+
+    const status = normalizeStatus(raw);
+
+    // For transactions, status is expected to be pending/success/failed
+    if (status && ["success", "successful", "paid", "completed"].includes(status)) {
+      await ctx.runMutation(internal.payments.finalizePaymentInternal, {
+        paymentId: args.paymentId,
+        userId: args.userId,
+        success: true,
+      });
+      return { status: "completed", providerStatus: status, expiresInMs } as const;
+    }
+
+    if (isFailed(status)) {
+      await ctx.runMutation(internal.payments.finalizePaymentInternal, {
+        paymentId: args.paymentId,
+        userId: args.userId,
+        success: false,
+      });
+      return { status: "failed", providerStatus: status, expiresInMs } as const;
+    }
+
+    // If still pending and we've exceeded the timeout window, mark as failed.
+    if (expiresInMs === 0) {
+      await ctx.runMutation(internal.payments.finalizePaymentInternal, {
+        paymentId: args.paymentId,
+        userId: args.userId,
+        success: false,
+      });
+      return { status: "failed", providerStatus: status, expiresInMs } as const;
+    }
+
+    return { status: payment.status, providerStatus: status, expiresInMs } as const;
+  },
+});

@@ -1,1 +1,223 @@
-{"data":"aW1wb3J0IHsgdiB9IGZyb20gImNvbnZleC92YWx1ZXMiOwppbXBvcnQgeyBtdXRhdGlvbiwgcXVlcnkgfSBmcm9tICIuL19nZW5lcmF0ZWQvc2VydmVyIjsKaW1wb3J0IHsgaW5zZXJ0Tm90aWZpY2F0aW9uIH0gZnJvbSAiLi9ub3RpZmljYXRpb25zIjsKCmV4cG9ydCBjb25zdCBzdWJtaXRWZXJpZmljYXRpb24gPSBtdXRhdGlvbih7CiAgICBhcmdzOiB7CiAgICAgICAgdXNlcklkOiB2LmlkKCJ1c2VycyIpLAogICAgICAgIHBob3Rvczogdi5hcnJheSgKICAgICAgICAgICAgdi5vYmplY3QoewogICAgICAgICAgICAgICAgdXJsOiB2LnN0cmluZygpLAogICAgICAgICAgICAgICAgcG9zZTogdi5zdHJpbmcoKSwKICAgICAgICAgICAgfSkKICAgICAgICApLAogICAgfSwKICAgIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgICAgICBjb25zdCBleGlzdGluZyA9IGF3YWl0IGN0eC5kYgogICAgICAgICAgICAucXVlcnkoInZlcmlmaWNhdGlvbnMiKQogICAgICAgICAgICAud2l0aEluZGV4KCJ1c2VySWQiLCAocSkgPT4gcS5lcSgidXNlcklkIiwgYXJncy51c2VySWQpKQogICAgICAgICAgICAuZmlsdGVyKChxKSA9PgogICAgICAgICAgICAgICAgcS5hbmQoCiAgICAgICAgICAgICAgICAgICAgcS5lcShxLmZpZWxkKCJ0eXBlIiksICJwaG90byIpLAogICAgICAgICAgICAgICAgICAgIHEuZXEocS5maWVsZCgic3RhdHVzIiksICJwZW5kaW5nIikKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgKQogICAgICAgICAgICAuZmlyc3QoKTsKCiAgICAgICAgaWYgKGV4aXN0aW5nKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcigiWW91IGFscmVhZHkgaGF2ZSBhIHBlbmRpbmcgdmVyaWZpY2F0aW9uIHJlcXVlc3QiKTsKICAgICAgICB9CgogICAgICAgIGNvbnN0IG5vdyA9IERhdGUubm93KCk7CgogICAgICAgIGNvbnN0IHZlcmlmaWNhdGlvbklkID0gYXdhaXQgY3R4LmRiLmluc2VydCgidmVyaWZpY2F0aW9ucyIsIHsKICAgICAgICAgICAgdXNlcklkOiBhcmdzLnVzZXJJZCwKICAgICAgICAgICAgdHlwZTogInBob3RvIiwKICAgICAgICAgICAgc3RhdHVzOiAicGVuZGluZyIsCiAgICAgICAgICAgIHZlcmlmaWNhdGlvblBob3RvczogYXJncy5waG90b3MsCiAgICAgICAgICAgIHN1Ym1pdHRlZEF0OiBub3csCiAgICAgICAgfSk7CgogICAgICAgIC8vIFNlbmQgdmVyaWZpY2F0aW9uIHBlbmRpbmcgbm90aWZpY2F0aW9uCiAgICAgICAgYXdhaXQgaW5zZXJ0Tm90aWZpY2F0aW9uKGN0eCwgewogICAgICAgICAgICB1c2VySWQ6IGFyZ3MudXNlcklkLAogICAgICAgICAgICB0eXBlOiAidmVyaWZpY2F0aW9uX3BlbmRpbmciLAogICAgICAgICAgICB0aXRsZTogIlZlcmlmaWNhdGlvbiBTdWJtaXR0ZWQiLAogICAgICAgICAgICBib2R5OiAiWW91ciB2ZXJpZmljYXRpb24gcGhvdG9zIGFyZSBiZWluZyByZXZpZXdlZC4gV2UnbGwgbm90aWZ5IHlvdSBvbmNlIGl0J3MgY29tcGxldGUhIiwKICAgICAgICAgICAgcHJpb3JpdHk6ICJtZWRpdW0iLAogICAgICAgICAgICBjYXRlZ29yeTogInN5c3RlbSIsCiAgICAgICAgICAgIGljb246ICLij7MiLAogICAgICAgIH0pOwoKICAgICAgICByZXR1cm4gdmVyaWZpY2F0aW9uSWQ7CiAgICB9LAp9KTsKCi8vIFN1Ym1pdCBwaG90byB2ZXJpZmljYXRpb24KZXhwb3J0IGNvbnN0IHN1Ym1pdFBob3RvVmVyaWZpY2F0aW9uID0gbXV0YXRpb24oewogICAgYXJnczogewogICAgICAgIHVzZXJJZDogdi5pZCgidXNlcnMiKSwKICAgICAgICBwaG90b1VybDogdi5zdHJpbmcoKSwKICAgIH0sCiAgICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICAgICAgLy8gQ2hlY2sgaWYgdGhlcmUncyBhbHJlYWR5IGEgcGVuZGluZyB2ZXJpZmljYXRpb24KICAgICAgICBjb25zdCBleGlzdGluZyA9IGF3YWl0IGN0eC5kYgogICAgICAgICAgICAucXVlcnkoInZlcmlmaWNhdGlvbnMiKQogICAgICAgICAgICAud2l0aEluZGV4KCJ1c2VySWQiLCAocSkgPT4gcS5lcSgidXNlcklkIiwgYXJncy51c2VySWQpKQogICAgICAgICAgICAuZmlsdGVyKChxKSA9PgogICAgICAgICAgICAgICAgcS5hbmQoCiAgICAgICAgICAgICAgICAgICAgcS5lcShxLmZpZWxkKCJ0eXBlIiksICJwaG90byIpLAogICAgICAgICAgICAgICAgICAgIHEuZXEocS5maWVsZCgic3RhdHVzIiksICJwZW5kaW5nIikKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgKQogICAgICAgICAgICAuZmlyc3QoKTsKCiAgICAgICAgaWYgKGV4aXN0aW5nKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcigiWW91IGFscmVhZHkgaGF2ZSBhIHBlbmRpbmcgdmVyaWZpY2F0aW9uIHJlcXVlc3QiKTsKICAgICAgICB9CgogICAgICAgIGNvbnN0IG5vdyA9IERhdGUubm93KCk7CgogICAgICAgIGNvbnN0IHZlcmlmaWNhdGlvbklkID0gYXdhaXQgY3R4LmRiLmluc2VydCgidmVyaWZpY2F0aW9ucyIsIHsKICAgICAgICAgICAgdXNlcklkOiBhcmdzLnVzZXJJZCwKICAgICAgICAgICAgdHlwZTogInBob3RvIiwKICAgICAgICAgICAgc3RhdHVzOiAicGVuZGluZyIsCiAgICAgICAgICAgIHBob3RvVXJsOiBhcmdzLnBob3RvVXJsLAogICAgICAgICAgICBzdWJtaXR0ZWRBdDogbm93LAogICAgICAgIH0pOwoKICAgICAgICByZXR1cm4gdmVyaWZpY2F0aW9uSWQ7CiAgICB9LAp9KTsKCi8vIEdldCB2ZXJpZmljYXRpb24gc3RhdHVzIGZvciBhIHVzZXIKZXhwb3J0IGNvbnN0IGdldFZlcmlmaWNhdGlvblN0YXR1cyA9IHF1ZXJ5KHsKICAgIGFyZ3M6IHsgdXNlcklkOiB2LmlkKCJ1c2VycyIpIH0sCiAgICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICAgICAgY29uc3QgdmVyaWZpY2F0aW9uID0gYXdhaXQgY3R4LmRiCiAgICAgICAgICAgIC5xdWVyeSgidmVyaWZpY2F0aW9ucyIpCiAgICAgICAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCBhcmdzLnVzZXJJZCkpCiAgICAgICAgICAgIC5maWx0ZXIoKHEpID0+IHEuZXEocS5maWVsZCgidHlwZSIpLCAicGhvdG8iKSkKICAgICAgICAgICAgLm9yZGVyKCJkZXNjIikKICAgICAgICAgICAgLmZpcnN0KCk7CgogICAgICAgIGlmICghdmVyaWZpY2F0aW9uKSB7CiAgICAgICAgICAgIHJldHVybiB7IHN0YXR1czogIm5vbmUiLCB2ZXJpZmllZDogZmFsc2UgfTsKICAgICAgICB9CgogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgIHN0YXR1czogdmVyaWZpY2F0aW9uLnN0YXR1cywKICAgICAgICAgICAgdmVyaWZpZWQ6IHZlcmlmaWNhdGlvbi5zdGF0dXMgPT09ICJhcHByb3ZlZCIsCiAgICAgICAgICAgIHN1Ym1pdHRlZEF0OiB2ZXJpZmljYXRpb24uc3VibWl0dGVkQXQsCiAgICAgICAgICAgIHJldmlld2VkQXQ6IHZlcmlmaWNhdGlvbi5yZXZpZXdlZEF0LAogICAgICAgICAgICByZXZpZXdOb3RlczogdmVyaWZpY2F0aW9uLnJldmlld05vdGVzLAogICAgICAgIH07CiAgICB9LAp9KTsKCi8vIENoZWNrIGlmIHVzZXIgaXMgdmVyaWZpZWQKZXhwb3J0IGNvbnN0IGlzVXNlclZlcmlmaWVkID0gcXVlcnkoewogICAgYXJnczogeyB1c2VySWQ6IHYuaWQoInVzZXJzIikgfSwKICAgIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgICAgICBjb25zdCB1c2VyID0gYXdhaXQgY3R4LmRiLmdldChhcmdzLnVzZXJJZCk7CgogICAgICAgIGlmICghdXNlcikgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gdXNlci52ZXJpZmljYXRpb25TdGF0dXMgPT09ICJ2ZXJpZmllZCI7CiAgICB9LAp9KTsKCi8vIEFwcHJvdmUgdmVyaWZpY2F0aW9uIChhZG1pbiBmdW5jdGlvbiAtIHBsYWNlaG9sZGVyIGZvciBmdXR1cmUpCmV4cG9ydCBjb25zdCBhcHByb3ZlVmVyaWZpY2F0aW9uID0gbXV0YXRpb24oewogICAgYXJnczogewogICAgICAgIHZlcmlmaWNhdGlvbklkOiB2LmlkKCJ2ZXJpZmljYXRpb25zIiksCiAgICAgICAgYWRtaW5Vc2VySWQ6IHYuaWQoInVzZXJzIiksIC8vIEZvciBmdXR1cmUgYWRtaW4gYXV0aGVudGljYXRpb24KICAgIH0sCiAgICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICAgICAgY29uc3QgdmVyaWZpY2F0aW9uID0gYXdhaXQgY3R4LmRiLmdldChhcmdzLnZlcmlmaWNhdGlvbklkKTsKCiAgICAgICAgaWYgKCF2ZXJpZmljYXRpb24pIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCJWZXJpZmljYXRpb24gbm90IGZvdW5kIik7CiAgICAgICAgfQoKICAgICAgICBpZiAodmVyaWZpY2F0aW9uLnN0YXR1cyAhPT0gInBlbmRpbmciKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcigiVmVyaWZpY2F0aW9uIGlzIG5vdCBwZW5kaW5nIik7CiAgICAgICAgfQoKICAgICAgICBjb25zdCBub3cgPSBEYXRlLm5vdygpOwoKICAgICAgICAvLyBVcGRhdGUgdmVyaWZpY2F0aW9uIHN0YXR1cwogICAgICAgIGF3YWl0IGN0eC5kYi5wYXRjaChhcmdzLnZlcmlmaWNhdGlvbklkLCB7CiAgICAgICAgICAgIHN0YXR1czogImFwcHJvdmVkIiwKICAgICAgICAgICAgcmV2aWV3ZWRBdDogbm93LAogICAgICAgIH0pOwoKICAgICAgICAvLyBVcGRhdGUgdXNlcidzIHZlcmlmaWNhdGlvbiBzdGF0dXMKICAgICAgICBhd2FpdCBjdHguZGIucGF0Y2godmVyaWZpY2F0aW9uLnVzZXJJZCwgewogICAgICAgICAgICB2ZXJpZmljYXRpb25TdGF0dXM6ICJ2ZXJpZmllZCIsCiAgICAgICAgfSk7CgogICAgICAgIC8vIFNlbmQgdmVyaWZpY2F0aW9uIGNvbXBsZXRlIG5vdGlmaWNhdGlvbgogICAgICAgIGF3YWl0IGluc2VydE5vdGlmaWNhdGlvbihjdHgsIHsKICAgICAgICAgICAgdXNlcklkOiB2ZXJpZmljYXRpb24udXNlcklkLAogICAgICAgICAgICB0eXBlOiAidmVyaWZpY2F0aW9uX2NvbXBsZXRlIiwKICAgICAgICAgICAgdGl0bGU6ICJWZXJpZmljYXRpb24gQXBwcm92ZWQhIOKckyIsCiAgICAgICAgICAgIGJvZHk6ICJZb3VyIHByb2ZpbGUgaGFzIGJlZW4gdmVyaWZpZWQhIFlvdSBub3cgaGF2ZSB0aGUgdmVyaWZpZWQgYmFkZ2UuIiwKICAgICAgICAgICAgcHJpb3JpdHk6ICJoaWdoIiwKICAgICAgICAgICAgY2F0ZWdvcnk6ICJzeXN0ZW0iLAogICAgICAgICAgICBpY29uOiAi4pyFIiwKICAgICAgICAgICAgYWN0aW9uQnV0dG9uczogWwogICAgICAgICAgICAgICAgeyBsYWJlbDogIlZpZXcgUHJvZmlsZSIsIGFjdGlvbjogIm5hdmlnYXRlIiwgbGluazogIi9wcm9maWxlIiB9LAogICAgICAgICAgICBdLAogICAgICAgIH0pOwoKICAgICAgICByZXR1cm4geyBzdWNjZXNzOiB0cnVlIH07CiAgICB9LAp9KTsKCi8vIFJlamVjdCB2ZXJpZmljYXRpb24gKGFkbWluIGZ1bmN0aW9uIC0gcGxhY2Vob2xkZXIgZm9yIGZ1dHVyZSkKZXhwb3J0IGNvbnN0IHJlamVjdFZlcmlmaWNhdGlvbiA9IG11dGF0aW9uKHsKICAgIGFyZ3M6IHsKICAgICAgICB2ZXJpZmljYXRpb25JZDogdi5pZCgidmVyaWZpY2F0aW9ucyIpLAogICAgICAgIGFkbWluVXNlcklkOiB2LmlkKCJ1c2VycyIpLCAvLyBGb3IgZnV0dXJlIGFkbWluIGF1dGhlbnRpY2F0aW9uCiAgICAgICAgcmVhc29uOiB2Lm9wdGlvbmFsKHYuc3RyaW5nKCkpLAogICAgfSwKICAgIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgICAgICBjb25zdCB2ZXJpZmljYXRpb24gPSBhd2FpdCBjdHguZGIuZ2V0KGFyZ3MudmVyaWZpY2F0aW9uSWQpOwoKICAgICAgICBpZiAoIXZlcmlmaWNhdGlvbikgewogICAgICAgICAgICB0aHJvdyBuZXcgRXJyb3IoIlZlcmlmaWNhdGlvbiBub3QgZm91bmQiKTsKICAgICAgICB9CgogICAgICAgIGlmICh2ZXJpZmljYXRpb24uc3RhdHVzICE9PSAicGVuZGluZyIpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCJWZXJpZmljYXRpb24gaXMgbm90IHBlbmRpbmciKTsKICAgICAgICB9CgogICAgICAgIGNvbnN0IG5vdyA9IERhdGUubm93KCk7CgogICAgICAgIC8vIFVwZGF0ZSB2ZXJpZmljYXRpb24gc3RhdHVzCiAgICAgICAgYXdhaXQgY3R4LmRiLnBhdGNoKGFyZ3MudmVyaWZpY2F0aW9uSWQsIHsKICAgICAgICAgICAgc3RhdHVzOiAicmVqZWN0ZWQiLAogICAgICAgICAgICByZXZpZXdlZEF0OiBub3csCiAgICAgICAgICAgIHJldmlld05vdGVzOiBhcmdzLnJlYXNvbiwKICAgICAgICB9KTsKCiAgICAgICAgLy8gU2VuZCB2ZXJpZmljYXRpb24gcmVqZWN0ZWQgbm90aWZpY2F0aW9uCiAgICAgICAgYXdhaXQgaW5zZXJ0Tm90aWZpY2F0aW9uKGN0eCwgewogICAgICAgICAgICB1c2VySWQ6IHZlcmlmaWNhdGlvbi51c2VySWQsCiAgICAgICAgICAgIHR5cGU6ICJ2ZXJpZmljYXRpb25fcmVqZWN0ZWQiLAogICAgICAgICAgICB0aXRsZTogIlZlcmlmaWNhdGlvbiBSZWplY3RlZCIsCiAgICAgICAgICAgIGJvZHk6IGFyZ3MucmVhc29uIHx8ICJZb3VyIHZlcmlmaWNhdGlvbiB3YXMgcmVqZWN0ZWQuIFBsZWFzZSByZXZpZXcgdGhlIHJlcXVpcmVtZW50cyBhbmQgdHJ5IGFnYWluLiIsCiAgICAgICAgICAgIHByaW9yaXR5OiAiaGlnaCIsCiAgICAgICAgICAgIGNhdGVnb3J5OiAic3lzdGVtIiwKICAgICAgICAgICAgaWNvbjogIuKdjCIsCiAgICAgICAgICAgIGFjdGlvbkJ1dHRvbnM6IFsKICAgICAgICAgICAgICAgIHsgbGFiZWw6ICJUcnkgQWdhaW4iLCBhY3Rpb246ICJuYXZpZ2F0ZSIsIGxpbms6ICIvcGhvdG8tdmVyaWZpY2F0aW9uIiB9LAogICAgICAgICAgICBdLAogICAgICAgIH0pOwoKICAgICAgICByZXR1cm4geyBzdWNjZXNzOiB0cnVlIH07CiAgICB9LAp9KTsK"}
+import { v } from "convex/values";
+import { mutation, query } from "./_generated/server";
+import { insertNotification } from "./notifications";
+
+export const submitVerification = mutation({
+    args: {
+        userId: v.id("users"),
+        photos: v.array(
+            v.object({
+                url: v.string(),
+                pose: v.string(),
+            })
+        ),
+    },
+    handler: async (ctx, args) => {
+        const existing = await ctx.db
+            .query("verifications")
+            .withIndex("userId", (q) => q.eq("userId", args.userId))
+            .filter((q) =>
+                q.and(
+                    q.eq(q.field("type"), "photo"),
+                    q.eq(q.field("status"), "pending")
+                )
+            )
+            .first();
+
+        if (existing) {
+            throw new Error("You already have a pending verification request");
+        }
+
+        const now = Date.now();
+
+        const verificationId = await ctx.db.insert("verifications", {
+            userId: args.userId,
+            type: "photo",
+            status: "pending",
+            verificationPhotos: args.photos,
+            submittedAt: now,
+        });
+
+        // Send verification pending notification
+        await insertNotification(ctx, {
+            userId: args.userId,
+            type: "verification_pending",
+            title: "Verification Submitted",
+            body: "Your verification photos are being reviewed. We'll notify you once it's complete!",
+            priority: "medium",
+            category: "system",
+            icon: "⏳",
+        });
+
+        return verificationId;
+    },
+});
+
+// Submit photo verification
+export const submitPhotoVerification = mutation({
+    args: {
+        userId: v.id("users"),
+        photoUrl: v.string(),
+    },
+    handler: async (ctx, args) => {
+        // Check if there's already a pending verification
+        const existing = await ctx.db
+            .query("verifications")
+            .withIndex("userId", (q) => q.eq("userId", args.userId))
+            .filter((q) =>
+                q.and(
+                    q.eq(q.field("type"), "photo"),
+                    q.eq(q.field("status"), "pending")
+                )
+            )
+            .first();
+
+        if (existing) {
+            throw new Error("You already have a pending verification request");
+        }
+
+        const now = Date.now();
+
+        const verificationId = await ctx.db.insert("verifications", {
+            userId: args.userId,
+            type: "photo",
+            status: "pending",
+            photoUrl: args.photoUrl,
+            submittedAt: now,
+        });
+
+        return verificationId;
+    },
+});
+
+// Get verification status for a user
+export const getVerificationStatus = query({
+    args: { userId: v.id("users") },
+    handler: async (ctx, args) => {
+        const verification = await ctx.db
+            .query("verifications")
+            .withIndex("userId", (q) => q.eq("userId", args.userId))
+            .filter((q) => q.eq(q.field("type"), "photo"))
+            .order("desc")
+            .first();
+
+        if (!verification) {
+            return { status: "none", verified: false };
+        }
+
+        return {
+            status: verification.status,
+            verified: verification.status === "approved",
+            submittedAt: verification.submittedAt,
+            reviewedAt: verification.reviewedAt,
+            reviewNotes: verification.reviewNotes,
+        };
+    },
+});
+
+// Check if user is verified
+export const isUserVerified = query({
+    args: { userId: v.id("users") },
+    handler: async (ctx, args) => {
+        const user = await ctx.db.get(args.userId);
+
+        if (!user) {
+            return false;
+        }
+
+        return user.verificationStatus === "verified";
+    },
+});
+
+// Approve verification (admin function - placeholder for future)
+export const approveVerification = mutation({
+    args: {
+        verificationId: v.id("verifications"),
+        adminUserId: v.id("users"), // For future admin authentication
+    },
+    handler: async (ctx, args) => {
+        const verification = await ctx.db.get(args.verificationId);
+
+        if (!verification) {
+            throw new Error("Verification not found");
+        }
+
+        if (verification.status !== "pending") {
+            throw new Error("Verification is not pending");
+        }
+
+        const now = Date.now();
+
+        // Update verification status
+        await ctx.db.patch(args.verificationId, {
+            status: "approved",
+            reviewedAt: now,
+        });
+
+        // Update user's verification status
+        await ctx.db.patch(verification.userId, {
+            verificationStatus: "verified",
+        });
+
+        // Send verification complete notification
+        await insertNotification(ctx, {
+            userId: verification.userId,
+            type: "verification_complete",
+            title: "Verification Approved! ✓",
+            body: "Your profile has been verified! You now have the verified badge.",
+            priority: "high",
+            category: "system",
+            icon: "✅",
+            actionButtons: [
+                { label: "View Profile", action: "navigate", link: "/profile" },
+            ],
+        });
+
+        return { success: true };
+    },
+});
+
+// Reject verification (admin function - placeholder for future)
+export const rejectVerification = mutation({
+    args: {
+        verificationId: v.id("verifications"),
+        adminUserId: v.id("users"), // For future admin authentication
+        reason: v.optional(v.string()),
+    },
+    handler: async (ctx, args) => {
+        const verification = await ctx.db.get(args.verificationId);
+
+        if (!verification) {
+            throw new Error("Verification not found");
+        }
+
+        if (verification.status !== "pending") {
+            throw new Error("Verification is not pending");
+        }
+
+        const now = Date.now();
+
+        // Update verification status
+        await ctx.db.patch(args.verificationId, {
+            status: "rejected",
+            reviewedAt: now,
+            reviewNotes: args.reason,
+        });
+
+        // Send verification rejected notification
+        await insertNotification(ctx, {
+            userId: verification.userId,
+            type: "verification_rejected",
+            title: "Verification Rejected",
+            body: args.reason || "Your verification was rejected. Please review the requirements and try again.",
+            priority: "high",
+            category: "system",
+            icon: "❌",
+            actionButtons: [
+                { label: "Try Again", action: "navigate", link: "/photo-verification" },
+            ],
+        });
+
+        return { success: true };
+    },
+});

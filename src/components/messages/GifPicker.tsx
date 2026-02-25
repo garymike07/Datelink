@@ -1,1 +1,79 @@
-{"data":"aW1wb3J0IHsgdXNlTWVtbywgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IERpYWxvZywgRGlhbG9nQ29udGVudCwgRGlhbG9nRGVzY3JpcHRpb24sIERpYWxvZ0hlYWRlciwgRGlhbG9nVGl0bGUgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvZGlhbG9nIjsKaW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2J1dHRvbiI7CmltcG9ydCB7IElucHV0IH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2lucHV0IjsKCmNvbnN0IFBSRVNFVF9HSUZTID0gWwogICJodHRwczovL21lZGlhLmdpcGh5LmNvbS9tZWRpYS8zbzdhRDJzYWFsQnd3ZnRCSVkvZ2lwaHkuZ2lmIiwKICAiaHR0cHM6Ly9tZWRpYS5naXBoeS5jb20vbWVkaWEvbDBIbEJPN2V5WHpTWmtKcmkvZ2lwaHkuZ2lmIiwKICAiaHR0cHM6Ly9tZWRpYS5naXBoeS5jb20vbWVkaWEvMjZ1ZmRpcFFxVTJsaE5BNGcvZ2lwaHkuZ2lmIiwKICAiaHR0cHM6Ly9tZWRpYS5naXBoeS5jb20vbWVkaWEvNUdvVkxxZUFPbzZQSy9naXBoeS5naWYiLAogICJodHRwczovL21lZGlhLmdpcGh5LmNvbS9tZWRpYS9JQ09nVU5qcHZPMFBDL2dpcGh5LmdpZiIsCiAgImh0dHBzOi8vbWVkaWEuZ2lwaHkuY29tL21lZGlhLzNvcmlPME9FZDlRSURkbGxxby9naXBoeS5naWYiLApdOwoKZXhwb3J0IGZ1bmN0aW9uIEdpZlBpY2tlcih7CiAgaXNPcGVuLAogIG9uQ2xvc2UsCiAgb25QaWNrLAp9OiB7CiAgaXNPcGVuOiBib29sZWFuOwogIG9uQ2xvc2U6ICgpID0+IHZvaWQ7CiAgb25QaWNrOiAoZ2lmVXJsOiBzdHJpbmcpID0+IHZvaWQ7Cn0pIHsKICBjb25zdCBbY3VzdG9tVXJsLCBzZXRDdXN0b21VcmxdID0gdXNlU3RhdGUoIiIpOwoKICBjb25zdCB2YWxpZEN1c3RvbSA9IHVzZU1lbW8oKCkgPT4gewogICAgaWYgKCFjdXN0b21VcmwudHJpbSgpKSByZXR1cm4gZmFsc2U7CiAgICB0cnkgewogICAgICBjb25zdCB1ID0gbmV3IFVSTChjdXN0b21VcmwudHJpbSgpKTsKICAgICAgcmV0dXJuIHUucHJvdG9jb2wgPT09ICJodHRwOiIgfHwgdS5wcm90b2NvbCA9PT0gImh0dHBzOiI7CiAgICB9IGNhdGNoIHsKICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQogIH0sIFtjdXN0b21VcmxdKTsKCiAgY29uc3QgcGljayA9ICh1cmw6IHN0cmluZykgPT4gewogICAgb25QaWNrKHVybCk7CiAgICBvbkNsb3NlKCk7CiAgfTsKCiAgcmV0dXJuICgKICAgIDxEaWFsb2cgb3Blbj17aXNPcGVufSBvbk9wZW5DaGFuZ2U9e29uQ2xvc2V9PgogICAgICA8RGlhbG9nQ29udGVudCBjbGFzc05hbWU9InNtOm1heC13LWxnIj4KICAgICAgICA8RGlhbG9nSGVhZGVyPgogICAgICAgICAgPERpYWxvZ1RpdGxlPlNlbmQgYSBHSUY8L0RpYWxvZ1RpdGxlPgogICAgICAgICAgPERpYWxvZ0Rlc2NyaXB0aW9uPgogICAgICAgICAgICBDaG9vc2UgYSBHSUYgb3IgcGFzdGUgYSBjdXN0b20gVVJMCiAgICAgICAgICA8L0RpYWxvZ0Rlc2NyaXB0aW9uPgogICAgICAgIDwvRGlhbG9nSGVhZGVyPgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0zIj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGdhcC0yIj4KICAgICAgICAgICAgPElucHV0CiAgICAgICAgICAgICAgdmFsdWU9e2N1c3RvbVVybH0KICAgICAgICAgICAgICBvbkNoYW5nZT17KGUpID0+IHNldEN1c3RvbVVybChlLnRhcmdldC52YWx1ZSl9CiAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IlBhc3RlIGEgR0lGIFVSTCAob3B0aW9uYWwpIgogICAgICAgICAgICAvPgogICAgICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9eygpID0+IHBpY2soY3VzdG9tVXJsLnRyaW0oKSl9IGRpc2FibGVkPXshdmFsaWRDdXN0b219PgogICAgICAgICAgICAgIFNlbmQKICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBncmlkLWNvbHMtMyBnYXAtMiI+CiAgICAgICAgICAgIHtQUkVTRVRfR0lGUy5tYXAoKHVybCkgPT4gKAogICAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICAgIGtleT17dXJsfQogICAgICAgICAgICAgICAgdHlwZT0iYnV0dG9uIgogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJhc3BlY3Qtc3F1YXJlIG92ZXJmbG93LWhpZGRlbiByb3VuZGVkLW1kIGJvcmRlciBob3ZlcjpvcGFjaXR5LTkwIgogICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gcGljayh1cmwpfQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxpbWcgc3JjPXt1cmx9IGFsdD0iZ2lmIiBjbGFzc05hbWU9ImgtZnVsbCB3LWZ1bGwgb2JqZWN0LWNvdmVyIiAvPgogICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICA8L0RpYWxvZ0NvbnRlbnQ+CiAgICA8L0RpYWxvZz4KICApOwp9Cg=="}
+import { useMemo, useState } from "react";
+import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from "@/components/ui/dialog";
+import { Button } from "@/components/ui/button";
+import { Input } from "@/components/ui/input";
+
+const PRESET_GIFS = [
+  "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+  "https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif",
+  "https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif",
+  "https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif",
+  "https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif",
+  "https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif",
+];
+
+export function GifPicker({
+  isOpen,
+  onClose,
+  onPick,
+}: {
+  isOpen: boolean;
+  onClose: () => void;
+  onPick: (gifUrl: string) => void;
+}) {
+  const [customUrl, setCustomUrl] = useState("");
+
+  const validCustom = useMemo(() => {
+    if (!customUrl.trim()) return false;
+    try {
+      const u = new URL(customUrl.trim());
+      return u.protocol === "http:" || u.protocol === "https:";
+    } catch {
+      return false;
+    }
+  }, [customUrl]);
+
+  const pick = (url: string) => {
+    onPick(url);
+    onClose();
+  };
+
+  return (
+    <Dialog open={isOpen} onOpenChange={onClose}>
+      <DialogContent className="sm:max-w-lg">
+        <DialogHeader>
+          <DialogTitle>Send a GIF</DialogTitle>
+          <DialogDescription>
+            Choose a GIF or paste a custom URL
+          </DialogDescription>
+        </DialogHeader>
+
+        <div className="space-y-3">
+          <div className="flex gap-2">
+            <Input
+              value={customUrl}
+              onChange={(e) => setCustomUrl(e.target.value)}
+              placeholder="Paste a GIF URL (optional)"
+            />
+            <Button onClick={() => pick(customUrl.trim())} disabled={!validCustom}>
+              Send
+            </Button>
+          </div>
+
+          <div className="grid grid-cols-3 gap-2">
+            {PRESET_GIFS.map((url) => (
+              <button
+                key={url}
+                type="button"
+                className="aspect-square overflow-hidden rounded-md border hover:opacity-90"
+                onClick={() => pick(url)}
+              >
+                <img src={url} alt="gif" className="h-full w-full object-cover" />
+              </button>
+            ))}
+          </div>
+        </div>
+      </DialogContent>
+    </Dialog>
+  );
+}

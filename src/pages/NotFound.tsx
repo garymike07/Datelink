@@ -1,1 +1,24 @@
-{"data":"aW1wb3J0IHsgdXNlTG9jYXRpb24gfSBmcm9tICJyZWFjdC1yb3V0ZXItZG9tIjsKaW1wb3J0IHsgdXNlRWZmZWN0IH0gZnJvbSAicmVhY3QiOwoKY29uc3QgTm90Rm91bmQgPSAoKSA9PiB7CiAgY29uc3QgbG9jYXRpb24gPSB1c2VMb2NhdGlvbigpOwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgY29uc29sZS5lcnJvcigiNDA0IEVycm9yOiBVc2VyIGF0dGVtcHRlZCB0byBhY2Nlc3Mgbm9uLWV4aXN0ZW50IHJvdXRlOiIsIGxvY2F0aW9uLnBhdGhuYW1lKTsKICB9LCBbbG9jYXRpb24ucGF0aG5hbWVdKTsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IG1pbi1oLXNjcmVlbiBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgYmctbXV0ZWQiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0idGV4dC1jZW50ZXIiPgogICAgICAgIDxoMSBjbGFzc05hbWU9Im1iLTQgdGV4dC00eGwgZm9udC1ib2xkIj40MDQ8L2gxPgogICAgICAgIDxwIGNsYXNzTmFtZT0ibWItNCB0ZXh0LXhsIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+T29wcyEgUGFnZSBub3QgZm91bmQ8L3A+CiAgICAgICAgPGEgaHJlZj0iLyIgY2xhc3NOYW1lPSJ0ZXh0LXByaW1hcnkgdW5kZXJsaW5lIGhvdmVyOnRleHQtcHJpbWFyeS85MCI+CiAgICAgICAgICBSZXR1cm4gdG8gSG9tZQogICAgICAgIDwvYT4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9OwoKZXhwb3J0IGRlZmF1bHQgTm90Rm91bmQ7Cg=="}
+import { useLocation } from "react-router-dom";
+import { useEffect } from "react";
+
+const NotFound = () => {
+  const location = useLocation();
+
+  useEffect(() => {
+    console.error("404 Error: User attempted to access non-existent route:", location.pathname);
+  }, [location.pathname]);
+
+  return (
+    <div className="flex min-h-screen items-center justify-center bg-muted">
+      <div className="text-center">
+        <h1 className="mb-4 text-4xl font-bold">404</h1>
+        <p className="mb-4 text-xl text-muted-foreground">Oops! Page not found</p>
+        <a href="/" className="text-primary underline hover:text-primary/90">
+          Return to Home
+        </a>
+      </div>
+    </div>
+  );
+};
+
+export default NotFound;

@@ -1,1 +1,30 @@
-{"data":"aW1wb3J0IGpzIGZyb20gIkBlc2xpbnQvanMiOwppbXBvcnQgZ2xvYmFscyBmcm9tICJnbG9iYWxzIjsKaW1wb3J0IHJlYWN0SG9va3MgZnJvbSAiZXNsaW50LXBsdWdpbi1yZWFjdC1ob29rcyI7CmltcG9ydCByZWFjdFJlZnJlc2ggZnJvbSAiZXNsaW50LXBsdWdpbi1yZWFjdC1yZWZyZXNoIjsKaW1wb3J0IHRzZXNsaW50IGZyb20gInR5cGVzY3JpcHQtZXNsaW50IjsKCmV4cG9ydCBkZWZhdWx0IHRzZXNsaW50LmNvbmZpZygKICB7IGlnbm9yZXM6IFsiZGlzdCIsICJjb252ZXgvX2dlbmVyYXRlZC8qKiJdIH0sCiAgewogICAgZXh0ZW5kczogW2pzLmNvbmZpZ3MucmVjb21tZW5kZWQsIC4uLnRzZXNsaW50LmNvbmZpZ3MucmVjb21tZW5kZWRdLAogICAgZmlsZXM6IFsiKiovKi57dHMsdHN4fSJdLAogICAgbGFuZ3VhZ2VPcHRpb25zOiB7CiAgICAgIGVjbWFWZXJzaW9uOiAyMDIwLAogICAgICBnbG9iYWxzOiBnbG9iYWxzLmJyb3dzZXIsCiAgICB9LAogICAgcGx1Z2luczogewogICAgICAicmVhY3QtaG9va3MiOiByZWFjdEhvb2tzLAogICAgICAicmVhY3QtcmVmcmVzaCI6IHJlYWN0UmVmcmVzaCwKICAgIH0sCiAgICBydWxlczogewogICAgICAuLi5yZWFjdEhvb2tzLmNvbmZpZ3MucmVjb21tZW5kZWQucnVsZXMsCiAgICAgICJyZWFjdC1yZWZyZXNoL29ubHktZXhwb3J0LWNvbXBvbmVudHMiOiBbIndhcm4iLCB7IGFsbG93Q29uc3RhbnRFeHBvcnQ6IHRydWUgfV0sCiAgICAgICJAdHlwZXNjcmlwdC1lc2xpbnQvbm8tdW51c2VkLXZhcnMiOiAib2ZmIiwKICAgICAgIkB0eXBlc2NyaXB0LWVzbGludC9uby1leHBsaWNpdC1hbnkiOiAib2ZmIiwKICAgICAgIkB0eXBlc2NyaXB0LWVzbGludC9uby1lbXB0eS1vYmplY3QtdHlwZSI6ICJvZmYiLAogICAgICAiQHR5cGVzY3JpcHQtZXNsaW50L25vLXJlcXVpcmUtaW1wb3J0cyI6ICJvZmYiLAogICAgICAibm8tc2hhZG93LXJlc3RyaWN0ZWQtbmFtZXMiOiAib2ZmIiwKICAgIH0sCiAgfSwKKTsK"}
+import js from "@eslint/js";
+import globals from "globals";
+import reactHooks from "eslint-plugin-react-hooks";
+import reactRefresh from "eslint-plugin-react-refresh";
+import tseslint from "typescript-eslint";
+
+export default tseslint.config(
+  { ignores: ["dist", "convex/_generated/**"] },
+  {
+    extends: [js.configs.recommended, ...tseslint.configs.recommended],
+    files: ["**/*.{ts,tsx}"],
+    languageOptions: {
+      ecmaVersion: 2020,
+      globals: globals.browser,
+    },
+    plugins: {
+      "react-hooks": reactHooks,
+      "react-refresh": reactRefresh,
+    },
+    rules: {
+      ...reactHooks.configs.recommended.rules,
+      "react-refresh/only-export-components": ["warn", { allowConstantExport: true }],
+      "@typescript-eslint/no-unused-vars": "off",
+      "@typescript-eslint/no-explicit-any": "off",
+      "@typescript-eslint/no-empty-object-type": "off",
+      "@typescript-eslint/no-require-imports": "off",
+      "no-shadow-restricted-names": "off",
+    },
+  },
+);

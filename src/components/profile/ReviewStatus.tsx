@@ -1,1 +1,78 @@
-{"data":"aW1wb3J0IHsgdXNlUXVlcnkgfSBmcm9tICJjb252ZXgvcmVhY3QiOwppbXBvcnQgeyBhcGkgfSBmcm9tICIuLi8uLi8uLi9jb252ZXgvX2dlbmVyYXRlZC9hcGkiOwppbXBvcnQgeyBCdXR0b24gfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvYnV0dG9uIjsKaW1wb3J0IHsgQ2FyZCB9IGZyb20gIkAvY29tcG9uZW50cy91aS9jYXJkIjsKaW1wb3J0IHsgdXNlTmF2aWdhdGUgfSBmcm9tICJyZWFjdC1yb3V0ZXItZG9tIjsKaW1wb3J0IHsgQ2hlY2tDaXJjbGUyLCBYQ2lyY2xlLCBIb3VyZ2xhc3MgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwoKZXhwb3J0IGZ1bmN0aW9uIFJldmlld1N0YXR1cyhwcm9wczogeyB1c2VySWQ6IHN0cmluZyB9KSB7CiAgY29uc3QgbmF2aWdhdGUgPSB1c2VOYXZpZ2F0ZSgpOwogIGNvbnN0IHN0YXR1cyA9IHVzZVF1ZXJ5KGFwaS52ZXJpZmljYXRpb24uZ2V0VmVyaWZpY2F0aW9uU3RhdHVzLCBwcm9wcy51c2VySWQgPyB7IHVzZXJJZDogcHJvcHMudXNlcklkIGFzIGFueSB9IDogInNraXAiKTsKCiAgaWYgKCFzdGF0dXMpIHJldHVybiBudWxsOwoKICBjb25zdCBzID0gKHN0YXR1cyBhcyBhbnkpLnN0YXR1cyBhcyBzdHJpbmc7CiAgaWYgKHMgPT09ICJub25lIikgewogICAgcmV0dXJuICgKICAgICAgPENhcmQgY2xhc3NOYW1lPSJwLTQgbWItNCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtc3RhcnQganVzdGlmeS1iZXR3ZWVuIGdhcC0zIj4KICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0iZm9udC1zZW1pYm9sZCI+R2V0IHZlcmlmaWVkPC9wPgogICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj5WZXJpZmllZCBwcm9maWxlcyBnZXQgbW9yZSB0cnVzdCBhbmQgdmlzaWJpbGl0eS48L3A+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxCdXR0b24gc2l6ZT0ic20iIG9uQ2xpY2s9eygpID0+IG5hdmlnYXRlKCIvcGhvdG8tdmVyaWZpY2F0aW9uIil9PlZlcmlmeTwvQnV0dG9uPgogICAgICAgIDwvZGl2PgogICAgICA8L0NhcmQ+CiAgICApOwogIH0KCiAgaWYgKHMgPT09ICJwZW5kaW5nIikgewogICAgcmV0dXJuICgKICAgICAgPENhcmQgY2xhc3NOYW1lPSJwLTQgbWItNCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIj4KICAgICAgICAgIDxIb3VyZ2xhc3MgY2xhc3NOYW1lPSJ3LTQgaC00IHRleHQtbXV0ZWQtZm9yZWdyb3VuZCIgLz4KICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0iZm9udC1zZW1pYm9sZCI+VW5kZXIgcmV2aWV3PC9wPgogICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj5XZeKAmXJlIHJldmlld2luZyB5b3VyIHZlcmlmaWNhdGlvbiBzdWJtaXNzaW9uLjwvcD4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICA8L0NhcmQ+CiAgICApOwogIH0KCiAgaWYgKHMgPT09ICJhcHByb3ZlZCIpIHsKICAgIHJldHVybiAoCiAgICAgIDxDYXJkIGNsYXNzTmFtZT0icC00IG1iLTQiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiI+CiAgICAgICAgICA8Q2hlY2tDaXJjbGUyIGNsYXNzTmFtZT0idy00IGgtNCB0ZXh0LWdyZWVuLTYwMCIgLz4KICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0iZm9udC1zZW1pYm9sZCI+VmVyaWZpZWQ8L3A+CiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQiPllvdXIgcHJvZmlsZSBpcyB2ZXJpZmllZC48L3A+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9DYXJkPgogICAgKTsKICB9CgogIGlmIChzID09PSAicmVqZWN0ZWQiKSB7CiAgICBjb25zdCByZWFzb24gPSAoc3RhdHVzIGFzIGFueSkucmV2aWV3Tm90ZXMgYXMgc3RyaW5nIHwgdW5kZWZpbmVkOwogICAgcmV0dXJuICgKICAgICAgPENhcmQgY2xhc3NOYW1lPSJwLTQgbWItNCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtc3RhcnQganVzdGlmeS1iZXR3ZWVuIGdhcC0zIj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLXN0YXJ0IGdhcC0yIj4KICAgICAgICAgICAgPFhDaXJjbGUgY2xhc3NOYW1lPSJ3LTQgaC00IHRleHQtcmVkLTYwMCBtdC0wLjUiIC8+CiAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJmb250LXNlbWlib2xkIj5WZXJpZmljYXRpb24gZmFpbGVkPC9wPgogICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQiPntyZWFzb24gPyByZWFzb24gOiAiUGxlYXNlIHRyeSBhZ2Fpbi4ifTwvcD4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxCdXR0b24gc2l6ZT0ic20iIHZhcmlhbnQ9Im91dGxpbmUiIG9uQ2xpY2s9eygpID0+IG5hdmlnYXRlKCIvcGhvdG8tdmVyaWZpY2F0aW9uIil9PgogICAgICAgICAgICBSZXRyeQogICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvQ2FyZD4KICAgICk7CiAgfQoKICByZXR1cm4gbnVsbDsKfQo="}
+import { useQuery } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import { Button } from "@/components/ui/button";
+import { Card } from "@/components/ui/card";
+import { useNavigate } from "react-router-dom";
+import { CheckCircle2, XCircle, Hourglass } from "lucide-react";
+
+export function ReviewStatus(props: { userId: string }) {
+  const navigate = useNavigate();
+  const status = useQuery(api.verification.getVerificationStatus, props.userId ? { userId: props.userId as any } : "skip");
+
+  if (!status) return null;
+
+  const s = (status as any).status as string;
+  if (s === "none") {
+    return (
+      <Card className="p-4 mb-4">
+        <div className="flex items-start justify-between gap-3">
+          <div>
+            <p className="font-semibold">Get verified</p>
+            <p className="text-sm text-muted-foreground">Verified profiles get more trust and visibility.</p>
+          </div>
+          <Button size="sm" onClick={() => navigate("/photo-verification")}>Verify</Button>
+        </div>
+      </Card>
+    );
+  }
+
+  if (s === "pending") {
+    return (
+      <Card className="p-4 mb-4">
+        <div className="flex items-center gap-2">
+          <Hourglass className="w-4 h-4 text-muted-foreground" />
+          <div>
+            <p className="font-semibold">Under review</p>
+            <p className="text-sm text-muted-foreground">We’re reviewing your verification submission.</p>
+          </div>
+        </div>
+      </Card>
+    );
+  }
+
+  if (s === "approved") {
+    return (
+      <Card className="p-4 mb-4">
+        <div className="flex items-center gap-2">
+          <CheckCircle2 className="w-4 h-4 text-green-600" />
+          <div>
+            <p className="font-semibold">Verified</p>
+            <p className="text-sm text-muted-foreground">Your profile is verified.</p>
+          </div>
+        </div>
+      </Card>
+    );
+  }
+
+  if (s === "rejected") {
+    const reason = (status as any).reviewNotes as string | undefined;
+    return (
+      <Card className="p-4 mb-4">
+        <div className="flex items-start justify-between gap-3">
+          <div className="flex items-start gap-2">
+            <XCircle className="w-4 h-4 text-red-600 mt-0.5" />
+            <div>
+              <p className="font-semibold">Verification failed</p>
+              <p className="text-sm text-muted-foreground">{reason ? reason : "Please try again."}</p>
+            </div>
+          </div>
+          <Button size="sm" variant="outline" onClick={() => navigate("/photo-verification")}>
+            Retry
+          </Button>
+        </div>
+      </Card>
+    );
+  }
+
+  return null;
+}

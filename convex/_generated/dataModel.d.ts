@@ -1,1 +1,60 @@
-{"data":"LyogZXNsaW50LWRpc2FibGUgKi8KLyoqCiAqIEdlbmVyYXRlZCBkYXRhIG1vZGVsIHR5cGVzLgogKgogKiBUSElTIENPREUgSVMgQVVUT01BVElDQUxMWSBHRU5FUkFURUQuCiAqCiAqIFRvIHJlZ2VuZXJhdGUsIHJ1biBgbnB4IGNvbnZleCBkZXZgLgogKiBAbW9kdWxlCiAqLwoKaW1wb3J0IHR5cGUgewogIERhdGFNb2RlbEZyb21TY2hlbWFEZWZpbml0aW9uLAogIERvY3VtZW50QnlOYW1lLAogIFRhYmxlTmFtZXNJbkRhdGFNb2RlbCwKICBTeXN0ZW1UYWJsZU5hbWVzLAp9IGZyb20gImNvbnZleC9zZXJ2ZXIiOwppbXBvcnQgdHlwZSB7IEdlbmVyaWNJZCB9IGZyb20gImNvbnZleC92YWx1ZXMiOwppbXBvcnQgc2NoZW1hIGZyb20gIi4uL3NjaGVtYS5qcyI7CgovKioKICogVGhlIG5hbWVzIG9mIGFsbCBvZiB5b3VyIENvbnZleCB0YWJsZXMuCiAqLwpleHBvcnQgdHlwZSBUYWJsZU5hbWVzID0gVGFibGVOYW1lc0luRGF0YU1vZGVsPERhdGFNb2RlbD47CgovKioKICogVGhlIHR5cGUgb2YgYSBkb2N1bWVudCBzdG9yZWQgaW4gQ29udmV4LgogKgogKiBAdHlwZVBhcmFtIFRhYmxlTmFtZSAtIEEgc3RyaW5nIGxpdGVyYWwgdHlwZSBvZiB0aGUgdGFibGUgbmFtZSAobGlrZSAidXNlcnMiKS4KICovCmV4cG9ydCB0eXBlIERvYzxUYWJsZU5hbWUgZXh0ZW5kcyBUYWJsZU5hbWVzPiA9IERvY3VtZW50QnlOYW1lPAogIERhdGFNb2RlbCwKICBUYWJsZU5hbWUKPjsKCi8qKgogKiBBbiBpZGVudGlmaWVyIGZvciBhIGRvY3VtZW50IGluIENvbnZleC4KICoKICogQ29udmV4IGRvY3VtZW50cyBhcmUgdW5pcXVlbHkgaWRlbnRpZmllZCBieSB0aGVpciBgSWRgLCB3aGljaCBpcyBhY2Nlc3NpYmxlCiAqIG9uIHRoZSBgX2lkYCBmaWVsZC4gVG8gbGVhcm4gbW9yZSwgc2VlIFtEb2N1bWVudCBJRHNdKGh0dHBzOi8vZG9jcy5jb252ZXguZGV2L3VzaW5nL2RvY3VtZW50LWlkcykuCiAqCiAqIERvY3VtZW50cyBjYW4gYmUgbG9hZGVkIHVzaW5nIGBkYi5nZXQodGFibGVOYW1lLCBpZClgIGluIHF1ZXJ5IGFuZCBtdXRhdGlvbiBmdW5jdGlvbnMuCiAqCiAqIElEcyBhcmUganVzdCBzdHJpbmdzIGF0IHJ1bnRpbWUsIGJ1dCB0aGlzIHR5cGUgY2FuIGJlIHVzZWQgdG8gZGlzdGluZ3Vpc2ggdGhlbSBmcm9tIG90aGVyCiAqIHN0cmluZ3Mgd2hlbiB0eXBlIGNoZWNraW5nLgogKgogKiBAdHlwZVBhcmFtIFRhYmxlTmFtZSAtIEEgc3RyaW5nIGxpdGVyYWwgdHlwZSBvZiB0aGUgdGFibGUgbmFtZSAobGlrZSAidXNlcnMiKS4KICovCmV4cG9ydCB0eXBlIElkPFRhYmxlTmFtZSBleHRlbmRzIFRhYmxlTmFtZXMgfCBTeXN0ZW1UYWJsZU5hbWVzPiA9CiAgR2VuZXJpY0lkPFRhYmxlTmFtZT47CgovKioKICogQSB0eXBlIGRlc2NyaWJpbmcgeW91ciBDb252ZXggZGF0YSBtb2RlbC4KICoKICogVGhpcyB0eXBlIGluY2x1ZGVzIGluZm9ybWF0aW9uIGFib3V0IHdoYXQgdGFibGVzIHlvdSBoYXZlLCB0aGUgdHlwZSBvZgogKiBkb2N1bWVudHMgc3RvcmVkIGluIHRob3NlIHRhYmxlcywgYW5kIHRoZSBpbmRleGVzIGRlZmluZWQgb24gdGhlbS4KICoKICogVGhpcyB0eXBlIGlzIHVzZWQgdG8gcGFyYW1ldGVyaXplIG1ldGhvZHMgbGlrZSBgcXVlcnlHZW5lcmljYCBhbmQKICogYG11dGF0aW9uR2VuZXJpY2AgdG8gbWFrZSB0aGVtIHR5cGUtc2FmZS4KICovCmV4cG9ydCB0eXBlIERhdGFNb2RlbCA9IERhdGFNb2RlbEZyb21TY2hlbWFEZWZpbml0aW9uPHR5cGVvZiBzY2hlbWE+Owo="}
+/* eslint-disable */
+/**
+ * Generated data model types.
+ *
+ * THIS CODE IS AUTOMATICALLY GENERATED.
+ *
+ * To regenerate, run `npx convex dev`.
+ * @module
+ */
+
+import type {
+  DataModelFromSchemaDefinition,
+  DocumentByName,
+  TableNamesInDataModel,
+  SystemTableNames,
+} from "convex/server";
+import type { GenericId } from "convex/values";
+import schema from "../schema.js";
+
+/**
+ * The names of all of your Convex tables.
+ */
+export type TableNames = TableNamesInDataModel<DataModel>;
+
+/**
+ * The type of a document stored in Convex.
+ *
+ * @typeParam TableName - A string literal type of the table name (like "users").
+ */
+export type Doc<TableName extends TableNames> = DocumentByName<
+  DataModel,
+  TableName
+>;
+
+/**
+ * An identifier for a document in Convex.
+ *
+ * Convex documents are uniquely identified by their `Id`, which is accessible
+ * on the `_id` field. To learn more, see [Document IDs](https://docs.convex.dev/using/document-ids).
+ *
+ * Documents can be loaded using `db.get(tableName, id)` in query and mutation functions.
+ *
+ * IDs are just strings at runtime, but this type can be used to distinguish them from other
+ * strings when type checking.
+ *
+ * @typeParam TableName - A string literal type of the table name (like "users").
+ */
+export type Id<TableName extends TableNames | SystemTableNames> =
+  GenericId<TableName>;
+
+/**
+ * A type describing your Convex data model.
+ *
+ * This type includes information about what tables you have, the type of
+ * documents stored in those tables, and the indexes defined on them.
+ *
+ * This type is used to parameterize methods like `queryGeneric` and
+ * `mutationGeneric` to make them type-safe.
+ */
+export type DataModel = DataModelFromSchemaDefinition<typeof schema>;

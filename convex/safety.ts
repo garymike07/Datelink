@@ -1,1 +1,218 @@
-{"data":"aW1wb3J0IHsgdiB9IGZyb20gImNvbnZleC92YWx1ZXMiOwppbXBvcnQgeyBtdXRhdGlvbiwgcXVlcnkgfSBmcm9tICIuL19nZW5lcmF0ZWQvc2VydmVyIjsKCmFzeW5jIGZ1bmN0aW9uIHN1Ym1pdFJlcG9ydEltcGwoCiAgICBjdHg6IGFueSwKICAgIGFyZ3M6IHsKICAgICAgICByZXBvcnRlcklkOiBhbnk7CiAgICAgICAgcmVwb3J0ZWRVc2VySWQ6IGFueTsKICAgICAgICBjYXRlZ29yeTogc3RyaW5nOwogICAgICAgIHN1YmNhdGVnb3J5OiBzdHJpbmc7CiAgICAgICAgZGVzY3JpcHRpb24/OiBzdHJpbmc7CiAgICAgICAgc2NyZWVuc2hvdHM/OiBzdHJpbmdbXTsKICAgICAgICBhdXRvQmxvY2s/OiBib29sZWFuOwogICAgfQopIHsKICAgIGNvbnN0IG5vdyA9IERhdGUubm93KCk7CgogICAgY29uc3QgcmVjZW50UmVwb3J0cyA9IGF3YWl0IGN0eC5kYgogICAgICAgIC5xdWVyeSgicmVwb3J0cyIpCiAgICAgICAgLndpdGhJbmRleCgicmVwb3J0ZXJJZCIsIChxOiBhbnkpID0+IHEuZXEoInJlcG9ydGVySWQiLCBhcmdzLnJlcG9ydGVySWQpKQogICAgICAgIC5jb2xsZWN0KCk7CgogICAgY29uc3QgYWxyZWFkeVJlcG9ydGVkID0gcmVjZW50UmVwb3J0cy5zb21lKAogICAgICAgIChyOiBhbnkpID0+IHIucmVwb3J0ZWRVc2VySWQgPT09IGFyZ3MucmVwb3J0ZWRVc2VySWQgJiYgbm93IC0gci5jcmVhdGVkQXQgPCAyNCAqIDYwICogNjAgKiAxMDAwCiAgICApOwoKICAgIGlmIChhbHJlYWR5UmVwb3J0ZWQpIHsKICAgICAgICB0aHJvdyBuZXcgRXJyb3IoIllvdSBoYXZlIGFscmVhZHkgcmVwb3J0ZWQgdGhpcyB1c2VyIHJlY2VudGx5Iik7CiAgICB9CgogICAgY29uc3QgcmVwb3J0SWQgPSBhd2FpdCBjdHguZGIuaW5zZXJ0KCJyZXBvcnRzIiwgewogICAgICAgIHJlcG9ydGVySWQ6IGFyZ3MucmVwb3J0ZXJJZCwKICAgICAgICByZXBvcnRlZFVzZXJJZDogYXJncy5yZXBvcnRlZFVzZXJJZCwKCiAgICAgICAgY2F0ZWdvcnk6IGFyZ3MuY2F0ZWdvcnksCiAgICAgICAgc3ViY2F0ZWdvcnk6IGFyZ3Muc3ViY2F0ZWdvcnksCiAgICAgICAgZGVzY3JpcHRpb246IGFyZ3MuZGVzY3JpcHRpb24sCiAgICAgICAgc2NyZWVuc2hvdHM6IGFyZ3Muc2NyZWVuc2hvdHMsCiAgICAgICAgc3RhdHVzOiAicGVuZGluZyIsCiAgICAgICAgY3JlYXRlZEF0OiBub3csCiAgICB9KTsKCiAgICBpZiAoYXJncy5hdXRvQmxvY2spIHsKICAgICAgICBjb25zdCBleGlzdGluZyA9IGF3YWl0IGN0eC5kYgogICAgICAgICAgICAucXVlcnkoImJsb2NrcyIpCiAgICAgICAgICAgIC53aXRoSW5kZXgoInBhaXIiLCAocTogYW55KSA9PiBxLmVxKCJibG9ja2VySWQiLCBhcmdzLnJlcG9ydGVySWQpLmVxKCJibG9ja2VkVXNlcklkIiwgYXJncy5yZXBvcnRlZFVzZXJJZCkpCiAgICAgICAgICAgIC5maXJzdCgpOwogICAgICAgIGlmICghZXhpc3RpbmcpIHsKICAgICAgICAgICAgYXdhaXQgY3R4LmRiLmluc2VydCgiYmxvY2tzIiwgewogICAgICAgICAgICAgICAgYmxvY2tlcklkOiBhcmdzLnJlcG9ydGVySWQsCiAgICAgICAgICAgICAgICBibG9ja2VkVXNlcklkOiBhcmdzLnJlcG9ydGVkVXNlcklkLAogICAgICAgICAgICAgICAgY3JlYXRlZEF0OiBub3csCiAgICAgICAgICAgIH0pOwogICAgICAgIH0KICAgIH0KCiAgICByZXR1cm4gcmVwb3J0SWQ7Cn0KCmV4cG9ydCBjb25zdCBzdWJtaXRSZXBvcnQgPSBtdXRhdGlvbih7CiAgICBhcmdzOiB7CiAgICAgICAgcmVwb3J0ZXJJZDogdi5pZCgidXNlcnMiKSwKICAgICAgICByZXBvcnRlZFVzZXJJZDogdi5pZCgidXNlcnMiKSwKICAgICAgICBjYXRlZ29yeTogdi5zdHJpbmcoKSwKICAgICAgICBzdWJjYXRlZ29yeTogdi5zdHJpbmcoKSwKICAgICAgICBkZXNjcmlwdGlvbjogdi5vcHRpb25hbCh2LnN0cmluZygpKSwKICAgICAgICBzY3JlZW5zaG90czogdi5vcHRpb25hbCh2LmFycmF5KHYuc3RyaW5nKCkpKSwKICAgICAgICBhdXRvQmxvY2s6IHYub3B0aW9uYWwodi5ib29sZWFuKCkpLAogICAgfSwKICAgIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgICAgICByZXR1cm4gYXdhaXQgc3VibWl0UmVwb3J0SW1wbChjdHgsIHsKICAgICAgICAgICAgcmVwb3J0ZXJJZDogYXJncy5yZXBvcnRlcklkLAogICAgICAgICAgICByZXBvcnRlZFVzZXJJZDogYXJncy5yZXBvcnRlZFVzZXJJZCwKICAgICAgICAgICAgY2F0ZWdvcnk6IGFyZ3MuY2F0ZWdvcnksCiAgICAgICAgICAgIHN1YmNhdGVnb3J5OiBhcmdzLnN1YmNhdGVnb3J5LAogICAgICAgICAgICBkZXNjcmlwdGlvbjogYXJncy5kZXNjcmlwdGlvbiwKICAgICAgICAgICAgc2NyZWVuc2hvdHM6IGFyZ3Muc2NyZWVuc2hvdHMsCiAgICAgICAgICAgIGF1dG9CbG9jazogYXJncy5hdXRvQmxvY2ssCiAgICAgICAgfSk7CiAgICB9LAp9KTsKCi8vIEJhY2t3YXJkcy1jb21wYXRpYmxlIGFsaWFzCmV4cG9ydCBjb25zdCByZXBvcnRVc2VyID0gbXV0YXRpb24oewogICAgYXJnczogewogICAgICAgIHJlcG9ydGVySWQ6IHYuaWQoInVzZXJzIiksCiAgICAgICAgcmVwb3J0ZWRVc2VySWQ6IHYuaWQoInVzZXJzIiksCiAgICAgICAgcmVhc29uOiB2LnN0cmluZygpLAogICAgICAgIGRldGFpbHM6IHYub3B0aW9uYWwodi5zdHJpbmcoKSksCiAgICB9LAogICAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgICAgIHJldHVybiBhd2FpdCBzdWJtaXRSZXBvcnRJbXBsKGN0eCwgewogICAgICAgICAgICByZXBvcnRlcklkOiBhcmdzLnJlcG9ydGVySWQsCiAgICAgICAgICAgIHJlcG9ydGVkVXNlcklkOiBhcmdzLnJlcG9ydGVkVXNlcklkLAogICAgICAgICAgICBjYXRlZ29yeTogIm90aGVyIiwKICAgICAgICAgICAgc3ViY2F0ZWdvcnk6IGFyZ3MucmVhc29uLAogICAgICAgICAgICBkZXNjcmlwdGlvbjogYXJncy5kZXRhaWxzLAogICAgICAgICAgICBhdXRvQmxvY2s6IGZhbHNlLAogICAgICAgIH0pOwogICAgfSwKfSk7CgovLyBCbG9jayBhIHVzZXIKZXhwb3J0IGNvbnN0IGJsb2NrVXNlciA9IG11dGF0aW9uKHsKICAgIGFyZ3M6IHsKICAgICAgICBibG9ja2VySWQ6IHYuaWQoInVzZXJzIiksCiAgICAgICAgYmxvY2tlZFVzZXJJZDogdi5pZCgidXNlcnMiKSwKICAgIH0sCiAgICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICAgICAgLy8gQ2hlY2sgaWYgYWxyZWFkeSBibG9ja2VkCiAgICAgICAgY29uc3QgZXhpc3RpbmcgPSBhd2FpdCBjdHguZGIKICAgICAgICAgICAgLnF1ZXJ5KCJibG9ja3MiKQogICAgICAgICAgICAud2l0aEluZGV4KCJwYWlyIiwgKHEpID0+IHEuZXEoImJsb2NrZXJJZCIsIGFyZ3MuYmxvY2tlcklkKS5lcSgiYmxvY2tlZFVzZXJJZCIsIGFyZ3MuYmxvY2tlZFVzZXJJZCkpCiAgICAgICAgICAgIC5maXJzdCgpOwoKICAgICAgICBpZiAoZXhpc3RpbmcpIHsKICAgICAgICAgICAgcmV0dXJuIGV4aXN0aW5nLl9pZDsgLy8gQWxyZWFkeSBibG9ja2VkCiAgICAgICAgfQoKICAgICAgICBjb25zdCBibG9ja0lkID0gYXdhaXQgY3R4LmRiLmluc2VydCgiYmxvY2tzIiwgewogICAgICAgICAgICBibG9ja2VySWQ6IGFyZ3MuYmxvY2tlcklkLAogICAgICAgICAgICBibG9ja2VkVXNlcklkOiBhcmdzLmJsb2NrZWRVc2VySWQsCiAgICAgICAgICAgIGNyZWF0ZWRBdDogRGF0ZS5ub3coKSwKICAgICAgICB9KTsKCiAgICAgICAgcmV0dXJuIGJsb2NrSWQ7CiAgICB9LAp9KTsKCi8vIFVuYmxvY2sgYSB1c2VyCmV4cG9ydCBjb25zdCB1bmJsb2NrVXNlciA9IG11dGF0aW9uKHsKICAgIGFyZ3M6IHsKICAgICAgICBibG9ja2VySWQ6IHYuaWQoInVzZXJzIiksCiAgICAgICAgYmxvY2tlZFVzZXJJZDogdi5pZCgidXNlcnMiKSwKICAgIH0sCiAgICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICAgICAgY29uc3QgYmxvY2sgPSBhd2FpdCBjdHguZGIKICAgICAgICAgICAgLnF1ZXJ5KCJibG9ja3MiKQogICAgICAgICAgICAud2l0aEluZGV4KCJwYWlyIiwgKHEpID0+IHEuZXEoImJsb2NrZXJJZCIsIGFyZ3MuYmxvY2tlcklkKS5lcSgiYmxvY2tlZFVzZXJJZCIsIGFyZ3MuYmxvY2tlZFVzZXJJZCkpCiAgICAgICAgICAgIC5maXJzdCgpOwoKICAgICAgICBpZiAoYmxvY2spIHsKICAgICAgICAgICAgYXdhaXQgY3R4LmRiLmRlbGV0ZShibG9jay5faWQpOwogICAgICAgIH0KICAgIH0sCn0pOwoKLy8gR2V0IGJsb2NrZWQgdXNlcnMKZXhwb3J0IGNvbnN0IGdldEJsb2NrZWRVc2VycyA9IHF1ZXJ5KHsKICAgIGFyZ3M6IHsgdXNlcklkOiB2LmlkKCJ1c2VycyIpIH0sCiAgICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICAgICAgY29uc3QgYmxvY2tzID0gYXdhaXQgY3R4LmRiCiAgICAgICAgICAgIC5xdWVyeSgiYmxvY2tzIikKICAgICAgICAgICAgLndpdGhJbmRleCgiYmxvY2tlcklkIiwgKHEpID0+IHEuZXEoImJsb2NrZXJJZCIsIGFyZ3MudXNlcklkKSkKICAgICAgICAgICAgLmNvbGxlY3QoKTsKCiAgICAgICAgY29uc3QgYmxvY2tlZFVzZXJzID0gW107CiAgICAgICAgZm9yIChjb25zdCBibG9jayBvZiBibG9ja3MpIHsKICAgICAgICAgICAgY29uc3QgcHJvZmlsZSA9IGF3YWl0IGN0eC5kYgogICAgICAgICAgICAgICAgLnF1ZXJ5KCJwcm9maWxlcyIpCiAgICAgICAgICAgICAgICAud2l0aEluZGV4KCJ1c2VySWQiLCAocSkgPT4gcS5lcSgidXNlcklkIiwgYmxvY2suYmxvY2tlZFVzZXJJZCkpCiAgICAgICAgICAgICAgICAuZmlyc3QoKTsKCiAgICAgICAgICAgIGlmIChwcm9maWxlKSB7CiAgICAgICAgICAgICAgICBibG9ja2VkVXNlcnMucHVzaCh7CiAgICAgICAgICAgICAgICAgICAgdXNlcklkOiBibG9jay5ibG9ja2VkVXNlcklkLAogICAgICAgICAgICAgICAgICAgIGFnZTogcHJvZmlsZS5hZ2UsCiAgICAgICAgICAgICAgICAgICAgbG9jYXRpb246IHByb2ZpbGUubG9jYXRpb24sCiAgICAgICAgICAgICAgICAgICAgYmxvY2tlZEF0OiBibG9jay5jcmVhdGVkQXQsCiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGJsb2NrZWRVc2VyczsKICAgIH0sCn0pOwoKZXhwb3J0IGNvbnN0IGdldE15UmVwb3J0cyA9IHF1ZXJ5KHsKICAgIGFyZ3M6IHsgdXNlcklkOiB2LmlkKCJ1c2VycyIpIH0sCiAgICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICAgICAgY29uc3QgcmVwb3J0cyA9IGF3YWl0IGN0eC5kYgogICAgICAgICAgICAucXVlcnkoInJlcG9ydHMiKQogICAgICAgICAgICAud2l0aEluZGV4KCJyZXBvcnRlcklkIiwgKHEpID0+IHEuZXEoInJlcG9ydGVySWQiLCBhcmdzLnVzZXJJZCkpCiAgICAgICAgICAgIC5jb2xsZWN0KCk7CgogICAgICAgIHJlcG9ydHMuc29ydCgoYSwgYikgPT4gYi5jcmVhdGVkQXQgLSBhLmNyZWF0ZWRBdCk7CiAgICAgICAgcmV0dXJuIHJlcG9ydHM7CiAgICB9LAp9KTsKCi8vIEdldCByZXBvcnRzIChhZG1pbiBvbmx5IC0gcGxhY2Vob2xkZXIpCmV4cG9ydCBjb25zdCBnZXRSZXBvcnRzID0gcXVlcnkoewogICAgYXJnczogewogICAgICAgIHN0YXR1czogdi5vcHRpb25hbCh2LnN0cmluZygpKSwKICAgIH0sCiAgICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICAgICAgLy8gVE9ETzogQWRkIGFkbWluIGF1dGhlbnRpY2F0aW9uIGNoZWNrCgogICAgICAgIGxldCByZXBvcnRzOwogICAgICAgIAogICAgICAgIGlmIChhcmdzLnN0YXR1cykgewogICAgICAgICAgICBjb25zdCBzdGF0dXMgPSBhcmdzLnN0YXR1czsKICAgICAgICAgICAgcmVwb3J0cyA9IGF3YWl0IGN0eC5kYgogICAgICAgICAgICAgICAgLnF1ZXJ5KCJyZXBvcnRzIikKICAgICAgICAgICAgICAgIC53aXRoSW5kZXgoInN0YXR1cyIsIChxKSA9PiBxLmVxKCJzdGF0dXMiLCBzdGF0dXMpKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXBvcnRzID0gYXdhaXQgY3R4LmRiCiAgICAgICAgICAgICAgICAucXVlcnkoInJlcG9ydHMiKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoKTsKICAgICAgICB9CgogICAgICAgIC8vIFNvcnQgYnkgbW9zdCByZWNlbnQKICAgICAgICByZXBvcnRzLnNvcnQoKGEsIGIpID0+IGIuY3JlYXRlZEF0IC0gYS5jcmVhdGVkQXQpOwoKICAgICAgICByZXR1cm4gcmVwb3J0czsKICAgIH0sCn0pOwo="}
+import { v } from "convex/values";
+import { mutation, query } from "./_generated/server";
+
+async function submitReportImpl(
+    ctx: any,
+    args: {
+        reporterId: any;
+        reportedUserId: any;
+        category: string;
+        subcategory: string;
+        description?: string;
+        screenshots?: string[];
+        autoBlock?: boolean;
+    }
+) {
+    const now = Date.now();
+
+    const recentReports = await ctx.db
+        .query("reports")
+        .withIndex("reporterId", (q: any) => q.eq("reporterId", args.reporterId))
+        .collect();
+
+    const alreadyReported = recentReports.some(
+        (r: any) => r.reportedUserId === args.reportedUserId && now - r.createdAt < 24 * 60 * 60 * 1000
+    );
+
+    if (alreadyReported) {
+        throw new Error("You have already reported this user recently");
+    }
+
+    const reportId = await ctx.db.insert("reports", {
+        reporterId: args.reporterId,
+        reportedUserId: args.reportedUserId,
+
+        category: args.category,
+        subcategory: args.subcategory,
+        description: args.description,
+        screenshots: args.screenshots,
+        status: "pending",
+        createdAt: now,
+    });
+
+    if (args.autoBlock) {
+        const existing = await ctx.db
+            .query("blocks")
+            .withIndex("pair", (q: any) => q.eq("blockerId", args.reporterId).eq("blockedUserId", args.reportedUserId))
+            .first();
+        if (!existing) {
+            await ctx.db.insert("blocks", {
+                blockerId: args.reporterId,
+                blockedUserId: args.reportedUserId,
+                createdAt: now,
+            });
+        }
+    }
+
+    return reportId;
+}
+
+export const submitReport = mutation({
+    args: {
+        reporterId: v.id("users"),
+        reportedUserId: v.id("users"),
+        category: v.string(),
+        subcategory: v.string(),
+        description: v.optional(v.string()),
+        screenshots: v.optional(v.array(v.string())),
+        autoBlock: v.optional(v.boolean()),
+    },
+    handler: async (ctx, args) => {
+        return await submitReportImpl(ctx, {
+            reporterId: args.reporterId,
+            reportedUserId: args.reportedUserId,
+            category: args.category,
+            subcategory: args.subcategory,
+            description: args.description,
+            screenshots: args.screenshots,
+            autoBlock: args.autoBlock,
+        });
+    },
+});
+
+// Backwards-compatible alias
+export const reportUser = mutation({
+    args: {
+        reporterId: v.id("users"),
+        reportedUserId: v.id("users"),
+        reason: v.string(),
+        details: v.optional(v.string()),
+    },
+    handler: async (ctx, args) => {
+        return await submitReportImpl(ctx, {
+            reporterId: args.reporterId,
+            reportedUserId: args.reportedUserId,
+            category: "other",
+            subcategory: args.reason,
+            description: args.details,
+            autoBlock: false,
+        });
+    },
+});
+
+// Block a user
+export const blockUser = mutation({
+    args: {
+        blockerId: v.id("users"),
+        blockedUserId: v.id("users"),
+    },
+    handler: async (ctx, args) => {
+        // Check if already blocked
+        const existing = await ctx.db
+            .query("blocks")
+            .withIndex("pair", (q) => q.eq("blockerId", args.blockerId).eq("blockedUserId", args.blockedUserId))
+            .first();
+
+        if (existing) {
+            return existing._id; // Already blocked
+        }
+
+        const blockId = await ctx.db.insert("blocks", {
+            blockerId: args.blockerId,
+            blockedUserId: args.blockedUserId,
+            createdAt: Date.now(),
+        });
+
+        return blockId;
+    },
+});
+
+// Unblock a user
+export const unblockUser = mutation({
+    args: {
+        blockerId: v.id("users"),
+        blockedUserId: v.id("users"),
+    },
+    handler: async (ctx, args) => {
+        const block = await ctx.db
+            .query("blocks")
+            .withIndex("pair", (q) => q.eq("blockerId", args.blockerId).eq("blockedUserId", args.blockedUserId))
+            .first();
+
+        if (block) {
+            await ctx.db.delete(block._id);
+        }
+    },
+});
+
+// Get blocked users
+export const getBlockedUsers = query({
+    args: { userId: v.id("users") },
+    handler: async (ctx, args) => {
+        const blocks = await ctx.db
+            .query("blocks")
+            .withIndex("blockerId", (q) => q.eq("blockerId", args.userId))
+            .collect();
+
+        const blockedUsers = [];
+        for (const block of blocks) {
+            const profile = await ctx.db
+                .query("profiles")
+                .withIndex("userId", (q) => q.eq("userId", block.blockedUserId))
+                .first();
+
+            if (profile) {
+                blockedUsers.push({
+                    userId: block.blockedUserId,
+                    age: profile.age,
+                    location: profile.location,
+                    blockedAt: block.createdAt,
+                });
+            }
+        }
+
+        return blockedUsers;
+    },
+});
+
+export const getMyReports = query({
+    args: { userId: v.id("users") },
+    handler: async (ctx, args) => {
+        const reports = await ctx.db
+            .query("reports")
+            .withIndex("reporterId", (q) => q.eq("reporterId", args.userId))
+            .collect();
+
+        reports.sort((a, b) => b.createdAt - a.createdAt);
+        return reports;
+    },
+});
+
+// Get reports (admin only - placeholder)
+export const getReports = query({
+    args: {
+        status: v.optional(v.string()),
+    },
+    handler: async (ctx, args) => {
+        // TODO: Add admin authentication check
+
+        let reports;
+        
+        if (args.status) {
+            const status = args.status;
+            reports = await ctx.db
+                .query("reports")
+                .withIndex("status", (q) => q.eq("status", status))
+                .collect();
+        } else {
+            reports = await ctx.db
+                .query("reports")
+                .collect();
+        }
+
+        // Sort by most recent
+        reports.sort((a, b) => b.createdAt - a.createdAt);
+
+        return reports;
+    },
+});

@@ -1,1 +1,309 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUsIHVzZUVmZmVjdCwgdXNlQ2FsbGJhY2sgfSBmcm9tICdyZWFjdCc7CmltcG9ydCB7IHVzZU11dGF0aW9uLCB1c2VRdWVyeSB9IGZyb20gJ2NvbnZleC9yZWFjdCc7CmltcG9ydCB7IGFwaSB9IGZyb20gJy4uLy4uL2NvbnZleC9fZ2VuZXJhdGVkL2FwaSc7CmltcG9ydCB7IHRvYXN0IH0gZnJvbSAnc29ubmVyJzsKCi8vIFZBUElEIHB1YmxpYyBrZXkgLSBJbiBwcm9kdWN0aW9uLCB0aGlzIHNob3VsZCBjb21lIGZyb20gZW52aXJvbm1lbnQgdmFyaWFibGVzCi8vIEZvciBub3csIHRoaXMgaXMgYSBwbGFjZWhvbGRlci4gWW91J2xsIG5lZWQgdG8gZ2VuZXJhdGUgVkFQSUQga2V5cyB1c2luZzoKLy8gbnB4IHdlYi1wdXNoIGdlbmVyYXRlLXZhcGlkLWtleXMKY29uc3QgVkFQSURfUFVCTElDX0tFWSA9IGltcG9ydC5tZXRhLmVudi5WSVRFX1ZBUElEX1BVQkxJQ19LRVkgfHwgJ1BMQUNFSE9MREVSX1ZBUElEX0tFWSc7CgovKioKICogQ29udmVydCBiYXNlNjQgc3RyaW5nIHRvIFVpbnQ4QXJyYXkgZm9yIFZBUElEIGtleQogKi8KZnVuY3Rpb24gdXJsQmFzZTY0VG9VaW50OEFycmF5KGJhc2U2NFN0cmluZzogc3RyaW5nKTogVWludDhBcnJheSB7CiAgY29uc3QgcGFkZGluZyA9ICc9Jy5yZXBlYXQoKDQgLSAoYmFzZTY0U3RyaW5nLmxlbmd0aCAlIDQpKSAlIDQpOwogIGNvbnN0IGJhc2U2NCA9IChiYXNlNjRTdHJpbmcgKyBwYWRkaW5nKQogICAgLnJlcGxhY2UoLy0vZywgJysnKQogICAgLnJlcGxhY2UoL18vZywgJy8nKTsKCiAgY29uc3QgcmF3RGF0YSA9IHdpbmRvdy5hdG9iKGJhc2U2NCk7CiAgY29uc3Qgb3V0cHV0QXJyYXkgPSBuZXcgVWludDhBcnJheShyYXdEYXRhLmxlbmd0aCk7CgogIGZvciAobGV0IGkgPSAwOyBpIDwgcmF3RGF0YS5sZW5ndGg7ICsraSkgewogICAgb3V0cHV0QXJyYXlbaV0gPSByYXdEYXRhLmNoYXJDb2RlQXQoaSk7CiAgfQogIHJldHVybiBvdXRwdXRBcnJheTsKfQoKZXhwb3J0IGludGVyZmFjZSBQdXNoTm90aWZpY2F0aW9uUGVybWlzc2lvbiB7CiAgcGVybWlzc2lvbjogTm90aWZpY2F0aW9uUGVybWlzc2lvbjsKICBpc1N1cHBvcnRlZDogYm9vbGVhbjsKICBpc1N1YnNjcmliZWQ6IGJvb2xlYW47Cn0KCmV4cG9ydCBmdW5jdGlvbiB1c2VQdXNoTm90aWZpY2F0aW9ucygpIHsKICBjb25zdCBbcGVybWlzc2lvbiwgc2V0UGVybWlzc2lvbl0gPSB1c2VTdGF0ZTxOb3RpZmljYXRpb25QZXJtaXNzaW9uPignZGVmYXVsdCcpOwogIGNvbnN0IFtpc1N1cHBvcnRlZCwgc2V0SXNTdXBwb3J0ZWRdID0gdXNlU3RhdGUoZmFsc2UpOwogIGNvbnN0IFtpc1N1YnNjcmliZWQsIHNldElzU3Vic2NyaWJlZF0gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgW2lzTG9hZGluZywgc2V0SXNMb2FkaW5nXSA9IHVzZVN0YXRlKGZhbHNlKTsKCiAgY29uc3Qgc2F2ZVB1c2hTdWJzY3JpcHRpb24gPSB1c2VNdXRhdGlvbihhcGkucHVzaE5vdGlmaWNhdGlvbnMuc2F2ZVB1c2hTdWJzY3JpcHRpb24pOwogIGNvbnN0IHJlbW92ZVB1c2hTdWJzY3JpcHRpb24gPSB1c2VNdXRhdGlvbihhcGkucHVzaE5vdGlmaWNhdGlvbnMucmVtb3ZlUHVzaFN1YnNjcmlwdGlvbik7CiAgY29uc3QgdXNlclN1YnNjcmlwdGlvbnMgPSB1c2VRdWVyeShhcGkucHVzaE5vdGlmaWNhdGlvbnMuZ2V0VXNlclB1c2hTdWJzY3JpcHRpb25zKTsKCiAgLy8gQ2hlY2sgaWYgcHVzaCBub3RpZmljYXRpb25zIGFyZSBzdXBwb3J0ZWQKICB1c2VFZmZlY3QoKCkgPT4gewogICAgY29uc3QgY2hlY2tTdXBwb3J0ID0gKCkgPT4gewogICAgICBjb25zdCBzdXBwb3J0ZWQgPQogICAgICAgICdzZXJ2aWNlV29ya2VyJyBpbiBuYXZpZ2F0b3IgJiYKICAgICAgICAnUHVzaE1hbmFnZXInIGluIHdpbmRvdyAmJgogICAgICAgICdOb3RpZmljYXRpb24nIGluIHdpbmRvdzsKICAgICAgCiAgICAgIHNldElzU3VwcG9ydGVkKHN1cHBvcnRlZCk7CiAgICAgIAogICAgICBpZiAoc3VwcG9ydGVkICYmICdOb3RpZmljYXRpb24nIGluIHdpbmRvdykgewogICAgICAgIHNldFBlcm1pc3Npb24oTm90aWZpY2F0aW9uLnBlcm1pc3Npb24pOwogICAgICB9CiAgICB9OwoKICAgIGNoZWNrU3VwcG9ydCgpOwogIH0sIFtdKTsKCiAgLy8gQ2hlY2sgaWYgYWxyZWFkeSBzdWJzY3JpYmVkCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGNvbnN0IGNoZWNrU3Vic2NyaXB0aW9uID0gYXN5bmMgKCkgPT4gewogICAgICBpZiAoIWlzU3VwcG9ydGVkKSByZXR1cm47CgogICAgICB0cnkgewogICAgICAgIGNvbnN0IHJlZ2lzdHJhdGlvbiA9IGF3YWl0IG5hdmlnYXRvci5zZXJ2aWNlV29ya2VyLnJlYWR5OwogICAgICAgIGNvbnN0IHN1YnNjcmlwdGlvbiA9IGF3YWl0IHJlZ2lzdHJhdGlvbi5wdXNoTWFuYWdlci5nZXRTdWJzY3JpcHRpb24oKTsKICAgICAgICBzZXRJc1N1YnNjcmliZWQoISFzdWJzY3JpcHRpb24pOwogICAgICB9IGNhdGNoIChlcnJvcikgewogICAgICAgIGNvbnNvbGUuZXJyb3IoJ0Vycm9yIGNoZWNraW5nIHN1YnNjcmlwdGlvbjonLCBlcnJvcik7CiAgICAgIH0KICAgIH07CgogICAgY2hlY2tTdWJzY3JpcHRpb24oKTsKICB9LCBbaXNTdXBwb3J0ZWQsIHVzZXJTdWJzY3JpcHRpb25zXSk7CgogIC8qKgogICAqIFJlZ2lzdGVyIHNlcnZpY2Ugd29ya2VyCiAgICovCiAgY29uc3QgcmVnaXN0ZXJTZXJ2aWNlV29ya2VyID0gdXNlQ2FsbGJhY2soYXN5bmMgKCk6IFByb21pc2U8U2VydmljZVdvcmtlclJlZ2lzdHJhdGlvbj4gPT4gewogICAgdHJ5IHsKICAgICAgLy8gQ2hlY2sgZm9yIGV4aXN0aW5nIHJlZ2lzdHJhdGlvbiBmaXJzdAogICAgICBjb25zdCBleGlzdGluZ1JlZ2lzdHJhdGlvbiA9IGF3YWl0IG5hdmlnYXRvci5zZXJ2aWNlV29ya2VyLmdldFJlZ2lzdHJhdGlvbignLycpOwogICAgICAKICAgICAgaWYgKGV4aXN0aW5nUmVnaXN0cmF0aW9uKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1VzaW5nIGV4aXN0aW5nIFNlcnZpY2UgV29ya2VyIHJlZ2lzdHJhdGlvbicpOwogICAgICAgIGF3YWl0IG5hdmlnYXRvci5zZXJ2aWNlV29ya2VyLnJlYWR5OwogICAgICAgIHJldHVybiBleGlzdGluZ1JlZ2lzdHJhdGlvbjsKICAgICAgfQoKICAgICAgLy8gUmVnaXN0ZXIgbmV3IHNlcnZpY2Ugd29ya2VyCiAgICAgIGNvbnN0IHJlZ2lzdHJhdGlvbiA9IGF3YWl0IG5hdmlnYXRvci5zZXJ2aWNlV29ya2VyLnJlZ2lzdGVyKCcvc3cuanMnLCB7CiAgICAgICAgc2NvcGU6ICcvJywKICAgICAgICB1cGRhdGVWaWFDYWNoZTogJ25vbmUnLCAvLyBEb24ndCBjYWNoZSB0aGUgc2VydmljZSB3b3JrZXIgZmlsZQogICAgICB9KTsKCiAgICAgIC8vIFdhaXQgZm9yIHRoZSBzZXJ2aWNlIHdvcmtlciB0byBiZSByZWFkeQogICAgICBhd2FpdCBuYXZpZ2F0b3Iuc2VydmljZVdvcmtlci5yZWFkeTsKCiAgICAgIGNvbnNvbGUubG9nKCdTZXJ2aWNlIFdvcmtlciByZWdpc3RlcmVkIHN1Y2Nlc3NmdWxseScpOwogICAgICByZXR1cm4gcmVnaXN0cmF0aW9uOwogICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgY29uc29sZS5lcnJvcignU2VydmljZSBXb3JrZXIgcmVnaXN0cmF0aW9uIGZhaWxlZDonLCBlcnJvcik7CiAgICAgIHRocm93IGVycm9yOwogICAgfQogIH0sIFtdKTsKCiAgLyoqCiAgICogUmVxdWVzdCBub3RpZmljYXRpb24gcGVybWlzc2lvbgogICAqIE5vdGU6IFRoaXMgbXVzdCBiZSBjYWxsZWQgaW4gcmVzcG9uc2UgdG8gYSB1c2VyIGdlc3R1cmUgKGUuZy4sIGJ1dHRvbiBjbGljaykKICAgKi8KICBjb25zdCByZXF1ZXN0UGVybWlzc2lvbiA9IHVzZUNhbGxiYWNrKGFzeW5jICgpOiBQcm9taXNlPE5vdGlmaWNhdGlvblBlcm1pc3Npb24+ID0+IHsKICAgIGlmICghaXNTdXBwb3J0ZWQpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCdQdXNoIG5vdGlmaWNhdGlvbnMgYXJlIG5vdCBzdXBwb3J0ZWQnKTsKICAgIH0KCiAgICAvLyBDaGVjayBpZiBhbHJlYWR5IGdyYW50ZWQgdG8gYXZvaWQgdW5uZWNlc3NhcnkgcHJvbXB0cwogICAgaWYgKE5vdGlmaWNhdGlvbi5wZXJtaXNzaW9uID09PSAnZ3JhbnRlZCcpIHsKICAgICAgcmV0dXJuICdncmFudGVkJzsKICAgIH0KCiAgICB0cnkgewogICAgICBjb25zdCByZXN1bHQgPSBhd2FpdCBOb3RpZmljYXRpb24ucmVxdWVzdFBlcm1pc3Npb24oKTsKICAgICAgc2V0UGVybWlzc2lvbihyZXN1bHQpOwogICAgICByZXR1cm4gcmVzdWx0OwogICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgY29uc29sZS5lcnJvcignRXJyb3IgcmVxdWVzdGluZyBub3RpZmljYXRpb24gcGVybWlzc2lvbjonLCBlcnJvcik7CiAgICAgIHRocm93IGVycm9yOwogICAgfQogIH0sIFtpc1N1cHBvcnRlZF0pOwoKICAvKioKICAgKiBTdWJzY3JpYmUgdG8gcHVzaCBub3RpZmljYXRpb25zCiAgICovCiAgY29uc3Qgc3Vic2NyaWJlID0gdXNlQ2FsbGJhY2soYXN5bmMgKCkgPT4gewogICAgaWYgKCFpc1N1cHBvcnRlZCkgewogICAgICB0b2FzdC5lcnJvcignUHVzaCBub3RpZmljYXRpb25zIGFyZSBub3Qgc3VwcG9ydGVkIGluIHlvdXIgYnJvd3NlcicpOwogICAgICByZXR1cm4gZmFsc2U7CiAgICB9CgogICAgc2V0SXNMb2FkaW5nKHRydWUpOwoKICAgIHRyeSB7CiAgICAgIC8vIFJlcXVlc3QgcGVybWlzc2lvbgogICAgICBjb25zdCBwZXJtaXNzaW9uUmVzdWx0ID0gYXdhaXQgcmVxdWVzdFBlcm1pc3Npb24oKTsKICAgICAgCiAgICAgIGlmIChwZXJtaXNzaW9uUmVzdWx0ICE9PSAnZ3JhbnRlZCcpIHsKICAgICAgICB0b2FzdC5lcnJvcignTm90aWZpY2F0aW9uIHBlcm1pc3Npb24gZGVuaWVkJyk7CiAgICAgICAgc2V0SXNMb2FkaW5nKGZhbHNlKTsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgIH0KCiAgICAgIC8vIFJlZ2lzdGVyIHNlcnZpY2Ugd29ya2VyCiAgICAgIGNvbnN0IHJlZ2lzdHJhdGlvbiA9IGF3YWl0IHJlZ2lzdGVyU2VydmljZVdvcmtlcigpOwoKICAgICAgLy8gQ2hlY2sgZm9yIGV4aXN0aW5nIHN1YnNjcmlwdGlvbgogICAgICBsZXQgc3Vic2NyaXB0aW9uID0gYXdhaXQgcmVnaXN0cmF0aW9uLnB1c2hNYW5hZ2VyLmdldFN1YnNjcmlwdGlvbigpOwoKICAgICAgaWYgKCFzdWJzY3JpcHRpb24pIHsKICAgICAgICAvLyBDcmVhdGUgbmV3IHN1YnNjcmlwdGlvbgogICAgICAgIGlmIChWQVBJRF9QVUJMSUNfS0VZID09PSAnUExBQ0VIT0xERVJfVkFQSURfS0VZJykgewogICAgICAgICAgY29uc29sZS53YXJuKCdWQVBJRCBrZXkgbm90IGNvbmZpZ3VyZWQuIFB1c2ggbm90aWZpY2F0aW9ucyB3aWxsIG5vdCB3b3JrIGluIHByb2R1Y3Rpb24uJyk7CiAgICAgICAgICB0b2FzdC5lcnJvcignUHVzaCBub3RpZmljYXRpb25zIGFyZSBub3QgY29uZmlndXJlZCcpOwogICAgICAgICAgc2V0SXNMb2FkaW5nKGZhbHNlKTsKICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CgogICAgICAgIHRyeSB7CiAgICAgICAgICBzdWJzY3JpcHRpb24gPSBhd2FpdCByZWdpc3RyYXRpb24ucHVzaE1hbmFnZXIuc3Vic2NyaWJlKHsKICAgICAgICAgICAgdXNlclZpc2libGVPbmx5OiB0cnVlLAogICAgICAgICAgICBhcHBsaWNhdGlvblNlcnZlcktleTogdXJsQmFzZTY0VG9VaW50OEFycmF5KFZBUElEX1BVQkxJQ19LRVkpLAogICAgICAgICAgfSk7CiAgICAgICAgfSBjYXRjaCAoc3Vic2NyaWJlRXJyb3I6IGFueSkgewogICAgICAgICAgY29uc29sZS5lcnJvcignUHVzaCBzdWJzY3JpcHRpb24gZXJyb3I6Jywgc3Vic2NyaWJlRXJyb3IpOwogICAgICAgICAgCiAgICAgICAgICAvLyBIYW5kbGUgc3BlY2lmaWMgZXJyb3IgdHlwZXMKICAgICAgICAgIGlmIChzdWJzY3JpYmVFcnJvci5uYW1lID09PSAnQWJvcnRFcnJvcicpIHsKICAgICAgICAgICAgdG9hc3QuZXJyb3IoJ1B1c2ggc2VydmljZSB0ZW1wb3JhcmlseSB1bmF2YWlsYWJsZS4gUGxlYXNlIHRyeSBhZ2FpbiBsYXRlci4nKTsKICAgICAgICAgICAgY29uc29sZS53YXJuKCdQdXNoIHNlcnZpY2UgZXJyb3IgLSB0aGlzIGNhbiBoYXBwZW4gaWYgdGhlIGJyb3dzZXIgcHVzaCBzZXJ2aWNlIGlzIGRvd24gb3IgbmV0d29yayBpcyB1bnN0YWJsZScpOwogICAgICAgICAgfSBlbHNlIGlmIChzdWJzY3JpYmVFcnJvci5uYW1lID09PSAnTm90QWxsb3dlZEVycm9yJykgewogICAgICAgICAgICB0b2FzdC5lcnJvcignUHVzaCBub3RpZmljYXRpb24gcGVybWlzc2lvbiB3YXMgZGVuaWVkJyk7CiAgICAgICAgICB9IGVsc2UgaWYgKHN1YnNjcmliZUVycm9yLm5hbWUgPT09ICdOb3RTdXBwb3J0ZWRFcnJvcicpIHsKICAgICAgICAgICAgdG9hc3QuZXJyb3IoJ1B1c2ggbm90aWZpY2F0aW9ucyBhcmUgbm90IHN1cHBvcnRlZCBpbiB0aGlzIGJyb3dzZXInKTsKICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHRvYXN0LmVycm9yKCdGYWlsZWQgdG8gc3Vic2NyaWJlIHRvIHB1c2ggbm90aWZpY2F0aW9ucycpOwogICAgICAgICAgfQogICAgICAgICAgCiAgICAgICAgICBzZXRJc0xvYWRpbmcoZmFsc2UpOwogICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KICAgICAgfQoKICAgICAgLy8gU2F2ZSBzdWJzY3JpcHRpb24gdG8gYmFja2VuZAogICAgICBjb25zdCBzdWJzY3JpcHRpb25KU09OID0gc3Vic2NyaXB0aW9uLnRvSlNPTigpOwogICAgICAKICAgICAgYXdhaXQgc2F2ZVB1c2hTdWJzY3JpcHRpb24oewogICAgICAgIGVuZHBvaW50OiBzdWJzY3JpcHRpb24uZW5kcG9pbnQsCiAgICAgICAga2V5czogewogICAgICAgICAgcDI1NmRoOiBzdWJzY3JpcHRpb25KU09OLmtleXM/LnAyNTZkaCB8fCAnJywKICAgICAgICAgIGF1dGg6IHN1YnNjcmlwdGlvbkpTT04ua2V5cz8uYXV0aCB8fCAnJywKICAgICAgICB9LAogICAgICAgIHBsYXRmb3JtOiAnd2ViJywKICAgICAgICBicm93c2VyOiBuYXZpZ2F0b3IudXNlckFnZW50LmluY2x1ZGVzKCdDaHJvbWUnKSA/ICdDaHJvbWUnIDoKICAgICAgICAgICAgICAgICBuYXZpZ2F0b3IudXNlckFnZW50LmluY2x1ZGVzKCdGaXJlZm94JykgPyAnRmlyZWZveCcgOgogICAgICAgICAgICAgICAgIG5hdmlnYXRvci51c2VyQWdlbnQuaW5jbHVkZXMoJ1NhZmFyaScpID8gJ1NhZmFyaScgOiAnT3RoZXInLAogICAgICB9KTsKCiAgICAgIHNldElzU3Vic2NyaWJlZCh0cnVlKTsKICAgICAgdG9hc3Quc3VjY2VzcygnUHVzaCBub3RpZmljYXRpb25zIGVuYWJsZWQhJyk7CiAgICAgIHNldElzTG9hZGluZyhmYWxzZSk7CiAgICAgIHJldHVybiB0cnVlOwogICAgfSBjYXRjaCAoZXJyb3I6IGFueSkgewogICAgICBjb25zb2xlLmVycm9yKCdFcnJvciBzdWJzY3JpYmluZyB0byBwdXNoIG5vdGlmaWNhdGlvbnM6JywgZXJyb3IpOwogICAgICAKICAgICAgLy8gTW9yZSBzcGVjaWZpYyBlcnJvciBtZXNzYWdlCiAgICAgIGNvbnN0IGVycm9yTWVzc2FnZSA9IGVycm9yPy5tZXNzYWdlIHx8ICdVbmtub3duIGVycm9yJzsKICAgICAgdG9hc3QuZXJyb3IoYEZhaWxlZCB0byBlbmFibGUgcHVzaCBub3RpZmljYXRpb25zOiAke2Vycm9yTWVzc2FnZX1gKTsKICAgICAgCiAgICAgIHNldElzTG9hZGluZyhmYWxzZSk7CiAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KICB9LCBbaXNTdXBwb3J0ZWQsIHJlcXVlc3RQZXJtaXNzaW9uLCByZWdpc3RlclNlcnZpY2VXb3JrZXIsIHNhdmVQdXNoU3Vic2NyaXB0aW9uXSk7CgogIC8qKgogICAqIFVuc3Vic2NyaWJlIGZyb20gcHVzaCBub3RpZmljYXRpb25zCiAgICovCiAgY29uc3QgdW5zdWJzY3JpYmUgPSB1c2VDYWxsYmFjayhhc3luYyAoKSA9PiB7CiAgICBpZiAoIWlzU3VwcG9ydGVkKSB7CiAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KCiAgICBzZXRJc0xvYWRpbmcodHJ1ZSk7CgogICAgdHJ5IHsKICAgICAgY29uc3QgcmVnaXN0cmF0aW9uID0gYXdhaXQgbmF2aWdhdG9yLnNlcnZpY2VXb3JrZXIucmVhZHk7CiAgICAgIGNvbnN0IHN1YnNjcmlwdGlvbiA9IGF3YWl0IHJlZ2lzdHJhdGlvbi5wdXNoTWFuYWdlci5nZXRTdWJzY3JpcHRpb24oKTsKCiAgICAgIGlmIChzdWJzY3JpcHRpb24pIHsKICAgICAgICAvLyBVbnN1YnNjcmliZSBmcm9tIHB1c2ggbWFuYWdlcgogICAgICAgIGF3YWl0IHN1YnNjcmlwdGlvbi51bnN1YnNjcmliZSgpOwoKICAgICAgICAvLyBSZW1vdmUgZnJvbSBiYWNrZW5kCiAgICAgICAgYXdhaXQgcmVtb3ZlUHVzaFN1YnNjcmlwdGlvbih7CiAgICAgICAgICBlbmRwb2ludDogc3Vic2NyaXB0aW9uLmVuZHBvaW50LAogICAgICAgIH0pOwoKICAgICAgICBzZXRJc1N1YnNjcmliZWQoZmFsc2UpOwogICAgICAgIHRvYXN0LnN1Y2Nlc3MoJ1B1c2ggbm90aWZpY2F0aW9ucyBkaXNhYmxlZCcpOwogICAgICB9CgogICAgICBzZXRJc0xvYWRpbmcoZmFsc2UpOwogICAgICByZXR1cm4gdHJ1ZTsKICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIGNvbnNvbGUuZXJyb3IoJ0Vycm9yIHVuc3Vic2NyaWJpbmcgZnJvbSBwdXNoIG5vdGlmaWNhdGlvbnM6JywgZXJyb3IpOwogICAgICB0b2FzdC5lcnJvcignRmFpbGVkIHRvIGRpc2FibGUgcHVzaCBub3RpZmljYXRpb25zJyk7CiAgICAgIHNldElzTG9hZGluZyhmYWxzZSk7CiAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KICB9LCBbaXNTdXBwb3J0ZWQsIHJlbW92ZVB1c2hTdWJzY3JpcHRpb25dKTsKCiAgLyoqCiAgICogVGVzdCBwdXNoIG5vdGlmaWNhdGlvbiAoc2hvd3MgYSBsb2NhbCBub3RpZmljYXRpb24pCiAgICovCiAgY29uc3QgdGVzdE5vdGlmaWNhdGlvbiA9IHVzZUNhbGxiYWNrKGFzeW5jICgpID0+IHsKICAgIGlmICghaXNTdXBwb3J0ZWQpIHsKICAgICAgdG9hc3QuZXJyb3IoJ05vdGlmaWNhdGlvbnMgYXJlIG5vdCBzdXBwb3J0ZWQnKTsKICAgICAgcmV0dXJuOwogICAgfQoKICAgIGlmIChwZXJtaXNzaW9uICE9PSAnZ3JhbnRlZCcpIHsKICAgICAgdG9hc3QuZXJyb3IoJ05vdGlmaWNhdGlvbiBwZXJtaXNzaW9uIG5vdCBncmFudGVkJyk7CiAgICAgIHJldHVybjsKICAgIH0KCiAgICB0cnkgewogICAgICBjb25zdCByZWdpc3RyYXRpb24gPSBhd2FpdCBuYXZpZ2F0b3Iuc2VydmljZVdvcmtlci5yZWFkeTsKICAgICAgCiAgICAgIGF3YWl0IHJlZ2lzdHJhdGlvbi5zaG93Tm90aWZpY2F0aW9uKCdUZXN0IE5vdGlmaWNhdGlvbicsIHsKICAgICAgICBib2R5OiAnVGhpcyBpcyBhIHRlc3Qgbm90aWZpY2F0aW9uIGZyb20gRGF0ZUxpbmsnLAogICAgICAgIGljb246ICcvbG9nby5zdmcnLAogICAgICAgIGJhZGdlOiAnL2Zhdmljb24uc3ZnJywKICAgICAgICB0YWc6ICd0ZXN0LW5vdGlmaWNhdGlvbicsCiAgICAgICAgdmlicmF0ZTogWzIwMCwgMTAwLCAyMDBdLAogICAgICAgIGRhdGE6IHsKICAgICAgICAgIHVybDogJy8nLAogICAgICAgIH0sCiAgICAgIH0pOwoKICAgICAgdG9hc3Quc3VjY2VzcygnVGVzdCBub3RpZmljYXRpb24gc2VudCEnKTsKICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIGNvbnNvbGUuZXJyb3IoJ0Vycm9yIHNob3dpbmcgdGVzdCBub3RpZmljYXRpb246JywgZXJyb3IpOwogICAgICB0b2FzdC5lcnJvcignRmFpbGVkIHRvIHNob3cgdGVzdCBub3RpZmljYXRpb24nKTsKICAgIH0KICB9LCBbaXNTdXBwb3J0ZWQsIHBlcm1pc3Npb25dKTsKCiAgcmV0dXJuIHsKICAgIHBlcm1pc3Npb24sCiAgICBpc1N1cHBvcnRlZCwKICAgIGlzU3Vic2NyaWJlZCwKICAgIGlzTG9hZGluZywKICAgIHN1YnNjcmliZSwKICAgIHVuc3Vic2NyaWJlLAogICAgcmVxdWVzdFBlcm1pc3Npb24sCiAgICB0ZXN0Tm90aWZpY2F0aW9uLAogIH07Cn0K"}
+import { useState, useEffect, useCallback } from 'react';
+import { useMutation, useQuery } from 'convex/react';
+import { api } from '../../convex/_generated/api';
+import { toast } from 'sonner';
+
+// VAPID public key - In production, this should come from environment variables
+// For now, this is a placeholder. You'll need to generate VAPID keys using:
+// npx web-push generate-vapid-keys
+const VAPID_PUBLIC_KEY = import.meta.env.VITE_VAPID_PUBLIC_KEY || 'PLACEHOLDER_VAPID_KEY';
+
+/**
+ * Convert base64 string to Uint8Array for VAPID key
+ */
+function urlBase64ToUint8Array(base64String: string): Uint8Array {
+  const padding = '='.repeat((4 - (base64String.length % 4)) % 4);
+  const base64 = (base64String + padding)
+    .replace(/-/g, '+')
+    .replace(/_/g, '/');
+
+  const rawData = window.atob(base64);
+  const outputArray = new Uint8Array(rawData.length);
+
+  for (let i = 0; i < rawData.length; ++i) {
+    outputArray[i] = rawData.charCodeAt(i);
+  }
+  return outputArray;
+}
+
+export interface PushNotificationPermission {
+  permission: NotificationPermission;
+  isSupported: boolean;
+  isSubscribed: boolean;
+}
+
+export function usePushNotifications() {
+  const [permission, setPermission] = useState<NotificationPermission>('default');
+  const [isSupported, setIsSupported] = useState(false);
+  const [isSubscribed, setIsSubscribed] = useState(false);
+  const [isLoading, setIsLoading] = useState(false);
+
+  const savePushSubscription = useMutation(api.pushNotifications.savePushSubscription);
+  const removePushSubscription = useMutation(api.pushNotifications.removePushSubscription);
+  const userSubscriptions = useQuery(api.pushNotifications.getUserPushSubscriptions);
+
+  // Check if push notifications are supported
+  useEffect(() => {
+    const checkSupport = () => {
+      const supported =
+        'serviceWorker' in navigator &&
+        'PushManager' in window &&
+        'Notification' in window;
+      
+      setIsSupported(supported);
+      
+      if (supported && 'Notification' in window) {
+        setPermission(Notification.permission);
+      }
+    };
+
+    checkSupport();
+  }, []);
+
+  // Check if already subscribed
+  useEffect(() => {
+    const checkSubscription = async () => {
+      if (!isSupported) return;
+
+      try {
+        const registration = await navigator.serviceWorker.ready;
+        const subscription = await registration.pushManager.getSubscription();
+        setIsSubscribed(!!subscription);
+      } catch (error) {
+        console.error('Error checking subscription:', error);
+      }
+    };
+
+    checkSubscription();
+  }, [isSupported, userSubscriptions]);
+
+  /**
+   * Register service worker
+   */
+  const registerServiceWorker = useCallback(async (): Promise<ServiceWorkerRegistration> => {
+    try {
+      // Check for existing registration first
+      const existingRegistration = await navigator.serviceWorker.getRegistration('/');
+      
+      if (existingRegistration) {
+        console.log('Using existing Service Worker registration');
+        await navigator.serviceWorker.ready;
+        return existingRegistration;
+      }
+
+      // Register new service worker
+      const registration = await navigator.serviceWorker.register('/sw.js', {
+        scope: '/',
+        updateViaCache: 'none', // Don't cache the service worker file
+      });
+
+      // Wait for the service worker to be ready
+      await navigator.serviceWorker.ready;
+
+      console.log('Service Worker registered successfully');
+      return registration;
+    } catch (error) {
+      console.error('Service Worker registration failed:', error);
+      throw error;
+    }
+  }, []);
+
+  /**
+   * Request notification permission
+   * Note: This must be called in response to a user gesture (e.g., button click)
+   */
+  const requestPermission = useCallback(async (): Promise<NotificationPermission> => {
+    if (!isSupported) {
+      throw new Error('Push notifications are not supported');
+    }
+
+    // Check if already granted to avoid unnecessary prompts
+    if (Notification.permission === 'granted') {
+      return 'granted';
+    }
+
+    try {
+      const result = await Notification.requestPermission();
+      setPermission(result);
+      return result;
+    } catch (error) {
+      console.error('Error requesting notification permission:', error);
+      throw error;
+    }
+  }, [isSupported]);
+
+  /**
+   * Subscribe to push notifications
+   */
+  const subscribe = useCallback(async () => {
+    if (!isSupported) {
+      toast.error('Push notifications are not supported in your browser');
+      return false;
+    }
+
+    setIsLoading(true);
+
+    try {
+      // Request permission
+      const permissionResult = await requestPermission();
+      
+      if (permissionResult !== 'granted') {
+        toast.error('Notification permission denied');
+        setIsLoading(false);
+        return false;
+      }
+
+      // Register service worker
+      const registration = await registerServiceWorker();
+
+      // Check for existing subscription
+      let subscription = await registration.pushManager.getSubscription();
+
+      if (!subscription) {
+        // Create new subscription
+        if (VAPID_PUBLIC_KEY === 'PLACEHOLDER_VAPID_KEY') {
+          console.warn('VAPID key not configured. Push notifications will not work in production.');
+          toast.error('Push notifications are not configured');
+          setIsLoading(false);
+          return false;
+        }
+
+        try {
+          subscription = await registration.pushManager.subscribe({
+            userVisibleOnly: true,
+            applicationServerKey: urlBase64ToUint8Array(VAPID_PUBLIC_KEY),
+          });
+        } catch (subscribeError: any) {
+          console.error('Push subscription error:', subscribeError);
+          
+          // Handle specific error types
+          if (subscribeError.name === 'AbortError') {
+            toast.error('Push service temporarily unavailable. Please try again later.');
+            console.warn('Push service error - this can happen if the browser push service is down or network is unstable');
+          } else if (subscribeError.name === 'NotAllowedError') {
+            toast.error('Push notification permission was denied');
+          } else if (subscribeError.name === 'NotSupportedError') {
+            toast.error('Push notifications are not supported in this browser');
+          } else {
+            toast.error('Failed to subscribe to push notifications');
+          }
+          
+          setIsLoading(false);
+          return false;
+        }
+      }
+
+      // Save subscription to backend
+      const subscriptionJSON = subscription.toJSON();
+      
+      await savePushSubscription({
+        endpoint: subscription.endpoint,
+        keys: {
+          p256dh: subscriptionJSON.keys?.p256dh || '',
+          auth: subscriptionJSON.keys?.auth || '',
+        },
+        platform: 'web',
+        browser: navigator.userAgent.includes('Chrome') ? 'Chrome' :
+                 navigator.userAgent.includes('Firefox') ? 'Firefox' :
+                 navigator.userAgent.includes('Safari') ? 'Safari' : 'Other',
+      });
+
+      setIsSubscribed(true);
+      toast.success('Push notifications enabled!');
+      setIsLoading(false);
+      return true;
+    } catch (error: any) {
+      console.error('Error subscribing to push notifications:', error);
+      
+      // More specific error message
+      const errorMessage = error?.message || 'Unknown error';
+      toast.error(`Failed to enable push notifications: ${errorMessage}`);
+      
+      setIsLoading(false);
+      return false;
+    }
+  }, [isSupported, requestPermission, registerServiceWorker, savePushSubscription]);
+
+  /**
+   * Unsubscribe from push notifications
+   */
+  const unsubscribe = useCallback(async () => {
+    if (!isSupported) {
+      return false;
+    }
+
+    setIsLoading(true);
+
+    try {
+      const registration = await navigator.serviceWorker.ready;
+      const subscription = await registration.pushManager.getSubscription();
+
+      if (subscription) {
+        // Unsubscribe from push manager
+        await subscription.unsubscribe();
+
+        // Remove from backend
+        await removePushSubscription({
+          endpoint: subscription.endpoint,
+        });
+
+        setIsSubscribed(false);
+        toast.success('Push notifications disabled');
+      }
+
+      setIsLoading(false);
+      return true;
+    } catch (error) {
+      console.error('Error unsubscribing from push notifications:', error);
+      toast.error('Failed to disable push notifications');
+      setIsLoading(false);
+      return false;
+    }
+  }, [isSupported, removePushSubscription]);
+
+  /**
+   * Test push notification (shows a local notification)
+   */
+  const testNotification = useCallback(async () => {
+    if (!isSupported) {
+      toast.error('Notifications are not supported');
+      return;
+    }
+
+    if (permission !== 'granted') {
+      toast.error('Notification permission not granted');
+      return;
+    }
+
+    try {
+      const registration = await navigator.serviceWorker.ready;
+      
+      await registration.showNotification('Test Notification', {
+        body: 'This is a test notification from DateLink',
+        icon: '/logo.svg',
+        badge: '/favicon.svg',
+        tag: 'test-notification',
+        vibrate: [200, 100, 200],
+        data: {
+          url: '/',
+        },
+      });
+
+      toast.success('Test notification sent!');
+    } catch (error) {
+      console.error('Error showing test notification:', error);
+      toast.error('Failed to show test notification');
+    }
+  }, [isSupported, permission]);
+
+  return {
+    permission,
+    isSupported,
+    isSubscribed,
+    isLoading,
+    subscribe,
+    unsubscribe,
+    requestPermission,
+    testNotification,
+  };
+}

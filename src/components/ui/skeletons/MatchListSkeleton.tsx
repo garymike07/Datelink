@@ -1,1 +1,45 @@
-{"data":"aW1wb3J0IHsgU2tlbGV0b24gfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvc2tlbGV0b24iOwoKZnVuY3Rpb24gTWF0Y2hDYXJkU2tlbGV0b24oKSB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJvdmVyZmxvdy1oaWRkZW4gZ2xhc3MtY2FyZCBib3JkZXItbm9uZSByb3VuZGVkLTJ4bCI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJncmlkIGdyaWQtY29scy0zIGdhcC0xIGJnLWJsYWNrLzUiPgogICAgICAgIDxTa2VsZXRvbiBjbGFzc05hbWU9ImFzcGVjdC1bMy80XSB3LWZ1bGwgcm91bmRlZC1ub25lIiAvPgogICAgICAgIDxTa2VsZXRvbiBjbGFzc05hbWU9ImFzcGVjdC1bMy80XSB3LWZ1bGwgcm91bmRlZC1ub25lIiAvPgogICAgICAgIDxTa2VsZXRvbiBjbGFzc05hbWU9ImFzcGVjdC1bMy80XSB3LWZ1bGwgcm91bmRlZC1ub25lIiAvPgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzc05hbWU9InAtNCBzcGFjZS15LTMiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4gZ2FwLTMiPgogICAgICAgICAgPFNrZWxldG9uIGNsYXNzTmFtZT0iaC02IHctNDAiIC8+CiAgICAgICAgICA8U2tlbGV0b24gY2xhc3NOYW1lPSJoLTUgdy0xNCIgLz4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0yIj4KICAgICAgICAgIDxTa2VsZXRvbiBjbGFzc05hbWU9ImgtNCB3LTQ4IiAvPgogICAgICAgICAgPFNrZWxldG9uIGNsYXNzTmFtZT0iaC00IHctNTYiIC8+CiAgICAgICAgICA8U2tlbGV0b24gY2xhc3NOYW1lPSJoLTQgdy0zMiIgLz4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LXdyYXAgZ2FwLTIiPgogICAgICAgICAgPFNrZWxldG9uIGNsYXNzTmFtZT0iaC02IHctMTYgcm91bmRlZC1mdWxsIiAvPgogICAgICAgICAgPFNrZWxldG9uIGNsYXNzTmFtZT0iaC02IHctMjAgcm91bmRlZC1mdWxsIiAvPgogICAgICAgICAgPFNrZWxldG9uIGNsYXNzTmFtZT0iaC02IHctMTQgcm91bmRlZC1mdWxsIiAvPgogICAgICAgIDwvZGl2PgogICAgICAgIDxTa2VsZXRvbiBjbGFzc05hbWU9ImgtMTAgdy1mdWxsIHJvdW5kZWQteGwiIC8+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIE1hdGNoTGlzdFNrZWxldG9uKHsgY291bnQgPSA0IH06IHsgY291bnQ/OiBudW1iZXIgfSkgewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0xMCI+CiAgICAgIDxkaXY+CiAgICAgICAgPFNrZWxldG9uIGNsYXNzTmFtZT0iaC02IHctMjggbWItNCIgLz4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBnYXAtNCBzbTpncmlkLWNvbHMtMiI+CiAgICAgICAgICB7QXJyYXkuZnJvbSh7IGxlbmd0aDogY291bnQgfSkubWFwKChfLCBpKSA9PiAoCiAgICAgICAgICAgIDxNYXRjaENhcmRTa2VsZXRvbiBrZXk9e2l9IC8+CiAgICAgICAgICApKX0KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cg=="}
+import { Skeleton } from "@/components/ui/skeleton";
+
+function MatchCardSkeleton() {
+  return (
+    <div className="overflow-hidden glass-card border-none rounded-2xl">
+      <div className="grid grid-cols-3 gap-1 bg-black/5">
+        <Skeleton className="aspect-[3/4] w-full rounded-none" />
+        <Skeleton className="aspect-[3/4] w-full rounded-none" />
+        <Skeleton className="aspect-[3/4] w-full rounded-none" />
+      </div>
+      <div className="p-4 space-y-3">
+        <div className="flex items-center justify-between gap-3">
+          <Skeleton className="h-6 w-40" />
+          <Skeleton className="h-5 w-14" />
+        </div>
+        <div className="space-y-2">
+          <Skeleton className="h-4 w-48" />
+          <Skeleton className="h-4 w-56" />
+          <Skeleton className="h-4 w-32" />
+        </div>
+        <div className="flex flex-wrap gap-2">
+          <Skeleton className="h-6 w-16 rounded-full" />
+          <Skeleton className="h-6 w-20 rounded-full" />
+          <Skeleton className="h-6 w-14 rounded-full" />
+        </div>
+        <Skeleton className="h-10 w-full rounded-xl" />
+      </div>
+    </div>
+  );
+}
+
+export function MatchListSkeleton({ count = 4 }: { count?: number }) {
+  return (
+    <div className="space-y-10">
+      <div>
+        <Skeleton className="h-6 w-28 mb-4" />
+        <div className="grid gap-4 sm:grid-cols-2">
+          {Array.from({ length: count }).map((_, i) => (
+            <MatchCardSkeleton key={i} />
+          ))}
+        </div>
+      </div>
+    </div>
+  );
+}

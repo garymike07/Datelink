@@ -1,1 +1,194 @@
-{"data":"aW1wb3J0IHsgdXNlUXVlcnkgfSBmcm9tICJjb252ZXgvcmVhY3QiOwppbXBvcnQgeyBhcGkgfSBmcm9tICIuLi8uLi8uLi9jb252ZXgvX2dlbmVyYXRlZC9hcGkiOwppbXBvcnQgdHlwZSB7IElkIH0gZnJvbSAiLi4vLi4vLi4vY29udmV4L19nZW5lcmF0ZWQvZGF0YU1vZGVsIjsKaW1wb3J0IHsgQ2FyZCwgQ2FyZENvbnRlbnQsIENhcmREZXNjcmlwdGlvbiwgQ2FyZEhlYWRlciwgQ2FyZFRpdGxlIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2NhcmQiOwppbXBvcnQgeyBCYWRnZSB9IGZyb20gIkAvY29tcG9uZW50cy91aS9iYWRnZSI7CmltcG9ydCB7IEV5ZSwgVHJlbmRpbmdVcCwgVXNlcnMgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyBUYWJzLCBUYWJzQ29udGVudCwgVGFic0xpc3QsIFRhYnNUcmlnZ2VyIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL3RhYnMiOwppbXBvcnQgeyBBdmF0YXIsIEF2YXRhckZhbGxiYWNrLCBBdmF0YXJJbWFnZSB9IGZyb20gIkAvY29tcG9uZW50cy91aS9hdmF0YXIiOwoKaW50ZXJmYWNlIFByb2ZpbGVWaWV3c0NvdW50ZXJQcm9wcyB7CiAgdXNlcklkOiBJZDwidXNlcnMiPjsKICB2YXJpYW50PzogImNhcmQiIHwgImNvbXBhY3QiIHwgInN0YXQiOwp9CgpleHBvcnQgZnVuY3Rpb24gUHJvZmlsZVZpZXdzQ291bnRlcih7IHVzZXJJZCwgdmFyaWFudCA9ICJjYXJkIiB9OiBQcm9maWxlVmlld3NDb3VudGVyUHJvcHMpIHsKICBjb25zdCB2aWV3c1RvZGF5ID0gdXNlUXVlcnkoYXBpLmFjdGl2aXR5VHJhY2tpbmcuZ2V0UHJvZmlsZVZpZXdTdGF0cywgewogICAgdXNlcklkLAogICAgdGltZWZyYW1lOiAidG9kYXkiLAogIH0pOwoKICBjb25zdCB2aWV3c1dlZWsgPSB1c2VRdWVyeShhcGkuYWN0aXZpdHlUcmFja2luZy5nZXRQcm9maWxlVmlld1N0YXRzLCB7CiAgICB1c2VySWQsCiAgICB0aW1lZnJhbWU6ICJ3ZWVrIiwKICB9KTsKCiAgY29uc3Qgdmlld3NNb250aCA9IHVzZVF1ZXJ5KGFwaS5hY3Rpdml0eVRyYWNraW5nLmdldFByb2ZpbGVWaWV3U3RhdHMsIHsKICAgIHVzZXJJZCwKICAgIHRpbWVmcmFtZTogIm1vbnRoIiwKICB9KTsKCiAgaWYgKCF2aWV3c1RvZGF5IHx8ICF2aWV3c1dlZWsgfHwgIXZpZXdzTW9udGgpIHsKICAgIHJldHVybiBudWxsOwogIH0KCiAgLy8gU3RhdCB2YXJpYW50IC0ganVzdCB0aGUgbnVtYmVyCiAgaWYgKHZhcmlhbnQgPT09ICJzdGF0IikgewogICAgcmV0dXJuICgKICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIj4KICAgICAgICA8RXllIGNsYXNzTmFtZT0idy00IGgtNCB0ZXh0LW11dGVkLWZvcmVncm91bmQiIC8+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LTJ4bCBmb250LWJvbGQiPnt2aWV3c1dlZWsudG90YWxWaWV3c308L3NwYW4+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+dmlld3MgdGhpcyB3ZWVrPC9zcGFuPgogICAgICA8L2Rpdj4KICAgICk7CiAgfQoKICAvLyBDb21wYWN0IHZhcmlhbnQKICBpZiAodmFyaWFudCA9PT0gImNvbXBhY3QiKSB7CiAgICByZXR1cm4gKAogICAgICA8Q2FyZD4KICAgICAgICA8Q2FyZENvbnRlbnQgY2xhc3NOYW1lPSJwLTQiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiI+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InctMTAgaC0xMCBiZy1ibHVlLTEwMCBkYXJrOmJnLWJsdWUtOTUwIHJvdW5kZWQtZnVsbCBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciI+CiAgICAgICAgICAgICAgICA8RXllIGNsYXNzTmFtZT0idy01IGgtNSB0ZXh0LWJsdWUtNjAwIGRhcms6dGV4dC1ibHVlLTQwMCIgLz4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJmb250LXNlbWlib2xkIHRleHQtc20iPlByb2ZpbGUgVmlld3M8L3A+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgICAgICAge3ZpZXdzVG9kYXkudG9kYXlWaWV3c30gdG9kYXkg4oCiIHt2aWV3c1dlZWsudG90YWxWaWV3c30gdGhpcyB3ZWVrCiAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idGV4dC1yaWdodCI+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LTJ4bCBmb250LWJvbGQiPnt2aWV3c1dlZWsudG90YWxWaWV3c308L3A+CiAgICAgICAgICAgICAge3ZpZXdzVG9kYXkudG9kYXlWaWV3cyA+IDAgJiYgKAogICAgICAgICAgICAgICAgPEJhZGdlIHZhcmlhbnQ9InNlY29uZGFyeSIgY2xhc3NOYW1lPSJ0ZXh0LXhzIj4KICAgICAgICAgICAgICAgICAgPFRyZW5kaW5nVXAgY2xhc3NOYW1lPSJ3LTMgaC0zIG1yLTEiIC8+CiAgICAgICAgICAgICAgICAgIHt2aWV3c1RvZGF5LnRvZGF5Vmlld3N9IHRvZGF5CiAgICAgICAgICAgICAgICA8L0JhZGdlPgogICAgICAgICAgICAgICl9CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9DYXJkQ29udGVudD4KICAgICAgPC9DYXJkPgogICAgKTsKICB9CgogIC8vIEZ1bGwgY2FyZCB2YXJpYW50CiAgcmV0dXJuICgKICAgIDxDYXJkPgogICAgICA8Q2FyZEhlYWRlcj4KICAgICAgICA8Q2FyZFRpdGxlIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIiPgogICAgICAgICAgPEV5ZSBjbGFzc05hbWU9InctNSBoLTUiIC8+CiAgICAgICAgICBQcm9maWxlIFZpZXdzCiAgICAgICAgPC9DYXJkVGl0bGU+CiAgICAgICAgPENhcmREZXNjcmlwdGlvbj5TZWUgd2hvJ3MgaW50ZXJlc3RlZCBpbiB5b3VyIHByb2ZpbGU8L0NhcmREZXNjcmlwdGlvbj4KICAgICAgPC9DYXJkSGVhZGVyPgogICAgICA8Q2FyZENvbnRlbnQgY2xhc3NOYW1lPSJzcGFjZS15LTYiPgogICAgICAgIHsvKiBUb2RheSdzIEhpZ2hsaWdodCAqL30KICAgICAgICB7dmlld3NUb2RheS50b2RheVZpZXdzID4gMCAmJiAoCiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icC00IGJnLWdyYWRpZW50LXRvLWJyIGZyb20tYmx1ZS01MCB0by1pbmRpZ28tNTAgZGFyazpmcm9tLWJsdWUtOTUwLzMwIGRhcms6dG8taW5kaWdvLTk1MC8zMCByb3VuZGVkLWxnIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiI+CiAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQiPlRvZGF5PC9wPgogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LTN4bCBmb250LWJvbGQgdGV4dC1ibHVlLTYwMCI+e3ZpZXdzVG9kYXkudG9kYXlWaWV3c308L3A+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIG10LTEiPgogICAgICAgICAgICAgICAgICB7dmlld3NUb2RheS51bmlxdWVWaWV3ZXJzfSB1bmlxdWUgdmlzaXRvcnt2aWV3c1RvZGF5LnVuaXF1ZVZpZXdlcnMgIT09IDEgPyAncycgOiAnJ30KICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8VHJlbmRpbmdVcCBjbGFzc05hbWU9InctOCBoLTggdGV4dC1ibHVlLTYwMCIgLz4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApfQoKICAgICAgICB7LyogVGltZWZyYW1lIFRhYnMgKi99CiAgICAgICAgPFRhYnMgZGVmYXVsdFZhbHVlPSJ3ZWVrIiBjbGFzc05hbWU9InctZnVsbCI+CiAgICAgICAgICA8VGFic0xpc3QgY2xhc3NOYW1lPSJncmlkIHctZnVsbCBncmlkLWNvbHMtMyI+CiAgICAgICAgICAgIDxUYWJzVHJpZ2dlciB2YWx1ZT0idG9kYXkiPlRvZGF5PC9UYWJzVHJpZ2dlcj4KICAgICAgICAgICAgPFRhYnNUcmlnZ2VyIHZhbHVlPSJ3ZWVrIj5XZWVrPC9UYWJzVHJpZ2dlcj4KICAgICAgICAgICAgPFRhYnNUcmlnZ2VyIHZhbHVlPSJtb250aCI+TW9udGg8L1RhYnNUcmlnZ2VyPgogICAgICAgICAgPC9UYWJzTGlzdD4KCiAgICAgICAgICA8VGFic0NvbnRlbnQgdmFsdWU9InRvZGF5IiBjbGFzc05hbWU9InNwYWNlLXktNCBtdC00Ij4KICAgICAgICAgICAgPFZpZXdTdGF0cyBzdGF0cz17dmlld3NUb2RheX0gLz4KICAgICAgICAgIDwvVGFic0NvbnRlbnQ+CgogICAgICAgICAgPFRhYnNDb250ZW50IHZhbHVlPSJ3ZWVrIiBjbGFzc05hbWU9InNwYWNlLXktNCBtdC00Ij4KICAgICAgICAgICAgPFZpZXdTdGF0cyBzdGF0cz17dmlld3NXZWVrfSAvPgogICAgICAgICAgPC9UYWJzQ29udGVudD4KCiAgICAgICAgICA8VGFic0NvbnRlbnQgdmFsdWU9Im1vbnRoIiBjbGFzc05hbWU9InNwYWNlLXktNCBtdC00Ij4KICAgICAgICAgICAgPFZpZXdTdGF0cyBzdGF0cz17dmlld3NNb250aH0gLz4KICAgICAgICAgIDwvVGFic0NvbnRlbnQ+CiAgICAgICAgPC9UYWJzPgoKICAgICAgICB7LyogUmVjZW50IFZpZXdlcnMgKi99CiAgICAgICAge3ZpZXdzV2Vlay5yZWNlbnRWaWV3ZXJzICYmIHZpZXdzV2Vlay5yZWNlbnRWaWV3ZXJzLmxlbmd0aCA+IDAgJiYgKAogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMyI+CiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSBmb250LXNlbWlib2xkIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+UkVDRU5UIFZJRVdFUlM8L3A+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTIiPgogICAgICAgICAgICAgIHt2aWV3c1dlZWsucmVjZW50Vmlld2Vycy5zbGljZSgwLCA1KS5tYXAoKHZpZXdlcjogYW55LCBpZHg6IG51bWJlcikgPT4gKAogICAgICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgICAgICBrZXk9e2lkeH0KICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4gcC0yIHJvdW5kZWQgaG92ZXI6YmctbXV0ZWQvNTAgdHJhbnNpdGlvbi1jb2xvcnMiCiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiI+CiAgICAgICAgICAgICAgICAgICAgPEF2YXRhciBjbGFzc05hbWU9InctOCBoLTgiPgogICAgICAgICAgICAgICAgICAgICAgPEF2YXRhckltYWdlIHNyYz17dmlld2VyLnZpZXdlclBob3RvfSAvPgogICAgICAgICAgICAgICAgICAgICAgPEF2YXRhckZhbGxiYWNrPgogICAgICAgICAgICAgICAgICAgICAgICA8VXNlcnMgY2xhc3NOYW1lPSJ3LTQgaC00IiAvPgogICAgICAgICAgICAgICAgICAgICAgPC9BdmF0YXJGYWxsYmFjaz4KICAgICAgICAgICAgICAgICAgICA8L0F2YXRhcj4KICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhzIGZvbnQtbWVkaXVtIj5Bbm9ueW1vdXMgVmlld2VyPC9wPgogICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+CiAgICAgICAgICAgICAgICAgICAgICAgIHtmb3JtYXRUaW1lQWdvKHZpZXdlci52aWV3ZWRBdCl9CiAgICAgICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICB7dmlld2VyLnZpZXdDb3VudCA+IDEgJiYgKAogICAgICAgICAgICAgICAgICAgIDxCYWRnZSB2YXJpYW50PSJzZWNvbmRhcnkiIGNsYXNzTmFtZT0idGV4dC14cyI+CiAgICAgICAgICAgICAgICAgICAgICB7dmlld2VyLnZpZXdDb3VudH14CiAgICAgICAgICAgICAgICAgICAgPC9CYWRnZT4KICAgICAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICkpfQogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtY2VudGVyIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+CiAgICAgICAgICAgICAgVXBncmFkZSB0byBQcmVtaXVtIHRvIHNlZSB3aG8gdmlld2VkIHlvdXIgcHJvZmlsZQogICAgICAgICAgICA8L3A+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApfQogICAgICA8L0NhcmRDb250ZW50PgogICAgPC9DYXJkPgogICk7Cn0KCmZ1bmN0aW9uIFZpZXdTdGF0cyh7IHN0YXRzIH06IHsgc3RhdHM6IGFueSB9KSB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJncmlkIGdyaWQtY29scy0yIGdhcC00Ij4KICAgICAgPGRpdiBjbGFzc05hbWU9InAtNCBiZy1tdXRlZC81MCByb3VuZGVkLWxnIj4KICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIG1iLTEiPlRvdGFsIFZpZXdzPC9wPgogICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC0yeGwgZm9udC1ib2xkIj57c3RhdHMudG90YWxWaWV3c308L3A+CiAgICAgIDwvZGl2PgogICAgICA8ZGl2IGNsYXNzTmFtZT0icC00IGJnLW11dGVkLzUwIHJvdW5kZWQtbGciPgogICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LW11dGVkLWZvcmVncm91bmQgbWItMSI+VW5pcXVlIFZpZXdlcnM8L3A+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LTJ4bCBmb250LWJvbGQiPntzdGF0cy51bmlxdWVWaWV3ZXJzfTwvcD4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9CgpmdW5jdGlvbiBmb3JtYXRUaW1lQWdvKHRpbWVzdGFtcDogbnVtYmVyKTogc3RyaW5nIHsKICBjb25zdCBub3cgPSBEYXRlLm5vdygpOwogIGNvbnN0IGRpZmYgPSBub3cgLSB0aW1lc3RhbXA7CiAgY29uc3QgbWludXRlcyA9IE1hdGguZmxvb3IoZGlmZiAvIDYwMDAwKTsKICBjb25zdCBob3VycyA9IE1hdGguZmxvb3IoZGlmZiAvIDM2MDAwMDApOwogIGNvbnN0IGRheXMgPSBNYXRoLmZsb29yKGRpZmYgLyA4NjQwMDAwMCk7CgogIGlmIChtaW51dGVzIDwgMSkgcmV0dXJuICJKdXN0IG5vdyI7CiAgaWYgKG1pbnV0ZXMgPCA2MCkgcmV0dXJuIGAke21pbnV0ZXN9bSBhZ29gOwogIGlmIChob3VycyA8IDI0KSByZXR1cm4gYCR7aG91cnN9aCBhZ29gOwogIHJldHVybiBgJHtkYXlzfWQgYWdvYDsKfQo="}
+import { useQuery } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import type { Id } from "../../../convex/_generated/dataModel";
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
+import { Eye, TrendingUp, Users } from "lucide-react";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
+
+interface ProfileViewsCounterProps {
+  userId: Id<"users">;
+  variant?: "card" | "compact" | "stat";
+}
+
+export function ProfileViewsCounter({ userId, variant = "card" }: ProfileViewsCounterProps) {
+  const viewsToday = useQuery(api.activityTracking.getProfileViewStats, {
+    userId,
+    timeframe: "today",
+  });
+
+  const viewsWeek = useQuery(api.activityTracking.getProfileViewStats, {
+    userId,
+    timeframe: "week",
+  });
+
+  const viewsMonth = useQuery(api.activityTracking.getProfileViewStats, {
+    userId,
+    timeframe: "month",
+  });
+
+  if (!viewsToday || !viewsWeek || !viewsMonth) {
+    return null;
+  }
+
+  // Stat variant - just the number
+  if (variant === "stat") {
+    return (
+      <div className="flex items-center gap-2">
+        <Eye className="w-4 h-4 text-muted-foreground" />
+        <span className="text-2xl font-bold">{viewsWeek.totalViews}</span>
+        <span className="text-sm text-muted-foreground">views this week</span>
+      </div>
+    );
+  }
+
+  // Compact variant
+  if (variant === "compact") {
+    return (
+      <Card>
+        <CardContent className="p-4">
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-3">
+              <div className="w-10 h-10 bg-blue-100 dark:bg-blue-950 rounded-full flex items-center justify-center">
+                <Eye className="w-5 h-5 text-blue-600 dark:text-blue-400" />
+              </div>
+              <div>
+                <p className="font-semibold text-sm">Profile Views</p>
+                <p className="text-xs text-muted-foreground">
+                  {viewsToday.todayViews} today • {viewsWeek.totalViews} this week
+                </p>
+              </div>
+            </div>
+            <div className="text-right">
+              <p className="text-2xl font-bold">{viewsWeek.totalViews}</p>
+              {viewsToday.todayViews > 0 && (
+                <Badge variant="secondary" className="text-xs">
+                  <TrendingUp className="w-3 h-3 mr-1" />
+                  {viewsToday.todayViews} today
+                </Badge>
+              )}
+            </div>
+          </div>
+        </CardContent>
+      </Card>
+    );
+  }
+
+  // Full card variant
+  return (
+    <Card>
+      <CardHeader>
+        <CardTitle className="flex items-center gap-2">
+          <Eye className="w-5 h-5" />
+          Profile Views
+        </CardTitle>
+        <CardDescription>See who's interested in your profile</CardDescription>
+      </CardHeader>
+      <CardContent className="space-y-6">
+        {/* Today's Highlight */}
+        {viewsToday.todayViews > 0 && (
+          <div className="p-4 bg-gradient-to-br from-blue-50 to-indigo-50 dark:from-blue-950/30 dark:to-indigo-950/30 rounded-lg">
+            <div className="flex items-center justify-between">
+              <div>
+                <p className="text-sm text-muted-foreground">Today</p>
+                <p className="text-3xl font-bold text-blue-600">{viewsToday.todayViews}</p>
+                <p className="text-xs text-muted-foreground mt-1">
+                  {viewsToday.uniqueViewers} unique visitor{viewsToday.uniqueViewers !== 1 ? 's' : ''}
+                </p>
+              </div>
+              <TrendingUp className="w-8 h-8 text-blue-600" />
+            </div>
+          </div>
+        )}
+
+        {/* Timeframe Tabs */}
+        <Tabs defaultValue="week" className="w-full">
+          <TabsList className="grid w-full grid-cols-3">
+            <TabsTrigger value="today">Today</TabsTrigger>
+            <TabsTrigger value="week">Week</TabsTrigger>
+            <TabsTrigger value="month">Month</TabsTrigger>
+          </TabsList>
+
+          <TabsContent value="today" className="space-y-4 mt-4">
+            <ViewStats stats={viewsToday} />
+          </TabsContent>
+
+          <TabsContent value="week" className="space-y-4 mt-4">
+            <ViewStats stats={viewsWeek} />
+          </TabsContent>
+
+          <TabsContent value="month" className="space-y-4 mt-4">
+            <ViewStats stats={viewsMonth} />
+          </TabsContent>
+        </Tabs>
+
+        {/* Recent Viewers */}
+        {viewsWeek.recentViewers && viewsWeek.recentViewers.length > 0 && (
+          <div className="space-y-3">
+            <p className="text-sm font-semibold text-muted-foreground">RECENT VIEWERS</p>
+            <div className="space-y-2">
+              {viewsWeek.recentViewers.slice(0, 5).map((viewer: any, idx: number) => (
+                <div
+                  key={idx}
+                  className="flex items-center justify-between p-2 rounded hover:bg-muted/50 transition-colors"
+                >
+                  <div className="flex items-center gap-2">
+                    <Avatar className="w-8 h-8">
+                      <AvatarImage src={viewer.viewerPhoto} />
+                      <AvatarFallback>
+                        <Users className="w-4 h-4" />
+                      </AvatarFallback>
+                    </Avatar>
+                    <div>
+                      <p className="text-xs font-medium">Anonymous Viewer</p>
+                      <p className="text-xs text-muted-foreground">
+                        {formatTimeAgo(viewer.viewedAt)}
+                      </p>
+                    </div>
+                  </div>
+                  {viewer.viewCount > 1 && (
+                    <Badge variant="secondary" className="text-xs">
+                      {viewer.viewCount}x
+                    </Badge>
+                  )}
+                </div>
+              ))}
+            </div>
+            <p className="text-xs text-center text-muted-foreground">
+              Upgrade to Premium to see who viewed your profile
+            </p>
+          </div>
+        )}
+      </CardContent>
+    </Card>
+  );
+}
+
+function ViewStats({ stats }: { stats: any }) {
+  return (
+    <div className="grid grid-cols-2 gap-4">
+      <div className="p-4 bg-muted/50 rounded-lg">
+        <p className="text-xs text-muted-foreground mb-1">Total Views</p>
+        <p className="text-2xl font-bold">{stats.totalViews}</p>
+      </div>
+      <div className="p-4 bg-muted/50 rounded-lg">
+        <p className="text-xs text-muted-foreground mb-1">Unique Viewers</p>
+        <p className="text-2xl font-bold">{stats.uniqueViewers}</p>
+      </div>
+    </div>
+  );
+}
+
+function formatTimeAgo(timestamp: number): string {
+  const now = Date.now();
+  const diff = now - timestamp;
+  const minutes = Math.floor(diff / 60000);
+  const hours = Math.floor(diff / 3600000);
+  const days = Math.floor(diff / 86400000);
+
+  if (minutes < 1) return "Just now";
+  if (minutes < 60) return `${minutes}m ago`;
+  if (hours < 24) return `${hours}h ago`;
+  return `${days}d ago`;
+}

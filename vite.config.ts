@@ -1,1 +1,50 @@
-{"data":"aW1wb3J0IHsgZGVmaW5lQ29uZmlnIH0gZnJvbSAidml0ZSI7CmltcG9ydCByZWFjdCBmcm9tICJAdml0ZWpzL3BsdWdpbi1yZWFjdC1zd2MiOwppbXBvcnQgcGF0aCBmcm9tICJwYXRoIjsKaW1wb3J0IHsgY29tcG9uZW50VGFnZ2VyIH0gZnJvbSAibG92YWJsZS10YWdnZXIiOwoKLy8gaHR0cHM6Ly92aXRlanMuZGV2L2NvbmZpZy8KZXhwb3J0IGRlZmF1bHQgZGVmaW5lQ29uZmlnKCh7IG1vZGUgfSkgPT4gKHsKICBvcHRpbWl6ZURlcHM6IHsKICAgIC8vIEFsbG93IFZpdGUgdG8gZGlzY292ZXIgYW5kIHByZWJ1bmRsZSBkZXBzIHRvIGF2b2lkIGEgbGFyZ2UgbnVtYmVyIG9mCiAgICAvLyAvbm9kZV9tb2R1bGVzLyogcmVxdWVzdHMgaW4gZGV2ICh3aGljaCBjYW4gdHJpZ2dlciBFUlJfSU5TVUZGSUNJRU5UX1JFU09VUkNFUykuCiAgICBub0Rpc2NvdmVyeTogZmFsc2UsCiAgICBpbmNsdWRlOiBbCiAgICAgICJyZWFjdCIsCiAgICAgICJyZWFjdC1kb20iLAogICAgICAicmVhY3QvanN4LXJ1bnRpbWUiLAogICAgICAicmVhY3QvanN4LWRldi1ydW50aW1lIiwKICAgICAgInJlYWN0LWRvbS9jbGllbnQiLAogICAgICAidXNlLXN5bmMtZXh0ZXJuYWwtc3RvcmUiLAogICAgICAidXNlLXN5bmMtZXh0ZXJuYWwtc3RvcmUvc2hpbSIsCiAgICAgICJsdWNpZGUtcmVhY3QiLAogICAgICAiZnJhbWVyLW1vdGlvbiIsCiAgICAgICJtb3Rpb24tZG9tIiwKICAgICAgInJlYWN0LXJlbW92ZS1zY3JvbGwiLAogICAgICAidHNsaWIiLAogICAgICAiZGF0ZS1mbnMiLAogICAgICAiQHRhbnN0YWNrL3JlYWN0LXF1ZXJ5IiwKICAgICAgIkB0YW5zdGFjay9xdWVyeS1jb3JlIiwKICAgIF0sCiAgICBlc2J1aWxkT3B0aW9uczogewogICAgICBtYWluRmllbGRzOiBbIm1vZHVsZSIsICJtYWluIl0sCiAgICB9LAogIH0sCiAgYnVpbGQ6IHsKICAgIGNvbW1vbmpzT3B0aW9uczogewogICAgICBpbmNsdWRlOiBbL25vZGVfbW9kdWxlcy9dLAogICAgICB0cmFuc2Zvcm1NaXhlZEVzTW9kdWxlczogdHJ1ZSwKICAgIH0sCiAgfSwKICBzZXJ2ZXI6IHsKICAgIGhvc3Q6ICI6OiIsCiAgICBwb3J0OiA4MDgwLAogIH0sCiAgcGx1Z2luczogW3JlYWN0KCksIG1vZGUgPT09ICJkZXZlbG9wbWVudCIgJiYgY29tcG9uZW50VGFnZ2VyKCldLmZpbHRlcihCb29sZWFuKSwKICByZXNvbHZlOiB7CiAgICBkZWR1cGU6IFsicmVhY3QiLCAicmVhY3QtZG9tIiwgInVzZS1zeW5jLWV4dGVybmFsLXN0b3JlIl0sCiAgICBhbGlhczogewogICAgICAiQCI6IHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICIuL3NyYyIpLAogICAgfSwKICB9LAp9KSk7Cg=="}
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react-swc";
+import path from "path";
+import { componentTagger } from "lovable-tagger";
+
+// https://vitejs.dev/config/
+export default defineConfig(({ mode }) => ({
+  optimizeDeps: {
+    // Allow Vite to discover and prebundle deps to avoid a large number of
+    // /node_modules/* requests in dev (which can trigger ERR_INSUFFICIENT_RESOURCES).
+    noDiscovery: false,
+    include: [
+      "react",
+      "react-dom",
+      "react/jsx-runtime",
+      "react/jsx-dev-runtime",
+      "react-dom/client",
+      "use-sync-external-store",
+      "use-sync-external-store/shim",
+      "lucide-react",
+      "framer-motion",
+      "motion-dom",
+      "react-remove-scroll",
+      "tslib",
+      "date-fns",
+      "@tanstack/react-query",
+      "@tanstack/query-core",
+    ],
+    esbuildOptions: {
+      mainFields: ["module", "main"],
+    },
+  },
+  build: {
+    commonjsOptions: {
+      include: [/node_modules/],
+      transformMixedEsModules: true,
+    },
+  },
+  server: {
+    host: "::",
+    port: 8080,
+  },
+  plugins: [react(), mode === "development" && componentTagger()].filter(Boolean),
+  resolve: {
+    dedupe: ["react", "react-dom", "use-sync-external-store"],
+    alias: {
+      "@": path.resolve(__dirname, "./src"),
+    },
+  },
+}));

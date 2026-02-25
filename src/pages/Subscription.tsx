@@ -9,10 +9,12 @@ import { PaymentModal } from "@/components/premium/PaymentModal";
 import { Check, Calendar, CreditCard, History, Clock, CheckCircle2, XCircle, AlertCircle, Star, Zap, Gift } from "lucide-react";
 import { TrialBanner } from "@/components/premium/TrialBanner";
 import { format } from "date-fns";
+import { useSearchParams } from "react-router-dom";
 
 export default function Subscription() {
   const { user } = useAuth();
   const userId = user?._id;
+  const [searchParams] = useSearchParams();
   const subscription = useQuery(api.subscriptions.getMySubscription, userId ? { userId: userId as any } : "skip");
   const payments = useQuery(api.payments.getMyBillingHistory, userId ? { userId: userId as any, limit: 50 } : "skip");
   const [payOpen, setPayOpen] = useState(false);
@@ -20,6 +22,14 @@ export default function Subscription() {
   const [defaultDuration, setDefaultDuration] = useState<"1_week" | "1_month">("1_week");
   const isActive = subscription?.status === "active";
   const refreshPaymentStatus = useMutation(api.paymentsStatus.refreshPaymentStatus);
+
+  // Auto-open daily unlock modal when ?daily=1 is in URL
+  useEffect(() => {
+    if (searchParams.get("daily") === "1") {
+      setPayMode("daily_unlock");
+      setPayOpen(true);
+    }
+  }, [searchParams]);
 
   const getStatusIcon = (status: string) => {
     switch (status) {

@@ -203,7 +203,20 @@ const Chat = () => {
 
             setMessage("");
         } catch (error: any) {
-            toast.error(error.message || "Failed to send message");
+            const errMsg: string = error.message || "";
+            if (errMsg.startsWith("DAILY_MESSAGE_LIMIT_REACHED")) {
+                const parts = errMsg.split(":");
+                const limit = parts[2] || "20";
+                toast.error(
+                    `Daily message limit reached (${limit}/day). Upgrade to Premium or pay KES 10 for 24h unlimited access.`,
+                    {
+                        duration: 7000,
+                        action: { label: "Upgrade Now", onClick: () => navigate("/subscription") },
+                    }
+                );
+            } else {
+                toast.error(errMsg || "Failed to send message");
+            }
         }
     };
 

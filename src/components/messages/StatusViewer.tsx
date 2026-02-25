@@ -1,1 +1,346 @@
-{"data":"aW1wb3J0IHsgdXNlQ2FsbGJhY2ssIHVzZUVmZmVjdCwgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IHVzZVF1ZXJ5LCB1c2VNdXRhdGlvbiB9IGZyb20gImNvbnZleC9yZWFjdCI7CmltcG9ydCB7IGFwaSB9IGZyb20gIi4uLy4uLy4uL2NvbnZleC9fZ2VuZXJhdGVkL2FwaSI7CmltcG9ydCB7IElkIH0gZnJvbSAiLi4vLi4vLi4vY29udmV4L19nZW5lcmF0ZWQvZGF0YU1vZGVsIjsKaW1wb3J0IHsgRGlhbG9nLCBEaWFsb2dDb250ZW50LCBEaWFsb2dEZXNjcmlwdGlvbiwgRGlhbG9nVGl0bGUgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvZGlhbG9nIjsKaW1wb3J0IHsgQXZhdGFyLCBBdmF0YXJGYWxsYmFjaywgQXZhdGFySW1hZ2UgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvYXZhdGFyIjsKaW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2J1dHRvbiI7CmltcG9ydCB7IFgsIEhlYXJ0LCBFeWUsIENoZXZyb25MZWZ0LCBDaGV2cm9uUmlnaHQsIFRyYXNoMiB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IGZvcm1hdERpc3RhbmNlVG9Ob3cgfSBmcm9tICJkYXRlLWZucyI7CmltcG9ydCB7IG1vdGlvbiwgQW5pbWF0ZVByZXNlbmNlIH0gZnJvbSAiZnJhbWVyLW1vdGlvbiI7CmltcG9ydCB7IFByb2dyZXNzIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL3Byb2dyZXNzIjsKaW1wb3J0IHsgdXNlQXV0aCB9IGZyb20gIkAvY29udGV4dHMvQXV0aENvbnRleHQiOwppbXBvcnQgeyBTdGF0dXNWaWV3ZXJzRGlhbG9nIH0gZnJvbSAiLi9TdGF0dXNWaWV3ZXJzRGlhbG9nIjsKCmludGVyZmFjZSBTdGF0dXNWaWV3ZXJQcm9wcyB7CiAgb3BlbjogYm9vbGVhbjsKICBvbk9wZW5DaGFuZ2U6IChvcGVuOiBib29sZWFuKSA9PiB2b2lkOwogIHRhcmdldFVzZXJJZDogSWQ8InVzZXJzIj47CiAgaW5pdGlhbFBvc3RJbmRleD86IG51bWJlcjsKfQoKZXhwb3J0IGZ1bmN0aW9uIFN0YXR1c1ZpZXdlcih7CiAgb3BlbiwKICBvbk9wZW5DaGFuZ2UsCiAgdGFyZ2V0VXNlcklkLAogIGluaXRpYWxQb3N0SW5kZXggPSAwLAp9OiBTdGF0dXNWaWV3ZXJQcm9wcykgewogIGNvbnN0IHsgdXNlciB9ID0gdXNlQXV0aCgpOwogIGNvbnN0IFtjdXJyZW50UG9zdEluZGV4LCBzZXRDdXJyZW50UG9zdEluZGV4XSA9IHVzZVN0YXRlKGluaXRpYWxQb3N0SW5kZXgpOwogIGNvbnN0IFtwcm9ncmVzcywgc2V0UHJvZ3Jlc3NdID0gdXNlU3RhdGUoMCk7CiAgY29uc3QgW2lzUGF1c2VkLCBzZXRJc1BhdXNlZF0gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgW3ZpZXdlcnNEaWFsb2dPcGVuLCBzZXRWaWV3ZXJzRGlhbG9nT3Blbl0gPSB1c2VTdGF0ZShmYWxzZSk7CgogIGNvbnN0IHN0YXR1c0RhdGEgPSB1c2VRdWVyeSgKICAgIGFwaS5zdGF0dXNQb3N0cy5nZXRVc2VyU3RhdHVzUG9zdHMsCiAgICB1c2VyPy5faWQgJiYgdGFyZ2V0VXNlcklkCiAgICAgID8geyB1c2VySWQ6IHVzZXIuX2lkLCB0YXJnZXRVc2VySWQgfQogICAgICA6ICJza2lwIgogICk7CgogIGNvbnN0IHZpZXdTdGF0dXMgPSB1c2VNdXRhdGlvbihhcGkuc3RhdHVzUG9zdHMudmlld1N0YXR1c1Bvc3QpOwogIGNvbnN0IGxpa2VTdGF0dXMgPSB1c2VNdXRhdGlvbihhcGkuc3RhdHVzUG9zdHMubGlrZVN0YXR1c1Bvc3QpOwogIGNvbnN0IGRlbGV0ZVN0YXR1cyA9IHVzZU11dGF0aW9uKGFwaS5zdGF0dXNQb3N0cy5kZWxldGVTdGF0dXNQb3N0KTsKCiAgY29uc3QgaXNPd25TdGF0dXMgPSB1c2VyPy5faWQgPT09IHRhcmdldFVzZXJJZDsKICBjb25zdCBjdXJyZW50UG9zdCA9IHN0YXR1c0RhdGE/LnBvc3RzW2N1cnJlbnRQb3N0SW5kZXhdOwogIGNvbnN0IHRvdGFsUG9zdHMgPSBzdGF0dXNEYXRhPy5wb3N0cy5sZW5ndGggfHwgMDsKICBjb25zdCB1c2VySWQgPSB1c2VyPy5faWQ7CiAgY29uc3QgY3VycmVudFN0YXR1c0lkID0gY3VycmVudFBvc3Q/Ll9pZDsKCiAgY29uc3QgaGFuZGxlTmV4dCA9IHVzZUNhbGxiYWNrKCgpID0+IHsKICAgIGlmIChjdXJyZW50UG9zdEluZGV4IDwgdG90YWxQb3N0cyAtIDEpIHsKICAgICAgc2V0Q3VycmVudFBvc3RJbmRleChjdXJyZW50UG9zdEluZGV4ICsgMSk7CiAgICB9IGVsc2UgewogICAgICBvbk9wZW5DaGFuZ2UoZmFsc2UpOwogICAgfQogIH0sIFtjdXJyZW50UG9zdEluZGV4LCBvbk9wZW5DaGFuZ2UsIHRvdGFsUG9zdHNdKTsKCiAgY29uc3QgaGFuZGxlUHJldmlvdXMgPSB1c2VDYWxsYmFjaygoKSA9PiB7CiAgICBpZiAoY3VycmVudFBvc3RJbmRleCA+IDApIHsKICAgICAgc2V0Q3VycmVudFBvc3RJbmRleChjdXJyZW50UG9zdEluZGV4IC0gMSk7CiAgICB9CiAgfSwgW2N1cnJlbnRQb3N0SW5kZXhdKTsKCiAgY29uc3QgaGFuZGxlTGlrZSA9IHVzZUNhbGxiYWNrKGFzeW5jICgpID0+IHsKICAgIGlmIChjdXJyZW50UG9zdCAmJiB1c2VyKSB7CiAgICAgIGF3YWl0IGxpa2VTdGF0dXMoeyB1c2VySWQ6IHVzZXIuX2lkLCBzdGF0dXNJZDogY3VycmVudFBvc3QuX2lkIH0pOwogICAgfQogIH0sIFtjdXJyZW50UG9zdCwgbGlrZVN0YXR1cywgdXNlcl0pOwoKICBjb25zdCBoYW5kbGVEZWxldGUgPSB1c2VDYWxsYmFjayhhc3luYyAoKSA9PiB7CiAgICBpZiAoY3VycmVudFBvc3QgJiYgaXNPd25TdGF0dXMgJiYgdXNlcikgewogICAgICBhd2FpdCBkZWxldGVTdGF0dXMoeyB1c2VySWQ6IHVzZXIuX2lkLCBzdGF0dXNJZDogY3VycmVudFBvc3QuX2lkIH0pOwogICAgICBpZiAodG90YWxQb3N0cyA+IDEpIHsKICAgICAgICBpZiAoY3VycmVudFBvc3RJbmRleCA9PT0gdG90YWxQb3N0cyAtIDEpIHsKICAgICAgICAgIHNldEN1cnJlbnRQb3N0SW5kZXgoY3VycmVudFBvc3RJbmRleCAtIDEpOwogICAgICAgIH0KICAgICAgfSBlbHNlIHsKICAgICAgICBvbk9wZW5DaGFuZ2UoZmFsc2UpOwogICAgICB9CiAgICB9CiAgfSwgW2N1cnJlbnRQb3N0LCBjdXJyZW50UG9zdEluZGV4LCBkZWxldGVTdGF0dXMsIGlzT3duU3RhdHVzLCBvbk9wZW5DaGFuZ2UsIHRvdGFsUG9zdHMsIHVzZXJdKTsKCiAgLy8gQXV0by1hZHZhbmNlIHRpbWVyCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIC8vIEZvciB5b3VyIG93biBzdGF0dXMgd2UgZG9uJ3QgYXV0by1hZHZhbmNlL2F1dG8tY2xvc2Ugc28gVmlldy9MaWtlIGNvbnRyb2xzIHN0YXkgYXZhaWxhYmxlLgogICAgaWYgKCFvcGVuIHx8ICFjdXJyZW50UG9zdCB8fCBpc1BhdXNlZCB8fCBpc093blN0YXR1cykgcmV0dXJuOwoKICAgIGNvbnN0IGR1cmF0aW9uID0gY3VycmVudFBvc3QudHlwZSA9PT0gInZpZGVvIiA/IChjdXJyZW50UG9zdC5kdXJhdGlvbiB8fCAxNSkgKiAxMDAwIDogNTAwMDsKICAgIGNvbnN0IGludGVydmFsID0gNTA7IC8vIFVwZGF0ZSBldmVyeSA1MG1zIGZvciBzbW9vdGggcHJvZ3Jlc3MKICAgIGxldCBlbGFwc2VkID0gMDsKCiAgICBjb25zdCB0aW1lciA9IHNldEludGVydmFsKCgpID0+IHsKICAgICAgZWxhcHNlZCArPSBpbnRlcnZhbDsKICAgICAgY29uc3QgbmV3UHJvZ3Jlc3MgPSAoZWxhcHNlZCAvIGR1cmF0aW9uKSAqIDEwMDsKICAgICAgc2V0UHJvZ3Jlc3MobmV3UHJvZ3Jlc3MpOwoKICAgICAgaWYgKGVsYXBzZWQgPj0gZHVyYXRpb24pIHsKICAgICAgICBoYW5kbGVOZXh0KCk7CiAgICAgIH0KICAgIH0sIGludGVydmFsKTsKCiAgICByZXR1cm4gKCkgPT4gY2xlYXJJbnRlcnZhbCh0aW1lcik7CiAgfSwgW29wZW4sIGlzUGF1c2VkLCBjdXJyZW50UG9zdCwgaXNPd25TdGF0dXMsIGhhbmRsZU5leHRdKTsKCiAgLy8gTWFyayBhcyB2aWV3ZWQgd2hlbiBvcGVuaW5nCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGlmIChvcGVuICYmIGN1cnJlbnRTdGF0dXNJZCAmJiAhaXNPd25TdGF0dXMgJiYgdXNlcklkKSB7CiAgICAgIHZpZXdTdGF0dXMoeyB1c2VySWQsIHN0YXR1c0lkOiBjdXJyZW50U3RhdHVzSWQgfSk7CiAgICB9CiAgfSwgW29wZW4sIGN1cnJlbnRTdGF0dXNJZCwgaXNPd25TdGF0dXMsIHVzZXJJZCwgdmlld1N0YXR1c10pOwoKICAvLyBSZXNldCBwcm9ncmVzcyB3aGVuIHBvc3QgY2hhbmdlcwogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBzZXRQcm9ncmVzcygwKTsKICB9LCBbY3VycmVudFBvc3RJbmRleF0pOwoKICBpZiAoIXN0YXR1c0RhdGEgfHwgIWN1cnJlbnRQb3N0KSB7CiAgICByZXR1cm4gbnVsbDsKICB9CgogIHJldHVybiAoCiAgICA8RGlhbG9nIG9wZW49e29wZW59IG9uT3BlbkNoYW5nZT17b25PcGVuQ2hhbmdlfT4KICAgICAgPERpYWxvZ0NvbnRlbnQKICAgICAgICBoaWRlQ2xvc2VCdXR0b24KICAgICAgICBjbGFzc05hbWU9Im1heC13LW1kIGgtWzkwdmhdIHAtMCBiZy1ibGFjayBib3JkZXItbm9uZSBvdmVyZmxvdy1oaWRkZW4iCiAgICAgID4KICAgICAgICA8RGlhbG9nVGl0bGUgY2xhc3NOYW1lPSJzci1vbmx5Ij5TdGF0dXM8L0RpYWxvZ1RpdGxlPgogICAgICAgIDxEaWFsb2dEZXNjcmlwdGlvbiBjbGFzc05hbWU9InNyLW9ubHkiPgogICAgICAgICAgVmlld2luZyBzdGF0dXMgZnJvbSB7c3RhdHVzRGF0YS51c2VyTmFtZX0KICAgICAgICA8L0RpYWxvZ0Rlc2NyaXB0aW9uPgogICAgICAgIDxkaXYKICAgICAgICAgIGNsYXNzTmFtZT0icmVsYXRpdmUgaC1mdWxsIHctZnVsbCBmbGV4IGZsZXgtY29sIgogICAgICAgICAgb25DbGljaz17KCkgPT4gc2V0SXNQYXVzZWQoIWlzUGF1c2VkKX0KICAgICAgICA+CiAgICAgICAgICB7LyogUHJvZ3Jlc3MgYmFycyAqL30KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSB0b3AtMiBsZWZ0LTIgcmlnaHQtMiB6LTUwIGZsZXggZ2FwLTEiPgogICAgICAgICAgICB7c3RhdHVzRGF0YS5wb3N0cy5tYXAoKF8sIGluZGV4KSA9PiAoCiAgICAgICAgICAgICAgPGRpdiBrZXk9e2luZGV4fSBjbGFzc05hbWU9ImZsZXgtMSBoLTAuNSBiZy13aGl0ZS8zMCByb3VuZGVkLWZ1bGwgb3ZlcmZsb3ctaGlkZGVuIj4KICAgICAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJoLWZ1bGwgYmctd2hpdGUgdHJhbnNpdGlvbi1hbGwiCiAgICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgICAgd2lkdGg6CiAgICAgICAgICAgICAgICAgICAgICBpbmRleCA8IGN1cnJlbnRQb3N0SW5kZXgKICAgICAgICAgICAgICAgICAgICAgICAgPyAiMTAwJSIKICAgICAgICAgICAgICAgICAgICAgICAgOiBpbmRleCA9PT0gY3VycmVudFBvc3RJbmRleAogICAgICAgICAgICAgICAgICAgICAgICA/IGAke3Byb2dyZXNzfSVgCiAgICAgICAgICAgICAgICAgICAgICAgIDogIjAlIiwKICAgICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgey8qIEhlYWRlciAqL30KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSB0b3AtOCBsZWZ0LTAgcmlnaHQtMCB6LTUwIHB4LTQgcHktMiBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4iPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIiPgogICAgICAgICAgICAgIDxBdmF0YXIgY2xhc3NOYW1lPSJ3LTEwIGgtMTAgYm9yZGVyLTIgYm9yZGVyLXdoaXRlIj4KICAgICAgICAgICAgICAgIDxBdmF0YXJJbWFnZSBzcmM9e3N0YXR1c0RhdGEudXNlclBob3RvfSAvPgogICAgICAgICAgICAgICAgPEF2YXRhckZhbGxiYWNrPntzdGF0dXNEYXRhLnVzZXJOYW1lWzBdfTwvQXZhdGFyRmFsbGJhY2s+CiAgICAgICAgICAgICAgPC9BdmF0YXI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtd2hpdGUiPgogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJmb250LXNlbWlib2xkIHRleHQtc20iPntzdGF0dXNEYXRhLnVzZXJOYW1lfTwvcD4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyBvcGFjaXR5LTgwIj4KICAgICAgICAgICAgICAgICAge2Zvcm1hdERpc3RhbmNlVG9Ob3coY3VycmVudFBvc3QuY3JlYXRlZEF0LCB7IGFkZFN1ZmZpeDogdHJ1ZSB9KX0KICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICBzaXplPSJpY29uIgogICAgICAgICAgICAgIHZhcmlhbnQ9Imdob3N0IgogICAgICAgICAgICAgIGNsYXNzTmFtZT0idGV4dC13aGl0ZSBob3ZlcjpiZy13aGl0ZS8yMCIKICAgICAgICAgICAgICBvbkNsaWNrPXsoZSkgPT4gewogICAgICAgICAgICAgICAgZS5zdG9wUHJvcGFnYXRpb24oKTsKICAgICAgICAgICAgICAgIG9uT3BlbkNoYW5nZShmYWxzZSk7CiAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIDxYIGNsYXNzTmFtZT0idy01IGgtNSIgLz4KICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICB7LyogQ29udGVudCAqL30KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4LTEgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgcmVsYXRpdmUiPgogICAgICAgICAgICA8QW5pbWF0ZVByZXNlbmNlIG1vZGU9IndhaXQiPgogICAgICAgICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICAgICAgICBrZXk9e2N1cnJlbnRQb3N0Ll9pZH0KICAgICAgICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgc2NhbGU6IDAuOTUgfX0KICAgICAgICAgICAgICAgIGFuaW1hdGU9e3sgb3BhY2l0eTogMSwgc2NhbGU6IDEgfX0KICAgICAgICAgICAgICAgIGV4aXQ9e3sgb3BhY2l0eTogMCwgc2NhbGU6IDEuMDUgfX0KICAgICAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuMiB9fQogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ3LWZ1bGwgaC1mdWxsIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIgogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIHtjdXJyZW50UG9zdC50eXBlID09PSAidGV4dCIgPyAoCiAgICAgICAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InctZnVsbCBoLWZ1bGwgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgcC04IgogICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IGN1cnJlbnRQb3N0LmJhY2tncm91bmRDb2xvciB8fCAiIzY2N2VlYSIsCiAgICAgICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIDxwCiAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InRleHQtd2hpdGUgdGV4dC0yeGwgZm9udC1ib2xkIHRleHQtY2VudGVyIgogICAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3sgZm9udEZhbWlseTogY3VycmVudFBvc3QuZm9udCB8fCAiaW5oZXJpdCIgfX0KICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICB7Y3VycmVudFBvc3QuY29udGVudH0KICAgICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgKSA6IGN1cnJlbnRQb3N0LnR5cGUgPT09ICJpbWFnZSIgPyAoCiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyZWxhdGl2ZSB3LWZ1bGwgaC1mdWxsIj4KICAgICAgICAgICAgICAgICAgICA8aW1nCiAgICAgICAgICAgICAgICAgICAgICBzcmM9e2N1cnJlbnRQb3N0Lm1lZGlhVXJsfQogICAgICAgICAgICAgICAgICAgICAgYWx0PSJTdGF0dXMiCiAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InctZnVsbCBoLWZ1bGwgb2JqZWN0LWNvbnRhaW4iCiAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgICB7Y3VycmVudFBvc3QudGV4dENvbnRlbnQgJiYgKAogICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGJvdHRvbS0wIGxlZnQtMCByaWdodC0wIHAtNCBiZy1ncmFkaWVudC10by10IGZyb20tYmxhY2svNjAgdG8tdHJhbnNwYXJlbnQiPgogICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtd2hpdGUgdGV4dC1sZyBmb250LXNlbWlib2xkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICB7Y3VycmVudFBvc3QudGV4dENvbnRlbnR9CiAgICAgICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgKSA6IGN1cnJlbnRQb3N0LnR5cGUgPT09ICJ2aWRlbyIgPyAoCiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyZWxhdGl2ZSB3LWZ1bGwgaC1mdWxsIj4KICAgICAgICAgICAgICAgICAgICA8dmlkZW8KICAgICAgICAgICAgICAgICAgICAgIHNyYz17Y3VycmVudFBvc3QubWVkaWFVcmx9CiAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InctZnVsbCBoLWZ1bGwgb2JqZWN0LWNvbnRhaW4iCiAgICAgICAgICAgICAgICAgICAgICBhdXRvUGxheQogICAgICAgICAgICAgICAgICAgICAgbXV0ZWQKICAgICAgICAgICAgICAgICAgICAgIHBsYXlzSW5saW5lCiAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgICB7Y3VycmVudFBvc3QudGV4dENvbnRlbnQgJiYgKAogICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGJvdHRvbS0wIGxlZnQtMCByaWdodC0wIHAtNCBiZy1ncmFkaWVudC10by10IGZyb20tYmxhY2svNjAgdG8tdHJhbnNwYXJlbnQiPgogICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtd2hpdGUgdGV4dC1sZyBmb250LXNlbWlib2xkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICB7Y3VycmVudFBvc3QudGV4dENvbnRlbnR9CiAgICAgICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgKSA6IG51bGx9CiAgICAgICAgICAgICAgPC9tb3Rpb24uZGl2PgogICAgICAgICAgICA8L0FuaW1hdGVQcmVzZW5jZT4KCiAgICAgICAgICAgIHsvKiBOYXZpZ2F0aW9uIGFycm93cyAqL30KICAgICAgICAgICAge2N1cnJlbnRQb3N0SW5kZXggPiAwICYmICgKICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICBzaXplPSJpY29uIgogICAgICAgICAgICAgICAgdmFyaWFudD0iZ2hvc3QiCiAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImFic29sdXRlIGxlZnQtMiB0ZXh0LXdoaXRlIGhvdmVyOmJnLXdoaXRlLzIwIgogICAgICAgICAgICAgICAgb25DbGljaz17KGUpID0+IHsKICAgICAgICAgICAgICAgICAgZS5zdG9wUHJvcGFnYXRpb24oKTsKICAgICAgICAgICAgICAgICAgaGFuZGxlUHJldmlvdXMoKTsKICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPENoZXZyb25MZWZ0IGNsYXNzTmFtZT0idy02IGgtNiIgLz4KICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgKX0KICAgICAgICAgICAge2N1cnJlbnRQb3N0SW5kZXggPCB0b3RhbFBvc3RzIC0gMSAmJiAoCiAgICAgICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICAgICAgc2l6ZT0iaWNvbiIKICAgICAgICAgICAgICAgIHZhcmlhbnQ9Imdob3N0IgogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJhYnNvbHV0ZSByaWdodC0yIHRleHQtd2hpdGUgaG92ZXI6Ymctd2hpdGUvMjAiCiAgICAgICAgICAgICAgICBvbkNsaWNrPXsoZSkgPT4gewogICAgICAgICAgICAgICAgICBlLnN0b3BQcm9wYWdhdGlvbigpOwogICAgICAgICAgICAgICAgICBoYW5kbGVOZXh0KCk7CiAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxDaGV2cm9uUmlnaHQgY2xhc3NOYW1lPSJ3LTYgaC02IiAvPgogICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICApfQogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgey8qIEZvb3RlciBhY3Rpb25zICovfQogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGJvdHRvbS0wIGxlZnQtMCByaWdodC0wIHotNTAgcC00IGJnLWdyYWRpZW50LXRvLXQgZnJvbS1ibGFjay82MCB0by10cmFuc3BhcmVudCI+CiAgICAgICAgICAgIHtpc093blN0YXR1cyA/ICgKICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIHRleHQtd2hpdGUiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC00Ij4KICAgICAgICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEgaG92ZXI6Ymctd2hpdGUvMjAgcHgtMiBweS0xIHJvdW5kZWQtbGcgdHJhbnNpdGlvbi1jb2xvcnMiCiAgICAgICAgICAgICAgICAgICAgb25DbGljaz17KGUpID0+IHsKICAgICAgICAgICAgICAgICAgICAgIGUuc3RvcFByb3BhZ2F0aW9uKCk7CiAgICAgICAgICAgICAgICAgICAgICBzZXRWaWV3ZXJzRGlhbG9nT3Blbih0cnVlKTsKICAgICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgPEV5ZSBjbGFzc05hbWU9InctNSBoLTUiIC8+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtc2VtaWJvbGQiPntjdXJyZW50UG9zdC52aWV3Q291bnR9PC9zcGFuPgogICAgICAgICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEgaG92ZXI6Ymctd2hpdGUvMjAgcHgtMiBweS0xIHJvdW5kZWQtbGcgdHJhbnNpdGlvbi1jb2xvcnMiCiAgICAgICAgICAgICAgICAgICAgb25DbGljaz17KGUpID0+IHsKICAgICAgICAgICAgICAgICAgICAgIGUuc3RvcFByb3BhZ2F0aW9uKCk7CiAgICAgICAgICAgICAgICAgICAgICBzZXRWaWV3ZXJzRGlhbG9nT3Blbih0cnVlKTsKICAgICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgPEhlYXJ0IGNsYXNzTmFtZT0idy01IGgtNSIgLz4KICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtc20gZm9udC1zZW1pYm9sZCI+e2N1cnJlbnRQb3N0Lmxpa2VDb3VudH08L3NwYW4+CiAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICAgIHNpemU9Imljb24iCiAgICAgICAgICAgICAgICAgIHZhcmlhbnQ9Imdob3N0IgogICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InRleHQtd2hpdGUgaG92ZXI6Ymctd2hpdGUvMjAiCiAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eyhlKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgZS5zdG9wUHJvcGFnYXRpb24oKTsKICAgICAgICAgICAgICAgICAgICBoYW5kbGVEZWxldGUoKTsKICAgICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgPFRyYXNoMiBjbGFzc05hbWU9InctNSBoLTUiIC8+CiAgICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgKSA6ICgKICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIiPgogICAgICAgICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICAgICAgICBzaXplPSJsZyIKICAgICAgICAgICAgICAgICAgdmFyaWFudD0iZ2hvc3QiCiAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17YHRleHQtd2hpdGUgaG92ZXI6Ymctd2hpdGUvMjAgJHsKICAgICAgICAgICAgICAgICAgICBjdXJyZW50UG9zdC5pc0xpa2VkID8gInRleHQtcmVkLTUwMCIgOiAiIgogICAgICAgICAgICAgICAgICB9YH0KICAgICAgICAgICAgICAgICAgb25DbGljaz17KGUpID0+IHsKICAgICAgICAgICAgICAgICAgICBlLnN0b3BQcm9wYWdhdGlvbigpOwogICAgICAgICAgICAgICAgICAgIGhhbmRsZUxpa2UoKTsKICAgICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgPEhlYXJ0CiAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtgdy02IGgtNiAke2N1cnJlbnRQb3N0LmlzTGlrZWQgPyAiZmlsbC1jdXJyZW50IiA6ICIifWB9CiAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgKX0KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICA8L0RpYWxvZ0NvbnRlbnQ+CgogICAgICB7LyogVmlld2VycyBhbmQgTGlrZXJzIERpYWxvZyAqL30KICAgICAge2lzT3duU3RhdHVzICYmIGN1cnJlbnRQb3N0ICYmICgKICAgICAgICA8U3RhdHVzVmlld2Vyc0RpYWxvZwogICAgICAgICAgb3Blbj17dmlld2Vyc0RpYWxvZ09wZW59CiAgICAgICAgICBvbk9wZW5DaGFuZ2U9e3NldFZpZXdlcnNEaWFsb2dPcGVufQogICAgICAgICAgdmlld2Vycz17Y3VycmVudFBvc3Qudmlld2VycyB8fCBbXX0KICAgICAgICAgIGxpa2Vycz17Y3VycmVudFBvc3QubGlrZXJzIHx8IFtdfQogICAgICAgICAgdmlld0NvdW50PXtjdXJyZW50UG9zdC52aWV3Q291bnQgfHwgMH0KICAgICAgICAgIGxpa2VDb3VudD17Y3VycmVudFBvc3QubGlrZUNvdW50IHx8IDB9CiAgICAgICAgLz4KICAgICAgKX0KICAgIDwvRGlhbG9nPgogICk7Cn0K"}
+import { useCallback, useEffect, useState } from "react";
+import { useQuery, useMutation } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import { Id } from "../../../convex/_generated/dataModel";
+import { Dialog, DialogContent, DialogDescription, DialogTitle } from "@/components/ui/dialog";
+import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
+import { Button } from "@/components/ui/button";
+import { X, Heart, Eye, ChevronLeft, ChevronRight, Trash2 } from "lucide-react";
+import { formatDistanceToNow } from "date-fns";
+import { motion, AnimatePresence } from "framer-motion";
+import { Progress } from "@/components/ui/progress";
+import { useAuth } from "@/contexts/AuthContext";
+import { StatusViewersDialog } from "./StatusViewersDialog";
+
+interface StatusViewerProps {
+  open: boolean;
+  onOpenChange: (open: boolean) => void;
+  targetUserId: Id<"users">;
+  initialPostIndex?: number;
+}
+
+export function StatusViewer({
+  open,
+  onOpenChange,
+  targetUserId,
+  initialPostIndex = 0,
+}: StatusViewerProps) {
+  const { user } = useAuth();
+  const [currentPostIndex, setCurrentPostIndex] = useState(initialPostIndex);
+  const [progress, setProgress] = useState(0);
+  const [isPaused, setIsPaused] = useState(false);
+  const [viewersDialogOpen, setViewersDialogOpen] = useState(false);
+
+  const statusData = useQuery(
+    api.statusPosts.getUserStatusPosts,
+    user?._id && targetUserId
+      ? { userId: user._id, targetUserId }
+      : "skip"
+  );
+
+  const viewStatus = useMutation(api.statusPosts.viewStatusPost);
+  const likeStatus = useMutation(api.statusPosts.likeStatusPost);
+  const deleteStatus = useMutation(api.statusPosts.deleteStatusPost);
+
+  const isOwnStatus = user?._id === targetUserId;
+  const currentPost = statusData?.posts[currentPostIndex];
+  const totalPosts = statusData?.posts.length || 0;
+  const userId = user?._id;
+  const currentStatusId = currentPost?._id;
+
+  const handleNext = useCallback(() => {
+    if (currentPostIndex < totalPosts - 1) {
+      setCurrentPostIndex(currentPostIndex + 1);
+    } else {
+      onOpenChange(false);
+    }
+  }, [currentPostIndex, onOpenChange, totalPosts]);
+
+  const handlePrevious = useCallback(() => {
+    if (currentPostIndex > 0) {
+      setCurrentPostIndex(currentPostIndex - 1);
+    }
+  }, [currentPostIndex]);
+
+  const handleLike = useCallback(async () => {
+    if (currentPost && user) {
+      await likeStatus({ userId: user._id, statusId: currentPost._id });
+    }
+  }, [currentPost, likeStatus, user]);
+
+  const handleDelete = useCallback(async () => {
+    if (currentPost && isOwnStatus && user) {
+      await deleteStatus({ userId: user._id, statusId: currentPost._id });
+      if (totalPosts > 1) {
+        if (currentPostIndex === totalPosts - 1) {
+          setCurrentPostIndex(currentPostIndex - 1);
+        }
+      } else {
+        onOpenChange(false);
+      }
+    }
+  }, [currentPost, currentPostIndex, deleteStatus, isOwnStatus, onOpenChange, totalPosts, user]);
+
+  // Auto-advance timer
+  useEffect(() => {
+    // For your own status we don't auto-advance/auto-close so View/Like controls stay available.
+    if (!open || !currentPost || isPaused || isOwnStatus) return;
+
+    const duration = currentPost.type === "video" ? (currentPost.duration || 15) * 1000 : 5000;
+    const interval = 50; // Update every 50ms for smooth progress
+    let elapsed = 0;
+
+    const timer = setInterval(() => {
+      elapsed += interval;
+      const newProgress = (elapsed / duration) * 100;
+      setProgress(newProgress);
+
+      if (elapsed >= duration) {
+        handleNext();
+      }
+    }, interval);
+
+    return () => clearInterval(timer);
+  }, [open, isPaused, currentPost, isOwnStatus, handleNext]);
+
+  // Mark as viewed when opening
+  useEffect(() => {
+    if (open && currentStatusId && !isOwnStatus && userId) {
+      viewStatus({ userId, statusId: currentStatusId });
+    }
+  }, [open, currentStatusId, isOwnStatus, userId, viewStatus]);
+
+  // Reset progress when post changes
+  useEffect(() => {
+    setProgress(0);
+  }, [currentPostIndex]);
+
+  if (!statusData || !currentPost) {
+    return null;
+  }
+
+  return (
+    <Dialog open={open} onOpenChange={onOpenChange}>
+      <DialogContent
+        hideCloseButton
+        className="max-w-md h-[90vh] p-0 bg-black border-none overflow-hidden"
+      >
+        <DialogTitle className="sr-only">Status</DialogTitle>
+        <DialogDescription className="sr-only">
+          Viewing status from {statusData.userName}
+        </DialogDescription>
+        <div
+          className="relative h-full w-full flex flex-col"
+          onClick={() => setIsPaused(!isPaused)}
+        >
+          {/* Progress bars */}
+          <div className="absolute top-2 left-2 right-2 z-50 flex gap-1">
+            {statusData.posts.map((_, index) => (
+              <div key={index} className="flex-1 h-0.5 bg-white/30 rounded-full overflow-hidden">
+                <div
+                  className="h-full bg-white transition-all"
+                  style={{
+                    width:
+                      index < currentPostIndex
+                        ? "100%"
+                        : index === currentPostIndex
+                        ? `${progress}%`
+                        : "0%",
+                  }}
+                />
+              </div>
+            ))}
+          </div>
+
+          {/* Header */}
+          <div className="absolute top-8 left-0 right-0 z-50 px-4 py-2 flex items-center justify-between">
+            <div className="flex items-center gap-2">
+              <Avatar className="w-10 h-10 border-2 border-white">
+                <AvatarImage src={statusData.userPhoto} />
+                <AvatarFallback>{statusData.userName[0]}</AvatarFallback>
+              </Avatar>
+              <div className="text-white">
+                <p className="font-semibold text-sm">{statusData.userName}</p>
+                <p className="text-xs opacity-80">
+                  {formatDistanceToNow(currentPost.createdAt, { addSuffix: true })}
+                </p>
+              </div>
+            </div>
+            <Button
+              size="icon"
+              variant="ghost"
+              className="text-white hover:bg-white/20"
+              onClick={(e) => {
+                e.stopPropagation();
+                onOpenChange(false);
+              }}
+            >
+              <X className="w-5 h-5" />
+            </Button>
+          </div>
+
+          {/* Content */}
+          <div className="flex-1 flex items-center justify-center relative">
+            <AnimatePresence mode="wait">
+              <motion.div
+                key={currentPost._id}
+                initial={{ opacity: 0, scale: 0.95 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 1.05 }}
+                transition={{ duration: 0.2 }}
+                className="w-full h-full flex items-center justify-center"
+              >
+                {currentPost.type === "text" ? (
+                  <div
+                    className="w-full h-full flex items-center justify-center p-8"
+                    style={{
+                      backgroundColor: currentPost.backgroundColor || "#667eea",
+                    }}
+                  >
+                    <p
+                      className="text-white text-2xl font-bold text-center"
+                      style={{ fontFamily: currentPost.font || "inherit" }}
+                    >
+                      {currentPost.content}
+                    </p>
+                  </div>
+                ) : currentPost.type === "image" ? (
+                  <div className="relative w-full h-full">
+                    <img
+                      src={currentPost.mediaUrl}
+                      alt="Status"
+                      className="w-full h-full object-contain"
+                    />
+                    {currentPost.textContent && (
+                      <div className="absolute bottom-0 left-0 right-0 p-4 bg-gradient-to-t from-black/60 to-transparent">
+                        <p className="text-white text-lg font-semibold">
+                          {currentPost.textContent}
+                        </p>
+                      </div>
+                    )}
+                  </div>
+                ) : currentPost.type === "video" ? (
+                  <div className="relative w-full h-full">
+                    <video
+                      src={currentPost.mediaUrl}
+                      className="w-full h-full object-contain"
+                      autoPlay
+                      muted
+                      playsInline
+                    />
+                    {currentPost.textContent && (
+                      <div className="absolute bottom-0 left-0 right-0 p-4 bg-gradient-to-t from-black/60 to-transparent">
+                        <p className="text-white text-lg font-semibold">
+                          {currentPost.textContent}
+                        </p>
+                      </div>
+                    )}
+                  </div>
+                ) : null}
+              </motion.div>
+            </AnimatePresence>
+
+            {/* Navigation arrows */}
+            {currentPostIndex > 0 && (
+              <Button
+                size="icon"
+                variant="ghost"
+                className="absolute left-2 text-white hover:bg-white/20"
+                onClick={(e) => {
+                  e.stopPropagation();
+                  handlePrevious();
+                }}
+              >
+                <ChevronLeft className="w-6 h-6" />
+              </Button>
+            )}
+            {currentPostIndex < totalPosts - 1 && (
+              <Button
+                size="icon"
+                variant="ghost"
+                className="absolute right-2 text-white hover:bg-white/20"
+                onClick={(e) => {
+                  e.stopPropagation();
+                  handleNext();
+                }}
+              >
+                <ChevronRight className="w-6 h-6" />
+              </Button>
+            )}
+          </div>
+
+          {/* Footer actions */}
+          <div className="absolute bottom-0 left-0 right-0 z-50 p-4 bg-gradient-to-t from-black/60 to-transparent">
+            {isOwnStatus ? (
+              <div className="flex items-center justify-between text-white">
+                <div className="flex items-center gap-4">
+                  <button
+                    className="flex items-center gap-1 hover:bg-white/20 px-2 py-1 rounded-lg transition-colors"
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      setViewersDialogOpen(true);
+                    }}
+                  >
+                    <Eye className="w-5 h-5" />
+                    <span className="text-sm font-semibold">{currentPost.viewCount}</span>
+                  </button>
+                  <button
+                    className="flex items-center gap-1 hover:bg-white/20 px-2 py-1 rounded-lg transition-colors"
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      setViewersDialogOpen(true);
+                    }}
+                  >
+                    <Heart className="w-5 h-5" />
+                    <span className="text-sm font-semibold">{currentPost.likeCount}</span>
+                  </button>
+                </div>
+                <Button
+                  size="icon"
+                  variant="ghost"
+                  className="text-white hover:bg-white/20"
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    handleDelete();
+                  }}
+                >
+                  <Trash2 className="w-5 h-5" />
+                </Button>
+              </div>
+            ) : (
+              <div className="flex items-center justify-center">
+                <Button
+                  size="lg"
+                  variant="ghost"
+                  className={`text-white hover:bg-white/20 ${
+                    currentPost.isLiked ? "text-red-500" : ""
+                  }`}
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    handleLike();
+                  }}
+                >
+                  <Heart
+                    className={`w-6 h-6 ${currentPost.isLiked ? "fill-current" : ""}`}
+                  />
+                </Button>
+              </div>
+            )}
+          </div>
+        </div>
+      </DialogContent>
+
+      {/* Viewers and Likers Dialog */}
+      {isOwnStatus && currentPost && (
+        <StatusViewersDialog
+          open={viewersDialogOpen}
+          onOpenChange={setViewersDialogOpen}
+          viewers={currentPost.viewers || []}
+          likers={currentPost.likers || []}
+          viewCount={currentPost.viewCount || 0}
+          likeCount={currentPost.likeCount || 0}
+        />
+      )}
+    </Dialog>
+  );
+}

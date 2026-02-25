@@ -1,1 +1,73 @@
-{"data":"aW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VNZW1vLCB1c2VSZWYsIHVzZVN0YXRlIH0gZnJvbSAicmVhY3QiOwppbXBvcnQgeyBCdXR0b24gfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvYnV0dG9uIjsKCmV4cG9ydCBmdW5jdGlvbiBWb2ljZU1lc3NhZ2UoewogIG9uU2VuZCwKICBkaXNhYmxlZCwKfTogewogIG9uU2VuZDogKHBheWxvYWQ6IHsgdm9pY2VVcmw6IHN0cmluZzsgZHVyYXRpb246IG51bWJlciB9KSA9PiB2b2lkOwogIGRpc2FibGVkPzogYm9vbGVhbjsKfSkgewogIGNvbnN0IFtyZWNvcmRpbmcsIHNldFJlY29yZGluZ10gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgW3NlY29uZHMsIHNldFNlY29uZHNdID0gdXNlU3RhdGUoMCk7CiAgY29uc3QgbWVkaWFSZWNvcmRlclJlZiA9IHVzZVJlZjxNZWRpYVJlY29yZGVyIHwgbnVsbD4obnVsbCk7CiAgY29uc3QgY2h1bmtzUmVmID0gdXNlUmVmPEJsb2JQYXJ0W10+KFtdKTsKICBjb25zdCB0aWNrUmVmID0gdXNlUmVmPG51bWJlciB8IG51bGw+KG51bGwpOwoKICBjb25zdCBzdXBwb3J0ZWQgPSB1c2VNZW1vKCgpID0+IHR5cGVvZiB3aW5kb3cgIT09ICJ1bmRlZmluZWQiICYmICEhKG5hdmlnYXRvci5tZWRpYURldmljZXM/LmdldFVzZXJNZWRpYSksIFtdKTsKCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIHJldHVybiAoKSA9PiB7CiAgICAgIGlmICh0aWNrUmVmLmN1cnJlbnQpIHdpbmRvdy5jbGVhckludGVydmFsKHRpY2tSZWYuY3VycmVudCk7CiAgICAgIGlmIChtZWRpYVJlY29yZGVyUmVmLmN1cnJlbnQgJiYgbWVkaWFSZWNvcmRlclJlZi5jdXJyZW50LnN0YXRlICE9PSAiaW5hY3RpdmUiKSB7CiAgICAgICAgbWVkaWFSZWNvcmRlclJlZi5jdXJyZW50LnN0b3AoKTsKICAgICAgfQogICAgfTsKICB9LCBbXSk7CgogIGNvbnN0IHN0YXJ0ID0gYXN5bmMgKCkgPT4gewogICAgaWYgKCFzdXBwb3J0ZWQgfHwgZGlzYWJsZWQpIHJldHVybjsKICAgIGNvbnN0IHN0cmVhbSA9IGF3YWl0IG5hdmlnYXRvci5tZWRpYURldmljZXMuZ2V0VXNlck1lZGlhKHsgYXVkaW86IHRydWUgfSk7CiAgICBjb25zdCByZWNvcmRlciA9IG5ldyBNZWRpYVJlY29yZGVyKHN0cmVhbSk7CiAgICBtZWRpYVJlY29yZGVyUmVmLmN1cnJlbnQgPSByZWNvcmRlcjsKICAgIGNodW5rc1JlZi5jdXJyZW50ID0gW107CiAgICBzZXRTZWNvbmRzKDApOwoKICAgIHJlY29yZGVyLm9uZGF0YWF2YWlsYWJsZSA9IChlKSA9PiB7CiAgICAgIGlmIChlLmRhdGEuc2l6ZSA+IDApIGNodW5rc1JlZi5jdXJyZW50LnB1c2goZS5kYXRhKTsKICAgIH07CgogICAgcmVjb3JkZXIub25zdG9wID0gYXN5bmMgKCkgPT4gewogICAgICBzdHJlYW0uZ2V0VHJhY2tzKCkuZm9yRWFjaCgodCkgPT4gdC5zdG9wKCkpOwogICAgICBjb25zdCBibG9iID0gbmV3IEJsb2IoY2h1bmtzUmVmLmN1cnJlbnQsIHsgdHlwZTogcmVjb3JkZXIubWltZVR5cGUgfHwgImF1ZGlvL3dlYm0iIH0pOwogICAgICBjb25zdCByZWFkZXIgPSBuZXcgRmlsZVJlYWRlcigpOwogICAgICByZWFkZXIub25sb2FkZW5kID0gKCkgPT4gewogICAgICAgIGNvbnN0IHZvaWNlVXJsID0gU3RyaW5nKHJlYWRlci5yZXN1bHQgfHwgIiIpOwogICAgICAgIGlmICh2b2ljZVVybCkgb25TZW5kKHsgdm9pY2VVcmwsIGR1cmF0aW9uOiBzZWNvbmRzIH0pOwogICAgICB9OwogICAgICByZWFkZXIucmVhZEFzRGF0YVVSTChibG9iKTsKICAgIH07CgogICAgcmVjb3JkZXIuc3RhcnQoKTsKICAgIHNldFJlY29yZGluZyh0cnVlKTsKICAgIHRpY2tSZWYuY3VycmVudCA9IHdpbmRvdy5zZXRJbnRlcnZhbCgoKSA9PiBzZXRTZWNvbmRzKChzKSA9PiBzICsgMSksIDEwMDApOwogIH07CgogIGNvbnN0IHN0b3AgPSAoKSA9PiB7CiAgICBpZiAoIXJlY29yZGluZykgcmV0dXJuOwogICAgaWYgKHRpY2tSZWYuY3VycmVudCkgewogICAgICB3aW5kb3cuY2xlYXJJbnRlcnZhbCh0aWNrUmVmLmN1cnJlbnQpOwogICAgICB0aWNrUmVmLmN1cnJlbnQgPSBudWxsOwogICAgfQogICAgc2V0UmVjb3JkaW5nKGZhbHNlKTsKICAgIG1lZGlhUmVjb3JkZXJSZWYuY3VycmVudD8uc3RvcCgpOwogIH07CgogIGlmICghc3VwcG9ydGVkKSByZXR1cm4gbnVsbDsKCiAgcmV0dXJuICgKICAgIDxCdXR0b24gdHlwZT0iYnV0dG9uIiB2YXJpYW50PXtyZWNvcmRpbmcgPyAiZGVzdHJ1Y3RpdmUiIDogIm91dGxpbmUifSBvbkNsaWNrPXtyZWNvcmRpbmcgPyBzdG9wIDogc3RhcnR9IGRpc2FibGVkPXtkaXNhYmxlZH0+CiAgICAgIHtyZWNvcmRpbmcgPyBgU3RvcCAoJHtzZWNvbmRzfXMpYCA6ICJWb2ljZSJ9CiAgICA8L0J1dHRvbj4KICApOwp9Cg=="}
+import { useEffect, useMemo, useRef, useState } from "react";
+import { Button } from "@/components/ui/button";
+
+export function VoiceMessage({
+  onSend,
+  disabled,
+}: {
+  onSend: (payload: { voiceUrl: string; duration: number }) => void;
+  disabled?: boolean;
+}) {
+  const [recording, setRecording] = useState(false);
+  const [seconds, setSeconds] = useState(0);
+  const mediaRecorderRef = useRef<MediaRecorder | null>(null);
+  const chunksRef = useRef<BlobPart[]>([]);
+  const tickRef = useRef<number | null>(null);
+
+  const supported = useMemo(() => typeof window !== "undefined" && !!(navigator.mediaDevices?.getUserMedia), []);
+
+  useEffect(() => {
+    return () => {
+      if (tickRef.current) window.clearInterval(tickRef.current);
+      if (mediaRecorderRef.current && mediaRecorderRef.current.state !== "inactive") {
+        mediaRecorderRef.current.stop();
+      }
+    };
+  }, []);
+
+  const start = async () => {
+    if (!supported || disabled) return;
+    const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+    const recorder = new MediaRecorder(stream);
+    mediaRecorderRef.current = recorder;
+    chunksRef.current = [];
+    setSeconds(0);
+
+    recorder.ondataavailable = (e) => {
+      if (e.data.size > 0) chunksRef.current.push(e.data);
+    };
+
+    recorder.onstop = async () => {
+      stream.getTracks().forEach((t) => t.stop());
+      const blob = new Blob(chunksRef.current, { type: recorder.mimeType || "audio/webm" });
+      const reader = new FileReader();
+      reader.onloadend = () => {
+        const voiceUrl = String(reader.result || "");
+        if (voiceUrl) onSend({ voiceUrl, duration: seconds });
+      };
+      reader.readAsDataURL(blob);
+    };
+
+    recorder.start();
+    setRecording(true);
+    tickRef.current = window.setInterval(() => setSeconds((s) => s + 1), 1000);
+  };
+
+  const stop = () => {
+    if (!recording) return;
+    if (tickRef.current) {
+      window.clearInterval(tickRef.current);
+      tickRef.current = null;
+    }
+    setRecording(false);
+    mediaRecorderRef.current?.stop();
+  };
+
+  if (!supported) return null;
+
+  return (
+    <Button type="button" variant={recording ? "destructive" : "outline"} onClick={recording ? stop : start} disabled={disabled}>
+      {recording ? `Stop (${seconds}s)` : "Voice"}
+    </Button>
+  );
+}

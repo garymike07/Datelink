@@ -96,6 +96,8 @@ import { v } from "convex/values";
     dayKey: v.string(), // YYYY-MM-DD (UTC)
     likes: v.number(),
     superLikes: v.number(),
+    messages: v.optional(v.number()), // Daily message count for restricted users
+    profileViews: v.optional(v.number()), // Daily profile view count for restricted users
     updatedAt: v.number(),
   })
     .index("userId", ["userId"])
@@ -153,7 +155,11 @@ import { v } from "convex/values";
       v.literal("verification_pending"),
       v.literal("verification_rejected"),
       v.literal("account_warning"),
-      v.literal("daily_reward")
+      v.literal("daily_reward"),
+      // Trial & access notifications
+      v.literal("trial_ending"),
+      v.literal("trial_expired"),
+      v.literal("daily_unlock_expired")
     ),
     title: v.string(),
     body: v.string(),

@@ -1,1 +1,55 @@
-{"data":"aW1wb3J0IE5hdmJhciBmcm9tICJAL2NvbXBvbmVudHMvbGFuZGluZy9OYXZiYXIiOwppbXBvcnQgSGVyb1NpbXBsZSBmcm9tICJAL2NvbXBvbmVudHMvbGFuZGluZy9IZXJvU2ltcGxlIjsKaW1wb3J0IEhvd0l0V29ya3MgZnJvbSAiQC9jb21wb25lbnRzL2xhbmRpbmcvSG93SXRXb3JrcyI7CmltcG9ydCBGZWF0dXJlcyBmcm9tICJAL2NvbXBvbmVudHMvbGFuZGluZy9GZWF0dXJlcyI7CmltcG9ydCBDVEEgZnJvbSAiQC9jb21wb25lbnRzL2xhbmRpbmcvQ1RBIjsKaW1wb3J0IEZvb3RlciBmcm9tICJAL2NvbXBvbmVudHMvbGFuZGluZy9Gb290ZXIiOwppbXBvcnQgU2VvIGZyb20gIkAvY29tcG9uZW50cy9zZW8vU2VvIjsKCmNvbnN0IEluZGV4ID0gKCkgPT4gewogIGNvbnN0IHRpdGxlID0gIkRhdGVMaW5rIHwgS2VueWEncyBBZmZvcmRhYmxlIERhdGluZyBQbGF0Zm9ybSI7CiAgY29uc3QgZGVzY3JpcHRpb24gPQogICAgIkNvbm5lY3Qgd2l0aCBzaW5nbGVzIGluIE5haXJvYmkgYW5kIGFjcm9zcyBLZW55YS4gU2VyaW91cyByZWxhdGlvbnNoaXBzLCB2ZXJpZmllZCBwcm9maWxlcywgYW5kIE0tUGVzYSBwYXltZW50cyBmcm9tIEtFUyAxMDAvd2Vlay4iOwogIGNvbnN0IGNhbm9uaWNhbCA9ICJodHRwczovL2RhdGVsaW5rLmNvbS8iOwogIGNvbnN0IG9nSW1hZ2UgPSAiaHR0cHM6Ly9sb3ZhYmxlLmRldi9vcGVuZ3JhcGgtaW1hZ2UtcDk4cHFnLnBuZyI7CiAgY29uc3Qga2V5d29yZHMgPSBbCiAgICAiS2VueWEgZGF0aW5nIiwKICAgICJOYWlyb2JpIHNpbmdsZXMiLAogICAgImFmZm9yZGFibGUgZGF0aW5nIEtlbnlhIiwKICAgICJ2ZXJpZmllZCBwcm9maWxlcyIsCiAgICAiTS1QZXNhIGRhdGluZyIsCiAgICAic2VyaW91cyByZWxhdGlvbnNoaXBzIiwKICBdOwoKICBjb25zdCBqc29uTGQgPSB7CiAgICAiQGNvbnRleHQiOiAiaHR0cHM6Ly9zY2hlbWEub3JnIiwKICAgICJAdHlwZSI6ICJPcmdhbml6YXRpb24iLAogICAgbmFtZTogIkRhdGVMaW5rIiwKICAgIHVybDogY2Fub25pY2FsLAogICAgZGVzY3JpcHRpb24sCiAgICBzYW1lQXM6IFtdLAogIH07CgogIHJldHVybiAoCiAgICA8bWFpbiBjbGFzc05hbWU9Im1pbi1oLXNjcmVlbiBvdmVyZmxvdy1oaWRkZW4gYmctYmFja2dyb3VuZCI+CiAgICAgIDxTZW8KICAgICAgICB0aXRsZT17dGl0bGV9CiAgICAgICAgZGVzY3JpcHRpb249e2Rlc2NyaXB0aW9ufQogICAgICAgIGNhbm9uaWNhbD17Y2Fub25pY2FsfQogICAgICAgIGtleXdvcmRzPXtrZXl3b3Jkc30KICAgICAgICBhdXRob3I9IkRhdGVMaW5rIgogICAgICAgIG9nSW1hZ2U9e29nSW1hZ2V9CiAgICAgICAgdHdpdHRlclNpdGU9IkBEYXRlTGluayIKICAgICAgICBqc29uTGQ9e2pzb25MZH0KICAgICAgLz4KICAgICAgPE5hdmJhciAvPgogICAgICA8SGVyb1NpbXBsZSAvPgogICAgICA8RmVhdHVyZXMgLz4KICAgICAgPEhvd0l0V29ya3MgLz4KICAgICAgPENUQSAvPgogICAgICA8Rm9vdGVyIC8+CiAgICA8L21haW4+CiAgKTsKfTsKCmV4cG9ydCBkZWZhdWx0IEluZGV4Owo="}
+import Navbar from "@/components/landing/Navbar";
+import HeroSimple from "@/components/landing/HeroSimple";
+import HowItWorks from "@/components/landing/HowItWorks";
+import Features from "@/components/landing/Features";
+import CTA from "@/components/landing/CTA";
+import Footer from "@/components/landing/Footer";
+import Seo from "@/components/seo/Seo";
+
+const Index = () => {
+  const title = "DateLink | Kenya's Affordable Dating Platform";
+  const description =
+    "Connect with singles in Nairobi and across Kenya. Serious relationships, verified profiles, and M-Pesa payments from KES 100/week.";
+  const canonical = "https://datelink.com/";
+  const ogImage = "https://lovable.dev/opengraph-image-p98pqg.png";
+  const keywords = [
+    "Kenya dating",
+    "Nairobi singles",
+    "affordable dating Kenya",
+    "verified profiles",
+    "M-Pesa dating",
+    "serious relationships",
+  ];
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: "DateLink",
+    url: canonical,
+    description,
+    sameAs: [],
+  };
+
+  return (
+    <main className="min-h-screen overflow-hidden bg-background">
+      <Seo
+        title={title}
+        description={description}
+        canonical={canonical}
+        keywords={keywords}
+        author="DateLink"
+        ogImage={ogImage}
+        twitterSite="@DateLink"
+        jsonLd={jsonLd}
+      />
+      <Navbar />
+      <HeroSimple />
+      <Features />
+      <HowItWorks />
+      <CTA />
+      <Footer />
+    </main>
+  );
+};
+
+export default Index;

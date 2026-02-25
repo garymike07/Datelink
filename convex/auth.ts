@@ -1,1 +1,535 @@
-{"data":"aW1wb3J0IHsgbXV0YXRpb24sIHF1ZXJ5IH0gZnJvbSAiLi9fZ2VuZXJhdGVkL3NlcnZlciI7CmltcG9ydCB7IHYgfSBmcm9tICJjb252ZXgvdmFsdWVzIjsKaW1wb3J0IHsgaW5zZXJ0Tm90aWZpY2F0aW9uIH0gZnJvbSAiLi9ub3RpZmljYXRpb25zIjsKCi8vIEdlbmVyYXRlIGEgcmFuZG9tIHNlc3Npb24gdG9rZW4KZnVuY3Rpb24gZ2VuZXJhdGVTZXNzaW9uVG9rZW4oKTogc3RyaW5nIHsKICBjb25zdCBhcnJheSA9IG5ldyBVaW50OEFycmF5KDMyKTsKICBjcnlwdG8uZ2V0UmFuZG9tVmFsdWVzKGFycmF5KTsKICByZXR1cm4gQXJyYXkuZnJvbShhcnJheSwgYnl0ZSA9PiBieXRlLnRvU3RyaW5nKDE2KS5wYWRTdGFydCgyLCAnMCcpKS5qb2luKCcnKTsKfQoKLy8gSGFzaCBwYXNzd29yZCBmdW5jdGlvbiAoc2ltcGxlIGltcGxlbWVudGF0aW9uIC0gaW4gcHJvZHVjdGlvbiwgdXNlIGJjcnlwdCkKYXN5bmMgZnVuY3Rpb24gaGFzaFBhc3N3b3JkKHBhc3N3b3JkOiBzdHJpbmcpOiBQcm9taXNlPHN0cmluZz4gewogIC8vIFRoaXMgaXMgYSBzaW1wbGUgaGFzaCAtIGluIHByb2R1Y3Rpb24sIHVzZSBhIHByb3BlciBoYXNoaW5nIGxpYnJhcnkKICBjb25zdCBlbmNvZGVyID0gbmV3IFRleHRFbmNvZGVyKCk7CiAgY29uc3QgZGF0YSA9IGVuY29kZXIuZW5jb2RlKHBhc3N3b3JkKTsKICBjb25zdCBoYXNoQnVmZmVyID0gYXdhaXQgY3J5cHRvLnN1YnRsZS5kaWdlc3QoJ1NIQS0yNTYnLCBkYXRhKTsKICBjb25zdCBoYXNoQXJyYXkgPSBBcnJheS5mcm9tKG5ldyBVaW50OEFycmF5KGhhc2hCdWZmZXIpKTsKICByZXR1cm4gaGFzaEFycmF5Lm1hcChiID0+IGIudG9TdHJpbmcoMTYpLnBhZFN0YXJ0KDIsICcwJykpLmpvaW4oJycpOwp9CgovLyBWZXJpZnkgcGFzc3dvcmQgZnVuY3Rpb24KYXN5bmMgZnVuY3Rpb24gdmVyaWZ5UGFzc3dvcmQocGFzc3dvcmQ6IHN0cmluZywgaGFzaGVkUGFzc3dvcmQ6IHN0cmluZyk6IFByb21pc2U8Ym9vbGVhbj4gewogIGNvbnN0IGhhc2hlZElucHV0ID0gYXdhaXQgaGFzaFBhc3N3b3JkKHBhc3N3b3JkKTsKICByZXR1cm4gaGFzaGVkSW5wdXQgPT09IGhhc2hlZFBhc3N3b3JkOwp9CgpmdW5jdGlvbiBub3JtYWxpemVFbWFpbChlbWFpbDogc3RyaW5nKSB7CiAgcmV0dXJuIGVtYWlsLnRyaW0oKS50b0xvd2VyQ2FzZSgpOwp9CgovLyBTaWduIHVwIG11dGF0aW9uCmV4cG9ydCBjb25zdCBzaWduVXAgPSBtdXRhdGlvbih7CiAgYXJnczogewogICAgZW1haWw6IHYuc3RyaW5nKCksCiAgICBwYXNzd29yZDogdi5zdHJpbmcoKSwKICAgIG5hbWU6IHYuc3RyaW5nKCksCiAgICBwaG9uZTogdi5vcHRpb25hbCh2LnN0cmluZygpKSwKICB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGNvbnN0IGVtYWlsID0gbm9ybWFsaXplRW1haWwoYXJncy5lbWFpbCk7CgogICAgLy8gQ2hlY2sgaWYgdXNlciBhbHJlYWR5IGV4aXN0cwogICAgY29uc3QgZXhpc3RpbmdVc2VyID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgidXNlcnMiKQogICAgICAud2l0aEluZGV4KCJlbWFpbCIsIChxKSA9PiBxLmVxKCJlbWFpbCIsIGVtYWlsKSkKICAgICAgLmZpcnN0KCk7CiAgICAKICAgIGlmIChleGlzdGluZ1VzZXIpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCJVc2VyIHdpdGggdGhpcyBlbWFpbCBhbHJlYWR5IGV4aXN0cyIpOwogICAgfQoKICAgIC8vIEhhc2ggdGhlIHBhc3N3b3JkCiAgICBjb25zdCBoYXNoZWRQYXNzd29yZCA9IGF3YWl0IGhhc2hQYXNzd29yZChhcmdzLnBhc3N3b3JkKTsKCiAgICAvLyBDcmVhdGUgbmV3IHVzZXIKICAgIGNvbnN0IG5vdyA9IERhdGUubm93KCk7CiAgICBjb25zdCB1c2VySWQgPSBhd2FpdCBjdHguZGIuaW5zZXJ0KCJ1c2VycyIsIHsKICAgICAgZW1haWwsCiAgICAgIHBhc3N3b3JkOiBoYXNoZWRQYXNzd29yZCwKICAgICAgbmFtZTogYXJncy5uYW1lLAogICAgICBwaG9uZTogYXJncy5waG9uZSwKICAgICAgaXNWZXJpZmllZDogZmFsc2UsIC8vIEluIHByb2R1Y3Rpb24sIGltcGxlbWVudCBlbWFpbCB2ZXJpZmljYXRpb24KICAgICAgbGFzdFNlZW5BdDogbm93LAogICAgICBjcmVhdGVkQXQ6IG5vdywKICAgICAgdXBkYXRlZEF0OiBub3csCiAgICB9KTsKCiAgICBjb25zdCB1c2VyID0gYXdhaXQgY3R4LmRiLmdldCh1c2VySWQpOwogICAgaWYgKCF1c2VyKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcigiRmFpbGVkIHRvIGNyZWF0ZSB1c2VyIik7CiAgICB9CgogICAgLy8gQ3JlYXRlIHNlc3Npb24gdG9rZW4KICAgIGNvbnN0IHRva2VuID0gZ2VuZXJhdGVTZXNzaW9uVG9rZW4oKTsKICAgIGNvbnN0IHNlc3Npb25FeHBpcmVzQXQgPSBub3cgKyAoMzAgKiAyNCAqIDYwICogNjAgKiAxMDAwKTsgLy8gMzAgZGF5cwogICAgCiAgICBhd2FpdCBjdHguZGIuaW5zZXJ0KCJzZXNzaW9ucyIsIHsKICAgICAgdXNlcklkLAogICAgICB0b2tlbiwKICAgICAgZXhwaXJlc0F0OiBzZXNzaW9uRXhwaXJlc0F0LAogICAgICBjcmVhdGVkQXQ6IG5vdywKICAgICAgbGFzdEFjY2Vzc2VkQXQ6IG5vdywKICAgIH0pOwoKICAgIGNvbnN0IHVzZXJXaXRob3V0UGFzc3dvcmQgPSB7CiAgICAgIF9pZDogdXNlci5faWQsCiAgICAgIF9jcmVhdGlvblRpbWU6IHVzZXIuX2NyZWF0aW9uVGltZSwKICAgICAgZW1haWw6IHVzZXIuZW1haWwsCiAgICAgIG5hbWU6IHVzZXIubmFtZSwKICAgICAgcGhvbmU6IHVzZXIucGhvbmUsCiAgICAgIGlzVmVyaWZpZWQ6IHVzZXIuaXNWZXJpZmllZCwKICAgICAgYWNjb3VudFN0YXR1czogdXNlci5hY2NvdW50U3RhdHVzLAogICAgICBjcmVhdGVkQXQ6IHVzZXIuY3JlYXRlZEF0LAogICAgICB1cGRhdGVkQXQ6IHVzZXIudXBkYXRlZEF0LAogICAgfTsKCiAgICByZXR1cm4gewogICAgICBzdWNjZXNzOiB0cnVlLAogICAgICB1c2VyOiB1c2VyV2l0aG91dFBhc3N3b3JkLAogICAgICB0b2tlbiwKICAgICAgbWVzc2FnZTogIkFjY291bnQgY3JlYXRlZCBzdWNjZXNzZnVsbHkiLAogICAgfTsKICB9LAp9KTsKCi8vIExvZ2luIG11dGF0aW9uCmV4cG9ydCBjb25zdCBsb2dpbiA9IG11dGF0aW9uKHsKICBhcmdzOiB7CiAgICBlbWFpbDogdi5zdHJpbmcoKSwKICAgIHBhc3N3b3JkOiB2LnN0cmluZygpLAogICAgcmVtZW1iZXJNZTogdi5vcHRpb25hbCh2LmJvb2xlYW4oKSksCiAgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICBjb25zdCBlbWFpbCA9IG5vcm1hbGl6ZUVtYWlsKGFyZ3MuZW1haWwpOwoKICAgIC8vIEZpbmQgdXNlciBieSBlbWFpbCAobm9ybWFsaXplZCkKICAgIGxldCB1c2VyID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgidXNlcnMiKQogICAgICAud2l0aEluZGV4KCJlbWFpbCIsIChxKSA9PiBxLmVxKCJlbWFpbCIsIGVtYWlsKSkKICAgICAgLmZpcnN0KCk7CgogICAgLy8gQmFja3dhcmQtY29tcGF0IGZhbGxiYWNrIGZvciBsZWdhY3kgcm93cyB3aGVyZSBlbWFpbCB3YXNuJ3Qgbm9ybWFsaXplZAogICAgaWYgKCF1c2VyICYmIGFyZ3MuZW1haWwgIT09IGVtYWlsKSB7CiAgICAgIHVzZXIgPSBhd2FpdCBjdHguZGIKICAgICAgICAucXVlcnkoInVzZXJzIikKICAgICAgICAud2l0aEluZGV4KCJlbWFpbCIsIChxKSA9PiBxLmVxKCJlbWFpbCIsIGFyZ3MuZW1haWwpKQogICAgICAgIC5maXJzdCgpOwogICAgfQoKICAgIGlmICghdXNlcikgewogICAgICB0aHJvdyBuZXcgRXJyb3IoIkludmFsaWQgZW1haWwgb3IgcGFzc3dvcmQiKTsKICAgIH0KCiAgICAvLyBWZXJpZnkgcGFzc3dvcmQKICAgIGNvbnN0IGlzVmFsaWRQYXNzd29yZCA9IGF3YWl0IHZlcmlmeVBhc3N3b3JkKGFyZ3MucGFzc3dvcmQsIHVzZXIucGFzc3dvcmQpOwogICAgaWYgKCFpc1ZhbGlkUGFzc3dvcmQpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCJJbnZhbGlkIGVtYWlsIG9yIHBhc3N3b3JkIik7CiAgICB9CgogICAgLy8gQ3JlYXRlIHNlc3Npb24gdG9rZW4KICAgIGNvbnN0IG5vdyA9IERhdGUubm93KCk7CiAgICBjb25zdCB0b2tlbiA9IGdlbmVyYXRlU2Vzc2lvblRva2VuKCk7CiAgICAvLyBTZXQgc2Vzc2lvbiBleHBpcmF0aW9uIGJhc2VkIG9uIHJlbWVtYmVyTWUgZmxhZwogICAgLy8gSWYgcmVtZW1iZXJNZSBpcyB0cnVlOiAzMCBkYXlzLCBvdGhlcndpc2U6IDEgZGF5CiAgICBjb25zdCBzZXNzaW9uRHVyYXRpb24gPSBhcmdzLnJlbWVtYmVyTWUgPyAoMzAgKiAyNCAqIDYwICogNjAgKiAxMDAwKSA6ICgyNCAqIDYwICogNjAgKiAxMDAwKTsKICAgIGNvbnN0IHNlc3Npb25FeHBpcmVzQXQgPSBub3cgKyBzZXNzaW9uRHVyYXRpb247CiAgICAKICAgIGF3YWl0IGN0eC5kYi5pbnNlcnQoInNlc3Npb25zIiwgewogICAgICB1c2VySWQ6IHVzZXIuX2lkLAogICAgICB0b2tlbiwKICAgICAgZXhwaXJlc0F0OiBzZXNzaW9uRXhwaXJlc0F0LAogICAgICBjcmVhdGVkQXQ6IG5vdywKICAgICAgbGFzdEFjY2Vzc2VkQXQ6IG5vdywKICAgIH0pOwoKICAgIC8vIFVwZGF0ZSBsYXN0IHNlZW4KICAgIGF3YWl0IGN0eC5kYi5wYXRjaCh1c2VyLl9pZCwgewogICAgICBsYXN0U2VlbkF0OiBub3csCiAgICAgIHVwZGF0ZWRBdDogbm93LAogICAgfSk7CgogICAgLy8gSW4tYXBwIG5vdGlmaWNhdGlvbiBmb3Igc3VjY2Vzc2Z1bCBsb2dpbgogICAgYXdhaXQgaW5zZXJ0Tm90aWZpY2F0aW9uKGN0eCwgewogICAgICB1c2VySWQ6IHVzZXIuX2lkLAogICAgICB0eXBlOiAibG9naW5fc3VjY2VzcyIsCiAgICAgIHRpdGxlOiAiTG9naW4gc3VjY2Vzc2Z1bCIsCiAgICAgIGJvZHk6ICJXZWxjb21lIGJhY2shIiwKICAgICAgcHJpb3JpdHk6ICJsb3ciLAogICAgICBjYXRlZ29yeTogInN5c3RlbSIsCiAgICAgIGljb246ICLinIUiLAogICAgICBsaW5rOiAiL2Rhc2hib2FyZCIsCiAgICB9KTsKCiAgICAvLyBSZXR1cm4gdXNlciBkYXRhIHdpdGhvdXQgcGFzc3dvcmQKICAgIGNvbnN0IHVzZXJXaXRob3V0UGFzc3dvcmQgPSB7CiAgICAgIF9pZDogdXNlci5faWQsCiAgICAgIF9jcmVhdGlvblRpbWU6IHVzZXIuX2NyZWF0aW9uVGltZSwKICAgICAgZW1haWw6IHVzZXIuZW1haWwsCiAgICAgIG5hbWU6IHVzZXIubmFtZSwKICAgICAgcGhvbmU6IHVzZXIucGhvbmUsCiAgICAgIGlzVmVyaWZpZWQ6IHVzZXIuaXNWZXJpZmllZCwKICAgICAgYWNjb3VudFN0YXR1czogdXNlci5hY2NvdW50U3RhdHVzLAogICAgICBjcmVhdGVkQXQ6IHVzZXIuY3JlYXRlZEF0LAogICAgICB1cGRhdGVkQXQ6IHVzZXIudXBkYXRlZEF0LAogICAgfTsKCiAgICByZXR1cm4gewogICAgICBzdWNjZXNzOiB0cnVlLAogICAgICB1c2VyOiB1c2VyV2l0aG91dFBhc3N3b3JkLAogICAgICB0b2tlbiwKICAgICAgbWVzc2FnZTogIkxvZ2luIHN1Y2Nlc3NmdWwiLAogICAgfTsKICB9LAp9KTsKCi8vIFZhbGlkYXRlIHNlc3Npb24gYW5kIGdldCBjdXJyZW50IHVzZXIKZXhwb3J0IGNvbnN0IHZhbGlkYXRlU2Vzc2lvbiA9IHF1ZXJ5KHsKICBhcmdzOiB7CiAgICB0b2tlbjogdi5zdHJpbmcoKSwKICB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGNvbnN0IHNlc3Npb24gPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJzZXNzaW9ucyIpCiAgICAgIC53aXRoSW5kZXgoInRva2VuIiwgKHEpID0+IHEuZXEoInRva2VuIiwgYXJncy50b2tlbikpCiAgICAgIC5maXJzdCgpOwoKICAgIGlmICghc2Vzc2lvbikgewogICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICAvLyBDaGVjayBpZiBzZXNzaW9uIGlzIGV4cGlyZWQKICAgIGNvbnN0IG5vdyA9IERhdGUubm93KCk7CiAgICBpZiAoc2Vzc2lvbi5leHBpcmVzQXQgPCBub3cpIHsKICAgICAgLy8gU2Vzc2lvbiBpcyBleHBpcmVkLCByZXR1cm4gbnVsbCAoY2xlYW51cCB3aWxsIGhhcHBlbiBlbHNld2hlcmUpCiAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIC8vIEdldCB1c2VyIGRhdGEKICAgIGNvbnN0IHVzZXIgPSBhd2FpdCBjdHguZGIuZ2V0KHNlc3Npb24udXNlcklkKTsKICAgIGlmICghdXNlcikgewogICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICAvLyBSZXR1cm4gdXNlciBkYXRhIHdpdGhvdXQgcGFzc3dvcmQKICAgIHJldHVybiB7CiAgICAgIF9pZDogdXNlci5faWQsCiAgICAgIF9jcmVhdGlvblRpbWU6IHVzZXIuX2NyZWF0aW9uVGltZSwKICAgICAgZW1haWw6IHVzZXIuZW1haWwsCiAgICAgIG5hbWU6IHVzZXIubmFtZSwKICAgICAgcGhvbmU6IHVzZXIucGhvbmUsCiAgICAgIGlzVmVyaWZpZWQ6IHVzZXIuaXNWZXJpZmllZCwKICAgICAgYWNjb3VudFN0YXR1czogdXNlci5hY2NvdW50U3RhdHVzLAogICAgICBjcmVhdGVkQXQ6IHVzZXIuY3JlYXRlZEF0LAogICAgICB1cGRhdGVkQXQ6IHVzZXIudXBkYXRlZEF0LAogICAgfTsKICB9LAp9KTsKCi8vIFVwZGF0ZSBzZXNzaW9uIGxhc3QgYWNjZXNzZWQgdGltZQpleHBvcnQgY29uc3QgdXBkYXRlU2Vzc2lvbkFjdGl2aXR5ID0gbXV0YXRpb24oewogIGFyZ3M6IHsKICAgIHRva2VuOiB2LnN0cmluZygpLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3Qgc2Vzc2lvbiA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoInNlc3Npb25zIikKICAgICAgLndpdGhJbmRleCgidG9rZW4iLCAocSkgPT4gcS5lcSgidG9rZW4iLCBhcmdzLnRva2VuKSkKICAgICAgLmZpcnN0KCk7CgogICAgaWYgKCFzZXNzaW9uKSB7CiAgICAgIHJldHVybiB7IHN1Y2Nlc3M6IGZhbHNlIH07CiAgICB9CgogICAgLy8gQ2hlY2sgaWYgc2Vzc2lvbiBpcyBleHBpcmVkCiAgICBjb25zdCBub3cgPSBEYXRlLm5vdygpOwogICAgaWYgKHNlc3Npb24uZXhwaXJlc0F0IDwgbm93KSB7CiAgICAgIGF3YWl0IGN0eC5kYi5kZWxldGUoc2Vzc2lvbi5faWQpOwogICAgICByZXR1cm4geyBzdWNjZXNzOiBmYWxzZSB9OwogICAgfQoKICAgIC8vIFVwZGF0ZSBsYXN0IGFjY2Vzc2VkIHRpbWUKICAgIGF3YWl0IGN0eC5kYi5wYXRjaChzZXNzaW9uLl9pZCwgewogICAgICBsYXN0QWNjZXNzZWRBdDogbm93LAogICAgfSk7CgogICAgcmV0dXJuIHsgc3VjY2VzczogdHJ1ZSB9OwogIH0sCn0pOwoKLy8gTG9nb3V0IC0gZGVsZXRlIHNlc3Npb24KZXhwb3J0IGNvbnN0IGxvZ291dCA9IG11dGF0aW9uKHsKICBhcmdzOiB7CiAgICB0b2tlbjogdi5zdHJpbmcoKSwKICB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGNvbnN0IHNlc3Npb24gPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJzZXNzaW9ucyIpCiAgICAgIC53aXRoSW5kZXgoInRva2VuIiwgKHEpID0+IHEuZXEoInRva2VuIiwgYXJncy50b2tlbikpCiAgICAgIC5maXJzdCgpOwoKICAgIGlmIChzZXNzaW9uKSB7CiAgICAgIGNvbnN0IG5vdyA9IERhdGUubm93KCk7CiAgICAgIGF3YWl0IGN0eC5kYi5wYXRjaChzZXNzaW9uLnVzZXJJZCwgewogICAgICAgIGxhc3RTZWVuQXQ6IG5vdywKICAgICAgICB1cGRhdGVkQXQ6IG5vdywKICAgICAgfSk7CgogICAgICBjb25zdCBwcmVzZW5jZSA9IGF3YWl0IGN0eC5kYgogICAgICAgIC5xdWVyeSgicHJlc2VuY2UiKQogICAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxOiBhbnkpID0+IHEuZXEoInVzZXJJZCIsIHNlc3Npb24udXNlcklkKSkKICAgICAgICAuZmlyc3QoKTsKCiAgICAgIGlmIChwcmVzZW5jZSkgewogICAgICAgIGF3YWl0IGN0eC5kYi5wYXRjaChwcmVzZW5jZS5faWQsIHsKICAgICAgICAgIHN0YXR1czogIm9mZmxpbmUiLAogICAgICAgICAgbGFzdEFjdGl2ZUF0OiBub3csCiAgICAgICAgICB1cGRhdGVkQXQ6IG5vdywKICAgICAgICB9KTsKICAgICAgfQoKICAgICAgYXdhaXQgY3R4LmRiLmRlbGV0ZShzZXNzaW9uLl9pZCk7CiAgICB9CgogICAgcmV0dXJuIHsgc3VjY2VzczogdHJ1ZSB9OwogIH0sCn0pOwoKLy8gTG9nb3V0IGFsbCBzZXNzaW9ucyBmb3IgYSB1c2VyCmV4cG9ydCBjb25zdCBsb2dvdXRBbGwgPSBtdXRhdGlvbih7CiAgYXJnczogewogICAgdXNlcklkOiB2LmlkKCJ1c2VycyIpLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3Qgc2Vzc2lvbnMgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJzZXNzaW9ucyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCBhcmdzLnVzZXJJZCkpCiAgICAgIC5jb2xsZWN0KCk7CgogICAgZm9yIChjb25zdCBzZXNzaW9uIG9mIHNlc3Npb25zKSB7CiAgICAgIGF3YWl0IGN0eC5kYi5kZWxldGUoc2Vzc2lvbi5faWQpOwogICAgfQoKICAgIGNvbnN0IG5vdyA9IERhdGUubm93KCk7CiAgICBhd2FpdCBjdHguZGIucGF0Y2goYXJncy51c2VySWQsIHsKICAgICAgbGFzdFNlZW5BdDogbm93LAogICAgICB1cGRhdGVkQXQ6IG5vdywKICAgIH0pOwoKICAgIGNvbnN0IHByZXNlbmNlID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgicHJlc2VuY2UiKQogICAgICAud2l0aEluZGV4KCJ1c2VySWQiLCAocTogYW55KSA9PiBxLmVxKCJ1c2VySWQiLCBhcmdzLnVzZXJJZCkpCiAgICAgIC5maXJzdCgpOwoKICAgIGlmIChwcmVzZW5jZSkgewogICAgICBhd2FpdCBjdHguZGIucGF0Y2gocHJlc2VuY2UuX2lkLCB7CiAgICAgICAgc3RhdHVzOiAib2ZmbGluZSIsCiAgICAgICAgbGFzdEFjdGl2ZUF0OiBub3csCiAgICAgICAgdXBkYXRlZEF0OiBub3csCiAgICAgIH0pOwogICAgfQoKICAgIHJldHVybiB7IHN1Y2Nlc3M6IHRydWUgfTsKICB9LAp9KTsKCi8vIEdldCBjdXJyZW50IHVzZXIgcXVlcnkgKGZvciBhdXRoZW50aWNhdGVkIHJvdXRlcykgLSBERVBSRUNBVEVELCB1c2UgdmFsaWRhdGVTZXNzaW9uIGluc3RlYWQKZXhwb3J0IGNvbnN0IGdldEN1cnJlbnRVc2VyID0gcXVlcnkoewogIGFyZ3M6IHsKICAgIHVzZXJJZDogdi5vcHRpb25hbCh2LmlkKCJ1c2VycyIpKSwKICB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGlmICghYXJncy51c2VySWQpIHsKICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgY29uc3QgdXNlciA9IGF3YWl0IGN0eC5kYi5nZXQoYXJncy51c2VySWQpOwogICAgaWYgKCF1c2VyKSB7CiAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIC8vIFJldHVybiB1c2VyIGRhdGEgd2l0aG91dCBwYXNzd29yZAogICAgcmV0dXJuIHsKICAgICAgX2lkOiB1c2VyLl9pZCwKICAgICAgX2NyZWF0aW9uVGltZTogdXNlci5fY3JlYXRpb25UaW1lLAogICAgICBlbWFpbDogdXNlci5lbWFpbCwKICAgICAgbmFtZTogdXNlci5uYW1lLAogICAgICBwaG9uZTogdXNlci5waG9uZSwKICAgICAgaXNWZXJpZmllZDogdXNlci5pc1ZlcmlmaWVkLAogICAgICBhY2NvdW50U3RhdHVzOiB1c2VyLmFjY291bnRTdGF0dXMsCiAgICAgIGNyZWF0ZWRBdDogdXNlci5jcmVhdGVkQXQsCiAgICAgIHVwZGF0ZWRBdDogdXNlci51cGRhdGVkQXQsCiAgICB9OwogIH0sCn0pOwoKLy8gVXBkYXRlIHVzZXIgcHJvZmlsZSBtdXRhdGlvbgpleHBvcnQgY29uc3QgdXBkYXRlUHJvZmlsZSA9IG11dGF0aW9uKHsKICBhcmdzOiB7CiAgICB1c2VySWQ6IHYuaWQoInVzZXJzIiksCiAgICBuYW1lOiB2Lm9wdGlvbmFsKHYuc3RyaW5nKCkpLAogICAgcGhvbmU6IHYub3B0aW9uYWwodi5zdHJpbmcoKSksCiAgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICBjb25zdCB7IHVzZXJJZCwgLi4udXBkYXRlRGF0YSB9ID0gYXJnczsKICAgIAogICAgLy8gQ2hlY2sgaWYgdXNlciBleGlzdHMKICAgIGNvbnN0IGV4aXN0aW5nVXNlciA9IGF3YWl0IGN0eC5kYi5nZXQodXNlcklkKTsKICAgIGlmICghZXhpc3RpbmdVc2VyKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcigiVXNlciBub3QgZm91bmQiKTsKICAgIH0KCiAgICAvLyBVcGRhdGUgdXNlcgogICAgYXdhaXQgY3R4LmRiLnBhdGNoKHVzZXJJZCwgewogICAgICAuLi51cGRhdGVEYXRhLAogICAgICB1cGRhdGVkQXQ6IERhdGUubm93KCksCiAgICB9KTsKCiAgICAvLyBGZXRjaCB0aGUgdXBkYXRlZCB1c2VyCiAgICBjb25zdCB1cGRhdGVkVXNlciA9IGF3YWl0IGN0eC5kYi5nZXQodXNlcklkKTsKICAgIGlmICghdXBkYXRlZFVzZXIpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCJGYWlsZWQgdG8gdXBkYXRlIHVzZXIiKTsKICAgIH0KCiAgICAvLyBSZXR1cm4gdXNlciBkYXRhIHdpdGhvdXQgcGFzc3dvcmQKICAgIHJldHVybiB7CiAgICAgIF9pZDogdXBkYXRlZFVzZXIuX2lkLAogICAgICBfY3JlYXRpb25UaW1lOiB1cGRhdGVkVXNlci5fY3JlYXRpb25UaW1lLAogICAgICBlbWFpbDogdXBkYXRlZFVzZXIuZW1haWwsCiAgICAgIG5hbWU6IHVwZGF0ZWRVc2VyLm5hbWUsCiAgICAgIHBob25lOiB1cGRhdGVkVXNlci5waG9uZSwKICAgICAgaXNWZXJpZmllZDogdXBkYXRlZFVzZXIuaXNWZXJpZmllZCwKICAgICAgY3JlYXRlZEF0OiB1cGRhdGVkVXNlci5jcmVhdGVkQXQsCiAgICAgIHVwZGF0ZWRBdDogdXBkYXRlZFVzZXIudXBkYXRlZEF0LAogICAgfTsKICB9LAp9KTsKCi8vIENoZWNrIGlmIGVtYWlsIGV4aXN0cyBxdWVyeQpleHBvcnQgY29uc3QgY2hlY2tFbWFpbEV4aXN0cyA9IHF1ZXJ5KHsKICBhcmdzOiB7CiAgICBlbWFpbDogdi5zdHJpbmcoKSwKICB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGNvbnN0IGVtYWlsID0gbm9ybWFsaXplRW1haWwoYXJncy5lbWFpbCk7CiAgICBjb25zdCB1c2VyID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgidXNlcnMiKQogICAgICAud2l0aEluZGV4KCJlbWFpbCIsIChxKSA9PiBxLmVxKCJlbWFpbCIsIGVtYWlsKSkKICAgICAgLmZpcnN0KCk7CiAgICAKICAgIHJldHVybiAhIXVzZXI7CiAgfSwKfSk7CgovLyBVcGRhdGUgbGFzdCBzZWVuIHRpbWVzdGFtcCAoZm9yIGNoYXQgcHJlc2VuY2UpCmV4cG9ydCBjb25zdCB1cGRhdGVMYXN0U2VlbiA9IG11dGF0aW9uKHsKICBhcmdzOiB7CiAgICB1c2VySWQ6IHYuaWQoInVzZXJzIiksCiAgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICBjb25zdCBleGlzdGluZ1VzZXIgPSBhd2FpdCBjdHguZGIuZ2V0KGFyZ3MudXNlcklkKTsKICAgIGlmICghZXhpc3RpbmdVc2VyKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcigiVXNlciBub3QgZm91bmQiKTsKICAgIH0KCiAgICBjb25zdCBub3cgPSBEYXRlLm5vdygpOwogICAgYXdhaXQgY3R4LmRiLnBhdGNoKGFyZ3MudXNlcklkLCB7CiAgICAgIGxhc3RTZWVuQXQ6IG5vdywKICAgICAgdXBkYXRlZEF0OiBub3csCiAgICB9KTsKCiAgICByZXR1cm4geyBzdWNjZXNzOiB0cnVlLCBsYXN0U2VlbkF0OiBub3cgfTsKICB9LAp9KTsKCmV4cG9ydCBjb25zdCBjaGFuZ2VFbWFpbCA9IG11dGF0aW9uKHsKICBhcmdzOiB7CiAgICB1c2VySWQ6IHYuaWQoInVzZXJzIiksCiAgICBuZXdFbWFpbDogdi5zdHJpbmcoKSwKICAgIHBhc3N3b3JkOiB2LnN0cmluZygpLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3QgdXNlciA9IGF3YWl0IGN0eC5kYi5nZXQoYXJncy51c2VySWQpOwogICAgaWYgKCF1c2VyKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcigiVXNlciBub3QgZm91bmQiKTsKICAgIH0KCiAgICBjb25zdCBpc1ZhbGlkUGFzc3dvcmQgPSBhd2FpdCB2ZXJpZnlQYXNzd29yZChhcmdzLnBhc3N3b3JkLCB1c2VyLnBhc3N3b3JkKTsKICAgIGlmICghaXNWYWxpZFBhc3N3b3JkKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcigiSW52YWxpZCBwYXNzd29yZCIpOwogICAgfQoKICAgIGNvbnN0IGV4aXN0aW5nRW1haWxVc2VyID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgidXNlcnMiKQogICAgICAud2l0aEluZGV4KCJlbWFpbCIsIChxKSA9PiBxLmVxKCJlbWFpbCIsIGFyZ3MubmV3RW1haWwpKQogICAgICAuZmlyc3QoKTsKCiAgICBpZiAoZXhpc3RpbmdFbWFpbFVzZXIgJiYgZXhpc3RpbmdFbWFpbFVzZXIuX2lkICE9PSBhcmdzLnVzZXJJZCkgewogICAgICB0aHJvdyBuZXcgRXJyb3IoIlVzZXIgd2l0aCB0aGlzIGVtYWlsIGFscmVhZHkgZXhpc3RzIik7CiAgICB9CgogICAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKTsKICAgIGF3YWl0IGN0eC5kYi5wYXRjaChhcmdzLnVzZXJJZCwgewogICAgICBlbWFpbDogYXJncy5uZXdFbWFpbCwKICAgICAgdXBkYXRlZEF0OiBub3csCiAgICB9KTsKCiAgICBjb25zdCB1cGRhdGVkVXNlciA9IGF3YWl0IGN0eC5kYi5nZXQoYXJncy51c2VySWQpOwogICAgaWYgKCF1cGRhdGVkVXNlcikgewogICAgICB0aHJvdyBuZXcgRXJyb3IoIkZhaWxlZCB0byB1cGRhdGUgdXNlciIpOwogICAgfQoKICAgIHJldHVybiB7CiAgICAgIHN1Y2Nlc3M6IHRydWUsCiAgICAgIHVzZXI6IHsKICAgICAgICBfaWQ6IHVwZGF0ZWRVc2VyLl9pZCwKICAgICAgICBfY3JlYXRpb25UaW1lOiB1cGRhdGVkVXNlci5fY3JlYXRpb25UaW1lLAogICAgICAgIGVtYWlsOiB1cGRhdGVkVXNlci5lbWFpbCwKICAgICAgICBuYW1lOiB1cGRhdGVkVXNlci5uYW1lLAogICAgICAgIHBob25lOiB1cGRhdGVkVXNlci5waG9uZSwKICAgICAgICBpc1ZlcmlmaWVkOiB1cGRhdGVkVXNlci5pc1ZlcmlmaWVkLAogICAgICAgIGNyZWF0ZWRBdDogdXBkYXRlZFVzZXIuY3JlYXRlZEF0LAogICAgICAgIHVwZGF0ZWRBdDogdXBkYXRlZFVzZXIudXBkYXRlZEF0LAogICAgICB9LAogICAgfTsKICB9LAp9KTsKCmV4cG9ydCBjb25zdCBjaGFuZ2VQYXNzd29yZCA9IG11dGF0aW9uKHsKICBhcmdzOiB7CiAgICB1c2VySWQ6IHYuaWQoInVzZXJzIiksCiAgICBjdXJyZW50UGFzc3dvcmQ6IHYuc3RyaW5nKCksCiAgICBuZXdQYXNzd29yZDogdi5zdHJpbmcoKSwKICB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGNvbnN0IHVzZXIgPSBhd2FpdCBjdHguZGIuZ2V0KGFyZ3MudXNlcklkKTsKICAgIGlmICghdXNlcikgewogICAgICB0aHJvdyBuZXcgRXJyb3IoIlVzZXIgbm90IGZvdW5kIik7CiAgICB9CgogICAgY29uc3QgaXNWYWxpZFBhc3N3b3JkID0gYXdhaXQgdmVyaWZ5UGFzc3dvcmQoYXJncy5jdXJyZW50UGFzc3dvcmQsIHVzZXIucGFzc3dvcmQpOwogICAgaWYgKCFpc1ZhbGlkUGFzc3dvcmQpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCJJbnZhbGlkIGN1cnJlbnQgcGFzc3dvcmQiKTsKICAgIH0KCiAgICBjb25zdCBoYXNoZWRQYXNzd29yZCA9IGF3YWl0IGhhc2hQYXNzd29yZChhcmdzLm5ld1Bhc3N3b3JkKTsKICAgIGNvbnN0IG5vdyA9IERhdGUubm93KCk7CiAgICBhd2FpdCBjdHguZGIucGF0Y2goYXJncy51c2VySWQsIHsKICAgICAgcGFzc3dvcmQ6IGhhc2hlZFBhc3N3b3JkLAogICAgICB1cGRhdGVkQXQ6IG5vdywKICAgIH0pOwoKICAgIHJldHVybiB7IHN1Y2Nlc3M6IHRydWUgfTsKICB9LAp9KTsK"}
+import { mutation, query } from "./_generated/server";
+import { v } from "convex/values";
+import { insertNotification } from "./notifications";
+
+// Generate a random session token
+function generateSessionToken(): string {
+  const array = new Uint8Array(32);
+  crypto.getRandomValues(array);
+  return Array.from(array, byte => byte.toString(16).padStart(2, '0')).join('');
+}
+
+// Hash password function (simple implementation - in production, use bcrypt)
+async function hashPassword(password: string): Promise<string> {
+  // This is a simple hash - in production, use a proper hashing library
+  const encoder = new TextEncoder();
+  const data = encoder.encode(password);
+  const hashBuffer = await crypto.subtle.digest('SHA-256', data);
+  const hashArray = Array.from(new Uint8Array(hashBuffer));
+  return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+}
+
+// Verify password function
+async function verifyPassword(password: string, hashedPassword: string): Promise<boolean> {
+  const hashedInput = await hashPassword(password);
+  return hashedInput === hashedPassword;
+}
+
+function normalizeEmail(email: string) {
+  return email.trim().toLowerCase();
+}
+
+// Sign up mutation
+export const signUp = mutation({
+  args: {
+    email: v.string(),
+    password: v.string(),
+    name: v.string(),
+    phone: v.optional(v.string()),
+  },
+  handler: async (ctx, args) => {
+    const email = normalizeEmail(args.email);
+
+    // Check if user already exists
+    const existingUser = await ctx.db
+      .query("users")
+      .withIndex("email", (q) => q.eq("email", email))
+      .first();
+    
+    if (existingUser) {
+      throw new Error("User with this email already exists");
+    }
+
+    // Hash the password
+    const hashedPassword = await hashPassword(args.password);
+
+    // Create new user
+    const now = Date.now();
+    const userId = await ctx.db.insert("users", {
+      email,
+      password: hashedPassword,
+      name: args.name,
+      phone: args.phone,
+      isVerified: false, // In production, implement email verification
+      lastSeenAt: now,
+      createdAt: now,
+      updatedAt: now,
+    });
+
+    const user = await ctx.db.get(userId);
+    if (!user) {
+      throw new Error("Failed to create user");
+    }
+
+    // Create session token
+    const token = generateSessionToken();
+    const sessionExpiresAt = now + (30 * 24 * 60 * 60 * 1000); // 30 days
+    
+    await ctx.db.insert("sessions", {
+      userId,
+      token,
+      expiresAt: sessionExpiresAt,
+      createdAt: now,
+      lastAccessedAt: now,
+    });
+
+    const userWithoutPassword = {
+      _id: user._id,
+      _creationTime: user._creationTime,
+      email: user.email,
+      name: user.name,
+      phone: user.phone,
+      isVerified: user.isVerified,
+      accountStatus: user.accountStatus,
+      createdAt: user.createdAt,
+      updatedAt: user.updatedAt,
+    };
+
+    return {
+      success: true,
+      user: userWithoutPassword,
+      token,
+      message: "Account created successfully",
+    };
+  },
+});
+
+// Login mutation
+export const login = mutation({
+  args: {
+    email: v.string(),
+    password: v.string(),
+    rememberMe: v.optional(v.boolean()),
+  },
+  handler: async (ctx, args) => {
+    const email = normalizeEmail(args.email);
+
+    // Find user by email (normalized)
+    let user = await ctx.db
+      .query("users")
+      .withIndex("email", (q) => q.eq("email", email))
+      .first();
+
+    // Backward-compat fallback for legacy rows where email wasn't normalized
+    if (!user && args.email !== email) {
+      user = await ctx.db
+        .query("users")
+        .withIndex("email", (q) => q.eq("email", args.email))
+        .first();
+    }
+
+    if (!user) {
+      throw new Error("Invalid email or password");
+    }
+
+    // Verify password
+    const isValidPassword = await verifyPassword(args.password, user.password);
+    if (!isValidPassword) {
+      throw new Error("Invalid email or password");
+    }
+
+    // Create session token
+    const now = Date.now();
+    const token = generateSessionToken();
+    // Set session expiration based on rememberMe flag
+    // If rememberMe is true: 30 days, otherwise: 1 day
+    const sessionDuration = args.rememberMe ? (30 * 24 * 60 * 60 * 1000) : (24 * 60 * 60 * 1000);
+    const sessionExpiresAt = now + sessionDuration;
+    
+    await ctx.db.insert("sessions", {
+      userId: user._id,
+      token,
+      expiresAt: sessionExpiresAt,
+      createdAt: now,
+      lastAccessedAt: now,
+    });
+
+    // Update last seen
+    await ctx.db.patch(user._id, {
+      lastSeenAt: now,
+      updatedAt: now,
+    });
+
+    // In-app notification for successful login
+    await insertNotification(ctx, {
+      userId: user._id,
+      type: "login_success",
+      title: "Login successful",
+      body: "Welcome back!",
+      priority: "low",
+      category: "system",
+      icon: "✅",
+      link: "/dashboard",
+    });
+
+    // Return user data without password
+    const userWithoutPassword = {
+      _id: user._id,
+      _creationTime: user._creationTime,
+      email: user.email,
+      name: user.name,
+      phone: user.phone,
+      isVerified: user.isVerified,
+      accountStatus: user.accountStatus,
+      createdAt: user.createdAt,
+      updatedAt: user.updatedAt,
+    };
+
+    return {
+      success: true,
+      user: userWithoutPassword,
+      token,
+      message: "Login successful",
+    };
+  },
+});
+
+// Validate session and get current user
+export const validateSession = query({
+  args: {
+    token: v.string(),
+  },
+  handler: async (ctx, args) => {
+    const session = await ctx.db
+      .query("sessions")
+      .withIndex("token", (q) => q.eq("token", args.token))
+      .first();
+
+    if (!session) {
+      return null;
+    }
+
+    // Check if session is expired
+    const now = Date.now();
+    if (session.expiresAt < now) {
+      // Session is expired, return null (cleanup will happen elsewhere)
+      return null;
+    }
+
+    // Get user data
+    const user = await ctx.db.get(session.userId);
+    if (!user) {
+      return null;
+    }
+
+    // Return user data without password
+    return {
+      _id: user._id,
+      _creationTime: user._creationTime,
+      email: user.email,
+      name: user.name,
+      phone: user.phone,
+      isVerified: user.isVerified,
+      accountStatus: user.accountStatus,
+      createdAt: user.createdAt,
+      updatedAt: user.updatedAt,
+    };
+  },
+});
+
+// Update session last accessed time
+export const updateSessionActivity = mutation({
+  args: {
+    token: v.string(),
+  },
+  handler: async (ctx, args) => {
+    const session = await ctx.db
+      .query("sessions")
+      .withIndex("token", (q) => q.eq("token", args.token))
+      .first();
+
+    if (!session) {
+      return { success: false };
+    }
+
+    // Check if session is expired
+    const now = Date.now();
+    if (session.expiresAt < now) {
+      await ctx.db.delete(session._id);
+      return { success: false };
+    }
+
+    // Update last accessed time
+    await ctx.db.patch(session._id, {
+      lastAccessedAt: now,
+    });
+
+    return { success: true };
+  },
+});
+
+// Logout - delete session
+export const logout = mutation({
+  args: {
+    token: v.string(),
+  },
+  handler: async (ctx, args) => {
+    const session = await ctx.db
+      .query("sessions")
+      .withIndex("token", (q) => q.eq("token", args.token))
+      .first();
+
+    if (session) {
+      const now = Date.now();
+      await ctx.db.patch(session.userId, {
+        lastSeenAt: now,
+        updatedAt: now,
+      });
+
+      const presence = await ctx.db
+        .query("presence")
+        .withIndex("userId", (q: any) => q.eq("userId", session.userId))
+        .first();
+
+      if (presence) {
+        await ctx.db.patch(presence._id, {
+          status: "offline",
+          lastActiveAt: now,
+          updatedAt: now,
+        });
+      }
+
+      await ctx.db.delete(session._id);
+    }
+
+    return { success: true };
+  },
+});
+
+// Logout all sessions for a user
+export const logoutAll = mutation({
+  args: {
+    userId: v.id("users"),
+  },
+  handler: async (ctx, args) => {
+    const sessions = await ctx.db
+      .query("sessions")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .collect();
+
+    for (const session of sessions) {
+      await ctx.db.delete(session._id);
+    }
+
+    const now = Date.now();
+    await ctx.db.patch(args.userId, {
+      lastSeenAt: now,
+      updatedAt: now,
+    });
+
+    const presence = await ctx.db
+      .query("presence")
+      .withIndex("userId", (q: any) => q.eq("userId", args.userId))
+      .first();
+
+    if (presence) {
+      await ctx.db.patch(presence._id, {
+        status: "offline",
+        lastActiveAt: now,
+        updatedAt: now,
+      });
+    }
+
+    return { success: true };
+  },
+});
+
+// Get current user query (for authenticated routes) - DEPRECATED, use validateSession instead
+export const getCurrentUser = query({
+  args: {
+    userId: v.optional(v.id("users")),
+  },
+  handler: async (ctx, args) => {
+    if (!args.userId) {
+      return null;
+    }
+
+    const user = await ctx.db.get(args.userId);
+    if (!user) {
+      return null;
+    }
+
+    // Return user data without password
+    return {
+      _id: user._id,
+      _creationTime: user._creationTime,
+      email: user.email,
+      name: user.name,
+      phone: user.phone,
+      isVerified: user.isVerified,
+      accountStatus: user.accountStatus,
+      createdAt: user.createdAt,
+      updatedAt: user.updatedAt,
+    };
+  },
+});
+
+// Update user profile mutation
+export const updateProfile = mutation({
+  args: {
+    userId: v.id("users"),
+    name: v.optional(v.string()),
+    phone: v.optional(v.string()),
+  },
+  handler: async (ctx, args) => {
+    const { userId, ...updateData } = args;
+    
+    // Check if user exists
+    const existingUser = await ctx.db.get(userId);
+    if (!existingUser) {
+      throw new Error("User not found");
+    }
+
+    // Update user
+    await ctx.db.patch(userId, {
+      ...updateData,
+      updatedAt: Date.now(),
+    });
+
+    // Fetch the updated user
+    const updatedUser = await ctx.db.get(userId);
+    if (!updatedUser) {
+      throw new Error("Failed to update user");
+    }
+
+    // Return user data without password
+    return {
+      _id: updatedUser._id,
+      _creationTime: updatedUser._creationTime,
+      email: updatedUser.email,
+      name: updatedUser.name,
+      phone: updatedUser.phone,
+      isVerified: updatedUser.isVerified,
+      createdAt: updatedUser.createdAt,
+      updatedAt: updatedUser.updatedAt,
+    };
+  },
+});
+
+// Check if email exists query
+export const checkEmailExists = query({
+  args: {
+    email: v.string(),
+  },
+  handler: async (ctx, args) => {
+    const email = normalizeEmail(args.email);
+    const user = await ctx.db
+      .query("users")
+      .withIndex("email", (q) => q.eq("email", email))
+      .first();
+    
+    return !!user;
+  },
+});
+
+// Update last seen timestamp (for chat presence)
+export const updateLastSeen = mutation({
+  args: {
+    userId: v.id("users"),
+  },
+  handler: async (ctx, args) => {
+    const existingUser = await ctx.db.get(args.userId);
+    if (!existingUser) {
+      throw new Error("User not found");
+    }
+
+    const now = Date.now();
+    await ctx.db.patch(args.userId, {
+      lastSeenAt: now,
+      updatedAt: now,
+    });
+
+    return { success: true, lastSeenAt: now };
+  },
+});
+
+export const changeEmail = mutation({
+  args: {
+    userId: v.id("users"),
+    newEmail: v.string(),
+    password: v.string(),
+  },
+  handler: async (ctx, args) => {
+    const user = await ctx.db.get(args.userId);
+    if (!user) {
+      throw new Error("User not found");
+    }
+
+    const isValidPassword = await verifyPassword(args.password, user.password);
+    if (!isValidPassword) {
+      throw new Error("Invalid password");
+    }
+
+    const existingEmailUser = await ctx.db
+      .query("users")
+      .withIndex("email", (q) => q.eq("email", args.newEmail))
+      .first();
+
+    if (existingEmailUser && existingEmailUser._id !== args.userId) {
+      throw new Error("User with this email already exists");
+    }
+
+    const now = Date.now();
+    await ctx.db.patch(args.userId, {
+      email: args.newEmail,
+      updatedAt: now,
+    });
+
+    const updatedUser = await ctx.db.get(args.userId);
+    if (!updatedUser) {
+      throw new Error("Failed to update user");
+    }
+
+    return {
+      success: true,
+      user: {
+        _id: updatedUser._id,
+        _creationTime: updatedUser._creationTime,
+        email: updatedUser.email,
+        name: updatedUser.name,
+        phone: updatedUser.phone,
+        isVerified: updatedUser.isVerified,
+        createdAt: updatedUser.createdAt,
+        updatedAt: updatedUser.updatedAt,
+      },
+    };
+  },
+});
+
+export const changePassword = mutation({
+  args: {
+    userId: v.id("users"),
+    currentPassword: v.string(),
+    newPassword: v.string(),
+  },
+  handler: async (ctx, args) => {
+    const user = await ctx.db.get(args.userId);
+    if (!user) {
+      throw new Error("User not found");
+    }
+
+    const isValidPassword = await verifyPassword(args.currentPassword, user.password);
+    if (!isValidPassword) {
+      throw new Error("Invalid current password");
+    }
+
+    const hashedPassword = await hashPassword(args.newPassword);
+    const now = Date.now();
+    await ctx.db.patch(args.userId, {
+      password: hashedPassword,
+      updatedAt: now,
+    });
+
+    return { success: true };
+  },
+});

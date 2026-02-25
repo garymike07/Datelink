@@ -1,1 +1,361 @@
-{"data":"aW1wb3J0IHsgdiB9IGZyb20gImNvbnZleC92YWx1ZXMiOwppbXBvcnQgeyBtdXRhdGlvbiwgcXVlcnksIGludGVybmFsTXV0YXRpb24gfSBmcm9tICIuL19nZW5lcmF0ZWQvc2VydmVyIjsKaW1wb3J0IHR5cGUgeyBNdXRhdGlvbkN0eCB9IGZyb20gIi4vX2dlbmVyYXRlZC9zZXJ2ZXIiOwppbXBvcnQgeyBJZCB9IGZyb20gIi4vX2dlbmVyYXRlZC9kYXRhTW9kZWwiOwoKLy8gQmFkZ2UgZGVmaW5pdGlvbnMKZXhwb3J0IGNvbnN0IEJBREdFX0NPTkZJR1MgPSB7CiAgLy8gVmVyaWZpY2F0aW9uIEJhZGdlcwogIHZlcmlmaWVkX3Byb2ZpbGU6IHsKICAgIG5hbWU6ICJWZXJpZmllZCBQcm9maWxlIiwKICAgIGRlc2NyaXB0aW9uOiAiSWRlbnRpdHkgdmVyaWZpZWQgd2l0aCBzZWxmaWUiLAogICAgaWNvbjogIuKchSIsCiAgICBjYXRlZ29yeTogInZlcmlmaWNhdGlvbiIsCiAgICByYXJpdHk6ICJjb21tb24iLAogIH0sCiAgcGhvdG9fdmVyaWZpZWQ6IHsKICAgIG5hbWU6ICJQaG90byBWZXJpZmllZCIsCiAgICBkZXNjcmlwdGlvbjogIkFsbCBwaG90b3MgYXBwcm92ZWQiLAogICAgaWNvbjogIvCfk7giLAogICAgY2F0ZWdvcnk6ICJ2ZXJpZmljYXRpb24iLAogICAgcmFyaXR5OiAiY29tbW9uIiwKICB9LAogIGVtYWlsX3ZlcmlmaWVkOiB7CiAgICBuYW1lOiAiRW1haWwgVmVyaWZpZWQiLAogICAgZGVzY3JpcHRpb246ICJFbWFpbCBhZGRyZXNzIGNvbmZpcm1lZCIsCiAgICBpY29uOiAi8J+TpyIsCiAgICBjYXRlZ29yeTogInZlcmlmaWNhdGlvbiIsCiAgICByYXJpdHk6ICJjb21tb24iLAogIH0sCiAgcGhvbmVfdmVyaWZpZWQ6IHsKICAgIG5hbWU6ICJQaG9uZSBWZXJpZmllZCIsCiAgICBkZXNjcmlwdGlvbjogIlBob25lIG51bWJlciB2ZXJpZmllZCIsCiAgICBpY29uOiAi8J+TsSIsCiAgICBjYXRlZ29yeTogInZlcmlmaWNhdGlvbiIsCiAgICByYXJpdHk6ICJjb21tb24iLAogIH0sCgogIC8vIEFjdGl2aXR5IEJhZGdlcwogIHBvcHVsYXI6IHsKICAgIG5hbWU6ICJQb3B1bGFyIiwKICAgIGRlc2NyaXB0aW9uOiAiNTArIHByb2ZpbGUgdmlld3MgdGhpcyB3ZWVrIiwKICAgIGljb246ICLwn5SlIiwKICAgIGNhdGVnb3J5OiAiYWN0aXZpdHkiLAogICAgcmFyaXR5OiAicmFyZSIsCiAgfSwKICBxdWlja19yZXNwb25kZXI6IHsKICAgIG5hbWU6ICJRdWljayBSZXNwb25kZXIiLAogICAgZGVzY3JpcHRpb246ICJSZXBsaWVzIHdpdGhpbiAxIGhvdXIgb24gYXZlcmFnZSIsCiAgICBpY29uOiAi4pqhIiwKICAgIGNhdGVnb3J5OiAiYWN0aXZpdHkiLAogICAgcmFyaXR5OiAicmFyZSIsCiAgfSwKICBncmVhdF9jb252ZXJzYXRpb25hbGlzdDogewogICAgbmFtZTogIkdyZWF0IENvbnZlcnNhdGlvbmFsaXN0IiwKICAgIGRlc2NyaXB0aW9uOiAiTG9uZyBlbmdhZ2luZyBjb252ZXJzYXRpb25zIiwKICAgIGljb246ICLwn5KsIiwKICAgIGNhdGVnb3J5OiAiYWN0aXZpdHkiLAogICAgcmFyaXR5OiAicmFyZSIsCiAgfSwKICBzZXJpb3VzX2RhdGVyOiB7CiAgICBuYW1lOiAiU2VyaW91cyBEYXRlciIsCiAgICBkZXNjcmlwdGlvbjogIkxvb2tpbmcgZm9yIGEgc2VyaW91cyByZWxhdGlvbnNoaXAiLAogICAgaWNvbjogIvCfjq8iLAogICAgY2F0ZWdvcnk6ICJhY3Rpdml0eSIsCiAgICByYXJpdHk6ICJjb21tb24iLAogIH0sCgogIC8vIEFjaGlldmVtZW50IEJhZGdlcwogIHByb2ZpbGVfY29tcGxldGU6IHsKICAgIG5hbWU6ICJQcm9maWxlIENvbXBsZXRlIiwKICAgIGRlc2NyaXB0aW9uOiAiMTAwJSBwcm9maWxlIGNvbXBsZXRpb24iLAogICAgaWNvbjogIvCfjJ8iLAogICAgY2F0ZWdvcnk6ICJhY2hpZXZlbWVudCIsCiAgICByYXJpdHk6ICJjb21tb24iLAogIH0sCiAgcHJlbWl1bV9tZW1iZXI6IHsKICAgIG5hbWU6ICJQcmVtaXVtIE1lbWJlciIsCiAgICBkZXNjcmlwdGlvbjogIkFjdGl2ZSBwcmVtaXVtIHN1YnNjcmlwdGlvbiIsCiAgICBpY29uOiAi8J+SjiIsCiAgICBjYXRlZ29yeTogImFjaGlldmVtZW50IiwKICAgIHJhcml0eTogInJhcmUiLAogIH0sCiAgdG9wX3RpZXI6IHsKICAgIG5hbWU6ICJUb3AgVGllciIsCiAgICBkZXNjcmlwdGlvbjogIkhpZ2ggbWF0Y2ggcXVhbGl0eSBzY29yZSIsCiAgICBpY29uOiAi8J+PhiIsCiAgICBjYXRlZ29yeTogImFjaGlldmVtZW50IiwKICAgIHJhcml0eTogImVwaWMiLAogIH0sCiAgdmlwOiB7CiAgICBuYW1lOiAiVklQIiwKICAgIGRlc2NyaXB0aW9uOiAiUHJlbWl1bSBQbHVzIG1lbWJlciIsCiAgICBpY29uOiAi8J+RkSIsCiAgICBjYXRlZ29yeTogImFjaGlldmVtZW50IiwKICAgIHJhcml0eTogImxlZ2VuZGFyeSIsCiAgfSwKICBlYXJseV9hZG9wdGVyOiB7CiAgICBuYW1lOiAiRWFybHkgQWRvcHRlciIsCiAgICBkZXNjcmlwdGlvbjogIkpvaW5lZCBpbiB0aGUgZmlyc3QgbW9udGgiLAogICAgaWNvbjogIvCfmoAiLAogICAgY2F0ZWdvcnk6ICJhY2hpZXZlbWVudCIsCiAgICByYXJpdHk6ICJlcGljIiwKICB9LAogIG1hdGNobWFrZXI6IHsKICAgIG5hbWU6ICJNYXRjaG1ha2VyIiwKICAgIGRlc2NyaXB0aW9uOiAiNTArIHN1Y2Nlc3NmdWwgbWF0Y2hlcyIsCiAgICBpY29uOiAi8J+SmCIsCiAgICBjYXRlZ29yeTogImFjaGlldmVtZW50IiwKICAgIHJhcml0eTogImVwaWMiLAogIH0sCn07CgovLyBJbnRlcm5hbCBoZWxwZXIgdG8gYXdhcmQgYSBiYWRnZS4gU2FmZSB0byBjYWxsIGZyb20gb3RoZXIgc2VydmVyIGZ1bmN0aW9ucy4KYXN5bmMgZnVuY3Rpb24gYXdhcmRCYWRnZUludGVybmFsKAogIGN0eDogTXV0YXRpb25DdHgsCiAgdXNlcklkOiBJZDwidXNlcnMiPiwKICBiYWRnZUlkOiBzdHJpbmcKKSB7CiAgLy8gR2V0IHVzZXIgcHJvZ3Jlc3MKICBsZXQgcHJvZ3Jlc3MgPSBhd2FpdCBjdHguZGIKICAgIC5xdWVyeSgidXNlclByb2dyZXNzIikKICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCB1c2VySWQpKQogICAgLmZpcnN0KCk7CgogIGlmICghcHJvZ3Jlc3MpIHsKICAgIC8vIENyZWF0ZSBwcm9ncmVzcyBpZiBpdCBkb2Vzbid0IGV4aXN0CiAgICBjb25zdCBwcm9ncmVzc0lkID0gYXdhaXQgY3R4LmRiLmluc2VydCgidXNlclByb2dyZXNzIiwgewogICAgICB1c2VySWQsCiAgICAgIGxldmVsOiAxLAogICAgICB4cDogMCwKICAgICAgYmFkZ2VzOiBbXSwKICAgICAgY3JlYXRlZEF0OiBEYXRlLm5vdygpLAogICAgICB1cGRhdGVkQXQ6IERhdGUubm93KCksCiAgICB9KTsKICAgIHByb2dyZXNzID0gYXdhaXQgY3R4LmRiLmdldChwcm9ncmVzc0lkKTsKICB9CgogIGlmICghcHJvZ3Jlc3MpIHRocm93IG5ldyBFcnJvcigiRmFpbGVkIHRvIGNyZWF0ZSB1c2VyIHByb2dyZXNzIik7CgogIC8vIENoZWNrIGlmIGJhZGdlIGFscmVhZHkgYXdhcmRlZAogIGlmIChwcm9ncmVzcy5iYWRnZXMuaW5jbHVkZXMoYmFkZ2VJZCkpIHsKICAgIHJldHVybiB7IGFscmVhZHlIYXM6IHRydWUgYXMgY29uc3QgfTsKICB9CgogIC8vIEFkZCBiYWRnZQogIGNvbnN0IG5ld0JhZGdlcyA9IFsuLi5wcm9ncmVzcy5iYWRnZXMsIGJhZGdlSWRdOwogIGF3YWl0IGN0eC5kYi5wYXRjaChwcm9ncmVzcy5faWQsIHsKICAgIGJhZGdlczogbmV3QmFkZ2VzLAogICAgdXBkYXRlZEF0OiBEYXRlLm5vdygpLAogIH0pOwoKICAvLyBMb2cgYWN0aXZpdHkKICBhd2FpdCBjdHguZGIuaW5zZXJ0KCJhY3Rpdml0eUxvZyIsIHsKICAgIHVzZXJJZCwKICAgIGFjdGl2aXR5VHlwZTogImJhZGdlX2Vhcm5lZCIsCiAgICBtZXRhZGF0YTogeyBiYWRnZUlkIH0sCiAgICB0aW1lc3RhbXA6IERhdGUubm93KCksCiAgfSk7CgogIHJldHVybiB7CiAgICBzdWNjZXNzOiB0cnVlIGFzIGNvbnN0LAogICAgYmFkZ2VJZCwKICAgIGJhZGdlQ29uZmlnOiBCQURHRV9DT05GSUdTW2JhZGdlSWQgYXMga2V5b2YgdHlwZW9mIEJBREdFX0NPTkZJR1NdLAogIH07Cn0KCi8vIEluaXRpYWxpemUgYmFkZ2UgZGVmaW5pdGlvbnMgaW4gZGF0YWJhc2UKZXhwb3J0IGNvbnN0IGluaXRpYWxpemVCYWRnZXMgPSBpbnRlcm5hbE11dGF0aW9uKHsKICBoYW5kbGVyOiBhc3luYyAoY3R4KSA9PiB7CiAgICBjb25zdCBub3cgPSBEYXRlLm5vdygpOwogICAgCiAgICBmb3IgKGNvbnN0IFtiYWRnZUlkLCBjb25maWddIG9mIE9iamVjdC5lbnRyaWVzKEJBREdFX0NPTkZJR1MpKSB7CiAgICAgIGNvbnN0IGV4aXN0aW5nID0gYXdhaXQgY3R4LmRiCiAgICAgICAgLnF1ZXJ5KCJiYWRnZURlZmluaXRpb25zIikKICAgICAgICAud2l0aEluZGV4KCJiYWRnZUlkIiwgKHEpID0+IHEuZXEoImJhZGdlSWQiLCBiYWRnZUlkKSkKICAgICAgICAuZmlyc3QoKTsKCiAgICAgIGlmICghZXhpc3RpbmcpIHsKICAgICAgICBhd2FpdCBjdHguZGIuaW5zZXJ0KCJiYWRnZURlZmluaXRpb25zIiwgewogICAgICAgICAgYmFkZ2VJZCwKICAgICAgICAgIG5hbWU6IGNvbmZpZy5uYW1lLAogICAgICAgICAgZGVzY3JpcHRpb246IGNvbmZpZy5kZXNjcmlwdGlvbiwKICAgICAgICAgIGljb246IGNvbmZpZy5pY29uLAogICAgICAgICAgY2F0ZWdvcnk6IGNvbmZpZy5jYXRlZ29yeSwKICAgICAgICAgIHJhcml0eTogY29uZmlnLnJhcml0eSwKICAgICAgICAgIGlzQWN0aXZlOiB0cnVlLAogICAgICAgICAgY3JlYXRlZEF0OiBub3csCiAgICAgICAgfSk7CiAgICAgIH0KICAgIH0KICB9LAp9KTsKCi8vIEF3YXJkIGEgYmFkZ2UgdG8gYSB1c2VyCmV4cG9ydCBjb25zdCBhd2FyZEJhZGdlID0gbXV0YXRpb24oewogIGFyZ3M6IHsKICAgIHVzZXJJZDogdi5pZCgidXNlcnMiKSwKICAgIGJhZGdlSWQ6IHYuc3RyaW5nKCksCiAgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICByZXR1cm4gYXdhaXQgYXdhcmRCYWRnZUludGVybmFsKGN0eCwgYXJncy51c2VySWQsIGFyZ3MuYmFkZ2VJZCk7CiAgfSwKfSk7CgovLyBHZXQgdXNlcidzIGJhZGdlcwpleHBvcnQgY29uc3QgZ2V0VXNlckJhZGdlcyA9IHF1ZXJ5KHsKICBhcmdzOiB7IHVzZXJJZDogdi5pZCgidXNlcnMiKSB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGNvbnN0IHByb2dyZXNzID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgidXNlclByb2dyZXNzIikKICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIGFyZ3MudXNlcklkKSkKICAgICAgLmZpcnN0KCk7CgogICAgaWYgKCFwcm9ncmVzcyB8fCAhcHJvZ3Jlc3MuYmFkZ2VzLmxlbmd0aCkgewogICAgICByZXR1cm4gW107CiAgICB9CgogICAgLy8gR2V0IGJhZGdlIGRlZmluaXRpb25zCiAgICBjb25zdCBiYWRnZXMgPSBhd2FpdCBQcm9taXNlLmFsbCgKICAgICAgcHJvZ3Jlc3MuYmFkZ2VzLm1hcChhc3luYyAoYmFkZ2VJZCkgPT4gewogICAgICAgIGNvbnN0IGRlZmluaXRpb24gPSBhd2FpdCBjdHguZGIKICAgICAgICAgIC5xdWVyeSgiYmFkZ2VEZWZpbml0aW9ucyIpCiAgICAgICAgICAud2l0aEluZGV4KCJiYWRnZUlkIiwgKHEpID0+IHEuZXEoImJhZGdlSWQiLCBiYWRnZUlkKSkKICAgICAgICAgIC5maXJzdCgpOwogICAgICAgIAogICAgICAgIHJldHVybiBkZWZpbml0aW9uIHx8IHsKICAgICAgICAgIGJhZGdlSWQsCiAgICAgICAgICAuLi4oQkFER0VfQ09ORklHU1tiYWRnZUlkIGFzIGtleW9mIHR5cGVvZiBCQURHRV9DT05GSUdTXSB8fCB7fSksCiAgICAgICAgfTsKICAgICAgfSkKICAgICk7CgogICAgcmV0dXJuIGJhZGdlczsKICB9LAp9KTsKCi8vIENoZWNrIGFuZCBhd2FyZCBhdXRvbWF0aWMgYmFkZ2VzCmV4cG9ydCBjb25zdCBjaGVja0FuZEF3YXJkQmFkZ2VzID0gbXV0YXRpb24oewogIGFyZ3M6IHsgdXNlcklkOiB2LmlkKCJ1c2VycyIpIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3QgYXdhcmRlZDogc3RyaW5nW10gPSBbXTsKCiAgICAvLyBHZXQgdXNlciBkYXRhCiAgICBjb25zdCB1c2VyID0gYXdhaXQgY3R4LmRiLmdldChhcmdzLnVzZXJJZCk7CiAgICBpZiAoIXVzZXIpIHJldHVybiBhd2FyZGVkOwoKICAgIGNvbnN0IHByb2ZpbGUgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJwcm9maWxlcyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCBhcmdzLnVzZXJJZCkpCiAgICAgIC5maXJzdCgpOwoKICAgIGNvbnN0IHByb2dyZXNzID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgidXNlclByb2dyZXNzIikKICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIGFyZ3MudXNlcklkKSkKICAgICAgLmZpcnN0KCk7CgogICAgY29uc3QgZXhpc3RpbmdCYWRnZXMgPSBwcm9ncmVzcz8uYmFkZ2VzIHx8IFtdOwoKICAgIC8vIENoZWNrIEVtYWlsIFZlcmlmaWVkCiAgICBpZiAodXNlci5lbWFpbFZlcmlmaWVkICYmICFleGlzdGluZ0JhZGdlcy5pbmNsdWRlcygiZW1haWxfdmVyaWZpZWQiKSkgewogICAgICBhd2FpdCBhd2FyZEJhZGdlSW50ZXJuYWwoY3R4LCBhcmdzLnVzZXJJZCwgImVtYWlsX3ZlcmlmaWVkIik7CiAgICAgIGF3YXJkZWQucHVzaCgiZW1haWxfdmVyaWZpZWQiKTsKICAgIH0KCiAgICAvLyBDaGVjayBQcm9maWxlIFZlcmlmaWVkCiAgICBjb25zdCB2ZXJpZmljYXRpb24gPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJ2ZXJpZmljYXRpb25zIikKICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIGFyZ3MudXNlcklkKSkKICAgICAgLmZpbHRlcigocSkgPT4gcS5lcShxLmZpZWxkKCJzdGF0dXMiKSwgImFwcHJvdmVkIikpCiAgICAgIC5maXJzdCgpOwoKICAgIGlmICh2ZXJpZmljYXRpb24gJiYgIWV4aXN0aW5nQmFkZ2VzLmluY2x1ZGVzKCJ2ZXJpZmllZF9wcm9maWxlIikpIHsKICAgICAgYXdhaXQgYXdhcmRCYWRnZUludGVybmFsKGN0eCwgYXJncy51c2VySWQsICJ2ZXJpZmllZF9wcm9maWxlIik7CiAgICAgIGF3YXJkZWQucHVzaCgidmVyaWZpZWRfcHJvZmlsZSIpOwogICAgfQoKICAgIC8vIENoZWNrIFByb2ZpbGUgQ29tcGxldGUKICAgIGlmIChwcm9maWxlICYmIHByb2ZpbGUuY29tcGxldGVuZXNzID49IDEwMCAmJiAhZXhpc3RpbmdCYWRnZXMuaW5jbHVkZXMoInByb2ZpbGVfY29tcGxldGUiKSkgewogICAgICBhd2FpdCBhd2FyZEJhZGdlSW50ZXJuYWwoY3R4LCBhcmdzLnVzZXJJZCwgInByb2ZpbGVfY29tcGxldGUiKTsKICAgICAgYXdhcmRlZC5wdXNoKCJwcm9maWxlX2NvbXBsZXRlIik7CiAgICB9CgogICAgLy8gQ2hlY2sgUHJlbWl1bSBNZW1iZXIKICAgIGNvbnN0IHN1YnNjcmlwdGlvbiA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoInN1YnNjcmlwdGlvbnMiKQogICAgICAud2l0aEluZGV4KCJ1c2VySWQiLCAocSkgPT4gcS5lcSgidXNlcklkIiwgYXJncy51c2VySWQpKQogICAgICAuZmlsdGVyKChxKSA9PiAKICAgICAgICBxLmFuZCgKICAgICAgICAgIHEuZXEocS5maWVsZCgic3RhdHVzIiksICJhY3RpdmUiKSwKICAgICAgICAgIHEuZXEocS5maWVsZCgicGxhbiIpLCAicHJlbWl1bSIpCiAgICAgICAgKQogICAgICApCiAgICAgIC5maXJzdCgpOwoKICAgIGlmIChzdWJzY3JpcHRpb24gJiYgIWV4aXN0aW5nQmFkZ2VzLmluY2x1ZGVzKCJwcmVtaXVtX21lbWJlciIpKSB7CiAgICAgIGF3YWl0IGF3YXJkQmFkZ2VJbnRlcm5hbChjdHgsIGFyZ3MudXNlcklkLCAicHJlbWl1bV9tZW1iZXIiKTsKICAgICAgYXdhcmRlZC5wdXNoKCJwcmVtaXVtX21lbWJlciIpOwogICAgfQoKICAgIC8vIENoZWNrIFNlcmlvdXMgRGF0ZXIKICAgIGlmIChwcm9maWxlPy5yZWxhdGlvbnNoaXBHb2FsID09PSAic2VyaW91cyIgJiYgIWV4aXN0aW5nQmFkZ2VzLmluY2x1ZGVzKCJzZXJpb3VzX2RhdGVyIikpIHsKICAgICAgYXdhaXQgYXdhcmRCYWRnZUludGVybmFsKGN0eCwgYXJncy51c2VySWQsICJzZXJpb3VzX2RhdGVyIik7CiAgICAgIGF3YXJkZWQucHVzaCgic2VyaW91c19kYXRlciIpOwogICAgfQoKICAgIC8vIENoZWNrIE1hdGNobWFrZXIgKDUwKyBtYXRjaGVzKQogICAgY29uc3QgbWF0Y2hlc1VzZXIxID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgibWF0Y2hlcyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXIxSWQiLCAocSkgPT4gcS5lcSgidXNlcjFJZCIsIGFyZ3MudXNlcklkKSkKICAgICAgLmNvbGxlY3QoKTsKCiAgICBjb25zdCBtYXRjaGVzVXNlcjIgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJtYXRjaGVzIikKICAgICAgLndpdGhJbmRleCgidXNlcjJJZCIsIChxKSA9PiBxLmVxKCJ1c2VyMklkIiwgYXJncy51c2VySWQpKQogICAgICAuY29sbGVjdCgpOwoKICAgIGNvbnN0IHRvdGFsTWF0Y2hlcyA9IG1hdGNoZXNVc2VyMS5sZW5ndGggKyBtYXRjaGVzVXNlcjIubGVuZ3RoOwogICAgaWYgKHRvdGFsTWF0Y2hlcyA+PSA1MCAmJiAhZXhpc3RpbmdCYWRnZXMuaW5jbHVkZXMoIm1hdGNobWFrZXIiKSkgewogICAgICBhd2FpdCBhd2FyZEJhZGdlSW50ZXJuYWwoY3R4LCBhcmdzLnVzZXJJZCwgIm1hdGNobWFrZXIiKTsKICAgICAgYXdhcmRlZC5wdXNoKCJtYXRjaG1ha2VyIik7CiAgICB9CgogICAgLy8gQ2hlY2sgUG9wdWxhciAoNTArIHZpZXdzIHRoaXMgd2VlaykKICAgIGNvbnN0IG9uZVdlZWtBZ28gPSBEYXRlLm5vdygpIC0gNyAqIDI0ICogNjAgKiA2MCAqIDEwMDA7CiAgICBjb25zdCByZWNlbnRWaWV3cyA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoImFjdGl2aXR5TG9nIikKICAgICAgLndpdGhJbmRleCgidXNlclRpbWVzdGFtcCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCBhcmdzLnVzZXJJZCkpCiAgICAgIC5maWx0ZXIoKHEpID0+IAogICAgICAgIHEuYW5kKAogICAgICAgICAgcS5lcShxLmZpZWxkKCJhY3Rpdml0eVR5cGUiKSwgInByb2ZpbGVfdmlld2VkIiksCiAgICAgICAgICBxLmd0KHEuZmllbGQoInRpbWVzdGFtcCIpLCBvbmVXZWVrQWdvKQogICAgICAgICkKICAgICAgKQogICAgICAuY29sbGVjdCgpOwoKICAgIGlmIChyZWNlbnRWaWV3cy5sZW5ndGggPj0gNTAgJiYgIWV4aXN0aW5nQmFkZ2VzLmluY2x1ZGVzKCJwb3B1bGFyIikpIHsKICAgICAgYXdhaXQgYXdhcmRCYWRnZUludGVybmFsKGN0eCwgYXJncy51c2VySWQsICJwb3B1bGFyIik7CiAgICAgIGF3YXJkZWQucHVzaCgicG9wdWxhciIpOwogICAgfQoKICAgIC8vIENoZWNrIFRvcCBUaWVyIChoaWdoIEVMTykKICAgIGlmIChwcm9maWxlICYmIChwcm9maWxlLmVsbyB8fCAwKSA+PSAxNTAwICYmICFleGlzdGluZ0JhZGdlcy5pbmNsdWRlcygidG9wX3RpZXIiKSkgewogICAgICBhd2FpdCBhd2FyZEJhZGdlSW50ZXJuYWwoY3R4LCBhcmdzLnVzZXJJZCwgInRvcF90aWVyIik7CiAgICAgIGF3YXJkZWQucHVzaCgidG9wX3RpZXIiKTsKICAgIH0KCiAgICByZXR1cm4gYXdhcmRlZDsKICB9LAp9KTsKCi8vIEdldCBhbGwgYmFkZ2UgZGVmaW5pdGlvbnMKZXhwb3J0IGNvbnN0IGdldEFsbEJhZGdlcyA9IHF1ZXJ5KHsKICBoYW5kbGVyOiBhc3luYyAoY3R4KSA9PiB7CiAgICBjb25zdCBiYWRnZXMgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJiYWRnZURlZmluaXRpb25zIikKICAgICAgLmZpbHRlcigocSkgPT4gcS5lcShxLmZpZWxkKCJpc0FjdGl2ZSIpLCB0cnVlKSkKICAgICAgLmNvbGxlY3QoKTsKCiAgICByZXR1cm4gYmFkZ2VzOwogIH0sCn0pOwo="}
+import { v } from "convex/values";
+import { mutation, query, internalMutation } from "./_generated/server";
+import type { MutationCtx } from "./_generated/server";
+import { Id } from "./_generated/dataModel";
+
+// Badge definitions
+export const BADGE_CONFIGS = {
+  // Verification Badges
+  verified_profile: {
+    name: "Verified Profile",
+    description: "Identity verified with selfie",
+    icon: "✅",
+    category: "verification",
+    rarity: "common",
+  },
+  photo_verified: {
+    name: "Photo Verified",
+    description: "All photos approved",
+    icon: "📸",
+    category: "verification",
+    rarity: "common",
+  },
+  email_verified: {
+    name: "Email Verified",
+    description: "Email address confirmed",
+    icon: "📧",
+    category: "verification",
+    rarity: "common",
+  },
+  phone_verified: {
+    name: "Phone Verified",
+    description: "Phone number verified",
+    icon: "📱",
+    category: "verification",
+    rarity: "common",
+  },
+
+  // Activity Badges
+  popular: {
+    name: "Popular",
+    description: "50+ profile views this week",
+    icon: "🔥",
+    category: "activity",
+    rarity: "rare",
+  },
+  quick_responder: {
+    name: "Quick Responder",
+    description: "Replies within 1 hour on average",
+    icon: "⚡",
+    category: "activity",
+    rarity: "rare",
+  },
+  great_conversationalist: {
+    name: "Great Conversationalist",
+    description: "Long engaging conversations",
+    icon: "💬",
+    category: "activity",
+    rarity: "rare",
+  },
+  serious_dater: {
+    name: "Serious Dater",
+    description: "Looking for a serious relationship",
+    icon: "🎯",
+    category: "activity",
+    rarity: "common",
+  },
+
+  // Achievement Badges
+  profile_complete: {
+    name: "Profile Complete",
+    description: "100% profile completion",
+    icon: "🌟",
+    category: "achievement",
+    rarity: "common",
+  },
+  premium_member: {
+    name: "Premium Member",
+    description: "Active premium subscription",
+    icon: "💎",
+    category: "achievement",
+    rarity: "rare",
+  },
+  top_tier: {
+    name: "Top Tier",
+    description: "High match quality score",
+    icon: "🏆",
+    category: "achievement",
+    rarity: "epic",
+  },
+  vip: {
+    name: "VIP",
+    description: "Premium Plus member",
+    icon: "👑",
+    category: "achievement",
+    rarity: "legendary",
+  },
+  early_adopter: {
+    name: "Early Adopter",
+    description: "Joined in the first month",
+    icon: "🚀",
+    category: "achievement",
+    rarity: "epic",
+  },
+  matchmaker: {
+    name: "Matchmaker",
+    description: "50+ successful matches",
+    icon: "💘",
+    category: "achievement",
+    rarity: "epic",
+  },
+};
+
+// Internal helper to award a badge. Safe to call from other server functions.
+async function awardBadgeInternal(
+  ctx: MutationCtx,
+  userId: Id<"users">,
+  badgeId: string
+) {
+  // Get user progress
+  let progress = await ctx.db
+    .query("userProgress")
+    .withIndex("userId", (q) => q.eq("userId", userId))
+    .first();
+
+  if (!progress) {
+    // Create progress if it doesn't exist
+    const progressId = await ctx.db.insert("userProgress", {
+      userId,
+      level: 1,
+      xp: 0,
+      badges: [],
+      createdAt: Date.now(),
+      updatedAt: Date.now(),
+    });
+    progress = await ctx.db.get(progressId);
+  }
+
+  if (!progress) throw new Error("Failed to create user progress");
+
+  // Check if badge already awarded
+  if (progress.badges.includes(badgeId)) {
+    return { alreadyHas: true as const };
+  }
+
+  // Add badge
+  const newBadges = [...progress.badges, badgeId];
+  await ctx.db.patch(progress._id, {
+    badges: newBadges,
+    updatedAt: Date.now(),
+  });
+
+  // Log activity
+  await ctx.db.insert("activityLog", {
+    userId,
+    activityType: "badge_earned",
+    metadata: { badgeId },
+    timestamp: Date.now(),
+  });
+
+  return {
+    success: true as const,
+    badgeId,
+    badgeConfig: BADGE_CONFIGS[badgeId as keyof typeof BADGE_CONFIGS],
+  };
+}
+
+// Initialize badge definitions in database
+export const initializeBadges = internalMutation({
+  handler: async (ctx) => {
+    const now = Date.now();
+    
+    for (const [badgeId, config] of Object.entries(BADGE_CONFIGS)) {
+      const existing = await ctx.db
+        .query("badgeDefinitions")
+        .withIndex("badgeId", (q) => q.eq("badgeId", badgeId))
+        .first();
+
+      if (!existing) {
+        await ctx.db.insert("badgeDefinitions", {
+          badgeId,
+          name: config.name,
+          description: config.description,
+          icon: config.icon,
+          category: config.category,
+          rarity: config.rarity,
+          isActive: true,
+          createdAt: now,
+        });
+      }
+    }
+  },
+});
+
+// Award a badge to a user
+export const awardBadge = mutation({
+  args: {
+    userId: v.id("users"),
+    badgeId: v.string(),
+  },
+  handler: async (ctx, args) => {
+    return await awardBadgeInternal(ctx, args.userId, args.badgeId);
+  },
+});
+
+// Get user's badges
+export const getUserBadges = query({
+  args: { userId: v.id("users") },
+  handler: async (ctx, args) => {
+    const progress = await ctx.db
+      .query("userProgress")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .first();
+
+    if (!progress || !progress.badges.length) {
+      return [];
+    }
+
+    // Get badge definitions
+    const badges = await Promise.all(
+      progress.badges.map(async (badgeId) => {
+        const definition = await ctx.db
+          .query("badgeDefinitions")
+          .withIndex("badgeId", (q) => q.eq("badgeId", badgeId))
+          .first();
+        
+        return definition || {
+          badgeId,
+          ...(BADGE_CONFIGS[badgeId as keyof typeof BADGE_CONFIGS] || {}),
+        };
+      })
+    );
+
+    return badges;
+  },
+});
+
+// Check and award automatic badges
+export const checkAndAwardBadges = mutation({
+  args: { userId: v.id("users") },
+  handler: async (ctx, args) => {
+    const awarded: string[] = [];
+
+    // Get user data
+    const user = await ctx.db.get(args.userId);
+    if (!user) return awarded;
+
+    const profile = await ctx.db
+      .query("profiles")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .first();
+
+    const progress = await ctx.db
+      .query("userProgress")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .first();
+
+    const existingBadges = progress?.badges || [];
+
+    // Check Email Verified
+    if (user.emailVerified && !existingBadges.includes("email_verified")) {
+      await awardBadgeInternal(ctx, args.userId, "email_verified");
+      awarded.push("email_verified");
+    }
+
+    // Check Profile Verified
+    const verification = await ctx.db
+      .query("verifications")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .filter((q) => q.eq(q.field("status"), "approved"))
+      .first();
+
+    if (verification && !existingBadges.includes("verified_profile")) {
+      await awardBadgeInternal(ctx, args.userId, "verified_profile");
+      awarded.push("verified_profile");
+    }
+
+    // Check Profile Complete
+    if (profile && profile.completeness >= 100 && !existingBadges.includes("profile_complete")) {
+      await awardBadgeInternal(ctx, args.userId, "profile_complete");
+      awarded.push("profile_complete");
+    }
+
+    // Check Premium Member
+    const subscription = await ctx.db
+      .query("subscriptions")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .filter((q) => 
+        q.and(
+          q.eq(q.field("status"), "active"),
+          q.eq(q.field("plan"), "premium")
+        )
+      )
+      .first();
+
+    if (subscription && !existingBadges.includes("premium_member")) {
+      await awardBadgeInternal(ctx, args.userId, "premium_member");
+      awarded.push("premium_member");
+    }
+
+    // Check Serious Dater
+    if (profile?.relationshipGoal === "serious" && !existingBadges.includes("serious_dater")) {
+      await awardBadgeInternal(ctx, args.userId, "serious_dater");
+      awarded.push("serious_dater");
+    }
+
+    // Check Matchmaker (50+ matches)
+    const matchesUser1 = await ctx.db
+      .query("matches")
+      .withIndex("user1Id", (q) => q.eq("user1Id", args.userId))
+      .collect();
+
+    const matchesUser2 = await ctx.db
+      .query("matches")
+      .withIndex("user2Id", (q) => q.eq("user2Id", args.userId))
+      .collect();
+
+    const totalMatches = matchesUser1.length + matchesUser2.length;
+    if (totalMatches >= 50 && !existingBadges.includes("matchmaker")) {
+      await awardBadgeInternal(ctx, args.userId, "matchmaker");
+      awarded.push("matchmaker");
+    }
+
+    // Check Popular (50+ views this week)
+    const oneWeekAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
+    const recentViews = await ctx.db
+      .query("activityLog")
+      .withIndex("userTimestamp", (q) => q.eq("userId", args.userId))
+      .filter((q) => 
+        q.and(
+          q.eq(q.field("activityType"), "profile_viewed"),
+          q.gt(q.field("timestamp"), oneWeekAgo)
+        )
+      )
+      .collect();
+
+    if (recentViews.length >= 50 && !existingBadges.includes("popular")) {
+      await awardBadgeInternal(ctx, args.userId, "popular");
+      awarded.push("popular");
+    }
+
+    // Check Top Tier (high ELO)
+    if (profile && (profile.elo || 0) >= 1500 && !existingBadges.includes("top_tier")) {
+      await awardBadgeInternal(ctx, args.userId, "top_tier");
+      awarded.push("top_tier");
+    }
+
+    return awarded;
+  },
+});
+
+// Get all badge definitions
+export const getAllBadges = query({
+  handler: async (ctx) => {
+    const badges = await ctx.db
+      .query("badgeDefinitions")
+      .filter((q) => q.eq(q.field("isActive"), true))
+      .collect();
+
+    return badges;
+  },
+});

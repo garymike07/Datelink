@@ -1,1 +1,61 @@
-{"data":"aW1wb3J0IHsgdXNlTmF2aWdhdGUgfSBmcm9tICJyZWFjdC1yb3V0ZXItZG9tIjsKaW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2J1dHRvbiI7CmltcG9ydCB7IENhcmQgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvY2FyZCI7CmltcG9ydCB7IEFycm93TGVmdCwgQ29va2llIH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKCmNvbnN0IENvb2tpZXMgPSAoKSA9PiB7CiAgY29uc3QgbmF2aWdhdGUgPSB1c2VOYXZpZ2F0ZSgpOwoKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9Im1pbi1oLXNjcmVlbiBiZy1iYWNrZ3JvdW5kIj4KICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbnRhaW5lciBteC1hdXRvIHB4LTIgc206cHgtMyBtZDpweC00IHB5LTQgc206cHktNiBtZDpweS04IG1heC13LTR4bCI+CiAgICAgICAgPEJ1dHRvbiB2YXJpYW50PSJnaG9zdCIgb25DbGljaz17KCkgPT4gbmF2aWdhdGUoLTEpfSBjbGFzc05hbWU9Im1iLTYiPgogICAgICAgICAgPEFycm93TGVmdCBjbGFzc05hbWU9InctNCBoLTQgbXItMiIgLz4KICAgICAgICAgIEJhY2sKICAgICAgICA8L0J1dHRvbj4KCiAgICAgICAgPENhcmQgY2xhc3NOYW1lPSJwLTYgc206cC04Ij4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyBtYi0zIj4KICAgICAgICAgICAgPENvb2tpZSBjbGFzc05hbWU9InctNiBoLTYgdGV4dC1wcmltYXJ5IiAvPgogICAgICAgICAgICA8aDEgY2xhc3NOYW1lPSJ0ZXh0LTN4bCBmb250LWJvbGQiPkNvb2tpZSBQb2xpY3k8L2gxPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIG1iLTgiPkxhc3QgdXBkYXRlZDogSmFudWFyeSAxNCwgMjAyNjwvcD4KCiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS02IHRleHQtc20iPgogICAgICAgICAgICA8c2VjdGlvbj4KICAgICAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LWxnIGZvbnQtc2VtaWJvbGQgbWItMiI+V2hhdCBhcmUgY29va2llcz88L2gyPgogICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgICAgIENvb2tpZXMgYXJlIHNtYWxsIHRleHQgZmlsZXMgc3RvcmVkIG9uIHlvdXIgZGV2aWNlIHRoYXQgaGVscCB3ZWJzaXRlcyByZW1lbWJlciBwcmVmZXJlbmNlcyBhbmQgdW5kZXJzdGFuZAogICAgICAgICAgICAgICAgaG93IHRoZSBzaXRlIGlzIHVzZWQuCiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8L3NlY3Rpb24+CgogICAgICAgICAgICA8c2VjdGlvbj4KICAgICAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LWxnIGZvbnQtc2VtaWJvbGQgbWItMiI+SG93IHdlIHVzZSBjb29raWVzPC9oMj4KICAgICAgICAgICAgICA8dWwgY2xhc3NOYW1lPSJsaXN0LWRpc2MgcGwtNiBzcGFjZS15LTIgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgICAgIDxsaT5Fc3NlbnRpYWw6IGF1dGhlbnRpY2F0aW9uLCBzZWN1cml0eSwgYW5kIGNvcmUgc2l0ZSBmdW5jdGlvbmFsaXR5PC9saT4KICAgICAgICAgICAgICAgIDxsaT5QcmVmZXJlbmNlczogbGFuZ3VhZ2UsIHRoZW1lLCBhbmQgb3RoZXIgc2V0dGluZ3M8L2xpPgogICAgICAgICAgICAgICAgPGxpPkFuYWx5dGljczogdW5kZXJzdGFuZGluZyB1c2FnZSB0byBpbXByb3ZlIHBlcmZvcm1hbmNlIGFuZCBmZWF0dXJlczwvbGk+CiAgICAgICAgICAgICAgPC91bD4KICAgICAgICAgICAgPC9zZWN0aW9uPgoKICAgICAgICAgICAgPHNlY3Rpb24+CiAgICAgICAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC1sZyBmb250LXNlbWlib2xkIG1iLTIiPk1hbmFnaW5nIGNvb2tpZXM8L2gyPgogICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgICAgIFlvdSBjYW4gY29udHJvbCBjb29raWVzIHRocm91Z2ggeW91ciBicm93c2VyIHNldHRpbmdzLiBEaXNhYmxpbmcgc29tZSBjb29raWVzIG1heSBhZmZlY3Qgc2l0ZQogICAgICAgICAgICAgICAgZnVuY3Rpb25hbGl0eS4KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDwvc2VjdGlvbj4KCiAgICAgICAgICAgIDxzZWN0aW9uPgogICAgICAgICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQtbGcgZm9udC1zZW1pYm9sZCBtYi0yIj5Db250YWN0PC9oMj4KICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+UXVlc3Rpb25zPyBFbWFpbCBwcml2YWN5QGRhdGVsaW5rLmNvbTwvcD4KICAgICAgICAgICAgPC9zZWN0aW9uPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9DYXJkPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn07CgpleHBvcnQgZGVmYXVsdCBDb29raWVzOwo="}
+import { useNavigate } from "react-router-dom";
+import { Button } from "@/components/ui/button";
+import { Card } from "@/components/ui/card";
+import { ArrowLeft, Cookie } from "lucide-react";
+
+const Cookies = () => {
+  const navigate = useNavigate();
+
+  return (
+    <div className="min-h-screen bg-background">
+      <div className="container mx-auto px-2 sm:px-3 md:px-4 py-4 sm:py-6 md:py-8 max-w-4xl">
+        <Button variant="ghost" onClick={() => navigate(-1)} className="mb-6">
+          <ArrowLeft className="w-4 h-4 mr-2" />
+          Back
+        </Button>
+
+        <Card className="p-6 sm:p-8">
+          <div className="flex items-center gap-3 mb-3">
+            <Cookie className="w-6 h-6 text-primary" />
+            <h1 className="text-3xl font-bold">Cookie Policy</h1>
+          </div>
+          <p className="text-sm text-muted-foreground mb-8">Last updated: January 14, 2026</p>
+
+          <div className="space-y-6 text-sm">
+            <section>
+              <h2 className="text-lg font-semibold mb-2">What are cookies?</h2>
+              <p className="text-muted-foreground">
+                Cookies are small text files stored on your device that help websites remember preferences and understand
+                how the site is used.
+              </p>
+            </section>
+
+            <section>
+              <h2 className="text-lg font-semibold mb-2">How we use cookies</h2>
+              <ul className="list-disc pl-6 space-y-2 text-muted-foreground">
+                <li>Essential: authentication, security, and core site functionality</li>
+                <li>Preferences: language, theme, and other settings</li>
+                <li>Analytics: understanding usage to improve performance and features</li>
+              </ul>
+            </section>
+
+            <section>
+              <h2 className="text-lg font-semibold mb-2">Managing cookies</h2>
+              <p className="text-muted-foreground">
+                You can control cookies through your browser settings. Disabling some cookies may affect site
+                functionality.
+              </p>
+            </section>
+
+            <section>
+              <h2 className="text-lg font-semibold mb-2">Contact</h2>
+              <p className="text-muted-foreground">Questions? Email privacy@datelink.com</p>
+            </section>
+          </div>
+        </Card>
+      </div>
+    </div>
+  );
+};
+
+export default Cookies;

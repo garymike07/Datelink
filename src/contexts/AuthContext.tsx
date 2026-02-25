@@ -1,1 +1,173 @@
-{"data":"aW1wb3J0IFJlYWN0LCB7IGNyZWF0ZUNvbnRleHQsIHVzZUNvbnRleHQsIHVzZVN0YXRlLCB1c2VFZmZlY3QsIFJlYWN0Tm9kZSB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsgdXNlUXVlcnksIHVzZU11dGF0aW9uIH0gZnJvbSAnY29udmV4L3JlYWN0JzsKaW1wb3J0IHsgYXBpIH0gZnJvbSAnLi4vLi4vY29udmV4L19nZW5lcmF0ZWQvYXBpJzsKaW1wb3J0IHsgSWQgfSBmcm9tICcuLi8uLi9jb252ZXgvX2dlbmVyYXRlZC9kYXRhTW9kZWwnOwoKaW50ZXJmYWNlIFVzZXIgewogIF9pZDogSWQ8InVzZXJzIj47CiAgX2NyZWF0aW9uVGltZTogbnVtYmVyOwogIGVtYWlsOiBzdHJpbmc7CiAgbmFtZTogc3RyaW5nOwogIHBob25lPzogc3RyaW5nOwogIGlzVmVyaWZpZWQ6IGJvb2xlYW47CiAgYWNjb3VudFN0YXR1cz86ICJhY3RpdmUiIHwgImRlYWN0aXZhdGVkIiB8ICJkZWxldGVkIjsKICBjcmVhdGVkQXQ6IG51bWJlcjsKICB1cGRhdGVkQXQ6IG51bWJlcjsKfQoKaW50ZXJmYWNlIEF1dGhDb250ZXh0VHlwZSB7CiAgdXNlcjogVXNlciB8IG51bGw7CiAgdG9rZW46IHN0cmluZyB8IG51bGw7CiAgaXNMb2FkaW5nOiBib29sZWFuOwogIGlzQXV0aGVudGljYXRlZDogYm9vbGVhbjsKICBsb2dpbjogKGVtYWlsOiBzdHJpbmcsIHBhc3N3b3JkOiBzdHJpbmcsIHJlbWVtYmVyTWU/OiBib29sZWFuKSA9PiBQcm9taXNlPHZvaWQ+OwogIHNpZ251cDogKG5hbWU6IHN0cmluZywgZW1haWw6IHN0cmluZywgcGFzc3dvcmQ6IHN0cmluZykgPT4gUHJvbWlzZTx2b2lkPjsKICBsb2dvdXQ6ICgpID0+IFByb21pc2U8dm9pZD47CiAgcmVmcmVzaFVzZXI6ICgpID0+IHZvaWQ7Cn0KCmNvbnN0IEF1dGhDb250ZXh0ID0gY3JlYXRlQ29udGV4dDxBdXRoQ29udGV4dFR5cGUgfCB1bmRlZmluZWQ+KHVuZGVmaW5lZCk7Cgpjb25zdCBUT0tFTl9LRVkgPSAnYXV0aF90b2tlbic7CgpleHBvcnQgY29uc3QgQXV0aFByb3ZpZGVyOiBSZWFjdC5GQzx7IGNoaWxkcmVuOiBSZWFjdE5vZGUgfT4gPSAoeyBjaGlsZHJlbiB9KSA9PiB7CiAgY29uc3QgW3Rva2VuLCBzZXRUb2tlbl0gPSB1c2VTdGF0ZTxzdHJpbmcgfCBudWxsPigoKSA9PiB7CiAgICAvLyBJbml0aWFsaXplIHRva2VuIGZyb20gbG9jYWxTdG9yYWdlIG9uIG1vdW50CiAgICByZXR1cm4gbG9jYWxTdG9yYWdlLmdldEl0ZW0oVE9LRU5fS0VZKTsKICB9KTsKICBjb25zdCBbaXNJbml0aWFsaXppbmcsIHNldElzSW5pdGlhbGl6aW5nXSA9IHVzZVN0YXRlKHRydWUpOwoKICAvLyBWYWxpZGF0ZSBzZXNzaW9uIGFuZCBnZXQgdXNlciBkYXRhCiAgY29uc3QgdXNlciA9IHVzZVF1ZXJ5KAogICAgYXBpLmF1dGgudmFsaWRhdGVTZXNzaW9uLAogICAgdG9rZW4gPyB7IHRva2VuIH0gOiAic2tpcCIKICApOwoKICBjb25zdCBsb2dpbk11dGF0aW9uID0gdXNlTXV0YXRpb24oYXBpLmF1dGgubG9naW4pOwogIGNvbnN0IHNpZ251cE11dGF0aW9uID0gdXNlTXV0YXRpb24oYXBpLmF1dGguc2lnblVwKTsKICBjb25zdCBsb2dvdXRNdXRhdGlvbiA9IHVzZU11dGF0aW9uKGFwaS5hdXRoLmxvZ291dCk7CiAgY29uc3QgdXBkYXRlU2Vzc2lvbkFjdGl2aXR5ID0gdXNlTXV0YXRpb24oYXBpLmF1dGgudXBkYXRlU2Vzc2lvbkFjdGl2aXR5KTsKICBjb25zdCB1cGRhdGVMYXN0U2VlbiA9IHVzZU11dGF0aW9uKGFwaS5hdXRoLnVwZGF0ZUxhc3RTZWVuKTsKICBjb25zdCB1cGRhdGVQcmVzZW5jZSA9IHVzZU11dGF0aW9uKGFwaS5wcmVzZW5jZS51cGRhdGVQcmVzZW5jZSk7CgogIC8vIFVwZGF0ZSBzZXNzaW9uIGFjdGl2aXR5IHBlcmlvZGljYWxseQogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBpZiAoIXRva2VuKSByZXR1cm47CgogICAgLy8gVXBkYXRlIHNlc3Npb24gYWN0aXZpdHkgZXZlcnkgNSBtaW51dGVzCiAgICBjb25zdCBpbnRlcnZhbCA9IHNldEludGVydmFsKCgpID0+IHsKICAgICAgdXBkYXRlU2Vzc2lvbkFjdGl2aXR5KHsgdG9rZW4gfSkuY2F0Y2goZXJyID0+IHsKICAgICAgICBjb25zb2xlLmVycm9yKCdGYWlsZWQgdG8gdXBkYXRlIHNlc3Npb24gYWN0aXZpdHk6JywgZXJyKTsKICAgICAgICAvLyBJZiBzZXNzaW9uIHVwZGF0ZSBmYWlscywgdG9rZW4gbWlnaHQgYmUgaW52YWxpZAogICAgICAgIHNldFRva2VuKG51bGwpOwogICAgICAgIGxvY2FsU3RvcmFnZS5yZW1vdmVJdGVtKFRPS0VOX0tFWSk7CiAgICAgIH0pOwogICAgfSwgNSAqIDYwICogMTAwMCk7CgogICAgcmV0dXJuICgpID0+IGNsZWFySW50ZXJ2YWwoaW50ZXJ2YWwpOwogIH0sIFt0b2tlbiwgdXBkYXRlU2Vzc2lvbkFjdGl2aXR5XSk7CgogIC8vIE1hcmsgaW5pdGlhbGl6YXRpb24gYXMgY29tcGxldGUgb25jZSB3ZSd2ZSBjaGVja2VkIHRoZSBzZXNzaW9uCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGlmICh0b2tlbiA9PT0gbnVsbCB8fCB1c2VyICE9PSB1bmRlZmluZWQpIHsKICAgICAgc2V0SXNJbml0aWFsaXppbmcoZmFsc2UpOwogICAgfQogIH0sIFt0b2tlbiwgdXNlcl0pOwoKICAvLyBJZiBzZXNzaW9uIHZhbGlkYXRpb24gcmV0dXJucyBudWxsIGJ1dCB3ZSBoYXZlIGEgdG9rZW4sIGNsZWFyIGl0CiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGlmICh0b2tlbiAmJiB1c2VyID09PSBudWxsKSB7CiAgICAgIHNldFRva2VuKG51bGwpOwogICAgICBsb2NhbFN0b3JhZ2UucmVtb3ZlSXRlbShUT0tFTl9LRVkpOwogICAgfQogIH0sIFt0b2tlbiwgdXNlcl0pOwoKICBjb25zdCBsb2dpbiA9IGFzeW5jIChlbWFpbDogc3RyaW5nLCBwYXNzd29yZDogc3RyaW5nLCByZW1lbWJlck1lPzogYm9vbGVhbikgPT4gewogICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgbG9naW5NdXRhdGlvbih7IGVtYWlsLCBwYXNzd29yZCwgcmVtZW1iZXJNZSB9KTsKICAgIGlmIChyZXN1bHQuc3VjY2VzcyAmJiByZXN1bHQudG9rZW4pIHsKICAgICAgc2V0VG9rZW4ocmVzdWx0LnRva2VuKTsKICAgICAgbG9jYWxTdG9yYWdlLnNldEl0ZW0oVE9LRU5fS0VZLCByZXN1bHQudG9rZW4pOwogICAgfQogIH07CgogIGNvbnN0IHNpZ251cCA9IGFzeW5jIChuYW1lOiBzdHJpbmcsIGVtYWlsOiBzdHJpbmcsIHBhc3N3b3JkOiBzdHJpbmcpID0+IHsKICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IHNpZ251cE11dGF0aW9uKHsgbmFtZSwgZW1haWwsIHBhc3N3b3JkIH0pOwogICAgaWYgKHJlc3VsdC5zdWNjZXNzICYmIHJlc3VsdC50b2tlbikgewogICAgICBzZXRUb2tlbihyZXN1bHQudG9rZW4pOwogICAgICBsb2NhbFN0b3JhZ2Uuc2V0SXRlbShUT0tFTl9LRVksIHJlc3VsdC50b2tlbik7CiAgICB9CiAgfTsKCiAgY29uc3QgbG9nb3V0ID0gYXN5bmMgKCkgPT4gewogICAgdHJ5IHsKICAgICAgaWYgKHVzZXJJZCkgewogICAgICAgIGF3YWl0IHVwZGF0ZUxhc3RTZWVuKHsgdXNlcklkIH0pOwogICAgICAgIGF3YWl0IHVwZGF0ZVByZXNlbmNlKHsgdXNlcklkLCBzdGF0dXM6ICJvZmZsaW5lIiB9IGFzIGFueSk7CiAgICAgIH0KICAgICAgaWYgKHRva2VuKSB7CiAgICAgICAgYXdhaXQgbG9nb3V0TXV0YXRpb24oeyB0b2tlbiB9KTsKICAgICAgfQogICAgfSBmaW5hbGx5IHsKICAgICAgc2V0VG9rZW4obnVsbCk7CiAgICAgIGxvY2FsU3RvcmFnZS5yZW1vdmVJdGVtKFRPS0VOX0tFWSk7CiAgICB9CiAgfTsKCiAgY29uc3QgcmVmcmVzaFVzZXIgPSAoKSA9PiB7CiAgICAvLyBUaGUgdXNlciB3aWxsIGF1dG9tYXRpY2FsbHkgcmVmcmVzaCB2aWEgdGhlIHF1ZXJ5CiAgICAvLyBUaGlzIGZ1bmN0aW9uIGlzIGhlcmUgZm9yIGNvbXBhdGliaWxpdHkgaWYgbmVlZGVkCiAgfTsKCiAgY29uc3QgdXNlcklkID0gdXNlcj8uX2lkOwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgaWYgKCF1c2VySWQpIHJldHVybjsKCiAgICBjb25zdCBtYXJrT2ZmbGluZSA9ICgpID0+IHsKICAgICAgdXBkYXRlTGFzdFNlZW4oeyB1c2VySWQgfSkuY2F0Y2goKCkgPT4gdW5kZWZpbmVkKTsKICAgICAgdXBkYXRlUHJlc2VuY2UoeyB1c2VySWQsIHN0YXR1czogIm9mZmxpbmUiIH0gYXMgYW55KS5jYXRjaCgoKSA9PiB1bmRlZmluZWQpOwogICAgfTsKCiAgICBjb25zdCBoYW5kbGVWaXNpYmlsaXR5Q2hhbmdlID0gKCkgPT4gewogICAgICBpZiAoZG9jdW1lbnQudmlzaWJpbGl0eVN0YXRlID09PSAiaGlkZGVuIikgewogICAgICAgIG1hcmtPZmZsaW5lKCk7CiAgICAgIH0KICAgIH07CgogICAgd2luZG93LmFkZEV2ZW50TGlzdGVuZXIoImJlZm9yZXVubG9hZCIsIG1hcmtPZmZsaW5lKTsKICAgIGRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoInZpc2liaWxpdHljaGFuZ2UiLCBoYW5kbGVWaXNpYmlsaXR5Q2hhbmdlKTsKCiAgICByZXR1cm4gKCkgPT4gewogICAgICB3aW5kb3cucmVtb3ZlRXZlbnRMaXN0ZW5lcigiYmVmb3JldW5sb2FkIiwgbWFya09mZmxpbmUpOwogICAgICBkb2N1bWVudC5yZW1vdmVFdmVudExpc3RlbmVyKCJ2aXNpYmlsaXR5Y2hhbmdlIiwgaGFuZGxlVmlzaWJpbGl0eUNoYW5nZSk7CiAgICB9OwogIH0sIFt1c2VySWQsIHVwZGF0ZUxhc3RTZWVuLCB1cGRhdGVQcmVzZW5jZV0pOwoKICBjb25zdCBpc0xvYWRpbmcgPSBpc0luaXRpYWxpemluZyB8fCAodG9rZW4gIT09IG51bGwgJiYgdXNlciA9PT0gdW5kZWZpbmVkKTsKICBjb25zdCBpc0F1dGhlbnRpY2F0ZWQgPSAhIXVzZXIgJiYgISF0b2tlbjsKCiAgcmV0dXJuICgKICAgIDxBdXRoQ29udGV4dC5Qcm92aWRlcgogICAgICB2YWx1ZT17ewogICAgICAgIHVzZXI6IHVzZXIgfHwgbnVsbCwKICAgICAgICB0b2tlbiwKICAgICAgICBpc0xvYWRpbmcsCiAgICAgICAgaXNBdXRoZW50aWNhdGVkLAogICAgICAgIGxvZ2luLAogICAgICAgIHNpZ251cCwKICAgICAgICBsb2dvdXQsCiAgICAgICAgcmVmcmVzaFVzZXIsCiAgICAgIH19CiAgICA+CiAgICAgIHtjaGlsZHJlbn0KICAgIDwvQXV0aENvbnRleHQuUHJvdmlkZXI+CiAgKTsKfTsKCmV4cG9ydCBjb25zdCB1c2VBdXRoID0gKCkgPT4gewogIGNvbnN0IGNvbnRleHQgPSB1c2VDb250ZXh0KEF1dGhDb250ZXh0KTsKICBpZiAoY29udGV4dCA9PT0gdW5kZWZpbmVkKSB7CiAgICB0aHJvdyBuZXcgRXJyb3IoJ3VzZUF1dGggbXVzdCBiZSB1c2VkIHdpdGhpbiBhbiBBdXRoUHJvdmlkZXInKTsKICB9CiAgcmV0dXJuIGNvbnRleHQ7Cn07Cg=="}
+import React, { createContext, useContext, useState, useEffect, ReactNode } from 'react';
+import { useQuery, useMutation } from 'convex/react';
+import { api } from '../../convex/_generated/api';
+import { Id } from '../../convex/_generated/dataModel';
+
+interface User {
+  _id: Id<"users">;
+  _creationTime: number;
+  email: string;
+  name: string;
+  phone?: string;
+  isVerified: boolean;
+  accountStatus?: "active" | "deactivated" | "deleted";
+  createdAt: number;
+  updatedAt: number;
+}
+
+interface AuthContextType {
+  user: User | null;
+  token: string | null;
+  isLoading: boolean;
+  isAuthenticated: boolean;
+  login: (email: string, password: string, rememberMe?: boolean) => Promise<void>;
+  signup: (name: string, email: string, password: string) => Promise<void>;
+  logout: () => Promise<void>;
+  refreshUser: () => void;
+}
+
+const AuthContext = createContext<AuthContextType | undefined>(undefined);
+
+const TOKEN_KEY = 'auth_token';
+
+export const AuthProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
+  const [token, setToken] = useState<string | null>(() => {
+    // Initialize token from localStorage on mount
+    return localStorage.getItem(TOKEN_KEY);
+  });
+  const [isInitializing, setIsInitializing] = useState(true);
+
+  // Validate session and get user data
+  const user = useQuery(
+    api.auth.validateSession,
+    token ? { token } : "skip"
+  );
+
+  const loginMutation = useMutation(api.auth.login);
+  const signupMutation = useMutation(api.auth.signUp);
+  const logoutMutation = useMutation(api.auth.logout);
+  const updateSessionActivity = useMutation(api.auth.updateSessionActivity);
+  const updateLastSeen = useMutation(api.auth.updateLastSeen);
+  const updatePresence = useMutation(api.presence.updatePresence);
+
+  // Update session activity periodically
+  useEffect(() => {
+    if (!token) return;
+
+    // Update session activity every 5 minutes
+    const interval = setInterval(() => {
+      updateSessionActivity({ token }).catch(err => {
+        console.error('Failed to update session activity:', err);
+        // If session update fails, token might be invalid
+        setToken(null);
+        localStorage.removeItem(TOKEN_KEY);
+      });
+    }, 5 * 60 * 1000);
+
+    return () => clearInterval(interval);
+  }, [token, updateSessionActivity]);
+
+  // Mark initialization as complete once we've checked the session
+  useEffect(() => {
+    if (token === null || user !== undefined) {
+      setIsInitializing(false);
+    }
+  }, [token, user]);
+
+  // If session validation returns null but we have a token, clear it
+  useEffect(() => {
+    if (token && user === null) {
+      setToken(null);
+      localStorage.removeItem(TOKEN_KEY);
+    }
+  }, [token, user]);
+
+  const login = async (email: string, password: string, rememberMe?: boolean) => {
+    const result = await loginMutation({ email, password, rememberMe });
+    if (result.success && result.token) {
+      setToken(result.token);
+      localStorage.setItem(TOKEN_KEY, result.token);
+    }
+  };
+
+  const signup = async (name: string, email: string, password: string) => {
+    const result = await signupMutation({ name, email, password });
+    if (result.success && result.token) {
+      setToken(result.token);
+      localStorage.setItem(TOKEN_KEY, result.token);
+    }
+  };
+
+  const logout = async () => {
+    try {
+      if (userId) {
+        await updateLastSeen({ userId });
+        await updatePresence({ userId, status: "offline" } as any);
+      }
+      if (token) {
+        await logoutMutation({ token });
+      }
+    } finally {
+      setToken(null);
+      localStorage.removeItem(TOKEN_KEY);
+    }
+  };
+
+  const refreshUser = () => {
+    // The user will automatically refresh via the query
+    // This function is here for compatibility if needed
+  };
+
+  const userId = user?._id;
+
+  useEffect(() => {
+    if (!userId) return;
+
+    const markOffline = () => {
+      updateLastSeen({ userId }).catch(() => undefined);
+      updatePresence({ userId, status: "offline" } as any).catch(() => undefined);
+    };
+
+    const handleVisibilityChange = () => {
+      if (document.visibilityState === "hidden") {
+        markOffline();
+      }
+    };
+
+    window.addEventListener("beforeunload", markOffline);
+    document.addEventListener("visibilitychange", handleVisibilityChange);
+
+    return () => {
+      window.removeEventListener("beforeunload", markOffline);
+      document.removeEventListener("visibilitychange", handleVisibilityChange);
+    };
+  }, [userId, updateLastSeen, updatePresence]);
+
+  const isLoading = isInitializing || (token !== null && user === undefined);
+  const isAuthenticated = !!user && !!token;
+
+  return (
+    <AuthContext.Provider
+      value={{
+        user: user || null,
+        token,
+        isLoading,
+        isAuthenticated,
+        login,
+        signup,
+        logout,
+        refreshUser,
+      }}
+    >
+      {children}
+    </AuthContext.Provider>
+  );
+};
+
+export const useAuth = () => {
+  const context = useContext(AuthContext);
+  if (context === undefined) {
+    throw new Error('useAuth must be used within an AuthProvider');
+  }
+  return context;
+};

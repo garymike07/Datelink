@@ -364,7 +364,8 @@ export const getMyBillingHistory = query({
       .withIndex("userId", (q) => q.eq("userId", args.userId))
       .order("desc")
       .take(limit);
-    // Return all non-pending payments for billing history
-    return rows.filter((p) => p.status === "completed" || p.status === "failed" || p.status === "refunded");
+    // Return ALL payments (including pending/processing) for complete billing history
+    // Sorted by createdAt descending (most recent first) — already ordered by Convex index
+    return rows;
   },
 });

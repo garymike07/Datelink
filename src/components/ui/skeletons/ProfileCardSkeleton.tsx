@@ -1,1 +1,37 @@
-{"data":"aW1wb3J0IHsgU2tlbGV0b24gfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvc2tlbGV0b24iOwoKZXhwb3J0IGZ1bmN0aW9uIFByb2ZpbGVDYXJkU2tlbGV0b24oKSB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJ3LWZ1bGwgbWF4LXctWzQwMHB4XSBteC1hdXRvIj4KICAgICAgPGRpdiBjbGFzc05hbWU9InJlbGF0aXZlIG92ZXJmbG93LWhpZGRlbiByb3VuZGVkLTN4bCBnbGFzcy1jYXJkIGJvcmRlci1ub25lIj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYXNwZWN0LVsyLzNdIj4KICAgICAgICAgIDxTa2VsZXRvbiBjbGFzc05hbWU9ImgtZnVsbCB3LWZ1bGwgcm91bmRlZC1ub25lIiAvPgogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJzb2x1dGUgYm90dG9tLTAgbGVmdC0wIHJpZ2h0LTAgcC01IHNwYWNlLXktMyBiZy1ncmFkaWVudC10by10IGZyb20tYmxhY2svNzAgdmlhLWJsYWNrLzMwIHRvLXRyYW5zcGFyZW50Ij4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWVuZCBqdXN0aWZ5LWJldHdlZW4gZ2FwLTMiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0yIGZsZXgtMSI+CiAgICAgICAgICAgICAgPFNrZWxldG9uIGNsYXNzTmFtZT0iaC02IHctNDAgYmctd2hpdGUvMjAiIC8+CiAgICAgICAgICAgICAgPFNrZWxldG9uIGNsYXNzTmFtZT0iaC00IHctMjQgYmctd2hpdGUvMjAiIC8+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8U2tlbGV0b24gY2xhc3NOYW1lPSJoLTggdy04IHJvdW5kZWQtZnVsbCBiZy13aGl0ZS8yMCIgLz4KICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGdhcC0yIj4KICAgICAgICAgICAgPFNrZWxldG9uIGNsYXNzTmFtZT0iaC02IHctMTYgcm91bmRlZC1mdWxsIGJnLXdoaXRlLzIwIiAvPgogICAgICAgICAgICA8U2tlbGV0b24gY2xhc3NOYW1lPSJoLTYgdy0yMCByb3VuZGVkLWZ1bGwgYmctd2hpdGUvMjAiIC8+CiAgICAgICAgICAgIDxTa2VsZXRvbiBjbGFzc05hbWU9ImgtNiB3LTE0IHJvdW5kZWQtZnVsbCBiZy13aGl0ZS8yMCIgLz4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC02IGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIGdhcC00Ij4KICAgICAgICA8U2tlbGV0b24gY2xhc3NOYW1lPSJoLTE0IHctMTQgcm91bmRlZC1mdWxsIiAvPgogICAgICAgIDxTa2VsZXRvbiBjbGFzc05hbWU9ImgtMTYgdy0xNiByb3VuZGVkLWZ1bGwiIC8+CiAgICAgICAgPFNrZWxldG9uIGNsYXNzTmFtZT0iaC0xNCB3LTE0IHJvdW5kZWQtZnVsbCIgLz4KICAgICAgICA8U2tlbGV0b24gY2xhc3NOYW1lPSJoLTE0IHctMTQgcm91bmRlZC1mdWxsIiAvPgogICAgICAgIDxTa2VsZXRvbiBjbGFzc05hbWU9ImgtMTQgdy0xNCByb3VuZGVkLWZ1bGwiIC8+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQo="}
+import { Skeleton } from "@/components/ui/skeleton";
+
+export function ProfileCardSkeleton() {
+  return (
+    <div className="w-full max-w-[400px] mx-auto">
+      <div className="relative overflow-hidden rounded-3xl glass-card border-none">
+        <div className="aspect-[2/3]">
+          <Skeleton className="h-full w-full rounded-none" />
+        </div>
+
+        <div className="absolute bottom-0 left-0 right-0 p-5 space-y-3 bg-gradient-to-t from-black/70 via-black/30 to-transparent">
+          <div className="flex items-end justify-between gap-3">
+            <div className="space-y-2 flex-1">
+              <Skeleton className="h-6 w-40 bg-white/20" />
+              <Skeleton className="h-4 w-24 bg-white/20" />
+            </div>
+            <Skeleton className="h-8 w-8 rounded-full bg-white/20" />
+          </div>
+
+          <div className="flex gap-2">
+            <Skeleton className="h-6 w-16 rounded-full bg-white/20" />
+            <Skeleton className="h-6 w-20 rounded-full bg-white/20" />
+            <Skeleton className="h-6 w-14 rounded-full bg-white/20" />
+          </div>
+        </div>
+      </div>
+
+      <div className="mt-6 flex items-center justify-center gap-4">
+        <Skeleton className="h-14 w-14 rounded-full" />
+        <Skeleton className="h-16 w-16 rounded-full" />
+        <Skeleton className="h-14 w-14 rounded-full" />
+        <Skeleton className="h-14 w-14 rounded-full" />
+        <Skeleton className="h-14 w-14 rounded-full" />
+      </div>
+    </div>
+  );
+}

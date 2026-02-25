@@ -1,1 +1,566 @@
-{"data":"aW1wb3J0IHsgdiB9IGZyb20gImNvbnZleC92YWx1ZXMiOwppbXBvcnQgeyBtdXRhdGlvbiwgcXVlcnkgfSBmcm9tICIuL19nZW5lcmF0ZWQvc2VydmVyIjsKaW1wb3J0IHsgSWQgfSBmcm9tICIuL19nZW5lcmF0ZWQvZGF0YU1vZGVsIjsKaW1wb3J0IHsgYXBpIH0gZnJvbSAiLi9fZ2VuZXJhdGVkL2FwaSI7CgovKioKICogU2F2ZSBhIHB1c2ggbm90aWZpY2F0aW9uIHN1YnNjcmlwdGlvbiBmb3IgYSB1c2VyCiAqLwpleHBvcnQgY29uc3Qgc2F2ZVB1c2hTdWJzY3JpcHRpb24gPSBtdXRhdGlvbih7CiAgYXJnczogewogICAgZW5kcG9pbnQ6IHYuc3RyaW5nKCksCiAgICBrZXlzOiB2Lm9iamVjdCh7CiAgICAgIHAyNTZkaDogdi5zdHJpbmcoKSwKICAgICAgYXV0aDogdi5zdHJpbmcoKSwKICAgIH0pLAogICAgcGxhdGZvcm06IHYudW5pb24odi5saXRlcmFsKCJ3ZWIiKSwgdi5saXRlcmFsKCJhbmRyb2lkIiksIHYubGl0ZXJhbCgiaW9zIikpLAogICAgYnJvd3Nlcjogdi5vcHRpb25hbCh2LnN0cmluZygpKSwKICB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGNvbnN0IGlkZW50aXR5ID0gYXdhaXQgY3R4LmF1dGguZ2V0VXNlcklkZW50aXR5KCk7CiAgICBpZiAoIWlkZW50aXR5KSB7CiAgICAgIHRocm93IG5ldyBFcnJvcigiTm90IGF1dGhlbnRpY2F0ZWQiKTsKICAgIH0KCiAgICAvLyBGaW5kIHVzZXIgYnkgZW1haWwKICAgIGNvbnN0IHVzZXIgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJ1c2VycyIpCiAgICAgIC53aXRoSW5kZXgoImVtYWlsIiwgKHEpID0+IHEuZXEoImVtYWlsIiwgaWRlbnRpdHkuZW1haWwhKSkKICAgICAgLmZpcnN0KCk7CgogICAgaWYgKCF1c2VyKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcigiVXNlciBub3QgZm91bmQiKTsKICAgIH0KCiAgICAvLyBDaGVjayBpZiBzdWJzY3JpcHRpb24gYWxyZWFkeSBleGlzdHMKICAgIGNvbnN0IGV4aXN0aW5nID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgicHVzaFN1YnNjcmlwdGlvbnMiKQogICAgICAud2l0aEluZGV4KCJlbmRwb2ludCIsIChxKSA9PiBxLmVxKCJlbmRwb2ludCIsIGFyZ3MuZW5kcG9pbnQpKQogICAgICAuZmlyc3QoKTsKCiAgICBpZiAoZXhpc3RpbmcpIHsKICAgICAgLy8gVXBkYXRlIGV4aXN0aW5nIHN1YnNjcmlwdGlvbgogICAgICBhd2FpdCBjdHguZGIucGF0Y2goZXhpc3RpbmcuX2lkLCB7CiAgICAgICAgaXNBY3RpdmU6IHRydWUsCiAgICAgICAgbGFzdFVzZWRBdDogRGF0ZS5ub3coKSwKICAgICAgICBwbGF0Zm9ybTogYXJncy5wbGF0Zm9ybSwKICAgICAgICBicm93c2VyOiBhcmdzLmJyb3dzZXIsCiAgICAgIH0pOwogICAgICByZXR1cm4gZXhpc3RpbmcuX2lkOwogICAgfQoKICAgIC8vIENyZWF0ZSBuZXcgc3Vic2NyaXB0aW9uCiAgICBjb25zdCBzdWJzY3JpcHRpb25JZCA9IGF3YWl0IGN0eC5kYi5pbnNlcnQoInB1c2hTdWJzY3JpcHRpb25zIiwgewogICAgICB1c2VySWQ6IHVzZXIuX2lkLAogICAgICBlbmRwb2ludDogYXJncy5lbmRwb2ludCwKICAgICAga2V5czogYXJncy5rZXlzLAogICAgICBwbGF0Zm9ybTogYXJncy5wbGF0Zm9ybSwKICAgICAgYnJvd3NlcjogYXJncy5icm93c2VyLAogICAgICBpc0FjdGl2ZTogdHJ1ZSwKICAgICAgY3JlYXRlZEF0OiBEYXRlLm5vdygpLAogICAgICBsYXN0VXNlZEF0OiBEYXRlLm5vdygpLAogICAgfSk7CgogICAgcmV0dXJuIHN1YnNjcmlwdGlvbklkOwogIH0sCn0pOwoKLyoqCiAqIFJlbW92ZSBhIHB1c2ggbm90aWZpY2F0aW9uIHN1YnNjcmlwdGlvbgogKi8KZXhwb3J0IGNvbnN0IHJlbW92ZVB1c2hTdWJzY3JpcHRpb24gPSBtdXRhdGlvbih7CiAgYXJnczogewogICAgZW5kcG9pbnQ6IHYuc3RyaW5nKCksCiAgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICBjb25zdCBpZGVudGl0eSA9IGF3YWl0IGN0eC5hdXRoLmdldFVzZXJJZGVudGl0eSgpOwogICAgaWYgKCFpZGVudGl0eSkgewogICAgICB0aHJvdyBuZXcgRXJyb3IoIk5vdCBhdXRoZW50aWNhdGVkIik7CiAgICB9CgogICAgY29uc3Qgc3Vic2NyaXB0aW9uID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgicHVzaFN1YnNjcmlwdGlvbnMiKQogICAgICAud2l0aEluZGV4KCJlbmRwb2ludCIsIChxKSA9PiBxLmVxKCJlbmRwb2ludCIsIGFyZ3MuZW5kcG9pbnQpKQogICAgICAuZmlyc3QoKTsKCiAgICBpZiAoc3Vic2NyaXB0aW9uKSB7CiAgICAgIGF3YWl0IGN0eC5kYi5kZWxldGUoc3Vic2NyaXB0aW9uLl9pZCk7CiAgICB9CiAgfSwKfSk7CgovKioKICogR2V0IGFsbCBhY3RpdmUgcHVzaCBzdWJzY3JpcHRpb25zIGZvciBhIHVzZXIKICovCmV4cG9ydCBjb25zdCBnZXRVc2VyUHVzaFN1YnNjcmlwdGlvbnMgPSBxdWVyeSh7CiAgYXJnczoge30sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCkgPT4gewogICAgY29uc3QgaWRlbnRpdHkgPSBhd2FpdCBjdHguYXV0aC5nZXRVc2VySWRlbnRpdHkoKTsKICAgIGlmICghaWRlbnRpdHkpIHsKICAgICAgcmV0dXJuIFtdOwogICAgfQoKICAgIGNvbnN0IHVzZXIgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJ1c2VycyIpCiAgICAgIC53aXRoSW5kZXgoImVtYWlsIiwgKHEpID0+IHEuZXEoImVtYWlsIiwgaWRlbnRpdHkuZW1haWwhKSkKICAgICAgLmZpcnN0KCk7CgogICAgaWYgKCF1c2VyKSB7CiAgICAgIHJldHVybiBbXTsKICAgIH0KCiAgICBjb25zdCBzdWJzY3JpcHRpb25zID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgicHVzaFN1YnNjcmlwdGlvbnMiKQogICAgICAud2l0aEluZGV4KCJ1c2VySWQiLCAocSkgPT4gcS5lcSgidXNlcklkIiwgdXNlci5faWQpKQogICAgICAuZmlsdGVyKChxKSA9PiBxLmVxKHEuZmllbGQoImlzQWN0aXZlIiksIHRydWUpKQogICAgICAuY29sbGVjdCgpOwoKICAgIHJldHVybiBzdWJzY3JpcHRpb25zOwogIH0sCn0pOwoKLyoqCiAqIEludGVybmFsIHF1ZXJ5IHRvIGdldCBwdXNoIHN1YnNjcmlwdGlvbnMgZm9yIGEgc3BlY2lmaWMgdXNlciBJRAogKiBVc2VkIGJ5IGFjdGlvbnMgdGhhdCBuZWVkIHRvIHNlbmQgbm90aWZpY2F0aW9ucwogKi8KZXhwb3J0IGNvbnN0IGdldFVzZXJQdXNoU3Vic2NyaXB0aW9uc0J5VXNlcklkID0gcXVlcnkoewogIGFyZ3M6IHsKICAgIHVzZXJJZDogdi5pZCgidXNlcnMiKSwKICB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGNvbnN0IHN1YnNjcmlwdGlvbnMgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJwdXNoU3Vic2NyaXB0aW9ucyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCBhcmdzLnVzZXJJZCkpCiAgICAgIC5maWx0ZXIoKHEpID0+IHEuZXEocS5maWVsZCgiaXNBY3RpdmUiKSwgdHJ1ZSkpCiAgICAgIC5jb2xsZWN0KCk7CgogICAgcmV0dXJuIHN1YnNjcmlwdGlvbnM7CiAgfSwKfSk7CgovKioKICogR2V0IG5vdGlmaWNhdGlvbiBwcmVmZXJlbmNlcyBmb3IgY3VycmVudCB1c2VyCiAqLwpleHBvcnQgY29uc3QgZ2V0UHJlZmVyZW5jZXMgPSBxdWVyeSh7CiAgYXJnczoge30sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCkgPT4gewogICAgY29uc3QgaWRlbnRpdHkgPSBhd2FpdCBjdHguYXV0aC5nZXRVc2VySWRlbnRpdHkoKTsKICAgIGlmICghaWRlbnRpdHkpIHsKICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgY29uc3QgdXNlciA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoInVzZXJzIikKICAgICAgLndpdGhJbmRleCgiZW1haWwiLCAocSkgPT4gcS5lcSgiZW1haWwiLCBpZGVudGl0eS5lbWFpbCEpKQogICAgICAuZmlyc3QoKTsKCiAgICBpZiAoIXVzZXIpIHsKICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgY29uc3QgcHJlZmVyZW5jZXMgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJub3RpZmljYXRpb25QcmVmZXJlbmNlcyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCB1c2VyLl9pZCkpCiAgICAgIC5maXJzdCgpOwoKICAgIHJldHVybiBwcmVmZXJlbmNlczsKICB9LAp9KTsKCi8qKgogKiBVcGRhdGUgbm90aWZpY2F0aW9uIHByZWZlcmVuY2VzCiAqLwpleHBvcnQgY29uc3QgdXBkYXRlUHJlZmVyZW5jZXMgPSBtdXRhdGlvbih7CiAgYXJnczogewogICAgcHVzaEVuYWJsZWQ6IHYub3B0aW9uYWwodi5ib29sZWFuKCkpLAogICAgcHVzaE1hdGNoZXM6IHYub3B0aW9uYWwodi5ib29sZWFuKCkpLAogICAgcHVzaE1lc3NhZ2VzOiB2Lm9wdGlvbmFsKHYuYm9vbGVhbigpKSwKICAgIHB1c2hMaWtlczogdi5vcHRpb25hbCh2LmJvb2xlYW4oKSksCiAgICBwdXNoU3VwZXJMaWtlczogdi5vcHRpb25hbCh2LmJvb2xlYW4oKSksCiAgICBwdXNoQ2FsbHM6IHYub3B0aW9uYWwodi5ib29sZWFuKCkpLAogICAgcXVpZXRIb3Vyc0VuYWJsZWQ6IHYub3B0aW9uYWwodi5ib29sZWFuKCkpLAogICAgcXVpZXRIb3Vyc1N0YXJ0OiB2Lm9wdGlvbmFsKHYuc3RyaW5nKCkpLAogICAgcXVpZXRIb3Vyc0VuZDogdi5vcHRpb25hbCh2LnN0cmluZygpKSwKICAgIGJhdGNoTm90aWZpY2F0aW9uczogdi5vcHRpb25hbCh2LmJvb2xlYW4oKSksCiAgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICBjb25zdCBpZGVudGl0eSA9IGF3YWl0IGN0eC5hdXRoLmdldFVzZXJJZGVudGl0eSgpOwogICAgaWYgKCFpZGVudGl0eSkgewogICAgICB0aHJvdyBuZXcgRXJyb3IoIk5vdCBhdXRoZW50aWNhdGVkIik7CiAgICB9CgogICAgY29uc3QgdXNlciA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoInVzZXJzIikKICAgICAgLndpdGhJbmRleCgiZW1haWwiLCAocSkgPT4gcS5lcSgiZW1haWwiLCBpZGVudGl0eS5lbWFpbCEpKQogICAgICAuZmlyc3QoKTsKCiAgICBpZiAoIXVzZXIpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCJVc2VyIG5vdCBmb3VuZCIpOwogICAgfQoKICAgIGNvbnN0IGV4aXN0aW5nID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgibm90aWZpY2F0aW9uUHJlZmVyZW5jZXMiKQogICAgICAud2l0aEluZGV4KCJ1c2VySWQiLCAocSkgPT4gcS5lcSgidXNlcklkIiwgdXNlci5faWQpKQogICAgICAuZmlyc3QoKTsKCiAgICBpZiAoZXhpc3RpbmcpIHsKICAgICAgLy8gVXBkYXRlIGV4aXN0aW5nIHByZWZlcmVuY2VzCiAgICAgIGF3YWl0IGN0eC5kYi5wYXRjaChleGlzdGluZy5faWQsIHsKICAgICAgICAuLi5hcmdzLAogICAgICAgIHVwZGF0ZWRBdDogRGF0ZS5ub3coKSwKICAgICAgfSk7CiAgICAgIHJldHVybiBleGlzdGluZy5faWQ7CiAgICB9CgogICAgLy8gQ3JlYXRlIG5ldyBwcmVmZXJlbmNlcyB3aXRoIGRlZmF1bHRzIC0gbWFwIG9sZCBmaWVsZHMgdG8gbmV3IHNjaGVtYQogICAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKTsKICAgIGNvbnN0IHByZWZlcmVuY2VzSWQgPSBhd2FpdCBjdHguZGIuaW5zZXJ0KCJub3RpZmljYXRpb25QcmVmZXJlbmNlcyIsIHsKICAgICAgdXNlcklkOiB1c2VyLl9pZCwKICAgICAgZW5hYmxlZDogdHJ1ZSwKICAgICAgcHVzaEVuYWJsZWQ6IGFyZ3MucHVzaEVuYWJsZWQgPz8gdHJ1ZSwKICAgICAgZW1haWxFbmFibGVkOiB0cnVlLAogICAgICBxdWlldEhvdXJzRW5hYmxlZDogYXJncy5xdWlldEhvdXJzRW5hYmxlZCA/PyBmYWxzZSwKICAgICAgcXVpZXRIb3Vyc1N0YXJ0OiBhcmdzLnF1aWV0SG91cnNTdGFydCwKICAgICAgcXVpZXRIb3Vyc0VuZDogYXJncy5xdWlldEhvdXJzRW5kLAogICAgICAKICAgICAgLy8gQ2F0ZWdvcnkgcHJlZmVyZW5jZXMKICAgICAgc29jaWFsRW5hYmxlZDogdHJ1ZSwKICAgICAgY2FsbEVuYWJsZWQ6IHRydWUsCiAgICAgIHBheW1lbnRFbmFibGVkOiB0cnVlLAogICAgICBlbmdhZ2VtZW50RW5hYmxlZDogdHJ1ZSwKICAgICAgc3lzdGVtRW5hYmxlZDogdHJ1ZSwKICAgICAgCiAgICAgIC8vIFR5cGUtc3BlY2lmaWMgcHJlZmVyZW5jZXMgLSBtYXAgZnJvbSBvbGQgcHVzaCogZmllbGRzCiAgICAgIG1hdGNoTm90aWZpY2F0aW9uczogYXJncy5wdXNoTWF0Y2hlcyA/PyB0cnVlLAogICAgICBtZXNzYWdlTm90aWZpY2F0aW9uczogYXJncy5wdXNoTWVzc2FnZXMgPz8gdHJ1ZSwKICAgICAgbGlrZU5vdGlmaWNhdGlvbnM6IGFyZ3MucHVzaExpa2VzID8/IHRydWUsCiAgICAgIHN1cGVyTGlrZU5vdGlmaWNhdGlvbnM6IGFyZ3MucHVzaFN1cGVyTGlrZXMgPz8gdHJ1ZSwKICAgICAgcHJvZmlsZVZpZXdOb3RpZmljYXRpb25zOiB0cnVlLAogICAgICBjYWxsTm90aWZpY2F0aW9uczogYXJncy5wdXNoQ2FsbHMgPz8gdHJ1ZSwKICAgICAgcGF5bWVudE5vdGlmaWNhdGlvbnM6IHRydWUsCiAgICAgIAogICAgICAvLyBCYXRjaGluZyBwcmVmZXJlbmNlcwogICAgICBiYXRjaExpa2VzOiBhcmdzLmJhdGNoTm90aWZpY2F0aW9ucyA/PyBmYWxzZSwKICAgICAgYmF0Y2hQcm9maWxlVmlld3M6IGFyZ3MuYmF0Y2hOb3RpZmljYXRpb25zID8/IGZhbHNlLAogICAgICAKICAgICAgLy8gU291bmQgcHJlZmVyZW5jZXMKICAgICAgc291bmRFbmFibGVkOiB0cnVlLAogICAgICB2aWJyYXRpb25FbmFibGVkOiB0cnVlLAogICAgICAKICAgICAgY3JlYXRlZEF0OiBub3csCiAgICAgIHVwZGF0ZWRBdDogbm93LAogICAgfSk7CgogICAgcmV0dXJuIHByZWZlcmVuY2VzSWQ7CiAgfSwKfSk7CgovKioKICogSW50ZXJuYWwgZnVuY3Rpb24gdG8gY2hlY2sgaWYgdXNlciBpcyBpbiBxdWlldCBob3VycwogKi8KYXN5bmMgZnVuY3Rpb24gaXNJblF1aWV0SG91cnMoCiAgY3R4OiBhbnksCiAgdXNlcklkOiBJZDwidXNlcnMiPgopOiBQcm9taXNlPGJvb2xlYW4+IHsKICBjb25zdCBwcmVmZXJlbmNlcyA9IGF3YWl0IGN0eC5kYgogICAgLnF1ZXJ5KCJub3RpZmljYXRpb25QcmVmZXJlbmNlcyIpCiAgICAud2l0aEluZGV4KCJ1c2VySWQiLCAocTogYW55KSA9PiBxLmVxKCJ1c2VySWQiLCB1c2VySWQpKQogICAgLmZpcnN0KCk7CgogIGlmICghcHJlZmVyZW5jZXMgfHwgIXByZWZlcmVuY2VzLnF1aWV0SG91cnNFbmFibGVkKSB7CiAgICByZXR1cm4gZmFsc2U7CiAgfQoKICBpZiAoIXByZWZlcmVuY2VzLnF1aWV0SG91cnNTdGFydCB8fCAhcHJlZmVyZW5jZXMucXVpZXRIb3Vyc0VuZCkgewogICAgcmV0dXJuIGZhbHNlOwogIH0KCiAgY29uc3Qgbm93ID0gbmV3IERhdGUoKTsKICBjb25zdCBjdXJyZW50SG91ciA9IG5vdy5nZXRIb3VycygpOwogIGNvbnN0IGN1cnJlbnRNaW51dGUgPSBub3cuZ2V0TWludXRlcygpOwogIGNvbnN0IGN1cnJlbnRUaW1lID0gY3VycmVudEhvdXIgKiA2MCArIGN1cnJlbnRNaW51dGU7CgogIGNvbnN0IFtzdGFydEhvdXIsIHN0YXJ0TWludXRlXSA9IHByZWZlcmVuY2VzLnF1aWV0SG91cnNTdGFydC5zcGxpdCgiOiIpLm1hcChOdW1iZXIpOwogIGNvbnN0IFtlbmRIb3VyLCBlbmRNaW51dGVdID0gcHJlZmVyZW5jZXMucXVpZXRIb3Vyc0VuZC5zcGxpdCgiOiIpLm1hcChOdW1iZXIpOwogIGNvbnN0IHN0YXJ0VGltZSA9IHN0YXJ0SG91ciAqIDYwICsgc3RhcnRNaW51dGU7CiAgY29uc3QgZW5kVGltZSA9IGVuZEhvdXIgKiA2MCArIGVuZE1pbnV0ZTsKCiAgaWYgKHN0YXJ0VGltZSA8PSBlbmRUaW1lKSB7CiAgICAvLyBTYW1lIGRheSAoZS5nLiwgMjI6MDAgdG8gMjM6MDApCiAgICByZXR1cm4gY3VycmVudFRpbWUgPj0gc3RhcnRUaW1lICYmIGN1cnJlbnRUaW1lIDwgZW5kVGltZTsKICB9IGVsc2UgewogICAgLy8gQ3Jvc3NlcyBtaWRuaWdodCAoZS5nLiwgMjI6MDAgdG8gMDg6MDApCiAgICByZXR1cm4gY3VycmVudFRpbWUgPj0gc3RhcnRUaW1lIHx8IGN1cnJlbnRUaW1lIDwgZW5kVGltZTsKICB9Cn0KCi8qKgogKiBTZW5kIGEgcHVzaCBub3RpZmljYXRpb24gdG8gYSBzcGVjaWZpYyB1c2VyCiAqIE5vdGU6IFRoaXMgY3JlYXRlcyBhIG5vdGlmaWNhdGlvbiByZWNvcmQuIEFjdHVhbCBwdXNoIHNlbmRpbmcgd291bGQgYmUgZG9uZSB2aWEgYSB3ZWJob29rL2FjdGlvbgogKi8KZXhwb3J0IGNvbnN0IHNlbmRQdXNoTm90aWZpY2F0aW9uID0gbXV0YXRpb24oewogIGFyZ3M6IHsKICAgIHVzZXJJZDogdi5pZCgidXNlcnMiKSwKICAgIHR5cGU6IHYuc3RyaW5nKCksCiAgICB0aXRsZTogdi5zdHJpbmcoKSwKICAgIGJvZHk6IHYuc3RyaW5nKCksCiAgICBkYXRhOiB2Lm9wdGlvbmFsKHYuYW55KCkpLAogICAgcHJpb3JpdHk6IHYub3B0aW9uYWwodi51bmlvbih2LmxpdGVyYWwoImhpZ2giKSwgdi5saXRlcmFsKCJub3JtYWwiKSwgdi5saXRlcmFsKCJsb3ciKSkpLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgLy8gQ2hlY2sgcHJlZmVyZW5jZXMKICAgIGNvbnN0IHByZWZlcmVuY2VzID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgibm90aWZpY2F0aW9uUHJlZmVyZW5jZXMiKQogICAgICAud2l0aEluZGV4KCJ1c2VySWQiLCAocSkgPT4gcS5lcSgidXNlcklkIiwgYXJncy51c2VySWQpKQogICAgICAuZmlyc3QoKTsKCiAgICBpZiAoIXByZWZlcmVuY2VzIHx8ICFwcmVmZXJlbmNlcy5wdXNoRW5hYmxlZCkgewogICAgICByZXR1cm4geyBzZW50OiBmYWxzZSwgcmVhc29uOiAicHVzaF9kaXNhYmxlZCIgfTsKICAgIH0KCiAgICAvLyBDaGVjayB0eXBlLXNwZWNpZmljIHByZWZlcmVuY2UgLSB1c2UgbmV3IHNjaGVtYSBmaWVsZHMKICAgIGNvbnN0IHR5cGVNYXA6IFJlY29yZDxzdHJpbmcsIGtleW9mIHR5cGVvZiBwcmVmZXJlbmNlcz4gPSB7CiAgICAgIG1hdGNoOiAibWF0Y2hOb3RpZmljYXRpb25zIiwKICAgICAgbWVzc2FnZTogIm1lc3NhZ2VOb3RpZmljYXRpb25zIiwKICAgICAgbGlrZTogImxpa2VOb3RpZmljYXRpb25zIiwKICAgICAgc3VwZXJfbGlrZTogInN1cGVyTGlrZU5vdGlmaWNhdGlvbnMiLAogICAgICBjYWxsX2luY29taW5nOiAiY2FsbE5vdGlmaWNhdGlvbnMiLAogICAgICBjYWxsX21pc3NlZDogImNhbGxOb3RpZmljYXRpb25zIiwKICAgICAgY2FsbF9lbmRlZDogImNhbGxOb3RpZmljYXRpb25zIiwKICAgICAgY2FsbF9kZWNsaW5lZDogImNhbGxOb3RpZmljYXRpb25zIiwKICAgIH07CgogICAgY29uc3QgcHJlZktleSA9IHR5cGVNYXBbYXJncy50eXBlXTsKICAgIGlmIChwcmVmS2V5ICYmICFwcmVmZXJlbmNlc1twcmVmS2V5XSkgewogICAgICByZXR1cm4geyBzZW50OiBmYWxzZSwgcmVhc29uOiAidHlwZV9kaXNhYmxlZCIgfTsKICAgIH0KCiAgICAvLyBDaGVjayBxdWlldCBob3VycyAoYnV0IGFsbG93IGNhbGxzIHRocm91Z2gpCiAgICBjb25zdCBpc0NhbGxOb3RpZmljYXRpb24gPSBhcmdzLnR5cGUuc3RhcnRzV2l0aCgnY2FsbF8nKTsKICAgIGlmICghaXNDYWxsTm90aWZpY2F0aW9uICYmIGF3YWl0IGlzSW5RdWlldEhvdXJzKGN0eCwgYXJncy51c2VySWQpKSB7CiAgICAgIHJldHVybiB7IHNlbnQ6IGZhbHNlLCByZWFzb246ICJxdWlldF9ob3VycyIgfTsKICAgIH0KCiAgICAvLyBHZXQgYWN0aXZlIHN1YnNjcmlwdGlvbnMKICAgIGNvbnN0IHN1YnNjcmlwdGlvbnMgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJwdXNoU3Vic2NyaXB0aW9ucyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCBhcmdzLnVzZXJJZCkpCiAgICAgIC5maWx0ZXIoKHEpID0+IHEuZXEocS5maWVsZCgiaXNBY3RpdmUiKSwgdHJ1ZSkpCiAgICAgIC5jb2xsZWN0KCk7CgogICAgaWYgKHN1YnNjcmlwdGlvbnMubGVuZ3RoID09PSAwKSB7CiAgICAgIHJldHVybiB7IHNlbnQ6IGZhbHNlLCByZWFzb246ICJub19zdWJzY3JpcHRpb25zIiB9OwogICAgfQoKICAgIC8vIENyZWF0ZSBub3RpZmljYXRpb24gcmVjb3JkCiAgICBjb25zdCBub3RpZmljYXRpb25JZCA9IGF3YWl0IGN0eC5kYi5pbnNlcnQoIm5vdGlmaWNhdGlvbnMiLCB7CiAgICAgIHVzZXJJZDogYXJncy51c2VySWQsCiAgICAgIHR5cGU6IGFyZ3MudHlwZSBhcyBhbnksCiAgICAgIHRpdGxlOiBhcmdzLnRpdGxlLAogICAgICBib2R5OiBhcmdzLmJvZHksCiAgICAgIGlzUmVhZDogZmFsc2UsCiAgICAgIGNyZWF0ZWRBdDogRGF0ZS5ub3coKSwKICAgIH0pOwoKICAgIC8vIEluIGEgcmVhbCBpbXBsZW1lbnRhdGlvbiwgeW91IHdvdWxkOgogICAgLy8gMS4gVXNlIGEgQ29udmV4IGFjdGlvbiB0byBjYWxsIGFuIGV4dGVybmFsIHB1c2ggc2VydmljZSAod2ViLXB1c2gsIEZDTSwgQVBOcykKICAgIC8vIDIuIFNlbmQgdGhlIG5vdGlmaWNhdGlvbiB0byBhbGwgYWN0aXZlIHN1YnNjcmlwdGlvbnMKICAgIC8vIDMuIEhhbmRsZSBmYWlsdXJlcyBhbmQgcmVtb3ZlIGludmFsaWQgc3Vic2NyaXB0aW9ucwoKICAgIC8vIFNjaGVkdWxlIHRoZSBhY3R1YWwgcHVzaCBub3RpZmljYXRpb24gdmlhIGFjdGlvbgogICAgLy8gVGhpcyBhbGxvd3MgY2FsbGluZyBleHRlcm5hbCBzZXJ2aWNlcyAod2ViLXB1c2gsIEZDTSwgQVBOcykKICAgIHRyeSB7CiAgICAgIGF3YWl0IGN0eC5zY2hlZHVsZXIucnVuQWZ0ZXIoMCwgInB1c2hOb3RpZmljYXRpb25zQWN0aW9uczpzZW5kV2ViUHVzaE5vdGlmaWNhdGlvbiIgYXMgYW55LCB7CiAgICAgICAgdXNlcklkOiBhcmdzLnVzZXJJZCwKICAgICAgICB0eXBlOiBhcmdzLnR5cGUsCiAgICAgICAgdGl0bGU6IGFyZ3MudGl0bGUsCiAgICAgICAgYm9keTogYXJncy5ib2R5LAogICAgICAgIGRhdGE6IGFyZ3MuZGF0YSwKICAgICAgICBwcmlvcml0eTogYXJncy5wcmlvcml0eSB8fCAibm9ybWFsIiwKICAgICAgfSk7CiAgICB9IGNhdGNoIChlcnJvcikgewogICAgICBjb25zb2xlLmVycm9yKCJGYWlsZWQgdG8gc2NoZWR1bGUgcHVzaCBub3RpZmljYXRpb246IiwgZXJyb3IpOwogICAgfQoKICAgIHJldHVybiB7CiAgICAgIHNlbnQ6IHRydWUsCiAgICAgIG5vdGlmaWNhdGlvbklkLAogICAgICBzdWJzY3JpcHRpb25Db3VudDogc3Vic2NyaXB0aW9ucy5sZW5ndGgsCiAgICB9OwogIH0sCn0pOwoKLyoqCiAqIFNlbmQgcHVzaCBub3RpZmljYXRpb24gd2hlbiBhIG5ldyBtYXRjaCBpcyBjcmVhdGVkCiAqLwpleHBvcnQgY29uc3Qgbm90aWZ5TmV3TWF0Y2ggPSBtdXRhdGlvbih7CiAgYXJnczogewogICAgbWF0Y2hJZDogdi5pZCgibWF0Y2hlcyIpLAogICAgdXNlcklkOiB2LmlkKCJ1c2VycyIpLAogICAgb3RoZXJVc2VySWQ6IHYuaWQoInVzZXJzIiksCiAgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICAvLyBHZXQgdGhlIG90aGVyIHVzZXIncyBuYW1lCiAgICBjb25zdCBvdGhlclVzZXIgPSBhd2FpdCBjdHguZGIuZ2V0KGFyZ3Mub3RoZXJVc2VySWQpOwogICAgaWYgKCFvdGhlclVzZXIpIHJldHVybjsKCiAgICBhd2FpdCBjdHgucnVuTXV0YXRpb24oYXBpLnB1c2hOb3RpZmljYXRpb25zLnNlbmRQdXNoTm90aWZpY2F0aW9uLCB7CiAgICAgIHVzZXJJZDogYXJncy51c2VySWQsCiAgICAgIHR5cGU6ICJtYXRjaCIsCiAgICAgIHRpdGxlOiAiTmV3IE1hdGNoISDwn46JIiwKICAgICAgYm9keTogYFlvdSBtYXRjaGVkIHdpdGggJHtvdGhlclVzZXIubmFtZX0hYCwKICAgICAgZGF0YTogewogICAgICAgIG1hdGNoSWQ6IGFyZ3MubWF0Y2hJZCwKICAgICAgICB1c2VySWQ6IGFyZ3Mub3RoZXJVc2VySWQsCiAgICAgICAgdXJsOiBgL21hdGNoZXNgLAogICAgICB9LAogICAgICBwcmlvcml0eTogImhpZ2giLAogICAgfSk7CiAgfSwKfSk7CgovKioKICogU2VuZCBwdXNoIG5vdGlmaWNhdGlvbiBmb3IgbmV3IG1lc3NhZ2UKICovCmV4cG9ydCBjb25zdCBub3RpZnlOZXdNZXNzYWdlID0gbXV0YXRpb24oewogIGFyZ3M6IHsKICAgIG1lc3NhZ2VJZDogdi5pZCgibWVzc2FnZXMiKSwKICAgIHJlY2lwaWVudElkOiB2LmlkKCJ1c2VycyIpLAogICAgc2VuZGVySWQ6IHYuaWQoInVzZXJzIiksCiAgICBwcmV2aWV3OiB2LnN0cmluZygpLAogICAgbWF0Y2hJZDogdi5vcHRpb25hbCh2LmlkKCJtYXRjaGVzIikpLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3Qgc2VuZGVyID0gYXdhaXQgY3R4LmRiLmdldChhcmdzLnNlbmRlcklkKTsKICAgIGlmICghc2VuZGVyKSByZXR1cm47CgogICAgY29uc3QgY2hhdFVybCA9IGFyZ3MubWF0Y2hJZCA/IGAvY2hhdC8ke2FyZ3MubWF0Y2hJZH1gIDogYC9tZXNzYWdlc2A7CgogICAgYXdhaXQgY3R4LnJ1bk11dGF0aW9uKGFwaS5wdXNoTm90aWZpY2F0aW9ucy5zZW5kUHVzaE5vdGlmaWNhdGlvbiwgewogICAgICB1c2VySWQ6IGFyZ3MucmVjaXBpZW50SWQsCiAgICAgIHR5cGU6ICJtZXNzYWdlIiwKICAgICAgdGl0bGU6IHNlbmRlci5uYW1lLAogICAgICBib2R5OiBhcmdzLnByZXZpZXcsCiAgICAgIGRhdGE6IHsKICAgICAgICBtZXNzYWdlSWQ6IGFyZ3MubWVzc2FnZUlkLAogICAgICAgIHNlbmRlcklkOiBhcmdzLnNlbmRlcklkLAogICAgICAgIG1hdGNoSWQ6IGFyZ3MubWF0Y2hJZCwKICAgICAgICB1cmw6IGNoYXRVcmwsCiAgICAgIH0sCiAgICAgIHByaW9yaXR5OiAiaGlnaCIsCiAgICB9KTsKICB9LAp9KTsKCi8qKgogKiBTZW5kIHB1c2ggbm90aWZpY2F0aW9uIGZvciBpbmNvbWluZyBjYWxsCiAqLwoKLyoqCiAqIFNlbmQgcHVzaCBub3RpZmljYXRpb24gZm9yIGxpa2UgcmVjZWl2ZWQKICovCmV4cG9ydCBjb25zdCBub3RpZnlMaWtlUmVjZWl2ZWQgPSBtdXRhdGlvbih7CiAgYXJnczogewogICAgcmVjaXBpZW50SWQ6IHYuaWQoInVzZXJzIiksCiAgICBsaWtlcklkOiB2LmlkKCJ1c2VycyIpLAogICAgaXNVbmRvOiB2Lm9wdGlvbmFsKHYuYm9vbGVhbigpKSwKICB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGlmIChhcmdzLmlzVW5kbykgcmV0dXJuOyAvLyBEb24ndCBub3RpZnkgb24gdW5kbwoKICAgIGNvbnN0IGxpa2VyID0gYXdhaXQgY3R4LmRiLmdldChhcmdzLmxpa2VySWQpOwogICAgaWYgKCFsaWtlcikgcmV0dXJuOwoKICAgIGF3YWl0IGN0eC5ydW5NdXRhdGlvbihhcGkucHVzaE5vdGlmaWNhdGlvbnMuc2VuZFB1c2hOb3RpZmljYXRpb24sIHsKICAgICAgdXNlcklkOiBhcmdzLnJlY2lwaWVudElkLAogICAgICB0eXBlOiAibGlrZSIsCiAgICAgIHRpdGxlOiAiU29tZW9uZSBsaWtlcyB5b3UhIPCfkpYiLAogICAgICBib2R5OiAiU2VlIHdobydzIGludGVyZXN0ZWQgaW4geW91IiwKICAgICAgZGF0YTogewogICAgICAgIGxpa2VySWQ6IGFyZ3MubGlrZXJJZCwKICAgICAgICB1cmw6IGAvbGlrZXNgLAogICAgICB9LAogICAgICBwcmlvcml0eTogIm5vcm1hbCIsCiAgICB9KTsKICB9LAp9KTsKCi8qKgogKiBTZW5kIHB1c2ggbm90aWZpY2F0aW9uIGZvciBzdXBlciBsaWtlIHJlY2VpdmVkCiAqLwpleHBvcnQgY29uc3Qgbm90aWZ5U3VwZXJMaWtlUmVjZWl2ZWQgPSBtdXRhdGlvbih7CiAgYXJnczogewogICAgcmVjaXBpZW50SWQ6IHYuaWQoInVzZXJzIiksCiAgICBzdXBlckxpa2VySWQ6IHYuaWQoInVzZXJzIiksCiAgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICBjb25zdCBzdXBlckxpa2VyID0gYXdhaXQgY3R4LmRiLmdldChhcmdzLnN1cGVyTGlrZXJJZCk7CiAgICBpZiAoIXN1cGVyTGlrZXIpIHJldHVybjsKCiAgICBhd2FpdCBjdHgucnVuTXV0YXRpb24oYXBpLnB1c2hOb3RpZmljYXRpb25zLnNlbmRQdXNoTm90aWZpY2F0aW9uLCB7CiAgICAgIHVzZXJJZDogYXJncy5yZWNpcGllbnRJZCwKICAgICAgdHlwZTogInN1cGVyX2xpa2UiLAogICAgICB0aXRsZTogIlN1cGVyIExpa2UhIOKtkCIsCiAgICAgIGJvZHk6IGAke3N1cGVyTGlrZXIubmFtZX0gc3VwZXIgbGlrZWQgeW91IWAsCiAgICAgIGRhdGE6IHsKICAgICAgICBzdXBlckxpa2VySWQ6IGFyZ3Muc3VwZXJMaWtlcklkLAogICAgICAgIHVybDogYC9kaXNjb3ZlcmAsCiAgICAgIH0sCiAgICAgIHByaW9yaXR5OiAiaGlnaCIsCiAgICB9KTsKICB9LAp9KTsKCi8qKgogKiBVcGRhdGUgc3Vic2NyaXB0aW9uIGxhc3QgdXNlZCB0aW1lc3RhbXAKICovCmV4cG9ydCBjb25zdCB1cGRhdGVTdWJzY3JpcHRpb25MYXN0VXNlZCA9IG11dGF0aW9uKHsKICBhcmdzOiB7CiAgICBzdWJzY3JpcHRpb25JZDogdi5pZCgicHVzaFN1YnNjcmlwdGlvbnMiKSwKICB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGF3YWl0IGN0eC5kYi5wYXRjaChhcmdzLnN1YnNjcmlwdGlvbklkLCB7CiAgICAgIGxhc3RVc2VkQXQ6IERhdGUubm93KCksCiAgICB9KTsKICB9LAp9KTsKCi8qKgogKiBEZWFjdGl2YXRlIGEgcHVzaCBzdWJzY3JpcHRpb24gKGUuZy4sIHdoZW4gaXQncyBpbnZhbGlkKQogKi8KZXhwb3J0IGNvbnN0IGRlYWN0aXZhdGVQdXNoU3Vic2NyaXB0aW9uID0gbXV0YXRpb24oewogIGFyZ3M6IHsKICAgIHN1YnNjcmlwdGlvbklkOiB2LmlkKCJwdXNoU3Vic2NyaXB0aW9ucyIpLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgYXdhaXQgY3R4LmRiLnBhdGNoKGFyZ3Muc3Vic2NyaXB0aW9uSWQsIHsKICAgICAgaXNBY3RpdmU6IGZhbHNlLAogICAgfSk7CiAgfSwKfSk7CgovKioKICogQ2xlYW4gdXAgaW5hY3RpdmUgc3Vic2NyaXB0aW9ucyAoc2NoZWR1bGVkIGpvYikKICovCmV4cG9ydCBjb25zdCBjbGVhbnVwSW5hY3RpdmVTdWJzY3JpcHRpb25zID0gbXV0YXRpb24oewogIGFyZ3M6IHt9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgpID0+IHsKICAgIGNvbnN0IHRoaXJ0eURheXNBZ28gPSBEYXRlLm5vdygpIC0gMzAgKiAyNCAqIDYwICogNjAgKiAxMDAwOwogICAgCiAgICBjb25zdCBpbmFjdGl2ZVN1YnNjcmlwdGlvbnMgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJwdXNoU3Vic2NyaXB0aW9ucyIpCiAgICAgIC5maWx0ZXIoKHEpID0+CiAgICAgICAgcS5hbmQoCiAgICAgICAgICBxLmVxKHEuZmllbGQoImlzQWN0aXZlIiksIHRydWUpLAogICAgICAgICAgcS5sdChxLmZpZWxkKCJsYXN0VXNlZEF0IiksIHRoaXJ0eURheXNBZ28pCiAgICAgICAgKQogICAgICApCiAgICAgIC5jb2xsZWN0KCk7CgogICAgZm9yIChjb25zdCBzdWJzY3JpcHRpb24gb2YgaW5hY3RpdmVTdWJzY3JpcHRpb25zKSB7CiAgICAgIGF3YWl0IGN0eC5kYi5wYXRjaChzdWJzY3JpcHRpb24uX2lkLCB7IGlzQWN0aXZlOiBmYWxzZSB9KTsKICAgIH0KCiAgICByZXR1cm4geyBjbGVhbmVkOiBpbmFjdGl2ZVN1YnNjcmlwdGlvbnMubGVuZ3RoIH07CiAgfSwKfSk7Cg=="}
+import { v } from "convex/values";
+import { mutation, query } from "./_generated/server";
+import { Id } from "./_generated/dataModel";
+import { api } from "./_generated/api";
+
+/**
+ * Save a push notification subscription for a user
+ */
+export const savePushSubscription = mutation({
+  args: {
+    endpoint: v.string(),
+    keys: v.object({
+      p256dh: v.string(),
+      auth: v.string(),
+    }),
+    platform: v.union(v.literal("web"), v.literal("android"), v.literal("ios")),
+    browser: v.optional(v.string()),
+  },
+  handler: async (ctx, args) => {
+    const identity = await ctx.auth.getUserIdentity();
+    if (!identity) {
+      throw new Error("Not authenticated");
+    }
+
+    // Find user by email
+    const user = await ctx.db
+      .query("users")
+      .withIndex("email", (q) => q.eq("email", identity.email!))
+      .first();
+
+    if (!user) {
+      throw new Error("User not found");
+    }
+
+    // Check if subscription already exists
+    const existing = await ctx.db
+      .query("pushSubscriptions")
+      .withIndex("endpoint", (q) => q.eq("endpoint", args.endpoint))
+      .first();
+
+    if (existing) {
+      // Update existing subscription
+      await ctx.db.patch(existing._id, {
+        isActive: true,
+        lastUsedAt: Date.now(),
+        platform: args.platform,
+        browser: args.browser,
+      });
+      return existing._id;
+    }
+
+    // Create new subscription
+    const subscriptionId = await ctx.db.insert("pushSubscriptions", {
+      userId: user._id,
+      endpoint: args.endpoint,
+      keys: args.keys,
+      platform: args.platform,
+      browser: args.browser,
+      isActive: true,
+      createdAt: Date.now(),
+      lastUsedAt: Date.now(),
+    });
+
+    return subscriptionId;
+  },
+});
+
+/**
+ * Remove a push notification subscription
+ */
+export const removePushSubscription = mutation({
+  args: {
+    endpoint: v.string(),
+  },
+  handler: async (ctx, args) => {
+    const identity = await ctx.auth.getUserIdentity();
+    if (!identity) {
+      throw new Error("Not authenticated");
+    }
+
+    const subscription = await ctx.db
+      .query("pushSubscriptions")
+      .withIndex("endpoint", (q) => q.eq("endpoint", args.endpoint))
+      .first();
+
+    if (subscription) {
+      await ctx.db.delete(subscription._id);
+    }
+  },
+});
+
+/**
+ * Get all active push subscriptions for a user
+ */
+export const getUserPushSubscriptions = query({
+  args: {},
+  handler: async (ctx) => {
+    const identity = await ctx.auth.getUserIdentity();
+    if (!identity) {
+      return [];
+    }
+
+    const user = await ctx.db
+      .query("users")
+      .withIndex("email", (q) => q.eq("email", identity.email!))
+      .first();
+
+    if (!user) {
+      return [];
+    }
+
+    const subscriptions = await ctx.db
+      .query("pushSubscriptions")
+      .withIndex("userId", (q) => q.eq("userId", user._id))
+      .filter((q) => q.eq(q.field("isActive"), true))
+      .collect();
+
+    return subscriptions;
+  },
+});
+
+/**
+ * Internal query to get push subscriptions for a specific user ID
+ * Used by actions that need to send notifications
+ */
+export const getUserPushSubscriptionsByUserId = query({
+  args: {
+    userId: v.id("users"),
+  },
+  handler: async (ctx, args) => {
+    const subscriptions = await ctx.db
+      .query("pushSubscriptions")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .filter((q) => q.eq(q.field("isActive"), true))
+      .collect();
+
+    return subscriptions;
+  },
+});
+
+/**
+ * Get notification preferences for current user
+ */
+export const getPreferences = query({
+  args: {},
+  handler: async (ctx) => {
+    const identity = await ctx.auth.getUserIdentity();
+    if (!identity) {
+      return null;
+    }
+
+    const user = await ctx.db
+      .query("users")
+      .withIndex("email", (q) => q.eq("email", identity.email!))
+      .first();
+
+    if (!user) {
+      return null;
+    }
+
+    const preferences = await ctx.db
+      .query("notificationPreferences")
+      .withIndex("userId", (q) => q.eq("userId", user._id))
+      .first();
+
+    return preferences;
+  },
+});
+
+/**
+ * Update notification preferences
+ */
+export const updatePreferences = mutation({
+  args: {
+    pushEnabled: v.optional(v.boolean()),
+    pushMatches: v.optional(v.boolean()),
+    pushMessages: v.optional(v.boolean()),
+    pushLikes: v.optional(v.boolean()),
+    pushSuperLikes: v.optional(v.boolean()),
+    pushCalls: v.optional(v.boolean()),
+    quietHoursEnabled: v.optional(v.boolean()),
+    quietHoursStart: v.optional(v.string()),
+    quietHoursEnd: v.optional(v.string()),
+    batchNotifications: v.optional(v.boolean()),
+  },
+  handler: async (ctx, args) => {
+    const identity = await ctx.auth.getUserIdentity();
+    if (!identity) {
+      throw new Error("Not authenticated");
+    }
+
+    const user = await ctx.db
+      .query("users")
+      .withIndex("email", (q) => q.eq("email", identity.email!))
+      .first();
+
+    if (!user) {
+      throw new Error("User not found");
+    }
+
+    const existing = await ctx.db
+      .query("notificationPreferences")
+      .withIndex("userId", (q) => q.eq("userId", user._id))
+      .first();
+
+    if (existing) {
+      // Update existing preferences
+      await ctx.db.patch(existing._id, {
+        ...args,
+        updatedAt: Date.now(),
+      });
+      return existing._id;
+    }
+
+    // Create new preferences with defaults - map old fields to new schema
+    const now = Date.now();
+    const preferencesId = await ctx.db.insert("notificationPreferences", {
+      userId: user._id,
+      enabled: true,
+      pushEnabled: args.pushEnabled ?? true,
+      emailEnabled: true,
+      quietHoursEnabled: args.quietHoursEnabled ?? false,
+      quietHoursStart: args.quietHoursStart,
+      quietHoursEnd: args.quietHoursEnd,
+      
+      // Category preferences
+      socialEnabled: true,
+      callEnabled: true,
+      paymentEnabled: true,
+      engagementEnabled: true,
+      systemEnabled: true,
+      
+      // Type-specific preferences - map from old push* fields
+      matchNotifications: args.pushMatches ?? true,
+      messageNotifications: args.pushMessages ?? true,
+      likeNotifications: args.pushLikes ?? true,
+      superLikeNotifications: args.pushSuperLikes ?? true,
+      profileViewNotifications: true,
+      callNotifications: args.pushCalls ?? true,
+      paymentNotifications: true,
+      
+      // Batching preferences
+      batchLikes: args.batchNotifications ?? false,
+      batchProfileViews: args.batchNotifications ?? false,
+      
+      // Sound preferences
+      soundEnabled: true,
+      vibrationEnabled: true,
+      
+      createdAt: now,
+      updatedAt: now,
+    });
+
+    return preferencesId;
+  },
+});
+
+/**
+ * Internal function to check if user is in quiet hours
+ */
+async function isInQuietHours(
+  ctx: any,
+  userId: Id<"users">
+): Promise<boolean> {
+  const preferences = await ctx.db
+    .query("notificationPreferences")
+    .withIndex("userId", (q: any) => q.eq("userId", userId))
+    .first();
+
+  if (!preferences || !preferences.quietHoursEnabled) {
+    return false;
+  }
+
+  if (!preferences.quietHoursStart || !preferences.quietHoursEnd) {
+    return false;
+  }
+
+  const now = new Date();
+  const currentHour = now.getHours();
+  const currentMinute = now.getMinutes();
+  const currentTime = currentHour * 60 + currentMinute;
+
+  const [startHour, startMinute] = preferences.quietHoursStart.split(":").map(Number);
+  const [endHour, endMinute] = preferences.quietHoursEnd.split(":").map(Number);
+  const startTime = startHour * 60 + startMinute;
+  const endTime = endHour * 60 + endMinute;
+
+  if (startTime <= endTime) {
+    // Same day (e.g., 22:00 to 23:00)
+    return currentTime >= startTime && currentTime < endTime;
+  } else {
+    // Crosses midnight (e.g., 22:00 to 08:00)
+    return currentTime >= startTime || currentTime < endTime;
+  }
+}
+
+/**
+ * Send a push notification to a specific user
+ * Note: This creates a notification record. Actual push sending would be done via a webhook/action
+ */
+export const sendPushNotification = mutation({
+  args: {
+    userId: v.id("users"),
+    type: v.string(),
+    title: v.string(),
+    body: v.string(),
+    data: v.optional(v.any()),
+    priority: v.optional(v.union(v.literal("high"), v.literal("normal"), v.literal("low"))),
+  },
+  handler: async (ctx, args) => {
+    // Check preferences
+    const preferences = await ctx.db
+      .query("notificationPreferences")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .first();
+
+    if (!preferences || !preferences.pushEnabled) {
+      return { sent: false, reason: "push_disabled" };
+    }
+
+    // Check type-specific preference - use new schema fields
+    const typeMap: Record<string, keyof typeof preferences> = {
+      match: "matchNotifications",
+      message: "messageNotifications",
+      like: "likeNotifications",
+      super_like: "superLikeNotifications",
+      call_incoming: "callNotifications",
+      call_missed: "callNotifications",
+      call_ended: "callNotifications",
+      call_declined: "callNotifications",
+    };
+
+    const prefKey = typeMap[args.type];
+    if (prefKey && !preferences[prefKey]) {
+      return { sent: false, reason: "type_disabled" };
+    }
+
+    // Check quiet hours (but allow calls through)
+    const isCallNotification = args.type.startsWith('call_');
+    if (!isCallNotification && await isInQuietHours(ctx, args.userId)) {
+      return { sent: false, reason: "quiet_hours" };
+    }
+
+    // Get active subscriptions
+    const subscriptions = await ctx.db
+      .query("pushSubscriptions")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .filter((q) => q.eq(q.field("isActive"), true))
+      .collect();
+
+    if (subscriptions.length === 0) {
+      return { sent: false, reason: "no_subscriptions" };
+    }
+
+    // Create notification record
+    const notificationId = await ctx.db.insert("notifications", {
+      userId: args.userId,
+      type: args.type as any,
+      title: args.title,
+      body: args.body,
+      isRead: false,
+      createdAt: Date.now(),
+    });
+
+    // In a real implementation, you would:
+    // 1. Use a Convex action to call an external push service (web-push, FCM, APNs)
+    // 2. Send the notification to all active subscriptions
+    // 3. Handle failures and remove invalid subscriptions
+
+    // Schedule the actual push notification via action
+    // This allows calling external services (web-push, FCM, APNs)
+    try {
+      await ctx.scheduler.runAfter(0, "pushNotificationsActions:sendWebPushNotification" as any, {
+        userId: args.userId,
+        type: args.type,
+        title: args.title,
+        body: args.body,
+        data: args.data,
+        priority: args.priority || "normal",
+      });
+    } catch (error) {
+      console.error("Failed to schedule push notification:", error);
+    }
+
+    return {
+      sent: true,
+      notificationId,
+      subscriptionCount: subscriptions.length,
+    };
+  },
+});
+
+/**
+ * Send push notification when a new match is created
+ */
+export const notifyNewMatch = mutation({
+  args: {
+    matchId: v.id("matches"),
+    userId: v.id("users"),
+    otherUserId: v.id("users"),
+  },
+  handler: async (ctx, args) => {
+    // Get the other user's name
+    const otherUser = await ctx.db.get(args.otherUserId);
+    if (!otherUser) return;
+
+    await ctx.runMutation(api.pushNotifications.sendPushNotification, {
+      userId: args.userId,
+      type: "match",
+      title: "New Match! 🎉",
+      body: `You matched with ${otherUser.name}!`,
+      data: {
+        matchId: args.matchId,
+        userId: args.otherUserId,
+        url: `/matches`,
+      },
+      priority: "high",
+    });
+  },
+});
+
+/**
+ * Send push notification for new message
+ */
+export const notifyNewMessage = mutation({
+  args: {
+    messageId: v.id("messages"),
+    recipientId: v.id("users"),
+    senderId: v.id("users"),
+    preview: v.string(),
+    matchId: v.optional(v.id("matches")),
+  },
+  handler: async (ctx, args) => {
+    const sender = await ctx.db.get(args.senderId);
+    if (!sender) return;
+
+    const chatUrl = args.matchId ? `/chat/${args.matchId}` : `/messages`;
+
+    await ctx.runMutation(api.pushNotifications.sendPushNotification, {
+      userId: args.recipientId,
+      type: "message",
+      title: sender.name,
+      body: args.preview,
+      data: {
+        messageId: args.messageId,
+        senderId: args.senderId,
+        matchId: args.matchId,
+        url: chatUrl,
+      },
+      priority: "high",
+    });
+  },
+});
+
+/**
+ * Send push notification for incoming call
+ */
+
+/**
+ * Send push notification for like received
+ */
+export const notifyLikeReceived = mutation({
+  args: {
+    recipientId: v.id("users"),
+    likerId: v.id("users"),
+    isUndo: v.optional(v.boolean()),
+  },
+  handler: async (ctx, args) => {
+    if (args.isUndo) return; // Don't notify on undo
+
+    const liker = await ctx.db.get(args.likerId);
+    if (!liker) return;
+
+    await ctx.runMutation(api.pushNotifications.sendPushNotification, {
+      userId: args.recipientId,
+      type: "like",
+      title: "Someone likes you! 💖",
+      body: "See who's interested in you",
+      data: {
+        likerId: args.likerId,
+        url: `/likes`,
+      },
+      priority: "normal",
+    });
+  },
+});
+
+/**
+ * Send push notification for super like received
+ */
+export const notifySuperLikeReceived = mutation({
+  args: {
+    recipientId: v.id("users"),
+    superLikerId: v.id("users"),
+  },
+  handler: async (ctx, args) => {
+    const superLiker = await ctx.db.get(args.superLikerId);
+    if (!superLiker) return;
+
+    await ctx.runMutation(api.pushNotifications.sendPushNotification, {
+      userId: args.recipientId,
+      type: "super_like",
+      title: "Super Like! ⭐",
+      body: `${superLiker.name} super liked you!`,
+      data: {
+        superLikerId: args.superLikerId,
+        url: `/discover`,
+      },
+      priority: "high",
+    });
+  },
+});
+
+/**
+ * Update subscription last used timestamp
+ */
+export const updateSubscriptionLastUsed = mutation({
+  args: {
+    subscriptionId: v.id("pushSubscriptions"),
+  },
+  handler: async (ctx, args) => {
+    await ctx.db.patch(args.subscriptionId, {
+      lastUsedAt: Date.now(),
+    });
+  },
+});
+
+/**
+ * Deactivate a push subscription (e.g., when it's invalid)
+ */
+export const deactivatePushSubscription = mutation({
+  args: {
+    subscriptionId: v.id("pushSubscriptions"),
+  },
+  handler: async (ctx, args) => {
+    await ctx.db.patch(args.subscriptionId, {
+      isActive: false,
+    });
+  },
+});
+
+/**
+ * Clean up inactive subscriptions (scheduled job)
+ */
+export const cleanupInactiveSubscriptions = mutation({
+  args: {},
+  handler: async (ctx) => {
+    const thirtyDaysAgo = Date.now() - 30 * 24 * 60 * 60 * 1000;
+    
+    const inactiveSubscriptions = await ctx.db
+      .query("pushSubscriptions")
+      .filter((q) =>
+        q.and(
+          q.eq(q.field("isActive"), true),
+          q.lt(q.field("lastUsedAt"), thirtyDaysAgo)
+        )
+      )
+      .collect();
+
+    for (const subscription of inactiveSubscriptions) {
+      await ctx.db.patch(subscription._id, { isActive: false });
+    }
+
+    return { cleaned: inactiveSubscriptions.length };
+  },
+});

@@ -1,1 +1,102 @@
-{"data":"aW1wb3J0IHsgaW50ZXJuYWxNdXRhdGlvbiB9IGZyb20gIi4vX2dlbmVyYXRlZC9zZXJ2ZXIiOwppbXBvcnQgeyB2IH0gZnJvbSAiY29udmV4L3ZhbHVlcyI7CgovLyBDcmVhdGVzIHRoZSBpbml0aWFsIHBheW1lbnQgcmVjb3JkIChwZW5kaW5nKSBhbmQgcmV0dXJucyBpdHMgaWQuCmV4cG9ydCBjb25zdCBjcmVhdGVQZW5kaW5nUGF5bWVudCA9IGludGVybmFsTXV0YXRpb24oewogIGFyZ3M6IHsKICAgIHVzZXJJZDogdi5pZCgidXNlcnMiKSwKICAgIGFtb3VudDogdi5udW1iZXIoKSwKICAgIGN1cnJlbmN5OiB2LnN0cmluZygpLAogICAgcGF5bWVudE1ldGhvZDogdi5zdHJpbmcoKSwKICAgIHByb2R1Y3RUeXBlOiB2LnN0cmluZygpLAogICAgcGxhbjogdi5vcHRpb25hbCh2LnN0cmluZygpKSwKICAgIHBsYW5EdXJhdGlvbjogdi5vcHRpb25hbCh2LnN0cmluZygpKSwKICAgIG1ldGFkYXRhOiB2Lm9wdGlvbmFsKHYuYW55KCkpLAogICAgdGFyZ2V0VXNlcklkOiB2Lm9wdGlvbmFsKHYuaWQoInVzZXJzIikpLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKTsKICAgIGNvbnN0IGxvY2FsVHhJZCA9IGBsb2NhbF8ke25vd31fJHtNYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDE2KS5zbGljZSgyKX1gOwoKICAgIGNvbnN0IHBheW1lbnRJZCA9IGF3YWl0IGN0eC5kYi5pbnNlcnQoInBheW1lbnRzIiwgewogICAgICB1c2VySWQ6IGFyZ3MudXNlcklkLAogICAgICBhbW91bnQ6IGFyZ3MuYW1vdW50LAogICAgICBjdXJyZW5jeTogYXJncy5jdXJyZW5jeSwKICAgICAgcGF5bWVudE1ldGhvZDogYXJncy5wYXltZW50TWV0aG9kLAogICAgICBzdGF0dXM6ICJwZW5kaW5nIiwKICAgICAgdHJhbnNhY3Rpb25JZDogbG9jYWxUeElkLAogICAgICBzdWJzY3JpcHRpb25JZDogdW5kZWZpbmVkLAogICAgICBwcm9kdWN0VHlwZTogYXJncy5wcm9kdWN0VHlwZSwKICAgICAgbWV0YWRhdGE6IHsKICAgICAgICAuLi5hcmdzLm1ldGFkYXRhLAogICAgICAgIHBsYW46IGFyZ3MucGxhbiwKICAgICAgICBwbGFuRHVyYXRpb246IGFyZ3MucGxhbkR1cmF0aW9uLAogICAgICAgIHRhcmdldFVzZXJJZDogYXJncy50YXJnZXRVc2VySWQsCiAgICAgICAgbGlwYW5hOiB1bmRlZmluZWQsCiAgICAgIH0sCiAgICAgIGNyZWF0ZWRBdDogbm93LAogICAgICBjb21wbGV0ZWRBdDogdW5kZWZpbmVkLAogICAgfSk7CgogICAgcmV0dXJuIHsgcGF5bWVudElkLCBsb2NhbFR4SWQgfTsKICB9LAp9KTsKCi8vIEF0dGFjaGVzIExpcGFuYSBsaW5rIGluZm9ybWF0aW9uIHRvIHRoZSBwYXltZW50IHJlY29yZC4KZXhwb3J0IGNvbnN0IGF0dGFjaExpcGFuYUxpbmsgPSBpbnRlcm5hbE11dGF0aW9uKHsKICBhcmdzOiB7CiAgICBwYXltZW50SWQ6IHYuaWQoInBheW1lbnRzIiksCiAgICB0cmFuc2FjdGlvbklkOiB2LnN0cmluZygpLAogICAgcGxhbjogdi5vcHRpb25hbCh2LnN0cmluZygpKSwKICAgIHBsYW5EdXJhdGlvbjogdi5vcHRpb25hbCh2LnN0cmluZygpKSwKICAgIHRhcmdldFVzZXJJZDogdi5vcHRpb25hbCh2LmlkKCJ1c2VycyIpKSwKICAgIGNoZWNrb3V0VXJsOiB2LnN0cmluZygpLAogICAgcGF5bWVudExpbmtJZDogdi5zdHJpbmcoKSwKICAgIGN1c3RvbU1ldGFkYXRhOiB2Lm9wdGlvbmFsKHYuYW55KCkpLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgYXdhaXQgY3R4LmRiLnBhdGNoKGFyZ3MucGF5bWVudElkLCB7CiAgICAgIHRyYW5zYWN0aW9uSWQ6IGFyZ3MudHJhbnNhY3Rpb25JZCwKICAgICAgbWV0YWRhdGE6IHsKICAgICAgICBwbGFuOiBhcmdzLnBsYW4sCiAgICAgICAgcGxhbkR1cmF0aW9uOiBhcmdzLnBsYW5EdXJhdGlvbiwKICAgICAgICB0YXJnZXRVc2VySWQ6IGFyZ3MudGFyZ2V0VXNlcklkLAogICAgICAgIGxpcGFuYTogeyBwYXltZW50TGlua0lkOiBhcmdzLnBheW1lbnRMaW5rSWQsIGNoZWNrb3V0VXJsOiBhcmdzLmNoZWNrb3V0VXJsIH0sCiAgICAgICAgY3VzdG9tOiBhcmdzLmN1c3RvbU1ldGFkYXRhID8/IHVuZGVmaW5lZCwKICAgICAgfSwKICAgIH0pOwogICAgcmV0dXJuIHsgb2s6IHRydWUgfTsKICB9LAp9KTsKCmV4cG9ydCBjb25zdCBhdHRhY2hMaXBhbmFTdGsgPSBpbnRlcm5hbE11dGF0aW9uKHsKICBhcmdzOiB7CiAgICBwYXltZW50SWQ6IHYuaWQoInBheW1lbnRzIiksCiAgICB0cmFuc2FjdGlvbklkOiB2LnN0cmluZygpLAogICAgY2hlY2tvdXRSZXF1ZXN0SUQ6IHYub3B0aW9uYWwodi5zdHJpbmcoKSksCiAgICBwaG9uZTogdi5zdHJpbmcoKSwKICAgIHBsYW46IHYub3B0aW9uYWwodi5zdHJpbmcoKSksCiAgICBwbGFuRHVyYXRpb246IHYub3B0aW9uYWwodi5zdHJpbmcoKSksCiAgICB0YXJnZXRVc2VySWQ6IHYub3B0aW9uYWwodi5pZCgidXNlcnMiKSksCiAgICBjdXN0b21NZXRhZGF0YTogdi5vcHRpb25hbCh2LmFueSgpKSwKICB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGF3YWl0IGN0eC5kYi5wYXRjaChhcmdzLnBheW1lbnRJZCwgewogICAgICB0cmFuc2FjdGlvbklkOiBhcmdzLnRyYW5zYWN0aW9uSWQsCiAgICAgIG1ldGFkYXRhOiB7CiAgICAgICAgcGxhbjogYXJncy5wbGFuLAogICAgICAgIHBsYW5EdXJhdGlvbjogYXJncy5wbGFuRHVyYXRpb24sCiAgICAgICAgdGFyZ2V0VXNlcklkOiBhcmdzLnRhcmdldFVzZXJJZCwKICAgICAgICBsaXBhbmE6IHsKICAgICAgICAgIHN0azogewogICAgICAgICAgICB0cmFuc2FjdGlvbklkOiBhcmdzLnRyYW5zYWN0aW9uSWQsCiAgICAgICAgICAgIGNoZWNrb3V0UmVxdWVzdElEOiBhcmdzLmNoZWNrb3V0UmVxdWVzdElELAogICAgICAgICAgICBwaG9uZTogYXJncy5waG9uZSwKICAgICAgICAgIH0sCiAgICAgICAgfSwKICAgICAgICBjdXN0b206IGFyZ3MuY3VzdG9tTWV0YWRhdGEgPz8gdW5kZWZpbmVkLAogICAgICB9LAogICAgfSk7CiAgICByZXR1cm4geyBvazogdHJ1ZSB9OwogIH0sCn0pOwo="}
+import { internalMutation } from "./_generated/server";
+import { v } from "convex/values";
+
+// Creates the initial payment record (pending) and returns its id.
+export const createPendingPayment = internalMutation({
+  args: {
+    userId: v.id("users"),
+    amount: v.number(),
+    currency: v.string(),
+    paymentMethod: v.string(),
+    productType: v.string(),
+    plan: v.optional(v.string()),
+    planDuration: v.optional(v.string()),
+    metadata: v.optional(v.any()),
+    targetUserId: v.optional(v.id("users")),
+  },
+  handler: async (ctx, args) => {
+    const now = Date.now();
+    const localTxId = `local_${now}_${Math.random().toString(16).slice(2)}`;
+
+    const paymentId = await ctx.db.insert("payments", {
+      userId: args.userId,
+      amount: args.amount,
+      currency: args.currency,
+      paymentMethod: args.paymentMethod,
+      status: "pending",
+      transactionId: localTxId,
+      subscriptionId: undefined,
+      productType: args.productType,
+      metadata: {
+        ...args.metadata,
+        plan: args.plan,
+        planDuration: args.planDuration,
+        targetUserId: args.targetUserId,
+        lipana: undefined,
+      },
+      createdAt: now,
+      completedAt: undefined,
+    });
+
+    return { paymentId, localTxId };
+  },
+});
+
+// Attaches Lipana link information to the payment record.
+export const attachLipanaLink = internalMutation({
+  args: {
+    paymentId: v.id("payments"),
+    transactionId: v.string(),
+    plan: v.optional(v.string()),
+    planDuration: v.optional(v.string()),
+    targetUserId: v.optional(v.id("users")),
+    checkoutUrl: v.string(),
+    paymentLinkId: v.string(),
+    customMetadata: v.optional(v.any()),
+  },
+  handler: async (ctx, args) => {
+    await ctx.db.patch(args.paymentId, {
+      transactionId: args.transactionId,
+      metadata: {
+        plan: args.plan,
+        planDuration: args.planDuration,
+        targetUserId: args.targetUserId,
+        lipana: { paymentLinkId: args.paymentLinkId, checkoutUrl: args.checkoutUrl },
+        custom: args.customMetadata ?? undefined,
+      },
+    });
+    return { ok: true };
+  },
+});
+
+export const attachLipanaStk = internalMutation({
+  args: {
+    paymentId: v.id("payments"),
+    transactionId: v.string(),
+    checkoutRequestID: v.optional(v.string()),
+    phone: v.string(),
+    plan: v.optional(v.string()),
+    planDuration: v.optional(v.string()),
+    targetUserId: v.optional(v.id("users")),
+    customMetadata: v.optional(v.any()),
+  },
+  handler: async (ctx, args) => {
+    await ctx.db.patch(args.paymentId, {
+      transactionId: args.transactionId,
+      metadata: {
+        plan: args.plan,
+        planDuration: args.planDuration,
+        targetUserId: args.targetUserId,
+        lipana: {
+          stk: {
+            transactionId: args.transactionId,
+            checkoutRequestID: args.checkoutRequestID,
+            phone: args.phone,
+          },
+        },
+        custom: args.customMetadata ?? undefined,
+      },
+    });
+    return { ok: true };
+  },
+});

@@ -1,1 +1,210 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IHVzZU11dGF0aW9uLCB1c2VRdWVyeSB9IGZyb20gImNvbnZleC9yZWFjdCI7CmltcG9ydCB7IGFwaSB9IGZyb20gIi4uLy4uLy4uL2NvbnZleC9fZ2VuZXJhdGVkL2FwaSI7CmltcG9ydCB7CiAgQWxlcnREaWFsb2csCiAgQWxlcnREaWFsb2dBY3Rpb24sCiAgQWxlcnREaWFsb2dDYW5jZWwsCiAgQWxlcnREaWFsb2dDb250ZW50LAogIEFsZXJ0RGlhbG9nRGVzY3JpcHRpb24sCiAgQWxlcnREaWFsb2dGb290ZXIsCiAgQWxlcnREaWFsb2dIZWFkZXIsCiAgQWxlcnREaWFsb2dUaXRsZSwKICBBbGVydERpYWxvZ1RyaWdnZXIsCn0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2FsZXJ0LWRpYWxvZyI7CmltcG9ydCB7IEJ1dHRvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS9idXR0b24iOwppbXBvcnQgeyBMYWJlbCB9IGZyb20gIkAvY29tcG9uZW50cy91aS9sYWJlbCI7CmltcG9ydCB7IFRleHRhcmVhIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL3RleHRhcmVhIjsKaW1wb3J0IHsKICBTZWxlY3QsCiAgU2VsZWN0Q29udGVudCwKICBTZWxlY3RJdGVtLAogIFNlbGVjdFRyaWdnZXIsCiAgU2VsZWN0VmFsdWUsCn0gZnJvbSAiQC9jb21wb25lbnRzL3VpL3NlbGVjdCI7CmltcG9ydCB7IHRvYXN0IH0gZnJvbSAic29ubmVyIjsKaW1wb3J0IHsgVHJhc2gyLCBBbGVydFRyaWFuZ2xlLCBDbG9jayB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IEFsZXJ0LCBBbGVydERlc2NyaXB0aW9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2FsZXJ0IjsKaW1wb3J0IHsgdXNlQXV0aCB9IGZyb20gIkAvY29udGV4dHMvQXV0aENvbnRleHQiOwoKY29uc3QgREVMRVRJT05fUkVBU09OUyA9IFsKICB7IHZhbHVlOiAiZm91bmRfbWF0Y2giLCBsYWJlbDogIkkgZm91bmQgc29tZW9uZSIgfSwKICB7IHZhbHVlOiAibm90X3VzaW5nIiwgbGFiZWw6ICJOb3QgdXNpbmcgdGhlIGFwcCBhbnltb3JlIiB9LAogIHsgdmFsdWU6ICJwcml2YWN5IiwgbGFiZWw6ICJQcml2YWN5IGNvbmNlcm5zIiB9LAogIHsgdmFsdWU6ICJ0b29fZXhwZW5zaXZlIiwgbGFiZWw6ICJUb28gZXhwZW5zaXZlIiB9LAogIHsgdmFsdWU6ICJ0ZWNobmljYWxfaXNzdWVzIiwgbGFiZWw6ICJUZWNobmljYWwgaXNzdWVzIiB9LAogIHsgdmFsdWU6ICJvdGhlciIsIGxhYmVsOiAiT3RoZXIiIH0sCl07CgpleHBvcnQgZnVuY3Rpb24gRGVsZXRlQWNjb3VudERpYWxvZygpIHsKICBjb25zdCBbb3Blbiwgc2V0T3Blbl0gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgW3JlYXNvbiwgc2V0UmVhc29uXSA9IHVzZVN0YXRlKCIiKTsKICBjb25zdCBbZmVlZGJhY2ssIHNldEZlZWRiYWNrXSA9IHVzZVN0YXRlKCIiKTsKICBjb25zdCBbaXNEZWxldGluZywgc2V0SXNEZWxldGluZ10gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgeyB0b2tlbiB9ID0gdXNlQXV0aCgpOwoKICBjb25zdCBkZWxldGlvblN0YXR1cyA9IHVzZVF1ZXJ5KGFwaS5hY2NvdW50TWFuYWdlbWVudC5nZXREZWxldGlvblN0YXR1cywgdG9rZW4gPyB7IHRva2VuIH0gOiAic2tpcCIpOwogIGNvbnN0IHJlcXVlc3REZWxldGlvbiA9IHVzZU11dGF0aW9uKGFwaS5hY2NvdW50TWFuYWdlbWVudC5yZXF1ZXN0QWNjb3VudERlbGV0aW9uKTsKICBjb25zdCBjYW5jZWxEZWxldGlvbiA9IHVzZU11dGF0aW9uKGFwaS5hY2NvdW50TWFuYWdlbWVudC5jYW5jZWxBY2NvdW50RGVsZXRpb24pOwoKICBjb25zdCBoYXNQZW5kaW5nRGVsZXRpb24gPSBkZWxldGlvblN0YXR1cz8uc3RhdHVzID09PSAicGVuZGluZyI7CgogIGNvbnN0IGhhbmRsZVJlcXVlc3REZWxldGlvbiA9IGFzeW5jICgpID0+IHsKICAgIGlmICghcmVhc29uKSB7CiAgICAgIHRvYXN0LmVycm9yKCJQbGVhc2Ugc2VsZWN0IGEgcmVhc29uIik7CiAgICAgIHJldHVybjsKICAgIH0KICAgIGlmICghdG9rZW4pIHsKICAgICAgdG9hc3QuZXJyb3IoIllvdSBtdXN0IGJlIGxvZ2dlZCBpbiB0byBkZWxldGUgeW91ciBhY2NvdW50Iik7CiAgICAgIHJldHVybjsKICAgIH0KCiAgICBzZXRJc0RlbGV0aW5nKHRydWUpOwogICAgdHJ5IHsKICAgICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgcmVxdWVzdERlbGV0aW9uKHsgcmVhc29uLCBmZWVkYmFjaywgdG9rZW4gfSk7CiAgICAgIHRvYXN0LnN1Y2Nlc3MocmVzdWx0Lm1lc3NhZ2UpOwogICAgICBzZXRPcGVuKGZhbHNlKTsKICAgICAgc2V0UmVhc29uKCIiKTsKICAgICAgc2V0RmVlZGJhY2soIiIpOwogICAgfSBjYXRjaCAoZXJyb3I6IGFueSkgewogICAgICB0b2FzdC5lcnJvcihlcnJvci5tZXNzYWdlIHx8ICJGYWlsZWQgdG8gcmVxdWVzdCBhY2NvdW50IGRlbGV0aW9uIik7CiAgICB9IGZpbmFsbHkgewogICAgICBzZXRJc0RlbGV0aW5nKGZhbHNlKTsKICAgIH0KICB9OwoKICBjb25zdCBoYW5kbGVDYW5jZWxEZWxldGlvbiA9IGFzeW5jICgpID0+IHsKICAgIGlmICghdG9rZW4pIHsKICAgICAgdG9hc3QuZXJyb3IoIllvdSBtdXN0IGJlIGxvZ2dlZCBpbiB0byBjYW5jZWwgZGVsZXRpb24iKTsKICAgICAgcmV0dXJuOwogICAgfQogICAgdHJ5IHsKICAgICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgY2FuY2VsRGVsZXRpb24oeyB0b2tlbiB9KTsKICAgICAgdG9hc3Quc3VjY2VzcyhyZXN1bHQubWVzc2FnZSk7CiAgICB9IGNhdGNoIChlcnJvcjogYW55KSB7CiAgICAgIHRvYXN0LmVycm9yKGVycm9yLm1lc3NhZ2UgfHwgIkZhaWxlZCB0byBjYW5jZWwgZGVsZXRpb24iKTsKICAgIH0KICB9OwoKICBpZiAoaGFzUGVuZGluZ0RlbGV0aW9uICYmIGRlbGV0aW9uU3RhdHVzKSB7CiAgICBjb25zdCBkYXlzUmVtYWluaW5nID0gTWF0aC5jZWlsKAogICAgICAoZGVsZXRpb25TdGF0dXMuc2NoZWR1bGVkRm9yIC0gRGF0ZS5ub3coKSkgLyAoMTAwMCAqIDYwICogNjAgKiAyNCkKICAgICk7CgogICAgcmV0dXJuICgKICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktNCI+CiAgICAgICAgPEFsZXJ0IHZhcmlhbnQ9ImRlc3RydWN0aXZlIj4KICAgICAgICAgIDxBbGVydFRyaWFuZ2xlIGNsYXNzTmFtZT0iaC00IHctNCIgLz4KICAgICAgICAgIDxBbGVydERlc2NyaXB0aW9uPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0yIj4KICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9ImZvbnQtc2VtaWJvbGQiPkFjY291bnQgRGVsZXRpb24gU2NoZWR1bGVkPC9wPgogICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgWW91ciBhY2NvdW50IHdpbGwgYmUgcGVybWFuZW50bHkgZGVsZXRlZCBpbnsiICJ9CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImZvbnQtYm9sZCI+e2RheXNSZW1haW5pbmd9IGRheXM8L3NwYW4+LgogICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20iPgogICAgICAgICAgICAgICAgRGVsZXRpb24gZGF0ZTp7IiAifQogICAgICAgICAgICAgICAge25ldyBEYXRlKGRlbGV0aW9uU3RhdHVzLnNjaGVkdWxlZEZvcikudG9Mb2NhbGVEYXRlU3RyaW5nKCl9CiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvQWxlcnREZXNjcmlwdGlvbj4KICAgICAgICA8L0FsZXJ0PgoKICAgICAgICA8QnV0dG9uCiAgICAgICAgICB2YXJpYW50PSJvdXRsaW5lIgogICAgICAgICAgb25DbGljaz17aGFuZGxlQ2FuY2VsRGVsZXRpb259CiAgICAgICAgICBjbGFzc05hbWU9InctZnVsbCIKICAgICAgICA+CiAgICAgICAgICA8Q2xvY2sgY2xhc3NOYW1lPSJtci0yIGgtNCB3LTQiIC8+CiAgICAgICAgICBDYW5jZWwgQWNjb3VudCBEZWxldGlvbgogICAgICAgIDwvQnV0dG9uPgogICAgICA8L2Rpdj4KICAgICk7CiAgfQoKICByZXR1cm4gKAogICAgPEFsZXJ0RGlhbG9nIG9wZW49e29wZW59IG9uT3BlbkNoYW5nZT17c2V0T3Blbn0+CiAgICAgIDxBbGVydERpYWxvZ1RyaWdnZXIgYXNDaGlsZD4KICAgICAgICA8QnV0dG9uIHZhcmlhbnQ9ImRlc3RydWN0aXZlIiBjbGFzc05hbWU9InctZnVsbCI+CiAgICAgICAgICA8VHJhc2gyIGNsYXNzTmFtZT0ibXItMiBoLTQgdy00IiAvPgogICAgICAgICAgRGVsZXRlIEFjY291bnQKICAgICAgICA8L0J1dHRvbj4KICAgICAgPC9BbGVydERpYWxvZ1RyaWdnZXI+CiAgICAgIDxBbGVydERpYWxvZ0NvbnRlbnQgY2xhc3NOYW1lPSJtYXgtdy1sZyI+CiAgICAgICAgPEFsZXJ0RGlhbG9nSGVhZGVyPgogICAgICAgICAgPEFsZXJ0RGlhbG9nVGl0bGUgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiI+CiAgICAgICAgICAgIDxBbGVydFRyaWFuZ2xlIGNsYXNzTmFtZT0iaC01IHctNSB0ZXh0LWRlc3RydWN0aXZlIiAvPgogICAgICAgICAgICBEZWxldGUgQWNjb3VudAogICAgICAgICAgPC9BbGVydERpYWxvZ1RpdGxlPgogICAgICAgICAgPEFsZXJ0RGlhbG9nRGVzY3JpcHRpb24gY2xhc3NOYW1lPSJzcGFjZS15LTQgdGV4dC1sZWZ0Ij4KICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgV2UncmUgc29ycnkgdG8gc2VlIHlvdSBnby4gRGVsZXRpbmcgeW91ciBhY2NvdW50IGlzIHBlcm1hbmVudCBhbmQKICAgICAgICAgICAgICB3aWxsOgogICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDx1bCBjbGFzc05hbWU9Imxpc3QtZGlzYyBwbC02IHNwYWNlLXktMSB0ZXh0LXNtIj4KICAgICAgICAgICAgICA8bGk+UmVtb3ZlIHlvdXIgcHJvZmlsZSBmcm9tIHRoZSBwbGF0Zm9ybTwvbGk+CiAgICAgICAgICAgICAgPGxpPkRlbGV0ZSBhbGwgeW91ciBwaG90b3MgYW5kIHBlcnNvbmFsIGluZm9ybWF0aW9uPC9saT4KICAgICAgICAgICAgICA8bGk+UmVtb3ZlIGFsbCB5b3VyIG1hdGNoZXMgYW5kIGNvbnZlcnNhdGlvbnM8L2xpPgogICAgICAgICAgICAgIDxsaT5DYW5jZWwgYW55IGFjdGl2ZSBzdWJzY3JpcHRpb25zPC9saT4KICAgICAgICAgICAgPC91bD4KICAgICAgICAgICAgPEFsZXJ0PgogICAgICAgICAgICAgIDxDbG9jayBjbGFzc05hbWU9ImgtNCB3LTQiIC8+CiAgICAgICAgICAgICAgPEFsZXJ0RGVzY3JpcHRpb24+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9ImZvbnQtc2VtaWJvbGQgbWItMSI+MzAtRGF5IEdyYWNlIFBlcmlvZDwvcD4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSI+CiAgICAgICAgICAgICAgICAgIFlvdXIgYWNjb3VudCB3aWxsIGJlIGRlYWN0aXZhdGVkIGltbWVkaWF0ZWx5LCBidXQgeW91J2xsIGhhdmUKICAgICAgICAgICAgICAgICAgMzAgZGF5cyB0byBjaGFuZ2UgeW91ciBtaW5kLiBBZnRlciB0aGF0LCBhbGwgZGF0YSB3aWxsIGJlCiAgICAgICAgICAgICAgICAgIHBlcm1hbmVudGx5IGRlbGV0ZWQuCiAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPC9BbGVydERlc2NyaXB0aW9uPgogICAgICAgICAgICA8L0FsZXJ0PgogICAgICAgICAgPC9BbGVydERpYWxvZ0Rlc2NyaXB0aW9uPgogICAgICAgIDwvQWxlcnREaWFsb2dIZWFkZXI+CgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTQgcHktNCI+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0yIj4KICAgICAgICAgICAgPExhYmVsIGh0bWxGb3I9InJlYXNvbiI+CiAgICAgICAgICAgICAgV2h5IGFyZSB5b3UgbGVhdmluZz8gPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LWRlc3RydWN0aXZlIj4qPC9zcGFuPgogICAgICAgICAgICA8L0xhYmVsPgogICAgICAgICAgICA8U2VsZWN0IHZhbHVlPXtyZWFzb259IG9uVmFsdWVDaGFuZ2U9e3NldFJlYXNvbn0+CiAgICAgICAgICAgICAgPFNlbGVjdFRyaWdnZXIgaWQ9InJlYXNvbiI+CiAgICAgICAgICAgICAgICA8U2VsZWN0VmFsdWUgcGxhY2Vob2xkZXI9IlNlbGVjdCBhIHJlYXNvbiIgLz4KICAgICAgICAgICAgICA8L1NlbGVjdFRyaWdnZXI+CiAgICAgICAgICAgICAgPFNlbGVjdENvbnRlbnQ+CiAgICAgICAgICAgICAgICB7REVMRVRJT05fUkVBU09OUy5tYXAoKHIpID0+ICgKICAgICAgICAgICAgICAgICAgPFNlbGVjdEl0ZW0ga2V5PXtyLnZhbHVlfSB2YWx1ZT17ci52YWx1ZX0+CiAgICAgICAgICAgICAgICAgICAge3IubGFiZWx9CiAgICAgICAgICAgICAgICAgIDwvU2VsZWN0SXRlbT4KICAgICAgICAgICAgICAgICkpfQogICAgICAgICAgICAgIDwvU2VsZWN0Q29udGVudD4KICAgICAgICAgICAgPC9TZWxlY3Q+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0yIj4KICAgICAgICAgICAgPExhYmVsIGh0bWxGb3I9ImZlZWRiYWNrIj4KICAgICAgICAgICAgICBBZGRpdGlvbmFsIGZlZWRiYWNrIChvcHRpb25hbCkKICAgICAgICAgICAgPC9MYWJlbD4KICAgICAgICAgICAgPFRleHRhcmVhCiAgICAgICAgICAgICAgaWQ9ImZlZWRiYWNrIgogICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJUZWxsIHVzIG1vcmUgYWJvdXQgeW91ciBleHBlcmllbmNlLi4uIgogICAgICAgICAgICAgIHZhbHVlPXtmZWVkYmFja30KICAgICAgICAgICAgICBvbkNoYW5nZT17KGUpID0+IHNldEZlZWRiYWNrKGUudGFyZ2V0LnZhbHVlKX0KICAgICAgICAgICAgICByb3dzPXszfQogICAgICAgICAgICAvPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxBbGVydERpYWxvZ0Zvb3Rlcj4KICAgICAgICAgIDxBbGVydERpYWxvZ0NhbmNlbD5DYW5jZWw8L0FsZXJ0RGlhbG9nQ2FuY2VsPgogICAgICAgICAgPEFsZXJ0RGlhbG9nQWN0aW9uCiAgICAgICAgICAgIG9uQ2xpY2s9e2hhbmRsZVJlcXVlc3REZWxldGlvbn0KICAgICAgICAgICAgZGlzYWJsZWQ9e2lzRGVsZXRpbmcgfHwgIXJlYXNvbn0KICAgICAgICAgICAgY2xhc3NOYW1lPSJiZy1kZXN0cnVjdGl2ZSBob3ZlcjpiZy1kZXN0cnVjdGl2ZS85MCIKICAgICAgICAgID4KICAgICAgICAgICAge2lzRGVsZXRpbmcgPyAiUHJvY2Vzc2luZy4uLiIgOiAiRGVsZXRlIE15IEFjY291bnQifQogICAgICAgICAgPC9BbGVydERpYWxvZ0FjdGlvbj4KICAgICAgICA8L0FsZXJ0RGlhbG9nRm9vdGVyPgogICAgICA8L0FsZXJ0RGlhbG9nQ29udGVudD4KICAgIDwvQWxlcnREaWFsb2c+CiAgKTsKfQo="}
+import { useState } from "react";
+import { useMutation, useQuery } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import {
+  AlertDialog,
+  AlertDialogAction,
+  AlertDialogCancel,
+  AlertDialogContent,
+  AlertDialogDescription,
+  AlertDialogFooter,
+  AlertDialogHeader,
+  AlertDialogTitle,
+  AlertDialogTrigger,
+} from "@/components/ui/alert-dialog";
+import { Button } from "@/components/ui/button";
+import { Label } from "@/components/ui/label";
+import { Textarea } from "@/components/ui/textarea";
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@/components/ui/select";
+import { toast } from "sonner";
+import { Trash2, AlertTriangle, Clock } from "lucide-react";
+import { Alert, AlertDescription } from "@/components/ui/alert";
+import { useAuth } from "@/contexts/AuthContext";
+
+const DELETION_REASONS = [
+  { value: "found_match", label: "I found someone" },
+  { value: "not_using", label: "Not using the app anymore" },
+  { value: "privacy", label: "Privacy concerns" },
+  { value: "too_expensive", label: "Too expensive" },
+  { value: "technical_issues", label: "Technical issues" },
+  { value: "other", label: "Other" },
+];
+
+export function DeleteAccountDialog() {
+  const [open, setOpen] = useState(false);
+  const [reason, setReason] = useState("");
+  const [feedback, setFeedback] = useState("");
+  const [isDeleting, setIsDeleting] = useState(false);
+  const { token } = useAuth();
+
+  const deletionStatus = useQuery(api.accountManagement.getDeletionStatus, token ? { token } : "skip");
+  const requestDeletion = useMutation(api.accountManagement.requestAccountDeletion);
+  const cancelDeletion = useMutation(api.accountManagement.cancelAccountDeletion);
+
+  const hasPendingDeletion = deletionStatus?.status === "pending";
+
+  const handleRequestDeletion = async () => {
+    if (!reason) {
+      toast.error("Please select a reason");
+      return;
+    }
+    if (!token) {
+      toast.error("You must be logged in to delete your account");
+      return;
+    }
+
+    setIsDeleting(true);
+    try {
+      const result = await requestDeletion({ reason, feedback, token });
+      toast.success(result.message);
+      setOpen(false);
+      setReason("");
+      setFeedback("");
+    } catch (error: any) {
+      toast.error(error.message || "Failed to request account deletion");
+    } finally {
+      setIsDeleting(false);
+    }
+  };
+
+  const handleCancelDeletion = async () => {
+    if (!token) {
+      toast.error("You must be logged in to cancel deletion");
+      return;
+    }
+    try {
+      const result = await cancelDeletion({ token });
+      toast.success(result.message);
+    } catch (error: any) {
+      toast.error(error.message || "Failed to cancel deletion");
+    }
+  };
+
+  if (hasPendingDeletion && deletionStatus) {
+    const daysRemaining = Math.ceil(
+      (deletionStatus.scheduledFor - Date.now()) / (1000 * 60 * 60 * 24)
+    );
+
+    return (
+      <div className="space-y-4">
+        <Alert variant="destructive">
+          <AlertTriangle className="h-4 w-4" />
+          <AlertDescription>
+            <div className="space-y-2">
+              <p className="font-semibold">Account Deletion Scheduled</p>
+              <p>
+                Your account will be permanently deleted in{" "}
+                <span className="font-bold">{daysRemaining} days</span>.
+              </p>
+              <p className="text-sm">
+                Deletion date:{" "}
+                {new Date(deletionStatus.scheduledFor).toLocaleDateString()}
+              </p>
+            </div>
+          </AlertDescription>
+        </Alert>
+
+        <Button
+          variant="outline"
+          onClick={handleCancelDeletion}
+          className="w-full"
+        >
+          <Clock className="mr-2 h-4 w-4" />
+          Cancel Account Deletion
+        </Button>
+      </div>
+    );
+  }
+
+  return (
+    <AlertDialog open={open} onOpenChange={setOpen}>
+      <AlertDialogTrigger asChild>
+        <Button variant="destructive" className="w-full">
+          <Trash2 className="mr-2 h-4 w-4" />
+          Delete Account
+        </Button>
+      </AlertDialogTrigger>
+      <AlertDialogContent className="max-w-lg">
+        <AlertDialogHeader>
+          <AlertDialogTitle className="flex items-center gap-2">
+            <AlertTriangle className="h-5 w-5 text-destructive" />
+            Delete Account
+          </AlertDialogTitle>
+          <AlertDialogDescription className="space-y-4 text-left">
+            <p>
+              We're sorry to see you go. Deleting your account is permanent and
+              will:
+            </p>
+            <ul className="list-disc pl-6 space-y-1 text-sm">
+              <li>Remove your profile from the platform</li>
+              <li>Delete all your photos and personal information</li>
+              <li>Remove all your matches and conversations</li>
+              <li>Cancel any active subscriptions</li>
+            </ul>
+            <Alert>
+              <Clock className="h-4 w-4" />
+              <AlertDescription>
+                <p className="font-semibold mb-1">30-Day Grace Period</p>
+                <p className="text-sm">
+                  Your account will be deactivated immediately, but you'll have
+                  30 days to change your mind. After that, all data will be
+                  permanently deleted.
+                </p>
+              </AlertDescription>
+            </Alert>
+          </AlertDialogDescription>
+        </AlertDialogHeader>
+
+        <div className="space-y-4 py-4">
+          <div className="space-y-2">
+            <Label htmlFor="reason">
+              Why are you leaving? <span className="text-destructive">*</span>
+            </Label>
+            <Select value={reason} onValueChange={setReason}>
+              <SelectTrigger id="reason">
+                <SelectValue placeholder="Select a reason" />
+              </SelectTrigger>
+              <SelectContent>
+                {DELETION_REASONS.map((r) => (
+                  <SelectItem key={r.value} value={r.value}>
+                    {r.label}
+                  </SelectItem>
+                ))}
+              </SelectContent>
+            </Select>
+          </div>
+
+          <div className="space-y-2">
+            <Label htmlFor="feedback">
+              Additional feedback (optional)
+            </Label>
+            <Textarea
+              id="feedback"
+              placeholder="Tell us more about your experience..."
+              value={feedback}
+              onChange={(e) => setFeedback(e.target.value)}
+              rows={3}
+            />
+          </div>
+        </div>
+
+        <AlertDialogFooter>
+          <AlertDialogCancel>Cancel</AlertDialogCancel>
+          <AlertDialogAction
+            onClick={handleRequestDeletion}
+            disabled={isDeleting || !reason}
+            className="bg-destructive hover:bg-destructive/90"
+          >
+            {isDeleting ? "Processing..." : "Delete My Account"}
+          </AlertDialogAction>
+        </AlertDialogFooter>
+      </AlertDialogContent>
+    </AlertDialog>
+  );
+}

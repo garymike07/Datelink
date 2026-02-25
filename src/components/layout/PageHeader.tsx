@@ -1,1 +1,81 @@
-{"data":"aW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VNZW1vIH0gZnJvbSAicmVhY3QiOwppbXBvcnQgeyB1c2VMb2NhdGlvbiwgdXNlTmF2aWdhdGUgfSBmcm9tICJyZWFjdC1yb3V0ZXItZG9tIjsKaW1wb3J0IHsgU2lkZWJhclRyaWdnZXIgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvc2lkZWJhciI7CmltcG9ydCB7IEJ1dHRvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS9idXR0b24iOwppbXBvcnQgeyBBcnJvd0xlZnQgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyB1c2VNdXRhdGlvbiB9IGZyb20gImNvbnZleC9yZWFjdCI7CmltcG9ydCB7IGFwaSB9IGZyb20gIi4uLy4uLy4uL2NvbnZleC9fZ2VuZXJhdGVkL2FwaSI7CmltcG9ydCBOb3RpZmljYXRpb25DZW50ZXIgZnJvbSAiQC9jb21wb25lbnRzL25vdGlmaWNhdGlvbnMvTm90aWZpY2F0aW9uQ2VudGVyIjsKaW1wb3J0IHsgdXNlQXV0aCB9IGZyb20gIkAvY29udGV4dHMvQXV0aENvbnRleHQiOwppbXBvcnQgeyBQbGFuQmFkZ2UgfSBmcm9tICJAL2NvbXBvbmVudHMvcHJlbWl1bS9QbGFuQmFkZ2UiOwoKZnVuY3Rpb24gdGl0bGVGcm9tUGF0aG5hbWUocGF0aG5hbWU6IHN0cmluZykgewogIGNvbnN0IGNsZWFuZWQgPSBwYXRobmFtZS5yZXBsYWNlKC9eXC8vLCAiIik7CiAgaWYgKCFjbGVhbmVkKSByZXR1cm4gIkhvbWUiOwoKICBjb25zdCBzZWdtZW50ID0gY2xlYW5lZC5zcGxpdCgiLyIpWzBdOwogIHJldHVybiBzZWdtZW50CiAgICAuc3BsaXQoIi0iKQogICAgLmZpbHRlcihCb29sZWFuKQogICAgLm1hcCgodykgPT4gdy5jaGFyQXQoMCkudG9VcHBlckNhc2UoKSArIHcuc2xpY2UoMSkpCiAgICAuam9pbigiICIpOwp9CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBQYWdlSGVhZGVyKCkgewogIGNvbnN0IGxvY2F0aW9uID0gdXNlTG9jYXRpb24oKTsKICBjb25zdCBuYXZpZ2F0ZSA9IHVzZU5hdmlnYXRlKCk7CiAgY29uc3QgdXBkYXRlTGFzdFNlZW4gPSB1c2VNdXRhdGlvbihhcGkuYXV0aC51cGRhdGVMYXN0U2Vlbik7CiAgY29uc3QgdXBkYXRlUHJlc2VuY2UgPSB1c2VNdXRhdGlvbihhcGkucHJlc2VuY2UudXBkYXRlUHJlc2VuY2UpOwoKICBjb25zdCB7IHVzZXIgfSA9IHVzZUF1dGgoKTsKICBjb25zdCB1c2VySWQgPSB1c2VyPy5faWQ7CgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBpZiAoIXVzZXJJZCkgcmV0dXJuOwoKICAgIHVwZGF0ZUxhc3RTZWVuKHsgdXNlcklkIH0pOwogICAgdXBkYXRlUHJlc2VuY2UoeyB1c2VySWQsIHN0YXR1czogIm9ubGluZSIgfSBhcyBhbnkpOwogICAgY29uc3QgaWQgPSB3aW5kb3cuc2V0SW50ZXJ2YWwoKCkgPT4gewogICAgICB1cGRhdGVMYXN0U2Vlbih7IHVzZXJJZCB9KTsKICAgICAgdXBkYXRlUHJlc2VuY2UoeyB1c2VySWQsIHN0YXR1czogIm9ubGluZSIgfSBhcyBhbnkpOwogICAgfSwgMzAwMDApOwoKICAgIHJldHVybiAoKSA9PiB3aW5kb3cuY2xlYXJJbnRlcnZhbChpZCk7CiAgfSwgW3VzZXJJZCwgdXBkYXRlTGFzdFNlZW4sIHVwZGF0ZVByZXNlbmNlXSk7CgogIGNvbnN0IHRpdGxlID0gdXNlTWVtbygoKSA9PiB0aXRsZUZyb21QYXRobmFtZShsb2NhdGlvbi5wYXRobmFtZSksIFtsb2NhdGlvbi5wYXRobmFtZV0pOwoKICByZXR1cm4gKAogICAgPGhlYWRlciBjbGFzc05hbWU9ImZsZXggaC0xMiBtZDpoLTE0IHNocmluay0wIGl0ZW1zLWNlbnRlciBnYXAtMiBib3JkZXItYiBib3JkZXItd2hpdGUvNDAgZGFyazpib3JkZXItd2hpdGUvMTAgYmctd2hpdGUvODAgZGFyazpiZy1ibGFjay80NSBiYWNrZHJvcC1ibHVyLTJ4bCBweC0yLjUgbWQ6cHgtNCBzdGlja3kgdG9wLTAgei0xMCBzaGFkb3ctZ2xhc3Mtc20iPgogICAgICA8QnV0dG9uCiAgICAgICAgdHlwZT0iYnV0dG9uIgogICAgICAgIHZhcmlhbnQ9Imdob3N0IgogICAgICAgIHNpemU9Imljb24iCiAgICAgICAgb25DbGljaz17KCkgPT4gewogICAgICAgICAgaWYgKHdpbmRvdy5oaXN0b3J5Lmxlbmd0aCA+IDEpIHsKICAgICAgICAgICAgbmF2aWdhdGUoLTEpOwogICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgbmF2aWdhdGUoIi9kYXNoYm9hcmQiKTsKICAgICAgICAgIH0KICAgICAgICB9fQogICAgICAgIGNsYXNzTmFtZT0iaC04IHctOCIKICAgICAgICBhcmlhLWxhYmVsPSJCYWNrIgogICAgICA+CiAgICAgICAgPEFycm93TGVmdCBjbGFzc05hbWU9InctNCBoLTQiIC8+CiAgICAgIDwvQnV0dG9uPgoKICAgICAgPFNpZGViYXJUcmlnZ2VyIGNsYXNzTmFtZT0iLW1sLTEiIC8+CgogICAgICA8ZGl2IGNsYXNzTmFtZT0iaC0zIHctcHggYmctYm9yZGVyIG14LTEuNSIgLz4KCiAgICAgIDxoMSBjbGFzc05hbWU9InRleHQtc20gbWQ6dGV4dC1iYXNlIGZvbnQtaGVhZGluZyBmb250LXNlbWlib2xkIHRleHQtZm9yZWdyb3VuZC85MCB0cmFja2luZy10aWdodCB0cnVuY2F0ZSI+CiAgICAgICAge3RpdGxlfQogICAgICA8L2gxPgoKICAgICAgPGRpdiBjbGFzc05hbWU9Im1sLWF1dG8gZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEuNSI+CiAgICAgICAge3VzZXJJZCA/IDxQbGFuQmFkZ2UgdXNlcklkPXtTdHJpbmcodXNlcklkKX0gLz4gOiBudWxsfQogICAgICAgIHt1c2VySWQgPyA8Tm90aWZpY2F0aW9uQ2VudGVyIHVzZXJJZD17dXNlcklkfSAvPiA6IG51bGx9CiAgICAgIDwvZGl2PgogICAgPC9oZWFkZXI+CiAgKTsKfQo="}
+import { useEffect, useMemo } from "react";
+import { useLocation, useNavigate } from "react-router-dom";
+import { SidebarTrigger } from "@/components/ui/sidebar";
+import { Button } from "@/components/ui/button";
+import { ArrowLeft } from "lucide-react";
+import { useMutation } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import NotificationCenter from "@/components/notifications/NotificationCenter";
+import { useAuth } from "@/contexts/AuthContext";
+import { PlanBadge } from "@/components/premium/PlanBadge";
+
+function titleFromPathname(pathname: string) {
+  const cleaned = pathname.replace(/^\//, "");
+  if (!cleaned) return "Home";
+
+  const segment = cleaned.split("/")[0];
+  return segment
+    .split("-")
+    .filter(Boolean)
+    .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+    .join(" ");
+}
+
+export default function PageHeader() {
+  const location = useLocation();
+  const navigate = useNavigate();
+  const updateLastSeen = useMutation(api.auth.updateLastSeen);
+  const updatePresence = useMutation(api.presence.updatePresence);
+
+  const { user } = useAuth();
+  const userId = user?._id;
+
+  useEffect(() => {
+    if (!userId) return;
+
+    updateLastSeen({ userId });
+    updatePresence({ userId, status: "online" } as any);
+    const id = window.setInterval(() => {
+      updateLastSeen({ userId });
+      updatePresence({ userId, status: "online" } as any);
+    }, 30000);
+
+    return () => window.clearInterval(id);
+  }, [userId, updateLastSeen, updatePresence]);
+
+  const title = useMemo(() => titleFromPathname(location.pathname), [location.pathname]);
+
+  return (
+    <header className="flex h-12 md:h-14 shrink-0 items-center gap-2 border-b border-white/40 dark:border-white/10 bg-white/80 dark:bg-black/45 backdrop-blur-2xl px-2.5 md:px-4 sticky top-0 z-10 shadow-glass-sm">
+      <Button
+        type="button"
+        variant="ghost"
+        size="icon"
+        onClick={() => {
+          if (window.history.length > 1) {
+            navigate(-1);
+          } else {
+            navigate("/dashboard");
+          }
+        }}
+        className="h-8 w-8"
+        aria-label="Back"
+      >
+        <ArrowLeft className="w-4 h-4" />
+      </Button>
+
+      <SidebarTrigger className="-ml-1" />
+
+      <div className="h-3 w-px bg-border mx-1.5" />
+
+      <h1 className="text-sm md:text-base font-heading font-semibold text-foreground/90 tracking-tight truncate">
+        {title}
+      </h1>
+
+      <div className="ml-auto flex items-center gap-1.5">
+        {userId ? <PlanBadge userId={String(userId)} /> : null}
+        {userId ? <NotificationCenter userId={userId} /> : null}
+      </div>
+    </header>
+  );
+}

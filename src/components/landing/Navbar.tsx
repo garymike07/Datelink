@@ -1,1 +1,118 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUsIHVzZUVmZmVjdCB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgTWVudSwgWCB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IEJ1dHRvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS9idXR0b24iOwppbXBvcnQgeyBMaW5rIH0gZnJvbSAicmVhY3Qtcm91dGVyLWRvbSI7CmltcG9ydCB7IGNuIH0gZnJvbSAiQC9saWIvdXRpbHMiOwoKY29uc3QgTmF2YmFyID0gKCkgPT4gewogIGNvbnN0IFtpc09wZW4sIHNldElzT3Blbl0gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgW3Njcm9sbGVkLCBzZXRTY3JvbGxlZF0gPSB1c2VTdGF0ZShmYWxzZSk7CgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBjb25zdCBoYW5kbGVTY3JvbGwgPSAoKSA9PiB7CiAgICAgIHNldFNjcm9sbGVkKHdpbmRvdy5zY3JvbGxZID4gMjApOwogICAgfTsKICAgIHdpbmRvdy5hZGRFdmVudExpc3RlbmVyKCJzY3JvbGwiLCBoYW5kbGVTY3JvbGwpOwogICAgcmV0dXJuICgpID0+IHdpbmRvdy5yZW1vdmVFdmVudExpc3RlbmVyKCJzY3JvbGwiLCBoYW5kbGVTY3JvbGwpOwogIH0sIFtdKTsKCiAgY29uc3QgbmF2TGlua3MgPSBbCiAgICB7IG5hbWU6ICJIb21lIiwgaHJlZjogIi8iIH0sCiAgICB7IG5hbWU6ICJIb3cgSXQgV29ya3MiLCBocmVmOiAiLyNob3ctaXQtd29ya3MiIH0sCiAgICB7IG5hbWU6ICJQcmljaW5nIiwgaHJlZjogIi9wcmljaW5nIiB9LAogIF07CgogIHJldHVybiAoCiAgICA8bmF2CiAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgImZpeGVkIHRvcC0wIGxlZnQtMCByaWdodC0wIHotNTAgdHJhbnNpdGlvbi1hbGwgZHVyYXRpb24tMjAwIGJnLWJhY2tncm91bmQvODAgYmFja2Ryb3AtYmx1ci1sZyIsCiAgICAgICAgc2Nyb2xsZWQgJiYgImJvcmRlci1iIGJvcmRlci1ib3JkZXIiCiAgICAgICl9CiAgICA+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb250YWluZXItd2lkZSI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiBoLTE2Ij4KICAgICAgICAgIHsvKiBMb2dvICovfQogICAgICAgICAgPExpbmsgdG89Ii8iIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIiPgogICAgICAgICAgICA8aW1nCiAgICAgICAgICAgICAgc3JjPSIvbG9nby5wbmciCiAgICAgICAgICAgICAgYWx0PSJEYXRlTGluayIKICAgICAgICAgICAgICBjbGFzc05hbWU9InctMTAgaC1hdXRvIG9iamVjdC1jb250YWluIgogICAgICAgICAgICAvPgogICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImZvbnQtaGVhZGluZyBmb250LWJvbGQgdGV4dC14bCB0ZXh0LWZvcmVncm91bmQgdHJhY2tpbmctdGlnaHQiPgogICAgICAgICAgICAgIERhdGVMaW5rCiAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgIDwvTGluaz4KCiAgICAgICAgICB7LyogRGVza3RvcCBOYXZpZ2F0aW9uICovfQogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImhpZGRlbiBtZDpmbGV4IGl0ZW1zLWNlbnRlciBnYXAtOCI+CiAgICAgICAgICAgIHtuYXZMaW5rcy5tYXAoKGxpbmspID0+ICgKICAgICAgICAgICAgICA8TGluawogICAgICAgICAgICAgICAga2V5PXtsaW5rLm5hbWV9CiAgICAgICAgICAgICAgICB0bz17bGluay5ocmVmfQogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LXhzIGZvbnQtbWVkaXVtIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBob3Zlcjp0ZXh0LWZvcmVncm91bmQgdHJhbnNpdGlvbi1jb2xvcnMiCiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAge2xpbmsubmFtZX0KICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgey8qIERlc2t0b3AgQ1RBICovfQogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImhpZGRlbiBtZDpmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyI+CiAgICAgICAgICAgIDxMaW5rIHRvPSIvbG9naW4iPgogICAgICAgICAgICAgIDxCdXR0b24gdmFyaWFudD0iZ2hvc3QiIGNsYXNzTmFtZT0iZm9udC1tZWRpdW0gdGV4dC14cyI+CiAgICAgICAgICAgICAgICBMb2cgSW4KICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgICA8TGluayB0bz0iL3NpZ251cCI+CiAgICAgICAgICAgICAgPEJ1dHRvbiBjbGFzc05hbWU9ImJ0bi1ncmFkaWVudCB0ZXh0LXdoaXRlIGZvbnQtbWVkaXVtIHRleHQteHMiPgogICAgICAgICAgICAgICAgR2V0IFN0YXJ0ZWQKICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgey8qIE1vYmlsZSBNZW51IEJ1dHRvbiAqL30KICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgb25DbGljaz17KCkgPT4gc2V0SXNPcGVuKCFpc09wZW4pfQogICAgICAgICAgICBjbGFzc05hbWU9Im1kOmhpZGRlbiBwLTIgdGV4dC1mb3JlZ3JvdW5kIgogICAgICAgICAgPgogICAgICAgICAgICB7aXNPcGVuID8gPFggY2xhc3NOYW1lPSJ3LTYgaC02IiAvPiA6IDxNZW51IGNsYXNzTmFtZT0idy02IGgtNiIgLz59CiAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CgogICAgICB7LyogTW9iaWxlIE1lbnUgKi99CiAgICAgIHtpc09wZW4gJiYgKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtZDpoaWRkZW4gYm9yZGVyLXQgYm9yZGVyLWJvcmRlciBiZy1iYWNrZ3JvdW5kIj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwLTQgc3BhY2UteS00Ij4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMiI+CiAgICAgICAgICAgICAge25hdkxpbmtzLm1hcCgobGluaykgPT4gKAogICAgICAgICAgICAgICAgPExpbmsKICAgICAgICAgICAgICAgICAga2V5PXtsaW5rLm5hbWV9CiAgICAgICAgICAgICAgICAgIHRvPXtsaW5rLmhyZWZ9CiAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNldElzT3BlbihmYWxzZSl9CiAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iYmxvY2sgdGV4dC1zbSBmb250LW1lZGl1bSB0ZXh0LWZvcmVncm91bmQgcHktMiIKICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAge2xpbmsubmFtZX0KICAgICAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtY29sIGdhcC0yIHB0LTIgYm9yZGVyLXQgYm9yZGVyLWJvcmRlciI+CiAgICAgICAgICAgICAgPExpbmsgdG89Ii9sb2dpbiIgb25DbGljaz17KCkgPT4gc2V0SXNPcGVuKGZhbHNlKX0+CiAgICAgICAgICAgICAgICA8QnV0dG9uIHZhcmlhbnQ9Im91dGxpbmUiIGNsYXNzTmFtZT0idy1mdWxsIGZvbnQtbWVkaXVtIj4KICAgICAgICAgICAgICAgICAgTG9nIEluCiAgICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgICAgPExpbmsgdG89Ii9zaWdudXAiIG9uQ2xpY2s9eygpID0+IHNldElzT3BlbihmYWxzZSl9PgogICAgICAgICAgICAgICAgPEJ1dHRvbiBjbGFzc05hbWU9InctZnVsbCBidG4tZ3JhZGllbnQgdGV4dC13aGl0ZSBmb250LW1lZGl1bSI+CiAgICAgICAgICAgICAgICAgIEdldCBTdGFydGVkCiAgICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgICl9CiAgICA8L25hdj4KICApOwp9OwoKZXhwb3J0IGRlZmF1bHQgTmF2YmFyOwo="}
+import { useState, useEffect } from "react";
+import { Menu, X } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import { Link } from "react-router-dom";
+import { cn } from "@/lib/utils";
+
+const Navbar = () => {
+  const [isOpen, setIsOpen] = useState(false);
+  const [scrolled, setScrolled] = useState(false);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setScrolled(window.scrollY > 20);
+    };
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
+  const navLinks = [
+    { name: "Home", href: "/" },
+    { name: "How It Works", href: "/#how-it-works" },
+    { name: "Pricing", href: "/pricing" },
+  ];
+
+  return (
+    <nav
+      className={cn(
+        "fixed top-0 left-0 right-0 z-50 transition-all duration-200 bg-background/80 backdrop-blur-lg",
+        scrolled && "border-b border-border"
+      )}
+    >
+      <div className="container-wide">
+        <div className="flex items-center justify-between h-16">
+          {/* Logo */}
+          <Link to="/" className="flex items-center gap-2">
+            <img
+              src="/logo.png"
+              alt="DateLink"
+              className="w-10 h-auto object-contain"
+            />
+            <span className="font-heading font-bold text-xl text-foreground tracking-tight">
+              DateLink
+            </span>
+          </Link>
+
+          {/* Desktop Navigation */}
+          <div className="hidden md:flex items-center gap-8">
+            {navLinks.map((link) => (
+              <Link
+                key={link.name}
+                to={link.href}
+                className="text-xs font-medium text-muted-foreground hover:text-foreground transition-colors"
+              >
+                {link.name}
+              </Link>
+            ))}
+          </div>
+
+          {/* Desktop CTA */}
+          <div className="hidden md:flex items-center gap-3">
+            <Link to="/login">
+              <Button variant="ghost" className="font-medium text-xs">
+                Log In
+              </Button>
+            </Link>
+            <Link to="/signup">
+              <Button className="btn-gradient text-white font-medium text-xs">
+                Get Started
+              </Button>
+            </Link>
+          </div>
+
+          {/* Mobile Menu Button */}
+          <button
+            onClick={() => setIsOpen(!isOpen)}
+            className="md:hidden p-2 text-foreground"
+          >
+            {isOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
+          </button>
+        </div>
+      </div>
+
+      {/* Mobile Menu */}
+      {isOpen && (
+        <div className="md:hidden border-t border-border bg-background">
+          <div className="p-4 space-y-4">
+            <div className="space-y-2">
+              {navLinks.map((link) => (
+                <Link
+                  key={link.name}
+                  to={link.href}
+                  onClick={() => setIsOpen(false)}
+                  className="block text-sm font-medium text-foreground py-2"
+                >
+                  {link.name}
+                </Link>
+              ))}
+            </div>
+            <div className="flex flex-col gap-2 pt-2 border-t border-border">
+              <Link to="/login" onClick={() => setIsOpen(false)}>
+                <Button variant="outline" className="w-full font-medium">
+                  Log In
+                </Button>
+              </Link>
+              <Link to="/signup" onClick={() => setIsOpen(false)}>
+                <Button className="w-full btn-gradient text-white font-medium">
+                  Get Started
+                </Button>
+              </Link>
+            </div>
+          </div>
+        </div>
+      )}
+    </nav>
+  );
+};
+
+export default Navbar;

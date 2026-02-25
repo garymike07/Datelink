@@ -1,1 +1,56 @@
-{"data":"aW1wb3J0IHsgdXNlUXVlcnkgfSBmcm9tICJjb252ZXgvcmVhY3QiOwppbXBvcnQgeyBhcGkgfSBmcm9tICIuLi8uLi8uLi9jb252ZXgvX2dlbmVyYXRlZC9hcGkiOwppbXBvcnQgeyBmb3JtYXQgfSBmcm9tICJkYXRlLWZucyI7CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBPbmxpbmVTdGF0dXMoewogIHRhcmdldFVzZXJJZCwKICB2aWV3ZXJVc2VySWQsCiAgc2hvd0V4YWN0VGltZSA9IGZhbHNlLAp9OiB7CiAgdGFyZ2V0VXNlcklkOiBzdHJpbmc7CiAgdmlld2VyVXNlcklkPzogc3RyaW5nOwogIHNob3dFeGFjdFRpbWU/OiBib29sZWFuOwp9KSB7CiAgY29uc3QgcHJlc2VuY2UgPSB1c2VRdWVyeShhcGkucHJlc2VuY2UuZ2V0UHJlc2VuY2VTdGF0dXMsIHsKICAgIHRhcmdldFVzZXJJZDogdGFyZ2V0VXNlcklkIGFzIGFueSwKICAgIHZpZXdlclVzZXJJZDogdmlld2VyVXNlcklkIGFzIGFueSwKICB9KTsKCiAgaWYgKCFwcmVzZW5jZSB8fCBwcmVzZW5jZS5zdGF0dXMgPT09ICJoaWRkZW4iKSByZXR1cm4gbnVsbDsKCiAgY29uc3QgY29sb3IgPQogICAgcHJlc2VuY2Uuc3RhdHVzID09PSAib25saW5lIgogICAgICA/ICJiZy1lbWVyYWxkLTUwMCIKICAgICAgOiBwcmVzZW5jZS5zdGF0dXMgPT09ICJhd2F5IgogICAgICAgID8gImJnLWFtYmVyLTQwMCIKICAgICAgICA6ICJiZy1tdXRlZC1mb3JlZ3JvdW5kLzQwIjsKCiAgbGV0IGxhYmVsID0gcHJlc2VuY2Uuc3RhdHVzID09PSAib25saW5lIiA/ICJPbmxpbmUiIDogcHJlc2VuY2Uuc3RhdHVzID09PSAiYXdheSIgPyAiQWN0aXZlIiA6ICJPZmZsaW5lIjsKICAKICAvLyBTaG93IGV4YWN0IHRpbWUgZm9yIG9mZmxpbmUgdXNlcnMgd2hlbiByZXF1ZXN0ZWQKICBpZiAoc2hvd0V4YWN0VGltZSAmJiBwcmVzZW5jZS5zdGF0dXMgPT09ICJvZmZsaW5lIiAmJiBwcmVzZW5jZS5sYXN0QWN0aXZlQXQpIHsKICAgIGNvbnN0IGxhc3RTZWVuRGF0ZSA9IG5ldyBEYXRlKHByZXNlbmNlLmxhc3RBY3RpdmVBdCk7CiAgICBjb25zdCBub3cgPSBuZXcgRGF0ZSgpOwogICAgY29uc3QgdG9kYXkgPSBuZXcgRGF0ZShub3cuZ2V0RnVsbFllYXIoKSwgbm93LmdldE1vbnRoKCksIG5vdy5nZXREYXRlKCkpOwogICAgY29uc3QgeWVzdGVyZGF5ID0gbmV3IERhdGUodG9kYXkpOwogICAgeWVzdGVyZGF5LnNldERhdGUoeWVzdGVyZGF5LmdldERhdGUoKSAtIDEpOwogICAgCiAgICBpZiAobGFzdFNlZW5EYXRlID49IHRvZGF5KSB7CiAgICAgIC8vIFRvZGF5OiBzaG93ICJMYXN0IHNlZW4gYXQgSEg6TU0gQU0vUE0iCiAgICAgIGxhYmVsID0gYExhc3Qgc2VlbiBhdCAke2Zvcm1hdChsYXN0U2VlbkRhdGUsICJoOm1tIGEiKX1gOwogICAgfSBlbHNlIGlmIChsYXN0U2VlbkRhdGUgPj0geWVzdGVyZGF5KSB7CiAgICAgIC8vIFllc3RlcmRheTogc2hvdyAiTGFzdCBzZWVuIHllc3RlcmRheSBhdCBISDpNTSBBTS9QTSIKICAgICAgbGFiZWwgPSBgTGFzdCBzZWVuIHllc3RlcmRheSBhdCAke2Zvcm1hdChsYXN0U2VlbkRhdGUsICJoOm1tIGEiKX1gOwogICAgfSBlbHNlIHsKICAgICAgLy8gT2xkZXI6IHNob3cgIkxhc3Qgc2VlbiBvbiBNTU0gREQgYXQgSEg6TU0gQU0vUE0iCiAgICAgIGxhYmVsID0gYExhc3Qgc2VlbiBvbiAke2Zvcm1hdChsYXN0U2VlbkRhdGUsICJNTU0gZGQiKX0gYXQgJHtmb3JtYXQobGFzdFNlZW5EYXRlLCAiaDptbSBhIil9YDsKICAgIH0KICB9CgogIHJldHVybiAoCiAgICA8c3BhbiBjbGFzc05hbWU9ImlubGluZS1mbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiB0ZXh0LXhzIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+CiAgICAgIDxzcGFuIGNsYXNzTmFtZT17YGlubGluZS1ibG9jayB3LTIgaC0yIHJvdW5kZWQtZnVsbCAke2NvbG9yfWB9IGFyaWEtaGlkZGVuIC8+CiAgICAgIDxzcGFuPntsYWJlbH08L3NwYW4+CiAgICA8L3NwYW4+CiAgKTsKfQo="}
+import { useQuery } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import { format } from "date-fns";
+
+export default function OnlineStatus({
+  targetUserId,
+  viewerUserId,
+  showExactTime = false,
+}: {
+  targetUserId: string;
+  viewerUserId?: string;
+  showExactTime?: boolean;
+}) {
+  const presence = useQuery(api.presence.getPresenceStatus, {
+    targetUserId: targetUserId as any,
+    viewerUserId: viewerUserId as any,
+  });
+
+  if (!presence || presence.status === "hidden") return null;
+
+  const color =
+    presence.status === "online"
+      ? "bg-emerald-500"
+      : presence.status === "away"
+        ? "bg-amber-400"
+        : "bg-muted-foreground/40";
+
+  let label = presence.status === "online" ? "Online" : presence.status === "away" ? "Active" : "Offline";
+  
+  // Show exact time for offline users when requested
+  if (showExactTime && presence.status === "offline" && presence.lastActiveAt) {
+    const lastSeenDate = new Date(presence.lastActiveAt);
+    const now = new Date();
+    const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    const yesterday = new Date(today);
+    yesterday.setDate(yesterday.getDate() - 1);
+    
+    if (lastSeenDate >= today) {
+      // Today: show "Last seen at HH:MM AM/PM"
+      label = `Last seen at ${format(lastSeenDate, "h:mm a")}`;
+    } else if (lastSeenDate >= yesterday) {
+      // Yesterday: show "Last seen yesterday at HH:MM AM/PM"
+      label = `Last seen yesterday at ${format(lastSeenDate, "h:mm a")}`;
+    } else {
+      // Older: show "Last seen on MMM DD at HH:MM AM/PM"
+      label = `Last seen on ${format(lastSeenDate, "MMM dd")} at ${format(lastSeenDate, "h:mm a")}`;
+    }
+  }
+
+  return (
+    <span className="inline-flex items-center gap-2 text-xs text-muted-foreground">
+      <span className={`inline-block w-2 h-2 rounded-full ${color}`} aria-hidden />
+      <span>{label}</span>
+    </span>
+  );
+}

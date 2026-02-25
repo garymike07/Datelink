@@ -1,1 +1,45 @@
-{"data":"Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwoKY29uc3QgZmlsZXMgPSBbCiAgJ3NyYy9wYWdlcy9DaGF0LnRzeCcsCiAgJ3NyYy9wYWdlcy9MaWtlcy50c3gnLAogICdzcmMvcGFnZXMvTWF0Y2hlcy50c3gnLAogICdzcmMvcGFnZXMvTWVzc2FnZXMudHN4JywKICAnc3JjL3BhZ2VzL1Bob3RvVmVyaWZpY2F0aW9uLnRzeCcsCiAgJ3NyYy9wYWdlcy9QdWJsaWNQcm9maWxlLnRzeCcsCiAgJ3NyYy9wYWdlcy9TYWZldHkudHN4JywKICAnc3JjL3BhZ2VzL1N1YnNjcmlwdGlvbi50c3gnLAogICdzcmMvcGFnZXMvVG9wUGlja3MudHN4JywKICAnc3JjL3BhZ2VzL1VwZ3JhZGUudHN4JwpdOwoKZmlsZXMuZm9yRWFjaChmaWxlID0+IHsKICBsZXQgY29udGVudCA9IGZzLnJlYWRGaWxlU3luYyhmaWxlLCAndXRmOCcpOwogIAogIC8vIEFkZCBpbXBvcnQgaWYgbm90IHByZXNlbnQKICBpZiAoIWNvbnRlbnQuaW5jbHVkZXMoJ3VzZUF1dGgnKSkgewogICAgY29udGVudCA9IGNvbnRlbnQucmVwbGFjZSgKICAgICAgLyhpbXBvcnQuKmZyb20gWyciXXJlYWN0WyciXTspLywKICAgICAgJyQxXG5pbXBvcnQgeyB1c2VBdXRoIH0gZnJvbSAiQC9jb250ZXh0cy9BdXRoQ29udGV4dCI7JwogICAgKTsKICB9CiAgCiAgLy8gUmVwbGFjZSBsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgidXNlciIpIHBhdHRlcm5zCiAgY29udGVudCA9IGNvbnRlbnQucmVwbGFjZSgKICAgIC9jb25zdFxzKyhcdyspXHMrPVxzK0pTT05cLnBhcnNlXChsb2NhbFN0b3JhZ2VcLmdldEl0ZW1cKCJ1c2VyIlwpXHMqXHxcfFxzKiJ7fSJcKTs/L2csCiAgICAnY29uc3QgeyB1c2VyOiAkMSB9ID0gdXNlQXV0aCgpOycKICApOwogIAogIGNvbnRlbnQgPSBjb250ZW50LnJlcGxhY2UoCiAgICAvY29uc3RccysoXHcrKVxzKz1ccyt1c2VNZW1vXChcKFwpXHMqPT5ccypKU09OXC5wYXJzZVwobG9jYWxTdG9yYWdlXC5nZXRJdGVtXCgidXNlciJcKVxzKlx8XHxccyoie30iXCksXHMqXFtcXVwpOz8vZywKICAgICdjb25zdCB7IHVzZXI6ICQxIH0gPSB1c2VBdXRoKCk7JwogICk7CiAgCiAgY29udGVudCA9IGNvbnRlbnQucmVwbGFjZSgKICAgIC9jb25zdFxzKyhcdyspXHMrPVxzK2xvY2FsU3RvcmFnZVwuZ2V0SXRlbVwoInVzZXIiXCk7Py9nLAogICAgJ2NvbnN0IHsgdXNlcjogJDEgfSA9IHVzZUF1dGgoKTsnCiAgKTsKICAKICBmcy53cml0ZUZpbGVTeW5jKGZpbGUsIGNvbnRlbnQpOwogIGNvbnNvbGUubG9nKGBVcGRhdGVkICR7ZmlsZX1gKTsKfSk7Cg=="}
+const fs = require('fs');
+
+const files = [
+  'src/pages/Chat.tsx',
+  'src/pages/Likes.tsx',
+  'src/pages/Matches.tsx',
+  'src/pages/Messages.tsx',
+  'src/pages/PhotoVerification.tsx',
+  'src/pages/PublicProfile.tsx',
+  'src/pages/Safety.tsx',
+  'src/pages/Subscription.tsx',
+  'src/pages/TopPicks.tsx',
+  'src/pages/Upgrade.tsx'
+];
+
+files.forEach(file => {
+  let content = fs.readFileSync(file, 'utf8');
+  
+  // Add import if not present
+  if (!content.includes('useAuth')) {
+    content = content.replace(
+      /(import.*from ['"]react['"];)/,
+      '$1\nimport { useAuth } from "@/contexts/AuthContext";'
+    );
+  }
+  
+  // Replace localStorage.getItem("user") patterns
+  content = content.replace(
+    /const\s+(\w+)\s+=\s+JSON\.parse\(localStorage\.getItem\("user"\)\s*\|\|\s*"{}"\);?/g,
+    'const { user: $1 } = useAuth();'
+  );
+  
+  content = content.replace(
+    /const\s+(\w+)\s+=\s+useMemo\(\(\)\s*=>\s*JSON\.parse\(localStorage\.getItem\("user"\)\s*\|\|\s*"{}"\),\s*\[\]\);?/g,
+    'const { user: $1 } = useAuth();'
+  );
+  
+  content = content.replace(
+    /const\s+(\w+)\s+=\s+localStorage\.getItem\("user"\);?/g,
+    'const { user: $1 } = useAuth();'
+  );
+  
+  fs.writeFileSync(file, content);
+  console.log(`Updated ${file}`);
+});

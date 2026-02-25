@@ -1,1 +1,515 @@
-{"data":"aW1wb3J0IHsgdiB9IGZyb20gImNvbnZleC92YWx1ZXMiOwppbXBvcnQgeyBtdXRhdGlvbiwgcXVlcnksIGludGVybmFsTXV0YXRpb24gfSBmcm9tICIuL19nZW5lcmF0ZWQvc2VydmVyIjsKaW1wb3J0IHsgaW50ZXJuYWwgfSBmcm9tICIuL19nZW5lcmF0ZWQvYXBpIjsKaW1wb3J0IHsgSWQgfSBmcm9tICIuL19nZW5lcmF0ZWQvZGF0YU1vZGVsIjsKCi8qKgogKiBSZXF1ZXN0IGFjY291bnQgZGVsZXRpb24gd2l0aCAzMC1kYXkgZ3JhY2UgcGVyaW9kCiAqLwpleHBvcnQgY29uc3QgcmVxdWVzdEFjY291bnREZWxldGlvbiA9IG11dGF0aW9uKHsKICBhcmdzOiB7CiAgICByZWFzb246IHYub3B0aW9uYWwodi5zdHJpbmcoKSksCiAgICBmZWVkYmFjazogdi5vcHRpb25hbCh2LnN0cmluZygpKSwKICAgIHRva2VuOiB2Lm9wdGlvbmFsKHYuc3RyaW5nKCkpLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3QgaWRlbnRpdHkgPSBhd2FpdCBjdHguYXV0aC5nZXRVc2VySWRlbnRpdHkoKTsKCiAgICBjb25zdCB1c2VyID0gaWRlbnRpdHkKICAgICAgPyBhd2FpdCBjdHguZGIKICAgICAgICAgIC5xdWVyeSgidXNlcnMiKQogICAgICAgICAgLndpdGhJbmRleCgiZW1haWwiLCAocSkgPT4gcS5lcSgiZW1haWwiLCBpZGVudGl0eS5lbWFpbCEpKQogICAgICAgICAgLmZpcnN0KCkKICAgICAgOiBhcmdzLnRva2VuCiAgICAgICAgPyBhd2FpdCAoYXN5bmMgKCkgPT4gewogICAgICAgICAgICBjb25zdCBzZXNzaW9uID0gYXdhaXQgY3R4LmRiCiAgICAgICAgICAgICAgLnF1ZXJ5KCJzZXNzaW9ucyIpCiAgICAgICAgICAgICAgLndpdGhJbmRleCgidG9rZW4iLCAocSkgPT4gcS5lcSgidG9rZW4iLCBhcmdzLnRva2VuISkpCiAgICAgICAgICAgICAgLmZpcnN0KCk7CiAgICAgICAgICAgIGlmICghc2Vzc2lvbikgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIGlmIChzZXNzaW9uLmV4cGlyZXNBdCA8IERhdGUubm93KCkpIHJldHVybiBudWxsOwogICAgICAgICAgICByZXR1cm4gYXdhaXQgY3R4LmRiLmdldChzZXNzaW9uLnVzZXJJZCk7CiAgICAgICAgICB9KSgpCiAgICAgICAgOiBudWxsOwoKICAgIGlmICghdXNlcikgdGhyb3cgbmV3IEVycm9yKCJOb3QgYXV0aGVudGljYXRlZCIpOwoKICAgIGNvbnN0IG5vdyA9IERhdGUubm93KCk7CiAgICBjb25zdCBncmFjZVBlcmlvZCA9IDMwICogMjQgKiA2MCAqIDYwICogMTAwMDsgLy8gMzAgZGF5cwoKICAgIC8vIENoZWNrIGlmIHRoZXJlJ3MgYWxyZWFkeSBhIHBlbmRpbmcgZGVsZXRpb24KICAgIGNvbnN0IGV4aXN0aW5nRGVsZXRpb24gPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJhY2NvdW50RGVsZXRpb25zIikKICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIHVzZXIuX2lkKSkKICAgICAgLmZpbHRlcigocSkgPT4gcS5lcShxLmZpZWxkKCJzdGF0dXMiKSwgInBlbmRpbmciKSkKICAgICAgLmZpcnN0KCk7CgogICAgaWYgKGV4aXN0aW5nRGVsZXRpb24pIHsKICAgICAgcmV0dXJuIHsKICAgICAgICBtZXNzYWdlOiAiQWNjb3VudCBkZWxldGlvbiBhbHJlYWR5IHBlbmRpbmciLAogICAgICAgIGNhbmNlbEJ5OiBleGlzdGluZ0RlbGV0aW9uLnNjaGVkdWxlZEZvciwKICAgICAgICBkZWxldGlvbklkOiBleGlzdGluZ0RlbGV0aW9uLl9pZCwKICAgICAgfTsKICAgIH0KCiAgICAvLyBDcmVhdGUgZGVsZXRpb24gcmVxdWVzdAogICAgY29uc3QgZGVsZXRpb25JZCA9IGF3YWl0IGN0eC5kYi5pbnNlcnQoImFjY291bnREZWxldGlvbnMiLCB7CiAgICAgIHVzZXJJZDogdXNlci5faWQsCiAgICAgIHJlcXVlc3RlZEF0OiBub3csCiAgICAgIHNjaGVkdWxlZEZvcjogbm93ICsgZ3JhY2VQZXJpb2QsCiAgICAgIHJlYXNvbjogYXJncy5yZWFzb24sCiAgICAgIGZlZWRiYWNrOiBhcmdzLmZlZWRiYWNrLAogICAgICBzdGF0dXM6ICJwZW5kaW5nIiwKICAgIH0pOwoKICAgIC8vIERlYWN0aXZhdGUgYWNjb3VudCBpbW1lZGlhdGVseQogICAgYXdhaXQgY3R4LmRiLnBhdGNoKHVzZXIuX2lkLCB7CiAgICAgIGFjY291bnRTdGF0dXM6ICJkZWFjdGl2YXRlZCIsCiAgICAgIGRlYWN0aXZhdGVkQXQ6IG5vdywKICAgIH0pOwoKICAgIC8vIEhpZGUgcHJvZmlsZSBmcm9tIGRpc2NvdmVyeQogICAgY29uc3QgcHJvZmlsZSA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoInByb2ZpbGVzIikKICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIHVzZXIuX2lkKSkKICAgICAgLmZpcnN0KCk7CgogICAgaWYgKHByb2ZpbGUpIHsKICAgICAgYXdhaXQgY3R4LmRiLnBhdGNoKHByb2ZpbGUuX2lkLCB7CiAgICAgICAgbGFzdEFjdGl2ZUF0OiAwLCAvLyBTZXQgdG8gMCB0byBoaWRlIGZyb20gZGlzY292ZXJ5CiAgICAgIH0pOwogICAgfQoKICAgIC8vIFNlbmQgbm90aWZpY2F0aW9uCiAgICBhd2FpdCBjdHguZGIuaW5zZXJ0KCJub3RpZmljYXRpb25zIiwgewogICAgICB1c2VySWQ6IHVzZXIuX2lkLAogICAgICB0eXBlOiAiYWNjb3VudF93YXJuaW5nIiwKICAgICAgdGl0bGU6ICJBY2NvdW50IERlbGV0aW9uIFNjaGVkdWxlZCIsCiAgICAgIGJvZHk6IGBZb3VyIGFjY291bnQgd2lsbCBiZSBwZXJtYW5lbnRseSBkZWxldGVkIGluIDMwIGRheXMuIFlvdSBjYW4gY2FuY2VsIHRoaXMgYW55dGltZSBiZWZvcmUgJHtuZXcgRGF0ZShub3cgKyBncmFjZVBlcmlvZCkudG9Mb2NhbGVEYXRlU3RyaW5nKCl9LmAsCiAgICAgIGlzUmVhZDogZmFsc2UsCiAgICAgIGNyZWF0ZWRBdDogbm93LAogICAgfSk7CgogICAgcmV0dXJuIHsKICAgICAgbWVzc2FnZTogIkFjY291bnQgc2NoZWR1bGVkIGZvciBkZWxldGlvbiBpbiAzMCBkYXlzIiwKICAgICAgY2FuY2VsQnk6IG5vdyArIGdyYWNlUGVyaW9kLAogICAgICBkZWxldGlvbklkLAogICAgfTsKICB9LAp9KTsKCi8qKgogKiBDYW5jZWwgcGVuZGluZyBhY2NvdW50IGRlbGV0aW9uCiAqLwpleHBvcnQgY29uc3QgY2FuY2VsQWNjb3VudERlbGV0aW9uID0gbXV0YXRpb24oewogIGFyZ3M6IHsgdG9rZW46IHYub3B0aW9uYWwodi5zdHJpbmcoKSkgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICBjb25zdCBpZGVudGl0eSA9IGF3YWl0IGN0eC5hdXRoLmdldFVzZXJJZGVudGl0eSgpOwoKICAgIGNvbnN0IHVzZXIgPSBpZGVudGl0eQogICAgICA/IGF3YWl0IGN0eC5kYgogICAgICAgICAgLnF1ZXJ5KCJ1c2VycyIpCiAgICAgICAgICAud2l0aEluZGV4KCJlbWFpbCIsIChxKSA9PiBxLmVxKCJlbWFpbCIsIGlkZW50aXR5LmVtYWlsISkpCiAgICAgICAgICAuZmlyc3QoKQogICAgICA6IGFyZ3MudG9rZW4KICAgICAgICA/IGF3YWl0IChhc3luYyAoKSA9PiB7CiAgICAgICAgICAgIGNvbnN0IHNlc3Npb24gPSBhd2FpdCBjdHguZGIKICAgICAgICAgICAgICAucXVlcnkoInNlc3Npb25zIikKICAgICAgICAgICAgICAud2l0aEluZGV4KCJ0b2tlbiIsIChxKSA9PiBxLmVxKCJ0b2tlbiIsIGFyZ3MudG9rZW4hKSkKICAgICAgICAgICAgICAuZmlyc3QoKTsKICAgICAgICAgICAgaWYgKCFzZXNzaW9uKSByZXR1cm4gbnVsbDsKICAgICAgICAgICAgaWYgKHNlc3Npb24uZXhwaXJlc0F0IDwgRGF0ZS5ub3coKSkgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIHJldHVybiBhd2FpdCBjdHguZGIuZ2V0KHNlc3Npb24udXNlcklkKTsKICAgICAgICAgIH0pKCkKICAgICAgICA6IG51bGw7CgogICAgaWYgKCF1c2VyKSB0aHJvdyBuZXcgRXJyb3IoIk5vdCBhdXRoZW50aWNhdGVkIik7CgogICAgY29uc3QgZGVsZXRpb24gPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJhY2NvdW50RGVsZXRpb25zIikKICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIHVzZXIuX2lkKSkKICAgICAgLmZpbHRlcigocSkgPT4gcS5lcShxLmZpZWxkKCJzdGF0dXMiKSwgInBlbmRpbmciKSkKICAgICAgLmZpcnN0KCk7CgogICAgaWYgKCFkZWxldGlvbikgdGhyb3cgbmV3IEVycm9yKCJObyBwZW5kaW5nIGRlbGV0aW9uIGZvdW5kIik7CgogICAgLy8gQ2FuY2VsIHRoZSBkZWxldGlvbgogICAgYXdhaXQgY3R4LmRiLnBhdGNoKGRlbGV0aW9uLl9pZCwgeyBzdGF0dXM6ICJjYW5jZWxsZWQiIH0pOwoKICAgIC8vIFJlYWN0aXZhdGUgYWNjb3VudAogICAgYXdhaXQgY3R4LmRiLnBhdGNoKHVzZXIuX2lkLCB7CiAgICAgIGFjY291bnRTdGF0dXM6ICJhY3RpdmUiLAogICAgICBkZWFjdGl2YXRlZEF0OiB1bmRlZmluZWQsCiAgICB9KTsKCiAgICAvLyBSZXN0b3JlIHByb2ZpbGUgdmlzaWJpbGl0eQogICAgY29uc3QgcHJvZmlsZSA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoInByb2ZpbGVzIikKICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIHVzZXIuX2lkKSkKICAgICAgLmZpcnN0KCk7CgogICAgaWYgKHByb2ZpbGUpIHsKICAgICAgYXdhaXQgY3R4LmRiLnBhdGNoKHByb2ZpbGUuX2lkLCB7CiAgICAgICAgbGFzdEFjdGl2ZUF0OiBEYXRlLm5vdygpLCAvLyBSZXN0b3JlIHZpc2liaWxpdHkKICAgICAgfSk7CiAgICB9CgogICAgLy8gU2VuZCBub3RpZmljYXRpb24KICAgIGF3YWl0IGN0eC5kYi5pbnNlcnQoIm5vdGlmaWNhdGlvbnMiLCB7CiAgICAgIHVzZXJJZDogdXNlci5faWQsCiAgICAgIHR5cGU6ICJwcm9maWxlX2NyZWF0ZWQiLAogICAgICB0aXRsZTogIkFjY291bnQgRGVsZXRpb24gQ2FuY2VsbGVkIiwKICAgICAgYm9keTogIllvdXIgYWNjb3VudCBkZWxldGlvbiBoYXMgYmVlbiBjYW5jZWxsZWQuIFdlbGNvbWUgYmFjayEiLAogICAgICBpc1JlYWQ6IGZhbHNlLAogICAgICBjcmVhdGVkQXQ6IERhdGUubm93KCksCiAgICB9KTsKCiAgICByZXR1cm4geyBtZXNzYWdlOiAiQWNjb3VudCBkZWxldGlvbiBjYW5jZWxsZWQgc3VjY2Vzc2Z1bGx5IiB9OwogIH0sCn0pOwoKLyoqCiAqIEdldCBwZW5kaW5nIGRlbGV0aW9uIHN0YXR1cyBmb3IgY3VycmVudCB1c2VyCiAqLwpleHBvcnQgY29uc3QgZ2V0RGVsZXRpb25TdGF0dXMgPSBxdWVyeSh7CiAgYXJnczogeyB0b2tlbjogdi5vcHRpb25hbCh2LnN0cmluZygpKSB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGNvbnN0IGlkZW50aXR5ID0gYXdhaXQgY3R4LmF1dGguZ2V0VXNlcklkZW50aXR5KCk7CgogICAgY29uc3QgdXNlciA9IGlkZW50aXR5CiAgICAgID8gYXdhaXQgY3R4LmRiCiAgICAgICAgICAucXVlcnkoInVzZXJzIikKICAgICAgICAgIC53aXRoSW5kZXgoImVtYWlsIiwgKHEpID0+IHEuZXEoImVtYWlsIiwgaWRlbnRpdHkuZW1haWwhKSkKICAgICAgICAgIC5maXJzdCgpCiAgICAgIDogYXJncy50b2tlbgogICAgICAgID8gYXdhaXQgKGFzeW5jICgpID0+IHsKICAgICAgICAgICAgY29uc3Qgc2Vzc2lvbiA9IGF3YWl0IGN0eC5kYgogICAgICAgICAgICAgIC5xdWVyeSgic2Vzc2lvbnMiKQogICAgICAgICAgICAgIC53aXRoSW5kZXgoInRva2VuIiwgKHEpID0+IHEuZXEoInRva2VuIiwgYXJncy50b2tlbiEpKQogICAgICAgICAgICAgIC5maXJzdCgpOwogICAgICAgICAgICBpZiAoIXNlc3Npb24pIHJldHVybiBudWxsOwogICAgICAgICAgICBpZiAoc2Vzc2lvbi5leHBpcmVzQXQgPCBEYXRlLm5vdygpKSByZXR1cm4gbnVsbDsKICAgICAgICAgICAgcmV0dXJuIGF3YWl0IGN0eC5kYi5nZXQoc2Vzc2lvbi51c2VySWQpOwogICAgICAgICAgfSkoKQogICAgICAgIDogbnVsbDsKCiAgICBpZiAoIXVzZXIpIHJldHVybiBudWxsOwoKICAgIGNvbnN0IGRlbGV0aW9uID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgiYWNjb3VudERlbGV0aW9ucyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCB1c2VyLl9pZCkpCiAgICAgIC5maWx0ZXIoKHEpID0+IHEuZXEocS5maWVsZCgic3RhdHVzIiksICJwZW5kaW5nIikpCiAgICAgIC5maXJzdCgpOwoKICAgIHJldHVybiBkZWxldGlvbjsKICB9LAp9KTsKCi8qKgogKiBEZWFjdGl2YXRlIGFjY291bnQgKHBhdXNlIHdpdGhvdXQgZGVsZXRpb24pCiAqLwpleHBvcnQgY29uc3QgZGVhY3RpdmF0ZUFjY291bnQgPSBtdXRhdGlvbih7CiAgYXJnczogeyB0b2tlbjogdi5vcHRpb25hbCh2LnN0cmluZygpKSB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGNvbnN0IGlkZW50aXR5ID0gYXdhaXQgY3R4LmF1dGguZ2V0VXNlcklkZW50aXR5KCk7CgogICAgY29uc3QgdXNlciA9IGlkZW50aXR5CiAgICAgID8gYXdhaXQgY3R4LmRiCiAgICAgICAgICAucXVlcnkoInVzZXJzIikKICAgICAgICAgIC53aXRoSW5kZXgoImVtYWlsIiwgKHEpID0+IHEuZXEoImVtYWlsIiwgaWRlbnRpdHkuZW1haWwhKSkKICAgICAgICAgIC5maXJzdCgpCiAgICAgIDogYXJncy50b2tlbgogICAgICAgID8gYXdhaXQgKGFzeW5jICgpID0+IHsKICAgICAgICAgICAgY29uc3Qgc2Vzc2lvbiA9IGF3YWl0IGN0eC5kYgogICAgICAgICAgICAgIC5xdWVyeSgic2Vzc2lvbnMiKQogICAgICAgICAgICAgIC53aXRoSW5kZXgoInRva2VuIiwgKHEpID0+IHEuZXEoInRva2VuIiwgYXJncy50b2tlbiEpKQogICAgICAgICAgICAgIC5maXJzdCgpOwogICAgICAgICAgICBpZiAoIXNlc3Npb24pIHJldHVybiBudWxsOwogICAgICAgICAgICBpZiAoc2Vzc2lvbi5leHBpcmVzQXQgPCBEYXRlLm5vdygpKSByZXR1cm4gbnVsbDsKICAgICAgICAgICAgcmV0dXJuIGF3YWl0IGN0eC5kYi5nZXQoc2Vzc2lvbi51c2VySWQpOwogICAgICAgICAgfSkoKQogICAgICAgIDogbnVsbDsKCiAgICBpZiAoIXVzZXIpIHRocm93IG5ldyBFcnJvcigiTm90IGF1dGhlbnRpY2F0ZWQiKTsKCiAgICBpZiAoIXVzZXIpIHRocm93IG5ldyBFcnJvcigiVXNlciBub3QgZm91bmQiKTsKCiAgICBhd2FpdCBjdHguZGIucGF0Y2godXNlci5faWQsIHsKICAgICAgYWNjb3VudFN0YXR1czogImRlYWN0aXZhdGVkIiwKICAgICAgZGVhY3RpdmF0ZWRBdDogRGF0ZS5ub3coKSwKICAgIH0pOwoKICAgIC8vIEhpZGUgcHJvZmlsZSBmcm9tIGRpc2NvdmVyeQogICAgY29uc3QgcHJvZmlsZSA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoInByb2ZpbGVzIikKICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIHVzZXIuX2lkKSkKICAgICAgLmZpcnN0KCk7CgogICAgaWYgKHByb2ZpbGUpIHsKICAgICAgYXdhaXQgY3R4LmRiLnBhdGNoKHByb2ZpbGUuX2lkLCB7CiAgICAgICAgbGFzdEFjdGl2ZUF0OiAwLCAvLyBTZXQgdG8gMCB0byBoaWRlIGZyb20gZGlzY292ZXJ5CiAgICAgIH0pOwogICAgfQoKICAgIHJldHVybiB7IG1lc3NhZ2U6ICJBY2NvdW50IGRlYWN0aXZhdGVkIHN1Y2Nlc3NmdWxseSIgfTsKICB9LAp9KTsKCi8qKgogKiBSZWFjdGl2YXRlIGFjY291bnQKICovCmV4cG9ydCBjb25zdCByZWFjdGl2YXRlQWNjb3VudCA9IG11dGF0aW9uKHsKICBhcmdzOiB7IHRva2VuOiB2Lm9wdGlvbmFsKHYuc3RyaW5nKCkpIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3QgaWRlbnRpdHkgPSBhd2FpdCBjdHguYXV0aC5nZXRVc2VySWRlbnRpdHkoKTsKCiAgICBjb25zdCB1c2VyID0gaWRlbnRpdHkKICAgICAgPyBhd2FpdCBjdHguZGIKICAgICAgICAgIC5xdWVyeSgidXNlcnMiKQogICAgICAgICAgLndpdGhJbmRleCgiZW1haWwiLCAocSkgPT4gcS5lcSgiZW1haWwiLCBpZGVudGl0eS5lbWFpbCEpKQogICAgICAgICAgLmZpcnN0KCkKICAgICAgOiBhcmdzLnRva2VuCiAgICAgICAgPyBhd2FpdCAoYXN5bmMgKCkgPT4gewogICAgICAgICAgICBjb25zdCBzZXNzaW9uID0gYXdhaXQgY3R4LmRiCiAgICAgICAgICAgICAgLnF1ZXJ5KCJzZXNzaW9ucyIpCiAgICAgICAgICAgICAgLndpdGhJbmRleCgidG9rZW4iLCAocSkgPT4gcS5lcSgidG9rZW4iLCBhcmdzLnRva2VuISkpCiAgICAgICAgICAgICAgLmZpcnN0KCk7CiAgICAgICAgICAgIGlmICghc2Vzc2lvbikgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIGlmIChzZXNzaW9uLmV4cGlyZXNBdCA8IERhdGUubm93KCkpIHJldHVybiBudWxsOwogICAgICAgICAgICByZXR1cm4gYXdhaXQgY3R4LmRiLmdldChzZXNzaW9uLnVzZXJJZCk7CiAgICAgICAgICB9KSgpCiAgICAgICAgOiBudWxsOwoKICAgIGlmICghdXNlcikgdGhyb3cgbmV3IEVycm9yKCJOb3QgYXV0aGVudGljYXRlZCIpOwoKICAgIGlmICghdXNlcikgdGhyb3cgbmV3IEVycm9yKCJVc2VyIG5vdCBmb3VuZCIpOwoKICAgIGF3YWl0IGN0eC5kYi5wYXRjaCh1c2VyLl9pZCwgewogICAgICBhY2NvdW50U3RhdHVzOiAiYWN0aXZlIiwKICAgICAgZGVhY3RpdmF0ZWRBdDogdW5kZWZpbmVkLAogICAgfSk7CgogICAgLy8gUmVzdG9yZSBwcm9maWxlIHZpc2liaWxpdHkKICAgIGNvbnN0IHByb2ZpbGUgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJwcm9maWxlcyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCB1c2VyLl9pZCkpCiAgICAgIC5maXJzdCgpOwoKICAgIGlmIChwcm9maWxlKSB7CiAgICAgIGF3YWl0IGN0eC5kYi5wYXRjaChwcm9maWxlLl9pZCwgewogICAgICAgIGxhc3RBY3RpdmVBdDogRGF0ZS5ub3coKSwgLy8gUmVzdG9yZSB2aXNpYmlsaXR5CiAgICAgIH0pOwogICAgfQoKICAgIHJldHVybiB7IG1lc3NhZ2U6ICJBY2NvdW50IHJlYWN0aXZhdGVkIHN1Y2Nlc3NmdWxseSIgfTsKICB9LAp9KTsKCi8qKgogKiBJbnRlcm5hbDogRXhlY3V0ZSBhY2NvdW50IGRlbGV0aW9uIChjYWxsZWQgYnkgY3JvbiBqb2IpCiAqLwpleHBvcnQgY29uc3QgZXhlY3V0ZUFjY291bnREZWxldGlvbiA9IGludGVybmFsTXV0YXRpb24oewogIGFyZ3M6IHsgZGVsZXRpb25JZDogdi5pZCgiYWNjb3VudERlbGV0aW9ucyIpIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3QgZGVsZXRpb24gPSBhd2FpdCBjdHguZGIuZ2V0KGFyZ3MuZGVsZXRpb25JZCk7CiAgICBpZiAoIWRlbGV0aW9uIHx8IGRlbGV0aW9uLnN0YXR1cyAhPT0gInBlbmRpbmciKSByZXR1cm47CiAgICBpZiAoZGVsZXRpb24uc2NoZWR1bGVkRm9yID4gRGF0ZS5ub3coKSkgcmV0dXJuOyAvLyBOb3QgeWV0IHRpbWUKCiAgICBjb25zdCB1c2VySWQgPSBkZWxldGlvbi51c2VySWQ7CgogICAgLy8gRGVsZXRlIGFsbCB1c2VyLXJlbGF0ZWQgZGF0YQogICAgdHJ5IHsKICAgICAgLy8gRGVsZXRlIHBob3RvcwogICAgICBjb25zdCBwaG90b3MgPSBhd2FpdCBjdHguZGIKICAgICAgICAucXVlcnkoInBob3RvcyIpCiAgICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIHVzZXJJZCkpCiAgICAgICAgLmNvbGxlY3QoKTsKICAgICAgZm9yIChjb25zdCBwaG90byBvZiBwaG90b3MpIHsKICAgICAgICBhd2FpdCBjdHguZGIuZGVsZXRlKHBob3RvLl9pZCk7CiAgICAgIH0KCiAgICAgIC8vIERlbGV0ZSBwaG90byBhbmFseXRpY3MKICAgICAgY29uc3QgcGhvdG9BbmFseXRpY3MgPSBhd2FpdCBjdHguZGIKICAgICAgICAucXVlcnkoInBob3RvQW5hbHl0aWNzIikKICAgICAgICAud2l0aEluZGV4KCJ1c2VySWQiLCAocSkgPT4gcS5lcSgidXNlcklkIiwgdXNlcklkKSkKICAgICAgICAuY29sbGVjdCgpOwogICAgICBmb3IgKGNvbnN0IGFuYWx5dGljcyBvZiBwaG90b0FuYWx5dGljcykgewogICAgICAgIGF3YWl0IGN0eC5kYi5kZWxldGUoYW5hbHl0aWNzLl9pZCk7CiAgICAgIH0KCiAgICAgIC8vIERlbGV0ZSBwcm9maWxlCiAgICAgIGNvbnN0IHByb2ZpbGUgPSBhd2FpdCBjdHguZGIKICAgICAgICAucXVlcnkoInByb2ZpbGVzIikKICAgICAgICAud2l0aEluZGV4KCJ1c2VySWQiLCAocSkgPT4gcS5lcSgidXNlcklkIiwgdXNlcklkKSkKICAgICAgICAuZmlyc3QoKTsKICAgICAgaWYgKHByb2ZpbGUpIGF3YWl0IGN0eC5kYi5kZWxldGUocHJvZmlsZS5faWQpOwoKICAgICAgLy8gRGVsZXRlIG1lc3NhZ2VzIChib3RoIHNlbnQgYW5kIHJlY2VpdmVkKQogICAgICBjb25zdCBtZXNzYWdlcyA9IGF3YWl0IGN0eC5kYgogICAgICAgIC5xdWVyeSgibWVzc2FnZXMiKQogICAgICAgIC5jb2xsZWN0KCk7CiAgICAgIGZvciAoY29uc3QgbWVzc2FnZSBvZiBtZXNzYWdlcykgewogICAgICAgIGlmIChtZXNzYWdlLnNlbmRlcklkID09PSB1c2VySWQgfHwgbWVzc2FnZS5yZWNlaXZlcklkID09PSB1c2VySWQpIHsKICAgICAgICAgIGF3YWl0IGN0eC5kYi5kZWxldGUobWVzc2FnZS5faWQpOwogICAgICAgIH0KICAgICAgfQoKICAgICAgLy8gRGVsZXRlIG1hdGNoZXMKICAgICAgY29uc3QgbWF0Y2hlcyA9IGF3YWl0IGN0eC5kYgogICAgICAgIC5xdWVyeSgibWF0Y2hlcyIpCiAgICAgICAgLmNvbGxlY3QoKTsKICAgICAgZm9yIChjb25zdCBtYXRjaCBvZiBtYXRjaGVzKSB7CiAgICAgICAgaWYgKG1hdGNoLnVzZXIxSWQgPT09IHVzZXJJZCB8fCBtYXRjaC51c2VyMklkID09PSB1c2VySWQpIHsKICAgICAgICAgIGF3YWl0IGN0eC5kYi5kZWxldGUobWF0Y2guX2lkKTsKICAgICAgICB9CiAgICAgIH0KCiAgICAgIC8vIERlbGV0ZSBsaWtlcyAoYm90aCBnaXZlbiBhbmQgcmVjZWl2ZWQpCiAgICAgIGNvbnN0IGxpa2VzID0gYXdhaXQgY3R4LmRiCiAgICAgICAgLnF1ZXJ5KCJsaWtlcyIpCiAgICAgICAgLmNvbGxlY3QoKTsKICAgICAgZm9yIChjb25zdCBsaWtlIG9mIGxpa2VzKSB7CiAgICAgICAgaWYgKGxpa2UudXNlcklkID09PSB1c2VySWQgfHwgbGlrZS5saWtlZFVzZXJJZCA9PT0gdXNlcklkKSB7CiAgICAgICAgICBhd2FpdCBjdHguZGIuZGVsZXRlKGxpa2UuX2lkKTsKICAgICAgICB9CiAgICAgIH0KCiAgICAgIC8vIERlbGV0ZSBub3RpZmljYXRpb25zCiAgICAgIGNvbnN0IG5vdGlmaWNhdGlvbnMgPSBhd2FpdCBjdHguZGIKICAgICAgICAucXVlcnkoIm5vdGlmaWNhdGlvbnMiKQogICAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCB1c2VySWQpKQogICAgICAgIC5jb2xsZWN0KCk7CiAgICAgIGZvciAoY29uc3Qgbm90aWZpY2F0aW9uIG9mIG5vdGlmaWNhdGlvbnMpIHsKICAgICAgICBhd2FpdCBjdHguZGIuZGVsZXRlKG5vdGlmaWNhdGlvbi5faWQpOwogICAgICB9CgogICAgICAvLyBEZWxldGUgc2V0dGluZ3MKICAgICAgY29uc3Qgc2V0dGluZ3MgPSBhd2FpdCBjdHguZGIKICAgICAgICAucXVlcnkoInVzZXJTZXR0aW5ncyIpCiAgICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIHVzZXJJZCkpCiAgICAgICAgLmZpcnN0KCk7CiAgICAgIGlmIChzZXR0aW5ncykgYXdhaXQgY3R4LmRiLmRlbGV0ZShzZXR0aW5ncy5faWQpOwoKICAgICAgLy8gRGVsZXRlIHN1YnNjcmlwdGlvbnMKICAgICAgY29uc3Qgc3Vic2NyaXB0aW9ucyA9IGF3YWl0IGN0eC5kYgogICAgICAgIC5xdWVyeSgic3Vic2NyaXB0aW9ucyIpCiAgICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIHVzZXJJZCkpCiAgICAgICAgLmNvbGxlY3QoKTsKICAgICAgZm9yIChjb25zdCBzdWJzY3JpcHRpb24gb2Ygc3Vic2NyaXB0aW9ucykgewogICAgICAgIGF3YWl0IGN0eC5kYi5kZWxldGUoc3Vic2NyaXB0aW9uLl9pZCk7CiAgICAgIH0KCiAgICAgIC8vIERlbGV0ZSBwYXltZW50cwogICAgICBjb25zdCBwYXltZW50cyA9IGF3YWl0IGN0eC5kYgogICAgICAgIC5xdWVyeSgicGF5bWVudHMiKQogICAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCB1c2VySWQpKQogICAgICAgIC5jb2xsZWN0KCk7CiAgICAgIGZvciAoY29uc3QgcGF5bWVudCBvZiBwYXltZW50cykgewogICAgICAgIGF3YWl0IGN0eC5kYi5kZWxldGUocGF5bWVudC5faWQpOwogICAgICB9CgogICAgICAvLyBEZWxldGUgZGFpbHkgdXNhZ2UKICAgICAgY29uc3QgZGFpbHlVc2FnZSA9IGF3YWl0IGN0eC5kYgogICAgICAgIC5xdWVyeSgiZGFpbHlVc2FnZSIpCiAgICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIHVzZXJJZCkpCiAgICAgICAgLmNvbGxlY3QoKTsKICAgICAgZm9yIChjb25zdCB1c2FnZSBvZiBkYWlseVVzYWdlKSB7CiAgICAgICAgYXdhaXQgY3R4LmRiLmRlbGV0ZSh1c2FnZS5faWQpOwogICAgICB9CgogICAgICAvLyBEZWxldGUgc2Vzc2lvbnMKICAgICAgY29uc3Qgc2Vzc2lvbnMgPSBhd2FpdCBjdHguZGIKICAgICAgICAucXVlcnkoInNlc3Npb25zIikKICAgICAgICAud2l0aEluZGV4KCJ1c2VySWQiLCAocSkgPT4gcS5lcSgidXNlcklkIiwgdXNlcklkKSkKICAgICAgICAuY29sbGVjdCgpOwogICAgICBmb3IgKGNvbnN0IHNlc3Npb24gb2Ygc2Vzc2lvbnMpIHsKICAgICAgICBhd2FpdCBjdHguZGIuZGVsZXRlKHNlc3Npb24uX2lkKTsKICAgICAgfQoKICAgICAgLy8gRGVsZXRlIHB1c2ggc3Vic2NyaXB0aW9ucwogICAgICBjb25zdCBwdXNoU3VicyA9IGF3YWl0IGN0eC5kYgogICAgICAgIC5xdWVyeSgicHVzaFN1YnNjcmlwdGlvbnMiKQogICAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCB1c2VySWQpKQogICAgICAgIC5jb2xsZWN0KCk7CiAgICAgIGZvciAoY29uc3Qgc3ViIG9mIHB1c2hTdWJzKSB7CiAgICAgICAgYXdhaXQgY3R4LmRiLmRlbGV0ZShzdWIuX2lkKTsKICAgICAgfQoKICAgICAgLy8gRGVsZXRlIGFjdGl2aXR5IGxvZwogICAgICBjb25zdCBhY3Rpdml0eUxvZ3MgPSBhd2FpdCBjdHguZGIKICAgICAgICAucXVlcnkoImFjdGl2aXR5TG9nIikKICAgICAgICAud2l0aEluZGV4KCJ1c2VySWQiLCAocSkgPT4gcS5lcSgidXNlcklkIiwgdXNlcklkKSkKICAgICAgICAuY29sbGVjdCgpOwogICAgICBmb3IgKGNvbnN0IGxvZyBvZiBhY3Rpdml0eUxvZ3MpIHsKICAgICAgICBhd2FpdCBjdHguZGIuZGVsZXRlKGxvZy5faWQpOwogICAgICB9CgogICAgICAvLyBEZWxldGUgdXNlciBwcm9ncmVzcyAoZ2FtaWZpY2F0aW9uKQogICAgICBjb25zdCB1c2VyUHJvZ3Jlc3MgPSBhd2FpdCBjdHguZGIKICAgICAgICAucXVlcnkoInVzZXJQcm9ncmVzcyIpCiAgICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIHVzZXJJZCkpCiAgICAgICAgLmZpcnN0KCk7CiAgICAgIGlmICh1c2VyUHJvZ3Jlc3MpIGF3YWl0IGN0eC5kYi5kZWxldGUodXNlclByb2dyZXNzLl9pZCk7CgogICAgICAvLyBEZWxldGUgcXVlc3RzCiAgICAgIGNvbnN0IHF1ZXN0cyA9IGF3YWl0IGN0eC5kYgogICAgICAgIC5xdWVyeSgicXVlc3RzIikKICAgICAgICAud2l0aEluZGV4KCJ1c2VySWQiLCAocSkgPT4gcS5lcSgidXNlcklkIiwgdXNlcklkKSkKICAgICAgICAuY29sbGVjdCgpOwogICAgICBmb3IgKGNvbnN0IHF1ZXN0IG9mIHF1ZXN0cykgewogICAgICAgIGF3YWl0IGN0eC5kYi5kZWxldGUocXVlc3QuX2lkKTsKICAgICAgfQoKICAgICAgLy8gRGVsZXRlIGRhdGEgZXhwb3J0cwogICAgICBjb25zdCBkYXRhRXhwb3J0cyA9IGF3YWl0IGN0eC5kYgogICAgICAgIC5xdWVyeSgiZGF0YUV4cG9ydHMiKQogICAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCB1c2VySWQpKQogICAgICAgIC5jb2xsZWN0KCk7CiAgICAgIGZvciAoY29uc3QgZGF0YUV4cG9ydCBvZiBkYXRhRXhwb3J0cykgewogICAgICAgIGF3YWl0IGN0eC5kYi5kZWxldGUoZGF0YUV4cG9ydC5faWQpOwogICAgICB9CgoKICAgICAgLy8gRmluYWxseSBkZWxldGUgdXNlciBhY2NvdW50CiAgICAgIGF3YWl0IGN0eC5kYi5kZWxldGUodXNlcklkKTsKCiAgICAgIC8vIE1hcmsgZGVsZXRpb24gYXMgY29tcGxldGUKICAgICAgYXdhaXQgY3R4LmRiLnBhdGNoKGFyZ3MuZGVsZXRpb25JZCwgewogICAgICAgIHN0YXR1czogImNvbXBsZXRlZCIsCiAgICAgICAgY29tcGxldGVkQXQ6IERhdGUubm93KCksCiAgICAgIH0pOwoKICAgICAgY29uc29sZS5sb2coYFN1Y2Nlc3NmdWxseSBkZWxldGVkIGFjY291bnQgZm9yIHVzZXIgJHt1c2VySWR9YCk7CiAgICB9IGNhdGNoIChlcnJvcikgewogICAgICBjb25zb2xlLmVycm9yKGBFcnJvciBkZWxldGluZyBhY2NvdW50IGZvciB1c2VyICR7dXNlcklkfTpgLCBlcnJvcik7CiAgICAgIHRocm93IGVycm9yOwogICAgfQogIH0sCn0pOwoKLyoqCiAqIEludGVybmFsOiBQcm9jZXNzIGFsbCBzY2hlZHVsZWQgZGVsZXRpb25zIChjYWxsZWQgYnkgY3JvbikKICovCmV4cG9ydCBjb25zdCBwcm9jZXNzU2NoZWR1bGVkRGVsZXRpb25zID0gaW50ZXJuYWxNdXRhdGlvbih7CiAgaGFuZGxlcjogYXN5bmMgKGN0eCkgPT4gewogICAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKTsKICAgIGNvbnN0IHBlbmRpbmdEZWxldGlvbnMgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJhY2NvdW50RGVsZXRpb25zIikKICAgICAgLndpdGhJbmRleCgic3RhdHVzIiwgKHEpID0+IHEuZXEoInN0YXR1cyIsICJwZW5kaW5nIikpCiAgICAgIC5jb2xsZWN0KCk7CgogICAgY29uc3QgcmVhZHlGb3JEZWxldGlvbiA9IHBlbmRpbmdEZWxldGlvbnMuZmlsdGVyKAogICAgICAoZCkgPT4gZC5zY2hlZHVsZWRGb3IgPD0gbm93CiAgICApOwoKICAgIGZvciAoY29uc3QgZGVsZXRpb24gb2YgcmVhZHlGb3JEZWxldGlvbikgewogICAgICB0cnkgewogICAgICAgIGF3YWl0IGN0eC5zY2hlZHVsZXIucnVuQWZ0ZXIoMCwgaW50ZXJuYWwuYWNjb3VudE1hbmFnZW1lbnQuZXhlY3V0ZUFjY291bnREZWxldGlvbiwgeyBkZWxldGlvbklkOiBkZWxldGlvbi5faWQgfSk7CiAgICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgICAgY29uc29sZS5lcnJvcihgRmFpbGVkIHRvIGV4ZWN1dGUgZGVsZXRpb24gJHtkZWxldGlvbi5faWR9OmAsIGVycm9yKTsKICAgICAgfQogICAgfQoKICAgIHJldHVybiB7IHByb2Nlc3NlZDogcmVhZHlGb3JEZWxldGlvbi5sZW5ndGggfTsKICB9LAp9KTsK"}
+import { v } from "convex/values";
+import { mutation, query, internalMutation } from "./_generated/server";
+import { internal } from "./_generated/api";
+import { Id } from "./_generated/dataModel";
+
+/**
+ * Request account deletion with 30-day grace period
+ */
+export const requestAccountDeletion = mutation({
+  args: {
+    reason: v.optional(v.string()),
+    feedback: v.optional(v.string()),
+    token: v.optional(v.string()),
+  },
+  handler: async (ctx, args) => {
+    const identity = await ctx.auth.getUserIdentity();
+
+    const user = identity
+      ? await ctx.db
+          .query("users")
+          .withIndex("email", (q) => q.eq("email", identity.email!))
+          .first()
+      : args.token
+        ? await (async () => {
+            const session = await ctx.db
+              .query("sessions")
+              .withIndex("token", (q) => q.eq("token", args.token!))
+              .first();
+            if (!session) return null;
+            if (session.expiresAt < Date.now()) return null;
+            return await ctx.db.get(session.userId);
+          })()
+        : null;
+
+    if (!user) throw new Error("Not authenticated");
+
+    const now = Date.now();
+    const gracePeriod = 30 * 24 * 60 * 60 * 1000; // 30 days
+
+    // Check if there's already a pending deletion
+    const existingDeletion = await ctx.db
+      .query("accountDeletions")
+      .withIndex("userId", (q) => q.eq("userId", user._id))
+      .filter((q) => q.eq(q.field("status"), "pending"))
+      .first();
+
+    if (existingDeletion) {
+      return {
+        message: "Account deletion already pending",
+        cancelBy: existingDeletion.scheduledFor,
+        deletionId: existingDeletion._id,
+      };
+    }
+
+    // Create deletion request
+    const deletionId = await ctx.db.insert("accountDeletions", {
+      userId: user._id,
+      requestedAt: now,
+      scheduledFor: now + gracePeriod,
+      reason: args.reason,
+      feedback: args.feedback,
+      status: "pending",
+    });
+
+    // Deactivate account immediately
+    await ctx.db.patch(user._id, {
+      accountStatus: "deactivated",
+      deactivatedAt: now,
+    });
+
+    // Hide profile from discovery
+    const profile = await ctx.db
+      .query("profiles")
+      .withIndex("userId", (q) => q.eq("userId", user._id))
+      .first();
+
+    if (profile) {
+      await ctx.db.patch(profile._id, {
+        lastActiveAt: 0, // Set to 0 to hide from discovery
+      });
+    }
+
+    // Send notification
+    await ctx.db.insert("notifications", {
+      userId: user._id,
+      type: "account_warning",
+      title: "Account Deletion Scheduled",
+      body: `Your account will be permanently deleted in 30 days. You can cancel this anytime before ${new Date(now + gracePeriod).toLocaleDateString()}.`,
+      isRead: false,
+      createdAt: now,
+    });
+
+    return {
+      message: "Account scheduled for deletion in 30 days",
+      cancelBy: now + gracePeriod,
+      deletionId,
+    };
+  },
+});
+
+/**
+ * Cancel pending account deletion
+ */
+export const cancelAccountDeletion = mutation({
+  args: { token: v.optional(v.string()) },
+  handler: async (ctx, args) => {
+    const identity = await ctx.auth.getUserIdentity();
+
+    const user = identity
+      ? await ctx.db
+          .query("users")
+          .withIndex("email", (q) => q.eq("email", identity.email!))
+          .first()
+      : args.token
+        ? await (async () => {
+            const session = await ctx.db
+              .query("sessions")
+              .withIndex("token", (q) => q.eq("token", args.token!))
+              .first();
+            if (!session) return null;
+            if (session.expiresAt < Date.now()) return null;
+            return await ctx.db.get(session.userId);
+          })()
+        : null;
+
+    if (!user) throw new Error("Not authenticated");
+
+    const deletion = await ctx.db
+      .query("accountDeletions")
+      .withIndex("userId", (q) => q.eq("userId", user._id))
+      .filter((q) => q.eq(q.field("status"), "pending"))
+      .first();
+
+    if (!deletion) throw new Error("No pending deletion found");
+
+    // Cancel the deletion
+    await ctx.db.patch(deletion._id, { status: "cancelled" });
+
+    // Reactivate account
+    await ctx.db.patch(user._id, {
+      accountStatus: "active",
+      deactivatedAt: undefined,
+    });
+
+    // Restore profile visibility
+    const profile = await ctx.db
+      .query("profiles")
+      .withIndex("userId", (q) => q.eq("userId", user._id))
+      .first();
+
+    if (profile) {
+      await ctx.db.patch(profile._id, {
+        lastActiveAt: Date.now(), // Restore visibility
+      });
+    }
+
+    // Send notification
+    await ctx.db.insert("notifications", {
+      userId: user._id,
+      type: "profile_created",
+      title: "Account Deletion Cancelled",
+      body: "Your account deletion has been cancelled. Welcome back!",
+      isRead: false,
+      createdAt: Date.now(),
+    });
+
+    return { message: "Account deletion cancelled successfully" };
+  },
+});
+
+/**
+ * Get pending deletion status for current user
+ */
+export const getDeletionStatus = query({
+  args: { token: v.optional(v.string()) },
+  handler: async (ctx, args) => {
+    const identity = await ctx.auth.getUserIdentity();
+
+    const user = identity
+      ? await ctx.db
+          .query("users")
+          .withIndex("email", (q) => q.eq("email", identity.email!))
+          .first()
+      : args.token
+        ? await (async () => {
+            const session = await ctx.db
+              .query("sessions")
+              .withIndex("token", (q) => q.eq("token", args.token!))
+              .first();
+            if (!session) return null;
+            if (session.expiresAt < Date.now()) return null;
+            return await ctx.db.get(session.userId);
+          })()
+        : null;
+
+    if (!user) return null;
+
+    const deletion = await ctx.db
+      .query("accountDeletions")
+      .withIndex("userId", (q) => q.eq("userId", user._id))
+      .filter((q) => q.eq(q.field("status"), "pending"))
+      .first();
+
+    return deletion;
+  },
+});
+
+/**
+ * Deactivate account (pause without deletion)
+ */
+export const deactivateAccount = mutation({
+  args: { token: v.optional(v.string()) },
+  handler: async (ctx, args) => {
+    const identity = await ctx.auth.getUserIdentity();
+
+    const user = identity
+      ? await ctx.db
+          .query("users")
+          .withIndex("email", (q) => q.eq("email", identity.email!))
+          .first()
+      : args.token
+        ? await (async () => {
+            const session = await ctx.db
+              .query("sessions")
+              .withIndex("token", (q) => q.eq("token", args.token!))
+              .first();
+            if (!session) return null;
+            if (session.expiresAt < Date.now()) return null;
+            return await ctx.db.get(session.userId);
+          })()
+        : null;
+
+    if (!user) throw new Error("Not authenticated");
+
+    if (!user) throw new Error("User not found");
+
+    await ctx.db.patch(user._id, {
+      accountStatus: "deactivated",
+      deactivatedAt: Date.now(),
+    });
+
+    // Hide profile from discovery
+    const profile = await ctx.db
+      .query("profiles")
+      .withIndex("userId", (q) => q.eq("userId", user._id))
+      .first();
+
+    if (profile) {
+      await ctx.db.patch(profile._id, {
+        lastActiveAt: 0, // Set to 0 to hide from discovery
+      });
+    }
+
+    return { message: "Account deactivated successfully" };
+  },
+});
+
+/**
+ * Reactivate account
+ */
+export const reactivateAccount = mutation({
+  args: { token: v.optional(v.string()) },
+  handler: async (ctx, args) => {
+    const identity = await ctx.auth.getUserIdentity();
+
+    const user = identity
+      ? await ctx.db
+          .query("users")
+          .withIndex("email", (q) => q.eq("email", identity.email!))
+          .first()
+      : args.token
+        ? await (async () => {
+            const session = await ctx.db
+              .query("sessions")
+              .withIndex("token", (q) => q.eq("token", args.token!))
+              .first();
+            if (!session) return null;
+            if (session.expiresAt < Date.now()) return null;
+            return await ctx.db.get(session.userId);
+          })()
+        : null;
+
+    if (!user) throw new Error("Not authenticated");
+
+    if (!user) throw new Error("User not found");
+
+    await ctx.db.patch(user._id, {
+      accountStatus: "active",
+      deactivatedAt: undefined,
+    });
+
+    // Restore profile visibility
+    const profile = await ctx.db
+      .query("profiles")
+      .withIndex("userId", (q) => q.eq("userId", user._id))
+      .first();
+
+    if (profile) {
+      await ctx.db.patch(profile._id, {
+        lastActiveAt: Date.now(), // Restore visibility
+      });
+    }
+
+    return { message: "Account reactivated successfully" };
+  },
+});
+
+/**
+ * Internal: Execute account deletion (called by cron job)
+ */
+export const executeAccountDeletion = internalMutation({
+  args: { deletionId: v.id("accountDeletions") },
+  handler: async (ctx, args) => {
+    const deletion = await ctx.db.get(args.deletionId);
+    if (!deletion || deletion.status !== "pending") return;
+    if (deletion.scheduledFor > Date.now()) return; // Not yet time
+
+    const userId = deletion.userId;
+
+    // Delete all user-related data
+    try {
+      // Delete photos
+      const photos = await ctx.db
+        .query("photos")
+        .withIndex("userId", (q) => q.eq("userId", userId))
+        .collect();
+      for (const photo of photos) {
+        await ctx.db.delete(photo._id);
+      }
+
+      // Delete photo analytics
+      const photoAnalytics = await ctx.db
+        .query("photoAnalytics")
+        .withIndex("userId", (q) => q.eq("userId", userId))
+        .collect();
+      for (const analytics of photoAnalytics) {
+        await ctx.db.delete(analytics._id);
+      }
+
+      // Delete profile
+      const profile = await ctx.db
+        .query("profiles")
+        .withIndex("userId", (q) => q.eq("userId", userId))
+        .first();
+      if (profile) await ctx.db.delete(profile._id);
+
+      // Delete messages (both sent and received)
+      const messages = await ctx.db
+        .query("messages")
+        .collect();
+      for (const message of messages) {
+        if (message.senderId === userId || message.receiverId === userId) {
+          await ctx.db.delete(message._id);
+        }
+      }
+
+      // Delete matches
+      const matches = await ctx.db
+        .query("matches")
+        .collect();
+      for (const match of matches) {
+        if (match.user1Id === userId || match.user2Id === userId) {
+          await ctx.db.delete(match._id);
+        }
+      }
+
+      // Delete likes (both given and received)
+      const likes = await ctx.db
+        .query("likes")
+        .collect();
+      for (const like of likes) {
+        if (like.userId === userId || like.likedUserId === userId) {
+          await ctx.db.delete(like._id);
+        }
+      }
+
+      // Delete notifications
+      const notifications = await ctx.db
+        .query("notifications")
+        .withIndex("userId", (q) => q.eq("userId", userId))
+        .collect();
+      for (const notification of notifications) {
+        await ctx.db.delete(notification._id);
+      }
+
+      // Delete settings
+      const settings = await ctx.db
+        .query("userSettings")
+        .withIndex("userId", (q) => q.eq("userId", userId))
+        .first();
+      if (settings) await ctx.db.delete(settings._id);
+
+      // Delete subscriptions
+      const subscriptions = await ctx.db
+        .query("subscriptions")
+        .withIndex("userId", (q) => q.eq("userId", userId))
+        .collect();
+      for (const subscription of subscriptions) {
+        await ctx.db.delete(subscription._id);
+      }
+
+      // Delete payments
+      const payments = await ctx.db
+        .query("payments")
+        .withIndex("userId", (q) => q.eq("userId", userId))
+        .collect();
+      for (const payment of payments) {
+        await ctx.db.delete(payment._id);
+      }
+
+      // Delete daily usage
+      const dailyUsage = await ctx.db
+        .query("dailyUsage")
+        .withIndex("userId", (q) => q.eq("userId", userId))
+        .collect();
+      for (const usage of dailyUsage) {
+        await ctx.db.delete(usage._id);
+      }
+
+      // Delete sessions
+      const sessions = await ctx.db
+        .query("sessions")
+        .withIndex("userId", (q) => q.eq("userId", userId))
+        .collect();
+      for (const session of sessions) {
+        await ctx.db.delete(session._id);
+      }
+
+      // Delete push subscriptions
+      const pushSubs = await ctx.db
+        .query("pushSubscriptions")
+        .withIndex("userId", (q) => q.eq("userId", userId))
+        .collect();
+      for (const sub of pushSubs) {
+        await ctx.db.delete(sub._id);
+      }
+
+      // Delete activity log
+      const activityLogs = await ctx.db
+        .query("activityLog")
+        .withIndex("userId", (q) => q.eq("userId", userId))
+        .collect();
+      for (const log of activityLogs) {
+        await ctx.db.delete(log._id);
+      }
+
+      // Delete user progress (gamification)
+      const userProgress = await ctx.db
+        .query("userProgress")
+        .withIndex("userId", (q) => q.eq("userId", userId))
+        .first();
+      if (userProgress) await ctx.db.delete(userProgress._id);
+
+      // Delete quests
+      const quests = await ctx.db
+        .query("quests")
+        .withIndex("userId", (q) => q.eq("userId", userId))
+        .collect();
+      for (const quest of quests) {
+        await ctx.db.delete(quest._id);
+      }
+
+      // Delete data exports
+      const dataExports = await ctx.db
+        .query("dataExports")
+        .withIndex("userId", (q) => q.eq("userId", userId))
+        .collect();
+      for (const dataExport of dataExports) {
+        await ctx.db.delete(dataExport._id);
+      }
+
+
+      // Finally delete user account
+      await ctx.db.delete(userId);
+
+      // Mark deletion as complete
+      await ctx.db.patch(args.deletionId, {
+        status: "completed",
+        completedAt: Date.now(),
+      });
+
+      console.log(`Successfully deleted account for user ${userId}`);
+    } catch (error) {
+      console.error(`Error deleting account for user ${userId}:`, error);
+      throw error;
+    }
+  },
+});
+
+/**
+ * Internal: Process all scheduled deletions (called by cron)
+ */
+export const processScheduledDeletions = internalMutation({
+  handler: async (ctx) => {
+    const now = Date.now();
+    const pendingDeletions = await ctx.db
+      .query("accountDeletions")
+      .withIndex("status", (q) => q.eq("status", "pending"))
+      .collect();
+
+    const readyForDeletion = pendingDeletions.filter(
+      (d) => d.scheduledFor <= now
+    );
+
+    for (const deletion of readyForDeletion) {
+      try {
+        await ctx.scheduler.runAfter(0, internal.accountManagement.executeAccountDeletion, { deletionId: deletion._id });
+      } catch (error) {
+        console.error(`Failed to execute deletion ${deletion._id}:`, error);
+      }
+    }
+
+    return { processed: readyForDeletion.length };
+  },
+});

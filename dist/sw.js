@@ -1,1 +1,259 @@
-{"data":"Ly8gU2VydmljZSBXb3JrZXIgZm9yIFB1c2ggTm90aWZpY2F0aW9ucwovKiBlc2xpbnQtZGlzYWJsZSBuby1yZXN0cmljdGVkLWdsb2JhbHMgKi8KCi8vIEluc3RhbGwgZXZlbnQKc2VsZi5hZGRFdmVudExpc3RlbmVyKCdpbnN0YWxsJywgKGV2ZW50KSA9PiB7CiAgY29uc29sZS5sb2coJ1NlcnZpY2UgV29ya2VyIGluc3RhbGxpbmcuLi4nKTsKICBzZWxmLnNraXBXYWl0aW5nKCk7Cn0pOwoKLy8gQWN0aXZhdGUgZXZlbnQKc2VsZi5hZGRFdmVudExpc3RlbmVyKCdhY3RpdmF0ZScsIChldmVudCkgPT4gewogIGNvbnNvbGUubG9nKCdTZXJ2aWNlIFdvcmtlciBhY3RpdmF0aW5nLi4uJyk7CiAgZXZlbnQud2FpdFVudGlsKHNlbGYuY2xpZW50cy5jbGFpbSgpKTsKfSk7CgovLyBQdXNoIGV2ZW50IC0gaGFuZGxlIGluY29taW5nIHB1c2ggbm90aWZpY2F0aW9ucwpzZWxmLmFkZEV2ZW50TGlzdGVuZXIoJ3B1c2gnLCBmdW5jdGlvbihldmVudCkgewogIGNvbnNvbGUubG9nKCdQdXNoIG5vdGlmaWNhdGlvbiByZWNlaXZlZDonLCBldmVudCk7CiAgCiAgaWYgKCFldmVudC5kYXRhKSB7CiAgICBjb25zb2xlLmxvZygnUHVzaCBldmVudCBidXQgbm8gZGF0YScpOwogICAgcmV0dXJuOwogIH0KCiAgbGV0IGRhdGE7CiAgdHJ5IHsKICAgIGRhdGEgPSBldmVudC5kYXRhLmpzb24oKTsKICB9IGNhdGNoIChlKSB7CiAgICBjb25zb2xlLmVycm9yKCdFcnJvciBwYXJzaW5nIHB1c2ggZGF0YTonLCBlKTsKICAgIGRhdGEgPSB7CiAgICAgIHRpdGxlOiAnTmV3IE5vdGlmaWNhdGlvbicsCiAgICAgIGJvZHk6IGV2ZW50LmRhdGEudGV4dCgpLAogICAgfTsKICB9CgogIGNvbnN0IG5vdGlmaWNhdGlvblR5cGUgPSBkYXRhLnR5cGUgfHwgJ2RlZmF1bHQnOwogIGNvbnN0IHRpdGxlID0gZGF0YS50aXRsZSB8fCAnRGF0ZUxpbmsnOwogIAogIC8vIENvbmZpZ3VyZSBub3RpZmljYXRpb24gb3B0aW9ucyBiYXNlZCBvbiB0eXBlCiAgbGV0IG9wdGlvbnMgPSB7CiAgICBib2R5OiBkYXRhLmJvZHkgfHwgJ1lvdSBoYXZlIGEgbmV3IG5vdGlmaWNhdGlvbicsCiAgICBpY29uOiBkYXRhLmljb24gfHwgJy9sb2dvLnN2ZycsCiAgICBiYWRnZTogZGF0YS5iYWRnZSB8fCAnL2Zhdmljb24uc3ZnJywKICAgIGltYWdlOiBkYXRhLmltYWdlLAogICAgZGF0YTogewogICAgICAuLi5kYXRhLmRhdGEsCiAgICAgIHR5cGU6IG5vdGlmaWNhdGlvblR5cGUsCiAgICAgIHRpbWVzdGFtcDogRGF0ZS5ub3coKSwKICAgIH0sCiAgICB0YWc6IGRhdGEudGFnIHx8IG5vdGlmaWNhdGlvblR5cGUsCiAgICB2aWJyYXRlOiBkYXRhLnZpYnJhdGUgfHwgWzIwMCwgMTAwLCAyMDBdLAogICAgc2lsZW50OiBkYXRhLnNpbGVudCB8fCBmYWxzZSwKICB9OwoKICAvLyBTcGVjaWFsIGhhbmRsaW5nIGZvciBkaWZmZXJlbnQgbm90aWZpY2F0aW9uIHR5cGVzCiAgaWYgKG5vdGlmaWNhdGlvblR5cGUgPT09ICdjYWxsX2luY29taW5nJykgewogICAgLy8gSW5jb21pbmcgY2FsbCAtIGhpZ2ggcHJpb3JpdHkgd2l0aCBhY3Rpb25zCiAgICBvcHRpb25zLnJlcXVpcmVJbnRlcmFjdGlvbiA9IHRydWU7CiAgICBvcHRpb25zLnZpYnJhdGUgPSBbNTAwLCAyMDAsIDUwMCwgMjAwLCA1MDBdOyAvLyBMb25nZXIgdmlicmF0aW9uIGZvciBjYWxscwogICAgb3B0aW9ucy50YWcgPSAnaW5jb21pbmctY2FsbCc7CiAgICBvcHRpb25zLmFjdGlvbnMgPSBbCiAgICAgIHsgYWN0aW9uOiAnYW5zd2VyJywgdGl0bGU6ICfwn5OeIEFuc3dlcicsIGljb246ICcvbG9nby5zdmcnIH0sCiAgICAgIHsgYWN0aW9uOiAnZGVjbGluZScsIHRpdGxlOiAn4p2MIERlY2xpbmUnLCBpY29uOiAnL2xvZ28uc3ZnJyB9CiAgICBdOwogICAgLy8gUGxheSBzb3VuZCBieSBzZW5kaW5nIG1lc3NhZ2UgdG8gY2xpZW50CiAgICBzZW5kTWVzc2FnZVRvQWxsQ2xpZW50cyh7IHR5cGU6ICdQTEFZX1JJTkdUT05FJywgY2FsbElkOiBkYXRhLmRhdGE/LmNhbGxJZCB9KTsKICB9IGVsc2UgaWYgKG5vdGlmaWNhdGlvblR5cGUgPT09ICdtZXNzYWdlJykgewogICAgLy8gTmV3IG1lc3NhZ2Ugbm90aWZpY2F0aW9uCiAgICBvcHRpb25zLnJlcXVpcmVJbnRlcmFjdGlvbiA9IGZhbHNlOwogICAgb3B0aW9ucy50YWcgPSAnbWVzc2FnZS0nICsgKGRhdGEuZGF0YT8uc2VuZGVySWQgfHwgJ2RlZmF1bHQnKTsKICAgIG9wdGlvbnMuYWN0aW9ucyA9IFsKICAgICAgeyBhY3Rpb246ICdyZXBseScsIHRpdGxlOiAn8J+SrCBSZXBseScsIGljb246ICcvbG9nby5zdmcnIH0sCiAgICAgIHsgYWN0aW9uOiAndmlldycsIHRpdGxlOiAn8J+Rge+4jyBWaWV3JywgaWNvbjogJy9sb2dvLnN2ZycgfQogICAgXTsKICAgIG9wdGlvbnMudmlicmF0ZSA9IFsyMDAsIDEwMCwgMjAwXTsKICB9IGVsc2UgaWYgKG5vdGlmaWNhdGlvblR5cGUgPT09ICdtYXRjaCcpIHsKICAgIC8vIE5ldyBtYXRjaCBub3RpZmljYXRpb24KICAgIG9wdGlvbnMucmVxdWlyZUludGVyYWN0aW9uID0gZmFsc2U7CiAgICBvcHRpb25zLnZpYnJhdGUgPSBbMzAwLCAxMDAsIDMwMF07CiAgICBvcHRpb25zLmFjdGlvbnMgPSBbCiAgICAgIHsgYWN0aW9uOiAndmlldycsIHRpdGxlOiAn8J+RiyBTYXkgSGknLCBpY29uOiAnL2xvZ28uc3ZnJyB9CiAgICBdOwogIH0gZWxzZSBpZiAoZGF0YS5wcmlvcml0eSA9PT0gJ2hpZ2gnKSB7CiAgICBvcHRpb25zLnJlcXVpcmVJbnRlcmFjdGlvbiA9IHRydWU7CiAgfQoKICBldmVudC53YWl0VW50aWwoCiAgICBzZWxmLnJlZ2lzdHJhdGlvbi5zaG93Tm90aWZpY2F0aW9uKHRpdGxlLCBvcHRpb25zKQogICk7Cn0pOwoKLy8gSGVscGVyIGZ1bmN0aW9uIHRvIHNlbmQgbWVzc2FnZXMgdG8gYWxsIGNsaWVudHMKZnVuY3Rpb24gc2VuZE1lc3NhZ2VUb0FsbENsaWVudHMobWVzc2FnZSkgewogIHNlbGYuY2xpZW50cy5tYXRjaEFsbCh7IGluY2x1ZGVVbmNvbnRyb2xsZWQ6IHRydWUsIHR5cGU6ICd3aW5kb3cnIH0pLnRoZW4oY2xpZW50cyA9PiB7CiAgICBjbGllbnRzLmZvckVhY2goY2xpZW50ID0+IHsKICAgICAgY2xpZW50LnBvc3RNZXNzYWdlKG1lc3NhZ2UpOwogICAgfSk7CiAgfSk7Cn0KCi8vIE5vdGlmaWNhdGlvbiBjbGljayBldmVudApzZWxmLmFkZEV2ZW50TGlzdGVuZXIoJ25vdGlmaWNhdGlvbmNsaWNrJywgZnVuY3Rpb24oZXZlbnQpIHsKICBjb25zb2xlLmxvZygnTm90aWZpY2F0aW9uIGNsaWNrZWQ6JywgZXZlbnQpOwogIAogIGNvbnN0IGFjdGlvbiA9IGV2ZW50LmFjdGlvbjsKICBjb25zdCBub3RpZmljYXRpb25EYXRhID0gZXZlbnQubm90aWZpY2F0aW9uLmRhdGEgfHwge307CiAgY29uc3Qgbm90aWZpY2F0aW9uVHlwZSA9IG5vdGlmaWNhdGlvbkRhdGEudHlwZTsKICAKICBldmVudC5ub3RpZmljYXRpb24uY2xvc2UoKTsKCiAgLy8gSGFuZGxlIGFjdGlvbiBidXR0b25zCiAgaWYgKGFjdGlvbikgewogICAgaGFuZGxlTm90aWZpY2F0aW9uQWN0aW9uKGV2ZW50LCBhY3Rpb24sIG5vdGlmaWNhdGlvbkRhdGEsIG5vdGlmaWNhdGlvblR5cGUpOwogICAgcmV0dXJuOwogIH0KCiAgLy8gRGVmYXVsdCBjbGljayBiZWhhdmlvciAtIG9wZW4gdGhlIGFwcAogIGNvbnN0IHVybFRvT3BlbiA9IG5vdGlmaWNhdGlvbkRhdGEudXJsIHx8ICcvJzsKCiAgZXZlbnQud2FpdFVudGlsKAogICAgY2xpZW50cy5tYXRjaEFsbCh7CiAgICAgIHR5cGU6ICd3aW5kb3cnLAogICAgICBpbmNsdWRlVW5jb250cm9sbGVkOiB0cnVlCiAgICB9KS50aGVuKGZ1bmN0aW9uKGNsaWVudExpc3QpIHsKICAgICAgLy8gQ2hlY2sgaWYgdGhlcmUncyBhbHJlYWR5IGEgd2luZG93L3RhYiBvcGVuCiAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwgY2xpZW50TGlzdC5sZW5ndGg7IGkrKykgewogICAgICAgIGNvbnN0IGNsaWVudCA9IGNsaWVudExpc3RbaV07CiAgICAgICAgY29uc3QgY2xpZW50VXJsID0gbmV3IFVSTChjbGllbnQudXJsKTsKICAgICAgICBjb25zdCB0YXJnZXRVcmwgPSBuZXcgVVJMKHVybFRvT3Blbiwgc2VsZi5sb2NhdGlvbi5vcmlnaW4pOwogICAgICAgIAogICAgICAgIC8vIElmIHdlIGZpbmQgYSBtYXRjaGluZyB3aW5kb3csIGZvY3VzIGl0CiAgICAgICAgaWYgKGNsaWVudFVybC5vcmlnaW4gPT09IHRhcmdldFVybC5vcmlnaW4gJiYgJ2ZvY3VzJyBpbiBjbGllbnQpIHsKICAgICAgICAgIHJldHVybiBjbGllbnQuZm9jdXMoKS50aGVuKCgpID0+IHsKICAgICAgICAgICAgLy8gTmF2aWdhdGUgdG8gdGhlIFVSTCBpZiBpdCdzIGRpZmZlcmVudAogICAgICAgICAgICBpZiAoY2xpZW50LnVybCAhPT0gdGFyZ2V0VXJsLmhyZWYpIHsKICAgICAgICAgICAgICByZXR1cm4gY2xpZW50Lm5hdmlnYXRlKHRhcmdldFVybC5ocmVmKTsKICAgICAgICAgICAgfQogICAgICAgICAgfSk7CiAgICAgICAgfQogICAgICB9CiAgICAgIAogICAgICAvLyBJZiBubyB3aW5kb3cgaXMgb3Blbiwgb3BlbiBhIG5ldyBvbmUKICAgICAgaWYgKGNsaWVudHMub3BlbldpbmRvdykgewogICAgICAgIHJldHVybiBjbGllbnRzLm9wZW5XaW5kb3codXJsVG9PcGVuKTsKICAgICAgfQogICAgfSkKICApOwp9KTsKCi8vIEhhbmRsZSBub3RpZmljYXRpb24gYWN0aW9uIGJ1dHRvbnMKZnVuY3Rpb24gaGFuZGxlTm90aWZpY2F0aW9uQWN0aW9uKGV2ZW50LCBhY3Rpb24sIGRhdGEsIG5vdGlmaWNhdGlvblR5cGUpIHsKICBjb25zb2xlLmxvZygnTm90aWZpY2F0aW9uIGFjdGlvbjonLCBhY3Rpb24sICd0eXBlOicsIG5vdGlmaWNhdGlvblR5cGUpOwoKICBpZiAobm90aWZpY2F0aW9uVHlwZSA9PT0gJ2NhbGxfaW5jb21pbmcnKSB7CiAgICBpZiAoYWN0aW9uID09PSAnYW5zd2VyJykgewogICAgICAvLyBBbnN3ZXIgdGhlIGNhbGwKICAgICAgZXZlbnQud2FpdFVudGlsKAogICAgICAgIGNsaWVudHMubWF0Y2hBbGwoeyB0eXBlOiAnd2luZG93JywgaW5jbHVkZVVuY29udHJvbGxlZDogdHJ1ZSB9KS50aGVuKGNsaWVudExpc3QgPT4gewogICAgICAgICAgY29uc3QgdXJsID0gZGF0YS51cmwgfHwgYC9jaGF0LyR7ZGF0YS5tYXRjaElkIHx8IGRhdGEuY2FsbElkfWA7CiAgICAgICAgICAKICAgICAgICAgIC8vIFRyeSB0byBmaW5kIGV4aXN0aW5nIHdpbmRvdwogICAgICAgICAgZm9yIChsZXQgaSA9IDA7IGkgPCBjbGllbnRMaXN0Lmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgIGNvbnN0IGNsaWVudCA9IGNsaWVudExpc3RbaV07CiAgICAgICAgICAgIGlmICgnZm9jdXMnIGluIGNsaWVudCkgewogICAgICAgICAgICAgIHJldHVybiBjbGllbnQuZm9jdXMoKS50aGVuKCgpID0+IHsKICAgICAgICAgICAgICAgIGNsaWVudC5wb3N0TWVzc2FnZSh7CiAgICAgICAgICAgICAgICAgIHR5cGU6ICdBTlNXRVJfQ0FMTCcsCiAgICAgICAgICAgICAgICAgIGNhbGxJZDogZGF0YS5jYWxsSWQsCiAgICAgICAgICAgICAgICAgIG1hdGNoSWQ6IGRhdGEubWF0Y2hJZAogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICByZXR1cm4gY2xpZW50Lm5hdmlnYXRlKHVybCk7CiAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICAgIAogICAgICAgICAgLy8gT3BlbiBuZXcgd2luZG93CiAgICAgICAgICByZXR1cm4gY2xpZW50cy5vcGVuV2luZG93KHVybCk7CiAgICAgICAgfSkKICAgICAgKTsKICAgIH0gZWxzZSBpZiAoYWN0aW9uID09PSAnZGVjbGluZScpIHsKICAgICAgLy8gRGVjbGluZSB0aGUgY2FsbAogICAgICBldmVudC53YWl0VW50aWwoCiAgICAgICAgY2xpZW50cy5tYXRjaEFsbCh7IHR5cGU6ICd3aW5kb3cnLCBpbmNsdWRlVW5jb250cm9sbGVkOiB0cnVlIH0pLnRoZW4oY2xpZW50TGlzdCA9PiB7CiAgICAgICAgICBjbGllbnRMaXN0LmZvckVhY2goY2xpZW50ID0+IHsKICAgICAgICAgICAgY2xpZW50LnBvc3RNZXNzYWdlKHsKICAgICAgICAgICAgICB0eXBlOiAnREVDTElORV9DQUxMJywKICAgICAgICAgICAgICBjYWxsSWQ6IGRhdGEuY2FsbElkCiAgICAgICAgICAgIH0pOwogICAgICAgICAgfSk7CiAgICAgICAgfSkKICAgICAgKTsKICAgIH0KICB9IGVsc2UgaWYgKG5vdGlmaWNhdGlvblR5cGUgPT09ICdtZXNzYWdlJykgewogICAgaWYgKGFjdGlvbiA9PT0gJ3JlcGx5JyB8fCBhY3Rpb24gPT09ICd2aWV3JykgewogICAgICAvLyBPcGVuIGNoYXQvbWVzc2FnZXMKICAgICAgY29uc3QgdXJsID0gZGF0YS51cmwgfHwgYC9tZXNzYWdlc2A7CiAgICAgIGV2ZW50LndhaXRVbnRpbCgKICAgICAgICBjbGllbnRzLm1hdGNoQWxsKHsgdHlwZTogJ3dpbmRvdycsIGluY2x1ZGVVbmNvbnRyb2xsZWQ6IHRydWUgfSkudGhlbihjbGllbnRMaXN0ID0+IHsKICAgICAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwgY2xpZW50TGlzdC5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBjb25zdCBjbGllbnQgPSBjbGllbnRMaXN0W2ldOwogICAgICAgICAgICBpZiAoJ2ZvY3VzJyBpbiBjbGllbnQpIHsKICAgICAgICAgICAgICByZXR1cm4gY2xpZW50LmZvY3VzKCkudGhlbigoKSA9PiBjbGllbnQubmF2aWdhdGUodXJsKSk7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICAgIHJldHVybiBjbGllbnRzLm9wZW5XaW5kb3codXJsKTsKICAgICAgICB9KQogICAgICApOwogICAgfQogIH0gZWxzZSB7CiAgICAvLyBEZWZhdWx0IGFjdGlvbiAtIG9wZW4gdGhlIFVSTAogICAgY29uc3QgdXJsID0gZGF0YS51cmwgfHwgJy8nOwogICAgZXZlbnQud2FpdFVudGlsKAogICAgICBjbGllbnRzLm9wZW5XaW5kb3codXJsKQogICAgKTsKICB9Cn0KCi8vIE5vdGlmaWNhdGlvbiBjbG9zZSBldmVudApzZWxmLmFkZEV2ZW50TGlzdGVuZXIoJ25vdGlmaWNhdGlvbmNsb3NlJywgZnVuY3Rpb24oZXZlbnQpIHsKICBjb25zb2xlLmxvZygnTm90aWZpY2F0aW9uIGNsb3NlZDonLCBldmVudCk7CiAgCiAgY29uc3Qgbm90aWZpY2F0aW9uRGF0YSA9IGV2ZW50Lm5vdGlmaWNhdGlvbi5kYXRhIHx8IHt9OwogIAogIC8vIElmIGl0J3MgYW4gaW5jb21pbmcgY2FsbCB0aGF0IHdhcyBkaXNtaXNzZWQsIG5vdGlmeSB0aGUgYXBwCiAgaWYgKG5vdGlmaWNhdGlvbkRhdGEudHlwZSA9PT0gJ2NhbGxfaW5jb21pbmcnKSB7CiAgICBzZW5kTWVzc2FnZVRvQWxsQ2xpZW50cyh7CiAgICAgIHR5cGU6ICdDQUxMX05PVElGSUNBVElPTl9ESVNNSVNTRUQnLAogICAgICBjYWxsSWQ6IG5vdGlmaWNhdGlvbkRhdGEuY2FsbElkCiAgICB9KTsKICB9Cn0pOwoKLy8gQmFja2dyb3VuZCBzeW5jIChmb3Igb2ZmbGluZSBzdXBwb3J0KQpzZWxmLmFkZEV2ZW50TGlzdGVuZXIoJ3N5bmMnLCBmdW5jdGlvbihldmVudCkgewogIGNvbnNvbGUubG9nKCdCYWNrZ3JvdW5kIHN5bmM6JywgZXZlbnQpOwogIAogIGlmIChldmVudC50YWcgPT09ICdzeW5jLW5vdGlmaWNhdGlvbnMnKSB7CiAgICBldmVudC53YWl0VW50aWwoc3luY05vdGlmaWNhdGlvbnMoKSk7CiAgfQp9KTsKCmFzeW5jIGZ1bmN0aW9uIHN5bmNOb3RpZmljYXRpb25zKCkgewogIC8vIFN5bmMgYW55IHBlbmRpbmcgbm90aWZpY2F0aW9ucyB3aGVuIGJhY2sgb25saW5lCiAgY29uc29sZS5sb2coJ1N5bmNpbmcgbm90aWZpY2F0aW9ucy4uLicpOwogIC8vIEltcGxlbWVudGF0aW9uIHdvdWxkIGRlcGVuZCBvbiB5b3VyIGJhY2tlbmQKfQoKLy8gTWVzc2FnZSBldmVudCAtIGZvciBjb21tdW5pY2F0aW9uIHdpdGggdGhlIG1haW4gYXBwCnNlbGYuYWRkRXZlbnRMaXN0ZW5lcignbWVzc2FnZScsIGZ1bmN0aW9uKGV2ZW50KSB7CiAgY29uc29sZS5sb2coJ01lc3NhZ2UgcmVjZWl2ZWQgaW4gU1c6JywgZXZlbnQuZGF0YSk7CiAgCiAgaWYgKGV2ZW50LmRhdGEgJiYgZXZlbnQuZGF0YS50eXBlID09PSAnU0tJUF9XQUlUSU5HJykgewogICAgc2VsZi5za2lwV2FpdGluZygpOwogIH0KICAKICBpZiAoZXZlbnQuZGF0YSAmJiBldmVudC5kYXRhLnR5cGUgPT09ICdHRVRfVkVSU0lPTicpIHsKICAgIGV2ZW50LnBvcnRzWzBdLnBvc3RNZXNzYWdlKHsgdmVyc2lvbjogJzEuMC4wJyB9KTsKICB9Cn0pOwo="}
+// Service Worker for Push Notifications
+/* eslint-disable no-restricted-globals */
+
+// Install event
+self.addEventListener('install', (event) => {
+  console.log('Service Worker installing...');
+  self.skipWaiting();
+});
+
+// Activate event
+self.addEventListener('activate', (event) => {
+  console.log('Service Worker activating...');
+  event.waitUntil(self.clients.claim());
+});
+
+// Push event - handle incoming push notifications
+self.addEventListener('push', function(event) {
+  console.log('Push notification received:', event);
+  
+  if (!event.data) {
+    console.log('Push event but no data');
+    return;
+  }
+
+  let data;
+  try {
+    data = event.data.json();
+  } catch (e) {
+    console.error('Error parsing push data:', e);
+    data = {
+      title: 'New Notification',
+      body: event.data.text(),
+    };
+  }
+
+  const notificationType = data.type || 'default';
+  const title = data.title || 'DateLink';
+  
+  // Configure notification options based on type
+  let options = {
+    body: data.body || 'You have a new notification',
+    icon: data.icon || '/logo.svg',
+    badge: data.badge || '/favicon.svg',
+    image: data.image,
+    data: {
+      ...data.data,
+      type: notificationType,
+      timestamp: Date.now(),
+    },
+    tag: data.tag || notificationType,
+    vibrate: data.vibrate || [200, 100, 200],
+    silent: data.silent || false,
+  };
+
+  // Special handling for different notification types
+  if (notificationType === 'call_incoming') {
+    // Incoming call - high priority with actions
+    options.requireInteraction = true;
+    options.vibrate = [500, 200, 500, 200, 500]; // Longer vibration for calls
+    options.tag = 'incoming-call';
+    options.actions = [
+      { action: 'answer', title: '📞 Answer', icon: '/logo.svg' },
+      { action: 'decline', title: '❌ Decline', icon: '/logo.svg' }
+    ];
+    // Play sound by sending message to client
+    sendMessageToAllClients({ type: 'PLAY_RINGTONE', callId: data.data?.callId });
+  } else if (notificationType === 'message') {
+    // New message notification
+    options.requireInteraction = false;
+    options.tag = 'message-' + (data.data?.senderId || 'default');
+    options.actions = [
+      { action: 'reply', title: '💬 Reply', icon: '/logo.svg' },
+      { action: 'view', title: '👁️ View', icon: '/logo.svg' }
+    ];
+    options.vibrate = [200, 100, 200];
+  } else if (notificationType === 'match') {
+    // New match notification
+    options.requireInteraction = false;
+    options.vibrate = [300, 100, 300];
+    options.actions = [
+      { action: 'view', title: '👋 Say Hi', icon: '/logo.svg' }
+    ];
+  } else if (data.priority === 'high') {
+    options.requireInteraction = true;
+  }
+
+  event.waitUntil(
+    self.registration.showNotification(title, options)
+  );
+});
+
+// Helper function to send messages to all clients
+function sendMessageToAllClients(message) {
+  self.clients.matchAll({ includeUncontrolled: true, type: 'window' }).then(clients => {
+    clients.forEach(client => {
+      client.postMessage(message);
+    });
+  });
+}
+
+// Notification click event
+self.addEventListener('notificationclick', function(event) {
+  console.log('Notification clicked:', event);
+  
+  const action = event.action;
+  const notificationData = event.notification.data || {};
+  const notificationType = notificationData.type;
+  
+  event.notification.close();
+
+  // Handle action buttons
+  if (action) {
+    handleNotificationAction(event, action, notificationData, notificationType);
+    return;
+  }
+
+  // Default click behavior - open the app
+  const urlToOpen = notificationData.url || '/';
+
+  event.waitUntil(
+    clients.matchAll({
+      type: 'window',
+      includeUncontrolled: true
+    }).then(function(clientList) {
+      // Check if there's already a window/tab open
+      for (let i = 0; i < clientList.length; i++) {
+        const client = clientList[i];
+        const clientUrl = new URL(client.url);
+        const targetUrl = new URL(urlToOpen, self.location.origin);
+        
+        // If we find a matching window, focus it
+        if (clientUrl.origin === targetUrl.origin && 'focus' in client) {
+          return client.focus().then(() => {
+            // Navigate to the URL if it's different
+            if (client.url !== targetUrl.href) {
+              return client.navigate(targetUrl.href);
+            }
+          });
+        }
+      }
+      
+      // If no window is open, open a new one
+      if (clients.openWindow) {
+        return clients.openWindow(urlToOpen);
+      }
+    })
+  );
+});
+
+// Handle notification action buttons
+function handleNotificationAction(event, action, data, notificationType) {
+  console.log('Notification action:', action, 'type:', notificationType);
+
+  if (notificationType === 'call_incoming') {
+    if (action === 'answer') {
+      // Answer the call
+      event.waitUntil(
+        clients.matchAll({ type: 'window', includeUncontrolled: true }).then(clientList => {
+          const url = data.url || `/chat/${data.matchId || data.callId}`;
+          
+          // Try to find existing window
+          for (let i = 0; i < clientList.length; i++) {
+            const client = clientList[i];
+            if ('focus' in client) {
+              return client.focus().then(() => {
+                client.postMessage({
+                  type: 'ANSWER_CALL',
+                  callId: data.callId,
+                  matchId: data.matchId
+                });
+                return client.navigate(url);
+              });
+            }
+          }
+          
+          // Open new window
+          return clients.openWindow(url);
+        })
+      );
+    } else if (action === 'decline') {
+      // Decline the call
+      event.waitUntil(
+        clients.matchAll({ type: 'window', includeUncontrolled: true }).then(clientList => {
+          clientList.forEach(client => {
+            client.postMessage({
+              type: 'DECLINE_CALL',
+              callId: data.callId
+            });
+          });
+        })
+      );
+    }
+  } else if (notificationType === 'message') {
+    if (action === 'reply' || action === 'view') {
+      // Open chat/messages
+      const url = data.url || `/messages`;
+      event.waitUntil(
+        clients.matchAll({ type: 'window', includeUncontrolled: true }).then(clientList => {
+          for (let i = 0; i < clientList.length; i++) {
+            const client = clientList[i];
+            if ('focus' in client) {
+              return client.focus().then(() => client.navigate(url));
+            }
+          }
+          return clients.openWindow(url);
+        })
+      );
+    }
+  } else {
+    // Default action - open the URL
+    const url = data.url || '/';
+    event.waitUntil(
+      clients.openWindow(url)
+    );
+  }
+}
+
+// Notification close event
+self.addEventListener('notificationclose', function(event) {
+  console.log('Notification closed:', event);
+  
+  const notificationData = event.notification.data || {};
+  
+  // If it's an incoming call that was dismissed, notify the app
+  if (notificationData.type === 'call_incoming') {
+    sendMessageToAllClients({
+      type: 'CALL_NOTIFICATION_DISMISSED',
+      callId: notificationData.callId
+    });
+  }
+});
+
+// Background sync (for offline support)
+self.addEventListener('sync', function(event) {
+  console.log('Background sync:', event);
+  
+  if (event.tag === 'sync-notifications') {
+    event.waitUntil(syncNotifications());
+  }
+});
+
+async function syncNotifications() {
+  // Sync any pending notifications when back online
+  console.log('Syncing notifications...');
+  // Implementation would depend on your backend
+}
+
+// Message event - for communication with the main app
+self.addEventListener('message', function(event) {
+  console.log('Message received in SW:', event.data);
+  
+  if (event.data && event.data.type === 'SKIP_WAITING') {
+    self.skipWaiting();
+  }
+  
+  if (event.data && event.data.type === 'GET_VERSION') {
+    event.ports[0].postMessage({ version: '1.0.0' });
+  }
+});

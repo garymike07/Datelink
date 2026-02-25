@@ -1,1 +1,7 @@
-{"data":"VGhpcyBmaWxlIHJlcHJlc2VudHMgdGhlIHJpbmd0b25lIGF1ZGlvIGZpbGUuCkluIHByb2R1Y3Rpb24sIHJlcGxhY2UgdGhpcyB3aXRoIGFuIGFjdHVhbCBNUDMgcmluZ3RvbmUgZmlsZS4KWW91IGNhbiBnZW5lcmF0ZSBvbmUgb3IgdXNlIHJveWFsdHktZnJlZSBzb3VuZHMgZnJvbToKLSBodHRwczovL21peGtpdC5jby9mcmVlLXNvdW5kLWVmZmVjdHMvbm90aWZpY2F0aW9uLwotIGh0dHBzOi8vZnJlZXNvdW5kLm9yZy8KCkZvciBub3csIHdlJ2xsIHVzZSB0aGUgYnJvd3NlcidzIGRlZmF1bHQgbm90aWZpY2F0aW9uIHNvdW5kLgo="}
+This file represents the ringtone audio file.
+In production, replace this with an actual MP3 ringtone file.
+You can generate one or use royalty-free sounds from:
+- https://mixkit.co/free-sound-effects/notification/
+- https://freesound.org/
+
+For now, we'll use the browser's default notification sound.

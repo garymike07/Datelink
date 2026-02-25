@@ -1,1 +1,23 @@
-{"data":"Ly8gU2NyaXB0IHRvIGNyZWF0ZSB0ZXN0IG5vdGlmaWNhdGlvbnMKLy8gUnVuIHRoaXMgaW4geW91ciBDb252ZXggZGFzaGJvYXJkIG9yIGNyZWF0ZSBhIG11dGF0aW9uIHRvIHRlc3QKCi8qClRvIHRlc3QsIHlvdSBjYW4gbWFudWFsbHkgY3JlYXRlIG5vdGlmaWNhdGlvbnMgaW4gQ29udmV4IGRhc2hib2FyZDoKCjEuIEdvIHRvIENvbnZleCBkYXNoYm9hcmQKMi4gTmF2aWdhdGUgdG8geW91ciBub3RpZmljYXRpb25zIHRhYmxlCjMuIENyZWF0ZSBhIGZldyB0ZXN0IG5vdGlmaWNhdGlvbnMgd2l0aDoKICAgLSB1c2VySWQ6IDx5b3VyIHVzZXIgSUQ+CiAgIC0gdHlwZTogIm1lc3NhZ2UiIG9yICJsaWtlIiBvciAibWF0Y2giCiAgIC0gdGl0bGU6ICJUZXN0IE5vdGlmaWNhdGlvbiIKICAgLSBib2R5OiAiVGhpcyBpcyBhIHRlc3QiCiAgIC0gcHJpb3JpdHk6ICJtZWRpdW0iCiAgIC0gY2F0ZWdvcnk6ICJzb2NpYWwiCiAgIC0gaXNSZWFkOiBmYWxzZQogICAtIGNyZWF0ZWRBdDogRGF0ZS5ub3coKQogICAKNC4gVGhlbiBjaGVjayBpZiB0aGV5IHNob3cgdXAgaW4gdGhlIE5vdGlmaWNhdGlvbkNlbnRlcgoqLwoKY29uc29sZS5sb2coIkNyZWF0ZSB0ZXN0IG5vdGlmaWNhdGlvbnMgbWFudWFsbHkgaW4gQ29udmV4IGRhc2hib2FyZCIpOwpjb25zb2xlLmxvZygiT3IgdXNlIHRoZSBjcmVhdGVOb3RpZmljYXRpb24gbXV0YXRpb24gZnJvbSB5b3VyIGFwcCIpOwo="}
+// Script to create test notifications
+// Run this in your Convex dashboard or create a mutation to test
+
+/*
+To test, you can manually create notifications in Convex dashboard:
+
+1. Go to Convex dashboard
+2. Navigate to your notifications table
+3. Create a few test notifications with:
+   - userId: <your user ID>
+   - type: "message" or "like" or "match"
+   - title: "Test Notification"
+   - body: "This is a test"
+   - priority: "medium"
+   - category: "social"
+   - isRead: false
+   - createdAt: Date.now()
+   
+4. Then check if they show up in the NotificationCenter
+*/
+
+console.log("Create test notifications manually in Convex dashboard");
+console.log("Or use the createNotification mutation from your app");

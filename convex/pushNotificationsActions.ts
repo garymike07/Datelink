@@ -1,1 +1,166 @@
-{"data":"LyoqCiAqIFB1c2ggTm90aWZpY2F0aW9ucyBBY3Rpb25zCiAqIAogKiBDb252ZXggYWN0aW9ucyBmb3Igc2VuZGluZyBhY3R1YWwgcHVzaCBub3RpZmljYXRpb25zIHZpYSBleHRlcm5hbCBzZXJ2aWNlcy4KICogQWN0aW9ucyBjYW4gY2FsbCBleHRlcm5hbCBBUElzIChsaWtlIHdlYi1wdXNoKSB1bmxpa2UgbXV0YXRpb25zLgogKi8KCmltcG9ydCB7IGFjdGlvbiB9IGZyb20gIi4vX2dlbmVyYXRlZC9zZXJ2ZXIiOwppbXBvcnQgeyB2IH0gZnJvbSAiY29udmV4L3ZhbHVlcyI7CmltcG9ydCB7IGFwaSB9IGZyb20gIi4vX2dlbmVyYXRlZC9hcGkiOwoKLyoqCiAqIFNlbmQgcHVzaCBub3RpZmljYXRpb24gdmlhIFdlYiBQdXNoIEFQSQogKiAKICogVGhpcyBhY3Rpb24gc2VuZHMgYWN0dWFsIHB1c2ggbm90aWZpY2F0aW9ucyB0byB1c2VycycgZGV2aWNlcy4KICogSW4gcHJvZHVjdGlvbiwgeW91IG5lZWQgdG86CiAqIDEuIEdlbmVyYXRlIFZBUElEIGtleXM6IG5weCB3ZWItcHVzaCBnZW5lcmF0ZS12YXBpZC1rZXlzCiAqIDIuIFNldCBlbnZpcm9ubWVudCB2YXJpYWJsZXM6IFZBUElEX1BVQkxJQ19LRVksIFZBUElEX1BSSVZBVEVfS0VZLCBWQVBJRF9FTUFJTAogKiAzLiBJbnN0YWxsIHdlYi1wdXNoIGxpYnJhcnkgaW4geW91ciBDb252ZXggcHJvamVjdAogKi8KZXhwb3J0IGNvbnN0IHNlbmRXZWJQdXNoTm90aWZpY2F0aW9uID0gYWN0aW9uKHsKICBhcmdzOiB7CiAgICB1c2VySWQ6IHYuaWQoInVzZXJzIiksCiAgICB0eXBlOiB2LnN0cmluZygpLAogICAgdGl0bGU6IHYuc3RyaW5nKCksCiAgICBib2R5OiB2LnN0cmluZygpLAogICAgZGF0YTogdi5vcHRpb25hbCh2LmFueSgpKSwKICAgIHByaW9yaXR5OiB2Lm9wdGlvbmFsKHYudW5pb24odi5saXRlcmFsKCJoaWdoIiksIHYubGl0ZXJhbCgibm9ybWFsIiksIHYubGl0ZXJhbCgibG93IikpKSwKICB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpOiBQcm9taXNlPHsKICAgIHNlbnQ6IGJvb2xlYW47CiAgICBzZW50Q291bnQ/OiBudW1iZXI7CiAgICBmYWlsZWRDb3VudD86IG51bWJlcjsKICAgIHRvdGFsU3Vic2NyaXB0aW9ucz86IG51bWJlcjsKICAgIHJlc3VsdHM/OiBBcnJheTx7CiAgICAgIHN1YnNjcmlwdGlvbklkOiBhbnk7CiAgICAgIHN0YXR1czogc3RyaW5nOwogICAgICBwbGF0Zm9ybT86IHN0cmluZzsKICAgICAgZXJyb3I/OiBzdHJpbmc7CiAgICB9PjsKICAgIHJlYXNvbj86IHN0cmluZzsKICB9PiA9PiB7CiAgICAvLyBHZXQgdXNlcidzIHB1c2ggc3Vic2NyaXB0aW9ucwogICAgY29uc3Qgc3Vic2NyaXB0aW9uczogYW55ID0gYXdhaXQgY3R4LnJ1blF1ZXJ5KGFwaS5wdXNoTm90aWZpY2F0aW9ucy5nZXRVc2VyUHVzaFN1YnNjcmlwdGlvbnNCeVVzZXJJZCwgewogICAgICB1c2VySWQ6IGFyZ3MudXNlcklkLAogICAgfSk7CgogICAgaWYgKCFzdWJzY3JpcHRpb25zIHx8IHN1YnNjcmlwdGlvbnMubGVuZ3RoID09PSAwKSB7CiAgICAgIGNvbnNvbGUubG9nKCJObyBwdXNoIHN1YnNjcmlwdGlvbnMgZm91bmQgZm9yIHVzZXI6IiwgYXJncy51c2VySWQpOwogICAgICByZXR1cm4geyBzZW50OiBmYWxzZSwgcmVhc29uOiAibm9fc3Vic2NyaXB0aW9ucyIgfTsKICAgIH0KCiAgICAvLyBQcmVwYXJlIG5vdGlmaWNhdGlvbiBwYXlsb2FkCiAgICBjb25zdCBwYXlsb2FkID0gSlNPTi5zdHJpbmdpZnkoewogICAgICB0aXRsZTogYXJncy50aXRsZSwKICAgICAgYm9keTogYXJncy5ib2R5LAogICAgICB0eXBlOiBhcmdzLnR5cGUsCiAgICAgIGljb246ICIvbG9nby5zdmciLAogICAgICBiYWRnZTogIi9mYXZpY29uLnN2ZyIsCiAgICAgIGRhdGE6IGFyZ3MuZGF0YSB8fCB7fSwKICAgICAgcHJpb3JpdHk6IGFyZ3MucHJpb3JpdHkgfHwgIm5vcm1hbCIsCiAgICAgIHRpbWVzdGFtcDogRGF0ZS5ub3coKSwKICAgIH0pOwoKICAgIGNvbnN0IHJlc3VsdHMgPSBbXTsKICAgIGxldCBzZW50Q291bnQgPSAwOwogICAgbGV0IGZhaWxlZENvdW50ID0gMDsKCiAgICAvLyBTZW5kIHRvIGFsbCBhY3RpdmUgc3Vic2NyaXB0aW9ucwogICAgZm9yIChjb25zdCBzdWJzY3JpcHRpb24gb2Ygc3Vic2NyaXB0aW9ucykgewogICAgICB0cnkgewogICAgICAgIC8vIEluIHByb2R1Y3Rpb24sIHlvdSB3b3VsZCB1c2Ugd2ViLXB1c2ggbGlicmFyeSBoZXJlOgogICAgICAgIC8vIGNvbnN0IHdlYnB1c2ggPSByZXF1aXJlKCd3ZWItcHVzaCcpOwogICAgICAgIC8vIHdlYnB1c2guc2V0VmFwaWREZXRhaWxzKAogICAgICAgIC8vICAgcHJvY2Vzcy5lbnYuVkFQSURfRU1BSUwsCiAgICAgICAgLy8gICBwcm9jZXNzLmVudi5WQVBJRF9QVUJMSUNfS0VZLAogICAgICAgIC8vICAgcHJvY2Vzcy5lbnYuVkFQSURfUFJJVkFURV9LRVkKICAgICAgICAvLyApOwogICAgICAgIC8vIAogICAgICAgIC8vIGF3YWl0IHdlYnB1c2guc2VuZE5vdGlmaWNhdGlvbigKICAgICAgICAvLyAgIHsKICAgICAgICAvLyAgICAgZW5kcG9pbnQ6IHN1YnNjcmlwdGlvbi5lbmRwb2ludCwKICAgICAgICAvLyAgICAga2V5czogc3Vic2NyaXB0aW9uLmtleXMKICAgICAgICAvLyAgIH0sCiAgICAgICAgLy8gICBwYXlsb2FkCiAgICAgICAgLy8gKTsKCiAgICAgICAgLy8gRm9yIG5vdywgbG9nIHRoYXQgd2Ugd291bGQgc2VuZAogICAgICAgIGNvbnNvbGUubG9nKCJXb3VsZCBzZW5kIHB1c2ggbm90aWZpY2F0aW9uIHRvOiIsIHN1YnNjcmlwdGlvbi5lbmRwb2ludC5zdWJzdHJpbmcoMCwgNTApKTsKICAgICAgICAKICAgICAgICAvLyBVcGRhdGUgbGFzdCB1c2VkIHRpbWVzdGFtcAogICAgICAgIGF3YWl0IGN0eC5ydW5NdXRhdGlvbihhcGkucHVzaE5vdGlmaWNhdGlvbnMudXBkYXRlU3Vic2NyaXB0aW9uTGFzdFVzZWQsIHsKICAgICAgICAgIHN1YnNjcmlwdGlvbklkOiBzdWJzY3JpcHRpb24uX2lkLAogICAgICAgIH0pOwoKICAgICAgICBzZW50Q291bnQrKzsKICAgICAgICByZXN1bHRzLnB1c2goeyAKICAgICAgICAgIHN1YnNjcmlwdGlvbklkOiBzdWJzY3JpcHRpb24uX2lkLCAKICAgICAgICAgIHN0YXR1czogInNlbnQiLAogICAgICAgICAgcGxhdGZvcm06IHN1YnNjcmlwdGlvbi5wbGF0Zm9ybSAKICAgICAgICB9KTsKICAgICAgfSBjYXRjaCAoZXJyb3I6IGFueSkgewogICAgICAgIGNvbnNvbGUuZXJyb3IoIkZhaWxlZCB0byBzZW5kIHB1c2ggbm90aWZpY2F0aW9uOiIsIGVycm9yKTsKICAgICAgICBmYWlsZWRDb3VudCsrOwogICAgICAgIAogICAgICAgIC8vIElmIHN1YnNjcmlwdGlvbiBpcyBpbnZhbGlkLCBkZWFjdGl2YXRlIGl0CiAgICAgICAgaWYgKGVycm9yLnN0YXR1c0NvZGUgPT09IDQxMCB8fCBlcnJvci5zdGF0dXNDb2RlID09PSA0MDQpIHsKICAgICAgICAgIGF3YWl0IGN0eC5ydW5NdXRhdGlvbihhcGkucHVzaE5vdGlmaWNhdGlvbnMuZGVhY3RpdmF0ZVB1c2hTdWJzY3JpcHRpb24sIHsKICAgICAgICAgICAgc3Vic2NyaXB0aW9uSWQ6IHN1YnNjcmlwdGlvbi5faWQsCiAgICAgICAgICB9KTsKICAgICAgICAgIHJlc3VsdHMucHVzaCh7IAogICAgICAgICAgICBzdWJzY3JpcHRpb25JZDogc3Vic2NyaXB0aW9uLl9pZCwgCiAgICAgICAgICAgIHN0YXR1czogImludmFsaWQiLAogICAgICAgICAgICBlcnJvcjogInN1YnNjcmlwdGlvbl9leHBpcmVkIiAKICAgICAgICAgIH0pOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICByZXN1bHRzLnB1c2goeyAKICAgICAgICAgICAgc3Vic2NyaXB0aW9uSWQ6IHN1YnNjcmlwdGlvbi5faWQsIAogICAgICAgICAgICBzdGF0dXM6ICJmYWlsZWQiLAogICAgICAgICAgICBlcnJvcjogZXJyb3IubWVzc2FnZSAKICAgICAgICAgIH0pOwogICAgICAgIH0KICAgICAgfQogICAgfQoKICAgIHJldHVybiB7CiAgICAgIHNlbnQ6IHNlbnRDb3VudCA+IDAsCiAgICAgIHNlbnRDb3VudCwKICAgICAgZmFpbGVkQ291bnQsCiAgICAgIHRvdGFsU3Vic2NyaXB0aW9uczogc3Vic2NyaXB0aW9ucy5sZW5ndGgsCiAgICAgIHJlc3VsdHMsCiAgICB9OwogIH0sCn0pOwoKLyoqCiAqIFNlbmQgYmF0Y2ggcHVzaCBub3RpZmljYXRpb25zCiAqLwpleHBvcnQgY29uc3Qgc2VuZEJhdGNoV2ViUHVzaE5vdGlmaWNhdGlvbnMgPSBhY3Rpb24oewogIGFyZ3M6IHsKICAgIG5vdGlmaWNhdGlvbnM6IHYuYXJyYXkodi5vYmplY3QoewogICAgICB1c2VySWQ6IHYuaWQoInVzZXJzIiksCiAgICAgIHR5cGU6IHYuc3RyaW5nKCksCiAgICAgIHRpdGxlOiB2LnN0cmluZygpLAogICAgICBib2R5OiB2LnN0cmluZygpLAogICAgICBkYXRhOiB2Lm9wdGlvbmFsKHYuYW55KCkpLAogICAgICBwcmlvcml0eTogdi5vcHRpb25hbCh2LnVuaW9uKHYubGl0ZXJhbCgiaGlnaCIpLCB2LmxpdGVyYWwoIm5vcm1hbCIpLCB2LmxpdGVyYWwoImxvdyIpKSksCiAgICB9KSksCiAgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKTogUHJvbWlzZTx7CiAgICB0b3RhbE5vdGlmaWNhdGlvbnM6IG51bWJlcjsKICAgIHJlc3VsdHM6IEFycmF5PGFueT47CiAgfT4gPT4gewogICAgY29uc3QgcmVzdWx0czogQXJyYXk8YW55PiA9IFtdOwoKICAgIGZvciAoY29uc3Qgbm90aWZpY2F0aW9uIG9mIGFyZ3Mubm90aWZpY2F0aW9ucykgewogICAgICBjb25zdCByZXN1bHQ6IGFueSA9IGF3YWl0IGN0eC5ydW5BY3Rpb24oYXBpLnB1c2hOb3RpZmljYXRpb25zQWN0aW9ucy5zZW5kV2ViUHVzaE5vdGlmaWNhdGlvbiwgbm90aWZpY2F0aW9uKTsKICAgICAgcmVzdWx0cy5wdXNoKHsgdXNlcklkOiBub3RpZmljYXRpb24udXNlcklkLCAuLi5yZXN1bHQgfSk7CiAgICB9CgogICAgcmV0dXJuIHsKICAgICAgdG90YWxOb3RpZmljYXRpb25zOiBhcmdzLm5vdGlmaWNhdGlvbnMubGVuZ3RoLAogICAgICByZXN1bHRzLAogICAgfTsKICB9LAp9KTsK"}
+/**
+ * Push Notifications Actions
+ * 
+ * Convex actions for sending actual push notifications via external services.
+ * Actions can call external APIs (like web-push) unlike mutations.
+ */
+
+import { action } from "./_generated/server";
+import { v } from "convex/values";
+import { api } from "./_generated/api";
+
+/**
+ * Send push notification via Web Push API
+ * 
+ * This action sends actual push notifications to users' devices.
+ * In production, you need to:
+ * 1. Generate VAPID keys: npx web-push generate-vapid-keys
+ * 2. Set environment variables: VAPID_PUBLIC_KEY, VAPID_PRIVATE_KEY, VAPID_EMAIL
+ * 3. Install web-push library in your Convex project
+ */
+export const sendWebPushNotification = action({
+  args: {
+    userId: v.id("users"),
+    type: v.string(),
+    title: v.string(),
+    body: v.string(),
+    data: v.optional(v.any()),
+    priority: v.optional(v.union(v.literal("high"), v.literal("normal"), v.literal("low"))),
+  },
+  handler: async (ctx, args): Promise<{
+    sent: boolean;
+    sentCount?: number;
+    failedCount?: number;
+    totalSubscriptions?: number;
+    results?: Array<{
+      subscriptionId: any;
+      status: string;
+      platform?: string;
+      error?: string;
+    }>;
+    reason?: string;
+  }> => {
+    // Get user's push subscriptions
+    const subscriptions: any = await ctx.runQuery(api.pushNotifications.getUserPushSubscriptionsByUserId, {
+      userId: args.userId,
+    });
+
+    if (!subscriptions || subscriptions.length === 0) {
+      console.log("No push subscriptions found for user:", args.userId);
+      return { sent: false, reason: "no_subscriptions" };
+    }
+
+    // Prepare notification payload
+    const payload = JSON.stringify({
+      title: args.title,
+      body: args.body,
+      type: args.type,
+      icon: "/logo.svg",
+      badge: "/favicon.svg",
+      data: args.data || {},
+      priority: args.priority || "normal",
+      timestamp: Date.now(),
+    });
+
+    const results = [];
+    let sentCount = 0;
+    let failedCount = 0;
+
+    // Send to all active subscriptions
+    for (const subscription of subscriptions) {
+      try {
+        // In production, you would use web-push library here:
+        // const webpush = require('web-push');
+        // webpush.setVapidDetails(
+        //   process.env.VAPID_EMAIL,
+        //   process.env.VAPID_PUBLIC_KEY,
+        //   process.env.VAPID_PRIVATE_KEY
+        // );
+        // 
+        // await webpush.sendNotification(
+        //   {
+        //     endpoint: subscription.endpoint,
+        //     keys: subscription.keys
+        //   },
+        //   payload
+        // );
+
+        // For now, log that we would send
+        console.log("Would send push notification to:", subscription.endpoint.substring(0, 50));
+        
+        // Update last used timestamp
+        await ctx.runMutation(api.pushNotifications.updateSubscriptionLastUsed, {
+          subscriptionId: subscription._id,
+        });
+
+        sentCount++;
+        results.push({ 
+          subscriptionId: subscription._id, 
+          status: "sent",
+          platform: subscription.platform 
+        });
+      } catch (error: any) {
+        console.error("Failed to send push notification:", error);
+        failedCount++;
+        
+        // If subscription is invalid, deactivate it
+        if (error.statusCode === 410 || error.statusCode === 404) {
+          await ctx.runMutation(api.pushNotifications.deactivatePushSubscription, {
+            subscriptionId: subscription._id,
+          });
+          results.push({ 
+            subscriptionId: subscription._id, 
+            status: "invalid",
+            error: "subscription_expired" 
+          });
+        } else {
+          results.push({ 
+            subscriptionId: subscription._id, 
+            status: "failed",
+            error: error.message 
+          });
+        }
+      }
+    }
+
+    return {
+      sent: sentCount > 0,
+      sentCount,
+      failedCount,
+      totalSubscriptions: subscriptions.length,
+      results,
+    };
+  },
+});
+
+/**
+ * Send batch push notifications
+ */
+export const sendBatchWebPushNotifications = action({
+  args: {
+    notifications: v.array(v.object({
+      userId: v.id("users"),
+      type: v.string(),
+      title: v.string(),
+      body: v.string(),
+      data: v.optional(v.any()),
+      priority: v.optional(v.union(v.literal("high"), v.literal("normal"), v.literal("low"))),
+    })),
+  },
+  handler: async (ctx, args): Promise<{
+    totalNotifications: number;
+    results: Array<any>;
+  }> => {
+    const results: Array<any> = [];
+
+    for (const notification of args.notifications) {
+      const result: any = await ctx.runAction(api.pushNotificationsActions.sendWebPushNotification, notification);
+      results.push({ userId: notification.userId, ...result });
+    }
+
+    return {
+      totalNotifications: args.notifications.length,
+      results,
+    };
+  },
+});

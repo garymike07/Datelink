@@ -1,1 +1,9 @@
-{"data":"IyBOb3RpZmljYXRpb24gU291bmQgUGxhY2Vob2xkZXIKIyAKIyBUbyBhZGQgYSBub3RpZmljYXRpb24gc291bmQ6CiMgMS4gRmluZCBvciBjcmVhdGUgYSBzaG9ydCBub3RpZmljYXRpb24gc291bmQgKE1QMyBmb3JtYXQsIDwgMSBzZWNvbmQpCiMgMi4gU2F2ZSBpdCBhcyBwdWJsaWMvbm90aWZpY2F0aW9uLm1wMwojIDMuIENvbW1vbiBzb3VyY2VzOiBodHRwczovL25vdGlmaWNhdGlvbnNvdW5kcy5jb20vIG9yIGNyZWF0ZSB5b3VyIG93bgojIAojIEZvciBub3csIHRoZSBhcHAgd2lsbCBncmFjZWZ1bGx5IGhhbmRsZSB0aGUgbWlzc2luZyBzb3VuZCBmaWxlCiMgYnkgY2F0Y2hpbmcgdGhlIGVycm9yIHdoZW4gYXR0ZW1wdGluZyB0byBwbGF5IGl0Lgo="}
+# Notification Sound Placeholder
+# 
+# To add a notification sound:
+# 1. Find or create a short notification sound (MP3 format, < 1 second)
+# 2. Save it as public/notification.mp3
+# 3. Common sources: https://notificationsounds.com/ or create your own
+# 
+# For now, the app will gracefully handle the missing sound file
+# by catching the error when attempting to play it.

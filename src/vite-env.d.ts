@@ -1,1 +1,9 @@
-{"data":"Ly8vIDxyZWZlcmVuY2UgdHlwZXM9InZpdGUvY2xpZW50IiAvPgoKaW50ZXJmYWNlIEltcG9ydE1ldGFFbnYgewogIHJlYWRvbmx5IFZJVEVfQ09OVkVYX1VSTDogc3RyaW5nOwp9CgppbnRlcmZhY2UgSW1wb3J0TWV0YSB7CiAgcmVhZG9ubHkgZW52OiBJbXBvcnRNZXRhRW52Owp9Cg=="}
+/// <reference types="vite/client" />
+
+interface ImportMetaEnv {
+  readonly VITE_CONVEX_URL: string;
+}
+
+interface ImportMeta {
+  readonly env: ImportMetaEnv;
+}

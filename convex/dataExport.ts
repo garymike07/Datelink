@@ -1,1 +1,410 @@
-{"data":"aW1wb3J0IHsgdiB9IGZyb20gImNvbnZleC92YWx1ZXMiOwppbXBvcnQgeyBtdXRhdGlvbiwgcXVlcnksIGludGVybmFsTXV0YXRpb24gfSBmcm9tICIuL19nZW5lcmF0ZWQvc2VydmVyIjsKCi8qKgogKiBSZXF1ZXN0IGRhdGEgZXhwb3J0IGZvciBHRFBSIGNvbXBsaWFuY2UKICovCmV4cG9ydCBjb25zdCByZXF1ZXN0RGF0YUV4cG9ydCA9IG11dGF0aW9uKHsKICBhcmdzOiB7IHRva2VuOiB2Lm9wdGlvbmFsKHYuc3RyaW5nKCkpIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3QgaWRlbnRpdHkgPSBhd2FpdCBjdHguYXV0aC5nZXRVc2VySWRlbnRpdHkoKTsKCiAgICBjb25zdCB1c2VyID0gaWRlbnRpdHkKICAgICAgPyBhd2FpdCBjdHguZGIKICAgICAgICAgIC5xdWVyeSgidXNlcnMiKQogICAgICAgICAgLndpdGhJbmRleCgiZW1haWwiLCAocSkgPT4gcS5lcSgiZW1haWwiLCBpZGVudGl0eS5lbWFpbCEpKQogICAgICAgICAgLmZpcnN0KCkKICAgICAgOiBhcmdzLnRva2VuCiAgICAgICAgPyBhd2FpdCAoYXN5bmMgKCkgPT4gewogICAgICAgICAgICBjb25zdCBzZXNzaW9uID0gYXdhaXQgY3R4LmRiCiAgICAgICAgICAgICAgLnF1ZXJ5KCJzZXNzaW9ucyIpCiAgICAgICAgICAgICAgLndpdGhJbmRleCgidG9rZW4iLCAocSkgPT4gcS5lcSgidG9rZW4iLCBhcmdzLnRva2VuISkpCiAgICAgICAgICAgICAgLmZpcnN0KCk7CiAgICAgICAgICAgIGlmICghc2Vzc2lvbikgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIGlmIChzZXNzaW9uLmV4cGlyZXNBdCA8IERhdGUubm93KCkpIHJldHVybiBudWxsOwogICAgICAgICAgICByZXR1cm4gYXdhaXQgY3R4LmRiLmdldChzZXNzaW9uLnVzZXJJZCk7CiAgICAgICAgICB9KSgpCiAgICAgICAgOiBudWxsOwoKICAgIGlmICghdXNlcikgdGhyb3cgbmV3IEVycm9yKCJOb3QgYXV0aGVudGljYXRlZCIpOwoKICAgIC8vIENoZWNrIGlmIHRoZXJlJ3MgYWxyZWFkeSBhIHJlY2VudCBleHBvcnQKICAgIGNvbnN0IHJlY2VudEV4cG9ydCA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoImRhdGFFeHBvcnRzIikKICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIHVzZXIuX2lkKSkKICAgICAgLm9yZGVyKCJkZXNjIikKICAgICAgLmZpcnN0KCk7CgogICAgaWYgKAogICAgICByZWNlbnRFeHBvcnQgJiYKICAgICAgcmVjZW50RXhwb3J0LnN0YXR1cyA9PT0gInByb2Nlc3NpbmciICYmCiAgICAgIERhdGUubm93KCkgLSByZWNlbnRFeHBvcnQucmVxdWVzdGVkQXQgPCA1ICogNjAgKiAxMDAwIC8vIDUgbWludXRlcwogICAgKSB7CiAgICAgIHJldHVybiB7CiAgICAgICAgbWVzc2FnZTogIkV4cG9ydCBhbHJlYWR5IGluIHByb2dyZXNzIiwKICAgICAgICBleHBvcnRJZDogcmVjZW50RXhwb3J0Ll9pZCwKICAgICAgfTsKICAgIH0KCiAgICAvLyBDb2xsZWN0IGFsbCB1c2VyIGRhdGEKICAgIGNvbnN0IHByb2ZpbGUgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJwcm9maWxlcyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCB1c2VyLl9pZCkpCiAgICAgIC5maXJzdCgpOwoKICAgIGNvbnN0IHBob3RvcyA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoInBob3RvcyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCB1c2VyLl9pZCkpCiAgICAgIC5jb2xsZWN0KCk7CgogICAgY29uc3QgbWF0Y2hlcyA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoIm1hdGNoZXMiKQogICAgICAuY29sbGVjdCgpOwogICAgY29uc3QgdXNlck1hdGNoZXMgPSBtYXRjaGVzLmZpbHRlcigKICAgICAgKG0pID0+IG0udXNlcjFJZCA9PT0gdXNlci5faWQgfHwgbS51c2VyMklkID09PSB1c2VyLl9pZAogICAgKTsKCiAgICBjb25zdCBtZXNzYWdlcyA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoIm1lc3NhZ2VzIikKICAgICAgLmNvbGxlY3QoKTsKICAgIGNvbnN0IHVzZXJNZXNzYWdlcyA9IG1lc3NhZ2VzLmZpbHRlcigKICAgICAgKG0pID0+IG0uc2VuZGVySWQgPT09IHVzZXIuX2lkIHx8IG0ucmVjZWl2ZXJJZCA9PT0gdXNlci5faWQKICAgICk7CgogICAgY29uc3QgbGlrZXMgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJsaWtlcyIpCiAgICAgIC5jb2xsZWN0KCk7CiAgICBjb25zdCBzZW50TGlrZXMgPSBsaWtlcy5maWx0ZXIoKGwpID0+IGwudXNlcklkID09PSB1c2VyLl9pZCk7CiAgICBjb25zdCByZWNlaXZlZExpa2VzID0gbGlrZXMuZmlsdGVyKChsKSA9PiBsLmxpa2VkVXNlcklkID09PSB1c2VyLl9pZCk7CgogICAgY29uc3Qgc2V0dGluZ3MgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJ1c2VyU2V0dGluZ3MiKQogICAgICAud2l0aEluZGV4KCJ1c2VySWQiLCAocSkgPT4gcS5lcSgidXNlcklkIiwgdXNlci5faWQpKQogICAgICAuZmlyc3QoKTsKCiAgICBjb25zdCBzdWJzY3JpcHRpb25zID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgic3Vic2NyaXB0aW9ucyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCB1c2VyLl9pZCkpCiAgICAgIC5jb2xsZWN0KCk7CgogICAgY29uc3QgcGF5bWVudHMgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJwYXltZW50cyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCB1c2VyLl9pZCkpCiAgICAgIC5jb2xsZWN0KCk7CgogICAgY29uc3Qgbm90aWZpY2F0aW9ucyA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoIm5vdGlmaWNhdGlvbnMiKQogICAgICAud2l0aEluZGV4KCJ1c2VySWQiLCAocSkgPT4gcS5lcSgidXNlcklkIiwgdXNlci5faWQpKQogICAgICAuY29sbGVjdCgpOwoKICAgIGNvbnN0IGFjdGl2aXR5TG9nID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgiYWN0aXZpdHlMb2ciKQogICAgICAud2l0aEluZGV4KCJ1c2VySWQiLCAocSkgPT4gcS5lcSgidXNlcklkIiwgdXNlci5faWQpKQogICAgICAuY29sbGVjdCgpOwoKICAgIGNvbnN0IHVzZXJQcm9ncmVzcyA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoInVzZXJQcm9ncmVzcyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCB1c2VyLl9pZCkpCiAgICAgIC5maXJzdCgpOwoKICAgIGNvbnN0IGNhbGxzID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgiY2FsbHMiKQogICAgICAuY29sbGVjdCgpOwogICAgY29uc3QgdXNlckNhbGxzID0gY2FsbHMuZmlsdGVyKAogICAgICAoYykgPT4gYy5jYWxsZXJJZCA9PT0gdXNlci5faWQgfHwgYy5yZWNlaXZlcklkID09PSB1c2VyLl9pZAogICAgKTsKCiAgICBjb25zdCBxdWVzdHMgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJxdWVzdHMiKQogICAgICAud2l0aEluZGV4KCJ1c2VySWQiLCAocSkgPT4gcS5lcSgidXNlcklkIiwgdXNlci5faWQpKS5jb2xsZWN0KCk7CiAgICAvLyBDcmVhdGUgc2FuaXRpemVkIGV4cG9ydCBkYXRhCiAgICBjb25zdCBleHBvcnREYXRhID0gewogICAgICBleHBvcnREYXRlOiBuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKCksCiAgICAgIGV4cG9ydEZvcm1hdDogIkpTT04iLAogICAgICBwcml2YWN5Tm90aWNlOgogICAgICAgICJUaGlzIGV4cG9ydCBjb250YWlucyBhbGwgcGVyc29uYWwgZGF0YSB3ZSBoYXZlIGNvbGxlY3RlZCBhYm91dCB5b3UuIiwKCiAgICAgIGFjY291bnQ6IHsKICAgICAgICBlbWFpbDogdXNlci5lbWFpbCwKICAgICAgICBuYW1lOiB1c2VyLm5hbWUsCiAgICAgICAgcGhvbmU6IHVzZXIucGhvbmUsCiAgICAgICAgaXNWZXJpZmllZDogdXNlci5pc1ZlcmlmaWVkLAogICAgICAgIGVtYWlsVmVyaWZpZWQ6IHVzZXIuZW1haWxWZXJpZmllZCwKICAgICAgICB2ZXJpZmljYXRpb25TdGF0dXM6IHVzZXIudmVyaWZpY2F0aW9uU3RhdHVzLAogICAgICAgIGFjY291bnRTdGF0dXM6IHVzZXIuYWNjb3VudFN0YXR1cyB8fCAiYWN0aXZlIiwKICAgICAgICBjcmVhdGVkQXQ6IG5ldyBEYXRlKHVzZXIuY3JlYXRlZEF0KS50b0lTT1N0cmluZygpLAogICAgICAgIHVwZGF0ZWRBdDogbmV3IERhdGUodXNlci51cGRhdGVkQXQpLnRvSVNPU3RyaW5nKCksCiAgICAgICAgbGFzdFNlZW5BdDogdXNlci5sYXN0U2VlbkF0CiAgICAgICAgICA/IG5ldyBEYXRlKHVzZXIubGFzdFNlZW5BdCkudG9JU09TdHJpbmcoKQogICAgICAgICAgOiBudWxsLAogICAgICB9LAoKICAgICAgcHJvZmlsZTogcHJvZmlsZQogICAgICAgID8gewogICAgICAgICAgICBhZ2U6IHByb2ZpbGUuYWdlLAogICAgICAgICAgICBnZW5kZXI6IHByb2ZpbGUuZ2VuZGVyLAogICAgICAgICAgICBiaW86IHByb2ZpbGUuYmlvLAogICAgICAgICAgICBsb2NhdGlvbjogcHJvZmlsZS5sb2NhdGlvbiwKICAgICAgICAgICAgaGVpZ2h0OiBwcm9maWxlLmhlaWdodCwKICAgICAgICAgICAgZWR1Y2F0aW9uOiBwcm9maWxlLmVkdWNhdGlvbiwKICAgICAgICAgICAgam9iVGl0bGU6IHByb2ZpbGUuam9iVGl0bGUsCiAgICAgICAgICAgIGNvbXBhbnk6IHByb2ZpbGUuY29tcGFueSwKICAgICAgICAgICAgcmVsYXRpb25zaGlwR29hbDogcHJvZmlsZS5yZWxhdGlvbnNoaXBHb2FsLAogICAgICAgICAgICByZWxpZ2lvbjogcHJvZmlsZS5yZWxpZ2lvbiwKICAgICAgICAgICAgZHJpbmtpbmc6IHByb2ZpbGUuZHJpbmtpbmcsCiAgICAgICAgICAgIHNtb2tpbmc6IHByb2ZpbGUuc21va2luZywKICAgICAgICAgICAgZXhlcmNpc2U6IHByb2ZpbGUuZXhlcmNpc2UsCiAgICAgICAgICAgIGRpZXQ6IHByb2ZpbGUuZGlldCwKICAgICAgICAgICAgaGFzS2lkczogcHJvZmlsZS5oYXNLaWRzLAogICAgICAgICAgICB3YW50c0tpZHM6IHByb2ZpbGUud2FudHNLaWRzLAogICAgICAgICAgICBsYW5ndWFnZXM6IHByb2ZpbGUubGFuZ3VhZ2VzLAogICAgICAgICAgICBwZXRzOiBwcm9maWxlLnBldHMsCiAgICAgICAgICAgIGNyZWF0ZWRBdDogbmV3IERhdGUocHJvZmlsZS5jcmVhdGVkQXQpLnRvSVNPU3RyaW5nKCksCiAgICAgICAgICAgIHVwZGF0ZWRBdDogbmV3IERhdGUocHJvZmlsZS51cGRhdGVkQXQpLnRvSVNPU3RyaW5nKCksCiAgICAgICAgICB9CiAgICAgICAgOiBudWxsLAoKICAgICAgcGhvdG9zOiBwaG90b3MubWFwKChwKSA9PiAoewogICAgICAgIHVybDogcC51cmwsCiAgICAgICAgb3JkZXI6IHAub3JkZXIsCiAgICAgICAgaXNQcmltYXJ5OiBwLmlzUHJpbWFyeSwKICAgICAgICB1cGxvYWRlZEF0OiBuZXcgRGF0ZShwLmNyZWF0ZWRBdCkudG9JU09TdHJpbmcoKSwKICAgICAgfSkpLAoKICAgICAgc3RhdGlzdGljczogewogICAgICAgIHRvdGFsTWF0Y2hlczogdXNlck1hdGNoZXMubGVuZ3RoLAogICAgICAgIHRvdGFsTWVzc2FnZXM6IHVzZXJNZXNzYWdlcy5sZW5ndGgsCiAgICAgICAgbGlrZXNTZW50OiBzZW50TGlrZXMubGVuZ3RoLAogICAgICAgIGxpa2VzUmVjZWl2ZWQ6IHJlY2VpdmVkTGlrZXMubGVuZ3RoLAogICAgICAgIHRvdGFsQ2FsbHM6IHVzZXJDYWxscy5sZW5ndGgsCiAgICAgIH0sCgogICAgICBtYXRjaGVzOiB1c2VyTWF0Y2hlcy5tYXAoKG0pID0+ICh7CiAgICAgICAgbWF0Y2hlZEF0OiBuZXcgRGF0ZShtLm1hdGNoZWRBdCkudG9JU09TdHJpbmcoKSwKICAgICAgICBsYXN0TWVzc2FnZUF0OiBtLmxhc3RNZXNzYWdlQXQgPyBuZXcgRGF0ZShtLmxhc3RNZXNzYWdlQXQpLnRvSVNPU3RyaW5nKCkgOiBudWxsLAogICAgICB9KSksCgogICAgICBtZXNzYWdlczogdXNlck1lc3NhZ2VzLm1hcCgobSkgPT4gKHsKICAgICAgICB0eXBlOiBtLnR5cGUgfHwgInRleHQiLAogICAgICAgIHNlbnRBdDogbmV3IERhdGUobS5jcmVhdGVkQXQpLnRvSVNPU3RyaW5nKCksCiAgICAgICAgd2FzSWFtU2VuZGVyOiBtLnNlbmRlcklkID09PSB1c2VyLl9pZCwKICAgICAgICBib2R5OiBtLmJvZHksCiAgICAgICAgaXNSZWFkOiBtLmlzUmVhZCwKICAgICAgfSkpLAoKICAgICAgbGlrZXM6IHsKICAgICAgICBzZW50OiBzZW50TGlrZXMubWFwKChsKSA9PiAoewogICAgICAgICAgbGlrZWRBdDogbmV3IERhdGUobC5jcmVhdGVkQXQpLnRvSVNPU3RyaW5nKCksCiAgICAgICAgfSkpLAogICAgICAgIHJlY2VpdmVkOiByZWNlaXZlZExpa2VzLm1hcCgobCkgPT4gKHsKICAgICAgICAgIHJlY2VpdmVkQXQ6IG5ldyBEYXRlKGwuY3JlYXRlZEF0KS50b0lTT1N0cmluZygpLAogICAgICAgIH0pKSwKICAgICAgfSwKCiAgICAgIHNldHRpbmdzOiBzZXR0aW5ncwogICAgICAgID8gewogICAgICAgICAgICBzaG93T25saW5lU3RhdHVzOiBzZXR0aW5ncy5zaG93T25saW5lU3RhdHVzLAogICAgICAgICAgICByZWFkUmVjZWlwdHM6IHNldHRpbmdzLnJlYWRSZWNlaXB0cywKICAgICAgICAgICAgZW1haWxOb3RpZmljYXRpb25zOiBzZXR0aW5ncy5lbWFpbE5vdGlmaWNhdGlvbnMsCiAgICAgICAgICAgIG1hdGNoTm90aWZpY2F0aW9uczogc2V0dGluZ3MubWF0Y2hOb3RpZmljYXRpb25zLAogICAgICAgICAgICBtZXNzYWdlTm90aWZpY2F0aW9uczogc2V0dGluZ3MubWVzc2FnZU5vdGlmaWNhdGlvbnMsCiAgICAgICAgICB9CiAgICAgICAgOiBudWxsLAoKICAgICAgc3Vic2NyaXB0aW9uczogc3Vic2NyaXB0aW9ucy5tYXAoKHMpID0+ICh7CiAgICAgICAgcGxhbjogcy5wbGFuLAogICAgICAgIHN0YXR1czogcy5zdGF0dXMsCiAgICAgICAgYW1vdW50OiBzLmFtb3VudCwKICAgICAgICBjdXJyZW5jeTogcy5jdXJyZW5jeSwKICAgICAgICBiaWxsaW5nQ3ljbGU6IHMuYmlsbGluZ0N5Y2xlLAogICAgICAgIHN0YXJ0ZWRBdDogbmV3IERhdGUocy5zdGFydGVkQXQpLnRvSVNPU3RyaW5nKCksCiAgICAgICAgZW5kc0F0OiBzLmVuZHNBdCA/IG5ldyBEYXRlKHMuZW5kc0F0KS50b0lTT1N0cmluZygpIDogbnVsbCwKICAgICAgfSkpLAoKICAgICAgcGF5bWVudHM6IHBheW1lbnRzLm1hcCgocCkgPT4gKHsKICAgICAgICBhbW91bnQ6IHAuYW1vdW50LAogICAgICAgIGN1cnJlbmN5OiBwLmN1cnJlbmN5LAogICAgICAgIHBheW1lbnRNZXRob2Q6IHAucGF5bWVudE1ldGhvZCwKICAgICAgICBzdGF0dXM6IHAuc3RhdHVzLAogICAgICAgIHByb2R1Y3RUeXBlOiBwLnByb2R1Y3RUeXBlLAogICAgICAgIGNyZWF0ZWRBdDogbmV3IERhdGUocC5jcmVhdGVkQXQpLnRvSVNPU3RyaW5nKCksCiAgICAgICAgY29tcGxldGVkQXQ6IHAuY29tcGxldGVkQXQKICAgICAgICAgID8gbmV3IERhdGUocC5jb21wbGV0ZWRBdCkudG9JU09TdHJpbmcoKQogICAgICAgICAgOiBudWxsLAogICAgICB9KSksCgogICAgICBub3RpZmljYXRpb25zOiBub3RpZmljYXRpb25zLm1hcCgobikgPT4gKHsKICAgICAgICB0eXBlOiBuLnR5cGUsCiAgICAgICAgdGl0bGU6IG4udGl0bGUsCiAgICAgICAgYm9keTogbi5ib2R5LAogICAgICAgIGlzUmVhZDogbi5pc1JlYWQsCiAgICAgICAgY3JlYXRlZEF0OiBuZXcgRGF0ZShuLmNyZWF0ZWRBdCkudG9JU09TdHJpbmcoKSwKICAgICAgfSkpLAoKICAgICAgYWN0aXZpdHlMb2c6IGFjdGl2aXR5TG9nLm1hcCgoYSkgPT4gKHsKICAgICAgICBhY3Rpdml0eVR5cGU6IGEuYWN0aXZpdHlUeXBlLAogICAgICAgIHRpbWVzdGFtcDogbmV3IERhdGUoYS50aW1lc3RhbXApLnRvSVNPU3RyaW5nKCksCiAgICAgIH0pKSwKCiAgICAgIGdhbWlmaWNhdGlvbjogdXNlclByb2dyZXNzCiAgICAgICAgPyB7CiAgICAgICAgICAgIGxldmVsOiB1c2VyUHJvZ3Jlc3MubGV2ZWwsCiAgICAgICAgICAgIHhwOiB1c2VyUHJvZ3Jlc3MueHAsCiAgICAgICAgICAgIGJhZGdlczogdXNlclByb2dyZXNzLmJhZGdlcywKICAgICAgICAgIH0KICAgICAgICA6IG51bGwsCgogICAgICBxdWVzdHM6IHF1ZXN0cy5tYXAoKHEpID0+ICh7CiAgICAgICAgcXVlc3RUeXBlOiBxLnF1ZXN0VHlwZSwKICAgICAgICBwcm9ncmVzczogcS5wcm9ncmVzcywKICAgICAgICB0YXJnZXQ6IHEudGFyZ2V0LAogICAgICAgIGNvbXBsZXRlZEF0OiBxLmNvbXBsZXRlZEF0CiAgICAgICAgICA/IG5ldyBEYXRlKHEuY29tcGxldGVkQXQpLnRvSVNPU3RyaW5nKCkKICAgICAgICAgIDogbnVsbCwKICAgICAgfSkpLAogICAgfTsKCiAgICAvLyBDb252ZXJ0IHRvIEpTT04gc3RyaW5nCiAgICBjb25zdCBqc29uU3RyaW5nID0gSlNPTi5zdHJpbmdpZnkoZXhwb3J0RGF0YSwgbnVsbCwgMik7CiAgICBjb25zdCBmaWxlU2l6ZSA9IG5ldyBCbG9iKFtqc29uU3RyaW5nXSkuc2l6ZTsKCiAgICAvLyBDcmVhdGUgZXhwb3J0IHJlY29yZAogICAgY29uc3QgZXhwb3J0SWQgPSBhd2FpdCBjdHguZGIuaW5zZXJ0KCJkYXRhRXhwb3J0cyIsIHsKICAgICAgdXNlcklkOiB1c2VyLl9pZCwKICAgICAgc3RhdHVzOiAiY29tcGxldGVkIiwKICAgICAgZmlsZVVybDogYGRhdGE6YXBwbGljYXRpb24vanNvbjtiYXNlNjQsJHtCdWZmZXIuZnJvbShqc29uU3RyaW5nKS50b1N0cmluZygiYmFzZTY0Iil9YCwKICAgICAgZmlsZVNpemUsCiAgICAgIHJlcXVlc3RlZEF0OiBEYXRlLm5vdygpLAogICAgICBjb21wbGV0ZWRBdDogRGF0ZS5ub3coKSwKICAgICAgZXhwaXJlc0F0OiBEYXRlLm5vdygpICsgNyAqIDI0ICogNjAgKiA2MCAqIDEwMDAsIC8vIDcgZGF5cwogICAgfSk7CgogICAgLy8gU2VuZCBub3RpZmljYXRpb24KICAgIGF3YWl0IGN0eC5kYi5pbnNlcnQoIm5vdGlmaWNhdGlvbnMiLCB7CiAgICAgIHVzZXJJZDogdXNlci5faWQsCiAgICAgIHR5cGU6ICJwcm9maWxlX2NyZWF0ZWQiLAogICAgICB0aXRsZTogIkRhdGEgRXhwb3J0IFJlYWR5IiwKICAgICAgYm9keToKICAgICAgICAiWW91ciBwZXJzb25hbCBkYXRhIGV4cG9ydCBpcyByZWFkeSBmb3IgZG93bmxvYWQuIEl0IHdpbGwgYmUgYXZhaWxhYmxlIGZvciA3IGRheXMuIiwKICAgICAgaXNSZWFkOiBmYWxzZSwKICAgICAgY3JlYXRlZEF0OiBEYXRlLm5vdygpLAogICAgfSk7CgogICAgcmV0dXJuIHsKICAgICAgZXhwb3J0SWQsCiAgICAgIG1lc3NhZ2U6ICJEYXRhIGV4cG9ydCBjb21wbGV0ZWQiLAogICAgICBmaWxlU2l6ZSwKICAgICAgZXhwaXJlc0F0OiBEYXRlLm5vdygpICsgNyAqIDI0ICogNjAgKiA2MCAqIDEwMDAsCiAgICB9OwogIH0sCn0pOwoKLyoqCiAqIEdldCBkYXRhIGV4cG9ydCBzdGF0dXMgYW5kIGRvd25sb2FkIFVSTAogKi8KZXhwb3J0IGNvbnN0IGdldERhdGFFeHBvcnQgPSBxdWVyeSh7CiAgYXJnczogeyB0b2tlbjogdi5vcHRpb25hbCh2LnN0cmluZygpKSB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGNvbnN0IGlkZW50aXR5ID0gYXdhaXQgY3R4LmF1dGguZ2V0VXNlcklkZW50aXR5KCk7CgogICAgY29uc3QgdXNlciA9IGlkZW50aXR5CiAgICAgID8gYXdhaXQgY3R4LmRiCiAgICAgICAgICAucXVlcnkoInVzZXJzIikKICAgICAgICAgIC53aXRoSW5kZXgoImVtYWlsIiwgKHEpID0+IHEuZXEoImVtYWlsIiwgaWRlbnRpdHkuZW1haWwhKSkKICAgICAgICAgIC5maXJzdCgpCiAgICAgIDogYXJncy50b2tlbgogICAgICAgID8gYXdhaXQgKGFzeW5jICgpID0+IHsKICAgICAgICAgICAgY29uc3Qgc2Vzc2lvbiA9IGF3YWl0IGN0eC5kYgogICAgICAgICAgICAgIC5xdWVyeSgic2Vzc2lvbnMiKQogICAgICAgICAgICAgIC53aXRoSW5kZXgoInRva2VuIiwgKHEpID0+IHEuZXEoInRva2VuIiwgYXJncy50b2tlbiEpKQogICAgICAgICAgICAgIC5maXJzdCgpOwogICAgICAgICAgICBpZiAoIXNlc3Npb24pIHJldHVybiBudWxsOwogICAgICAgICAgICBpZiAoc2Vzc2lvbi5leHBpcmVzQXQgPCBEYXRlLm5vdygpKSByZXR1cm4gbnVsbDsKICAgICAgICAgICAgcmV0dXJuIGF3YWl0IGN0eC5kYi5nZXQoc2Vzc2lvbi51c2VySWQpOwogICAgICAgICAgfSkoKQogICAgICAgIDogbnVsbDsKCiAgICBpZiAoIXVzZXIpIHJldHVybiBudWxsOwoKICAgIGNvbnN0IGRhdGFFeHBvcnQgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJkYXRhRXhwb3J0cyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCB1c2VyLl9pZCkpCiAgICAgIC5vcmRlcigiZGVzYyIpCiAgICAgIC5maXJzdCgpOwoKICAgIGlmICghZGF0YUV4cG9ydCkgcmV0dXJuIG51bGw7CgogICAgLy8gQ2hlY2sgaWYgZXhwb3J0IGhhcyBleHBpcmVkIChub3RlOiBjYW5ub3QgcGF0Y2ggaW4gcXVlcnksIGp1c3QgcmV0dXJuIHN0YXR1cykKICAgIGlmICgKICAgICAgZGF0YUV4cG9ydC5leHBpcmVzQXQgJiYKICAgICAgZGF0YUV4cG9ydC5leHBpcmVzQXQgPCBEYXRlLm5vdygpICYmCiAgICAgIGRhdGFFeHBvcnQuc3RhdHVzICE9PSAiZXhwaXJlZCIKICAgICkgewogICAgICByZXR1cm4geyAuLi5kYXRhRXhwb3J0LCBzdGF0dXM6ICJleHBpcmVkIiBhcyBjb25zdCB9OwogICAgfQoKICAgIHJldHVybiBkYXRhRXhwb3J0OwogIH0sCn0pOwoKLyoqCiAqIE1hcmsgZXhwb3J0IGFzIGRvd25sb2FkZWQKICovCmV4cG9ydCBjb25zdCBtYXJrRXhwb3J0RG93bmxvYWRlZCA9IG11dGF0aW9uKHsKICBhcmdzOiB7IGV4cG9ydElkOiB2LmlkKCJkYXRhRXhwb3J0cyIpLCB0b2tlbjogdi5vcHRpb25hbCh2LnN0cmluZygpKSB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGNvbnN0IGlkZW50aXR5ID0gYXdhaXQgY3R4LmF1dGguZ2V0VXNlcklkZW50aXR5KCk7CgogICAgY29uc3QgdXNlciA9IGlkZW50aXR5CiAgICAgID8gYXdhaXQgY3R4LmRiCiAgICAgICAgICAucXVlcnkoInVzZXJzIikKICAgICAgICAgIC53aXRoSW5kZXgoImVtYWlsIiwgKHEpID0+IHEuZXEoImVtYWlsIiwgaWRlbnRpdHkuZW1haWwhKSkKICAgICAgICAgIC5maXJzdCgpCiAgICAgIDogYXJncy50b2tlbgogICAgICAgID8gYXdhaXQgKGFzeW5jICgpID0+IHsKICAgICAgICAgICAgY29uc3Qgc2Vzc2lvbiA9IGF3YWl0IGN0eC5kYgogICAgICAgICAgICAgIC5xdWVyeSgic2Vzc2lvbnMiKQogICAgICAgICAgICAgIC53aXRoSW5kZXgoInRva2VuIiwgKHEpID0+IHEuZXEoInRva2VuIiwgYXJncy50b2tlbiEpKQogICAgICAgICAgICAgIC5maXJzdCgpOwogICAgICAgICAgICBpZiAoIXNlc3Npb24pIHJldHVybiBudWxsOwogICAgICAgICAgICBpZiAoc2Vzc2lvbi5leHBpcmVzQXQgPCBEYXRlLm5vdygpKSByZXR1cm4gbnVsbDsKICAgICAgICAgICAgcmV0dXJuIGF3YWl0IGN0eC5kYi5nZXQoc2Vzc2lvbi51c2VySWQpOwogICAgICAgICAgfSkoKQogICAgICAgIDogbnVsbDsKCiAgICBpZiAoIXVzZXIpIHRocm93IG5ldyBFcnJvcigiTm90IGF1dGhlbnRpY2F0ZWQiKTsKCiAgICBjb25zdCBkYXRhRXhwb3J0ID0gYXdhaXQgY3R4LmRiLmdldChhcmdzLmV4cG9ydElkKTsKICAgIGlmICghZGF0YUV4cG9ydCkgdGhyb3cgbmV3IEVycm9yKCJFeHBvcnQgbm90IGZvdW5kIik7CgogICAgaWYgKGRhdGFFeHBvcnQudXNlcklkICE9PSB1c2VyLl9pZCkgewogICAgICB0aHJvdyBuZXcgRXJyb3IoIlVuYXV0aG9yaXplZCIpOwogICAgfQoKICAgIGF3YWl0IGN0eC5kYi5wYXRjaChhcmdzLmV4cG9ydElkLCB7CiAgICAgIGRvd25sb2FkZWRBdDogRGF0ZS5ub3coKSwKICAgIH0pOwoKICAgIHJldHVybiB7IHN1Y2Nlc3M6IHRydWUgfTsKICB9LAp9KTsKCi8qKgogKiBEZWxldGUgb2xkIGV4cG9ydHMgKGNhbiBiZSBjYWxsZWQgYnkgY3JvbikKICovCmV4cG9ydCBjb25zdCBjbGVhbnVwRXhwaXJlZEV4cG9ydHMgPSBpbnRlcm5hbE11dGF0aW9uKHsKICBoYW5kbGVyOiBhc3luYyAoY3R4KSA9PiB7CiAgICBjb25zdCBub3cgPSBEYXRlLm5vdygpOwogICAgY29uc3QgYWxsRXhwb3J0cyA9IGF3YWl0IGN0eC5kYi5xdWVyeSgiZGF0YUV4cG9ydHMiKS5jb2xsZWN0KCk7CgogICAgbGV0IGRlbGV0ZWQgPSAwOwogICAgZm9yIChjb25zdCBleHAgb2YgYWxsRXhwb3J0cykgewogICAgICBpZiAoZXhwLmV4cGlyZXNBdCAmJiBleHAuZXhwaXJlc0F0IDwgbm93ICYmIGV4cC5zdGF0dXMgIT09ICJleHBpcmVkIikgewogICAgICAgIGF3YWl0IGN0eC5kYi5wYXRjaChleHAuX2lkLCB7IHN0YXR1czogImV4cGlyZWQiLCBmaWxlVXJsOiB1bmRlZmluZWQgfSk7CiAgICAgICAgZGVsZXRlZCsrOwogICAgICB9CiAgICB9CgogICAgcmV0dXJuIHsgZXhwaXJlZDogZGVsZXRlZCB9OwogIH0sCn0pOwo="}
+import { v } from "convex/values";
+import { mutation, query, internalMutation } from "./_generated/server";
+
+/**
+ * Request data export for GDPR compliance
+ */
+export const requestDataExport = mutation({
+  args: { token: v.optional(v.string()) },
+  handler: async (ctx, args) => {
+    const identity = await ctx.auth.getUserIdentity();
+
+    const user = identity
+      ? await ctx.db
+          .query("users")
+          .withIndex("email", (q) => q.eq("email", identity.email!))
+          .first()
+      : args.token
+        ? await (async () => {
+            const session = await ctx.db
+              .query("sessions")
+              .withIndex("token", (q) => q.eq("token", args.token!))
+              .first();
+            if (!session) return null;
+            if (session.expiresAt < Date.now()) return null;
+            return await ctx.db.get(session.userId);
+          })()
+        : null;
+
+    if (!user) throw new Error("Not authenticated");
+
+    // Check if there's already a recent export
+    const recentExport = await ctx.db
+      .query("dataExports")
+      .withIndex("userId", (q) => q.eq("userId", user._id))
+      .order("desc")
+      .first();
+
+    if (
+      recentExport &&
+      recentExport.status === "processing" &&
+      Date.now() - recentExport.requestedAt < 5 * 60 * 1000 // 5 minutes
+    ) {
+      return {
+        message: "Export already in progress",
+        exportId: recentExport._id,
+      };
+    }
+
+    // Collect all user data
+    const profile = await ctx.db
+      .query("profiles")
+      .withIndex("userId", (q) => q.eq("userId", user._id))
+      .first();
+
+    const photos = await ctx.db
+      .query("photos")
+      .withIndex("userId", (q) => q.eq("userId", user._id))
+      .collect();
+
+    const matches = await ctx.db
+      .query("matches")
+      .collect();
+    const userMatches = matches.filter(
+      (m) => m.user1Id === user._id || m.user2Id === user._id
+    );
+
+    const messages = await ctx.db
+      .query("messages")
+      .collect();
+    const userMessages = messages.filter(
+      (m) => m.senderId === user._id || m.receiverId === user._id
+    );
+
+    const likes = await ctx.db
+      .query("likes")
+      .collect();
+    const sentLikes = likes.filter((l) => l.userId === user._id);
+    const receivedLikes = likes.filter((l) => l.likedUserId === user._id);
+
+    const settings = await ctx.db
+      .query("userSettings")
+      .withIndex("userId", (q) => q.eq("userId", user._id))
+      .first();
+
+    const subscriptions = await ctx.db
+      .query("subscriptions")
+      .withIndex("userId", (q) => q.eq("userId", user._id))
+      .collect();
+
+    const payments = await ctx.db
+      .query("payments")
+      .withIndex("userId", (q) => q.eq("userId", user._id))
+      .collect();
+
+    const notifications = await ctx.db
+      .query("notifications")
+      .withIndex("userId", (q) => q.eq("userId", user._id))
+      .collect();
+
+    const activityLog = await ctx.db
+      .query("activityLog")
+      .withIndex("userId", (q) => q.eq("userId", user._id))
+      .collect();
+
+    const userProgress = await ctx.db
+      .query("userProgress")
+      .withIndex("userId", (q) => q.eq("userId", user._id))
+      .first();
+
+    const calls = await ctx.db
+      .query("calls")
+      .collect();
+    const userCalls = calls.filter(
+      (c) => c.callerId === user._id || c.receiverId === user._id
+    );
+
+    const quests = await ctx.db
+      .query("quests")
+      .withIndex("userId", (q) => q.eq("userId", user._id)).collect();
+    // Create sanitized export data
+    const exportData = {
+      exportDate: new Date().toISOString(),
+      exportFormat: "JSON",
+      privacyNotice:
+        "This export contains all personal data we have collected about you.",
+
+      account: {
+        email: user.email,
+        name: user.name,
+        phone: user.phone,
+        isVerified: user.isVerified,
+        emailVerified: user.emailVerified,
+        verificationStatus: user.verificationStatus,
+        accountStatus: user.accountStatus || "active",
+        createdAt: new Date(user.createdAt).toISOString(),
+        updatedAt: new Date(user.updatedAt).toISOString(),
+        lastSeenAt: user.lastSeenAt
+          ? new Date(user.lastSeenAt).toISOString()
+          : null,
+      },
+
+      profile: profile
+        ? {
+            age: profile.age,
+            gender: profile.gender,
+            bio: profile.bio,
+            location: profile.location,
+            height: profile.height,
+            education: profile.education,
+            jobTitle: profile.jobTitle,
+            company: profile.company,
+            relationshipGoal: profile.relationshipGoal,
+            religion: profile.religion,
+            drinking: profile.drinking,
+            smoking: profile.smoking,
+            exercise: profile.exercise,
+            diet: profile.diet,
+            hasKids: profile.hasKids,
+            wantsKids: profile.wantsKids,
+            languages: profile.languages,
+            pets: profile.pets,
+            createdAt: new Date(profile.createdAt).toISOString(),
+            updatedAt: new Date(profile.updatedAt).toISOString(),
+          }
+        : null,
+
+      photos: photos.map((p) => ({
+        url: p.url,
+        order: p.order,
+        isPrimary: p.isPrimary,
+        uploadedAt: new Date(p.createdAt).toISOString(),
+      })),
+
+      statistics: {
+        totalMatches: userMatches.length,
+        totalMessages: userMessages.length,
+        likesSent: sentLikes.length,
+        likesReceived: receivedLikes.length,
+        totalCalls: userCalls.length,
+      },
+
+      matches: userMatches.map((m) => ({
+        matchedAt: new Date(m.matchedAt).toISOString(),
+        lastMessageAt: m.lastMessageAt ? new Date(m.lastMessageAt).toISOString() : null,
+      })),
+
+      messages: userMessages.map((m) => ({
+        type: m.type || "text",
+        sentAt: new Date(m.createdAt).toISOString(),
+        wasIamSender: m.senderId === user._id,
+        body: m.body,
+        isRead: m.isRead,
+      })),
+
+      likes: {
+        sent: sentLikes.map((l) => ({
+          likedAt: new Date(l.createdAt).toISOString(),
+        })),
+        received: receivedLikes.map((l) => ({
+          receivedAt: new Date(l.createdAt).toISOString(),
+        })),
+      },
+
+      settings: settings
+        ? {
+            showOnlineStatus: settings.showOnlineStatus,
+            readReceipts: settings.readReceipts,
+            emailNotifications: settings.emailNotifications,
+            matchNotifications: settings.matchNotifications,
+            messageNotifications: settings.messageNotifications,
+          }
+        : null,
+
+      subscriptions: subscriptions.map((s) => ({
+        plan: s.plan,
+        status: s.status,
+        amount: s.amount,
+        currency: s.currency,
+        billingCycle: s.billingCycle,
+        startedAt: new Date(s.startedAt).toISOString(),
+        endsAt: s.endsAt ? new Date(s.endsAt).toISOString() : null,
+      })),
+
+      payments: payments.map((p) => ({
+        amount: p.amount,
+        currency: p.currency,
+        paymentMethod: p.paymentMethod,
+        status: p.status,
+        productType: p.productType,
+        createdAt: new Date(p.createdAt).toISOString(),
+        completedAt: p.completedAt
+          ? new Date(p.completedAt).toISOString()
+          : null,
+      })),
+
+      notifications: notifications.map((n) => ({
+        type: n.type,
+        title: n.title,
+        body: n.body,
+        isRead: n.isRead,
+        createdAt: new Date(n.createdAt).toISOString(),
+      })),
+
+      activityLog: activityLog.map((a) => ({
+        activityType: a.activityType,
+        timestamp: new Date(a.timestamp).toISOString(),
+      })),
+
+      gamification: userProgress
+        ? {
+            level: userProgress.level,
+            xp: userProgress.xp,
+            badges: userProgress.badges,
+          }
+        : null,
+
+      quests: quests.map((q) => ({
+        questType: q.questType,
+        progress: q.progress,
+        target: q.target,
+        completedAt: q.completedAt
+          ? new Date(q.completedAt).toISOString()
+          : null,
+      })),
+    };
+
+    // Convert to JSON string
+    const jsonString = JSON.stringify(exportData, null, 2);
+    const fileSize = new Blob([jsonString]).size;
+
+    // Create export record
+    const exportId = await ctx.db.insert("dataExports", {
+      userId: user._id,
+      status: "completed",
+      fileUrl: `data:application/json;base64,${Buffer.from(jsonString).toString("base64")}`,
+      fileSize,
+      requestedAt: Date.now(),
+      completedAt: Date.now(),
+      expiresAt: Date.now() + 7 * 24 * 60 * 60 * 1000, // 7 days
+    });
+
+    // Send notification
+    await ctx.db.insert("notifications", {
+      userId: user._id,
+      type: "profile_created",
+      title: "Data Export Ready",
+      body:
+        "Your personal data export is ready for download. It will be available for 7 days.",
+      isRead: false,
+      createdAt: Date.now(),
+    });
+
+    return {
+      exportId,
+      message: "Data export completed",
+      fileSize,
+      expiresAt: Date.now() + 7 * 24 * 60 * 60 * 1000,
+    };
+  },
+});
+
+/**
+ * Get data export status and download URL
+ */
+export const getDataExport = query({
+  args: { token: v.optional(v.string()) },
+  handler: async (ctx, args) => {
+    const identity = await ctx.auth.getUserIdentity();
+
+    const user = identity
+      ? await ctx.db
+          .query("users")
+          .withIndex("email", (q) => q.eq("email", identity.email!))
+          .first()
+      : args.token
+        ? await (async () => {
+            const session = await ctx.db
+              .query("sessions")
+              .withIndex("token", (q) => q.eq("token", args.token!))
+              .first();
+            if (!session) return null;
+            if (session.expiresAt < Date.now()) return null;
+            return await ctx.db.get(session.userId);
+          })()
+        : null;
+
+    if (!user) return null;
+
+    const dataExport = await ctx.db
+      .query("dataExports")
+      .withIndex("userId", (q) => q.eq("userId", user._id))
+      .order("desc")
+      .first();
+
+    if (!dataExport) return null;
+
+    // Check if export has expired (note: cannot patch in query, just return status)
+    if (
+      dataExport.expiresAt &&
+      dataExport.expiresAt < Date.now() &&
+      dataExport.status !== "expired"
+    ) {
+      return { ...dataExport, status: "expired" as const };
+    }
+
+    return dataExport;
+  },
+});
+
+/**
+ * Mark export as downloaded
+ */
+export const markExportDownloaded = mutation({
+  args: { exportId: v.id("dataExports"), token: v.optional(v.string()) },
+  handler: async (ctx, args) => {
+    const identity = await ctx.auth.getUserIdentity();
+
+    const user = identity
+      ? await ctx.db
+          .query("users")
+          .withIndex("email", (q) => q.eq("email", identity.email!))
+          .first()
+      : args.token
+        ? await (async () => {
+            const session = await ctx.db
+              .query("sessions")
+              .withIndex("token", (q) => q.eq("token", args.token!))
+              .first();
+            if (!session) return null;
+            if (session.expiresAt < Date.now()) return null;
+            return await ctx.db.get(session.userId);
+          })()
+        : null;
+
+    if (!user) throw new Error("Not authenticated");
+
+    const dataExport = await ctx.db.get(args.exportId);
+    if (!dataExport) throw new Error("Export not found");
+
+    if (dataExport.userId !== user._id) {
+      throw new Error("Unauthorized");
+    }
+
+    await ctx.db.patch(args.exportId, {
+      downloadedAt: Date.now(),
+    });
+
+    return { success: true };
+  },
+});
+
+/**
+ * Delete old exports (can be called by cron)
+ */
+export const cleanupExpiredExports = internalMutation({
+  handler: async (ctx) => {
+    const now = Date.now();
+    const allExports = await ctx.db.query("dataExports").collect();
+
+    let deleted = 0;
+    for (const exp of allExports) {
+      if (exp.expiresAt && exp.expiresAt < now && exp.status !== "expired") {
+        await ctx.db.patch(exp._id, { status: "expired", fileUrl: undefined });
+        deleted++;
+      }
+    }
+
+    return { expired: deleted };
+  },
+});

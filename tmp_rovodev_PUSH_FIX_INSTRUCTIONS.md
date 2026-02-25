@@ -1,1 +1,99 @@
-{"data":"IyDwn5SUIFB1c2ggTm90aWZpY2F0aW9ucyBGaXggLSBDcml0aWNhbCBTdGVwIFJlcXVpcmVkCgojIyBUaGUgSXNzdWUKVGhlIGVycm9yICJGYWlsZWQgdG8gZW5hYmxlIHB1c2ggbm90aWZpY2F0aW9ucyIgb2NjdXJzIGJlY2F1c2UgKip0aGUgZGV2IHNlcnZlciBuZWVkcyB0byBiZSByZXN0YXJ0ZWQqKiB0byBwaWNrIHVwIHRoZSBuZXcgVkFQSUQgZW52aXJvbm1lbnQgdmFyaWFibGVzIGZyb20gYC5lbnYubG9jYWxgLgoKVml0ZSBvbmx5IHJlYWRzIGAuZW52YCBmaWxlcyB3aGVuIHRoZSBzZXJ2ZXIgc3RhcnRzLCBub3Qgd2hpbGUgaXQncyBydW5uaW5nLgoKIyMg4pyFIFNvbHV0aW9uIC0gUkVTVEFSVCBERVYgU0VSVkVSCgojIyMgU3RlcCAxOiBTdG9wIHRoZSBDdXJyZW50IERldiBTZXJ2ZXIKSW4geW91ciB0ZXJtaW5hbCB3aGVyZSBgbnBtIHJ1biBkZXZgIGlzIHJ1bm5pbmc6Ci0gUHJlc3MgYEN0cmwgKyBDYCB0byBzdG9wIHRoZSBzZXJ2ZXIKCiMjIyBTdGVwIDI6IFJlc3RhcnQgdGhlIERldiBTZXJ2ZXIKYGBgYmFzaApucG0gcnVuIGRldgpgYGAKCiMjIyBTdGVwIDM6IENsZWFyIEJyb3dzZXIgQ2FjaGUgKEltcG9ydGFudCEpClRoZSBzZXJ2aWNlIHdvcmtlciBhbmQgb2xkIGVudmlyb25tZW50IG1heSBiZSBjYWNoZWQ6CgoqKk9wdGlvbiBBIC0gSGFyZCBSZWZyZXNoOioqCi0gQ2hyb21lL0VkZ2U6IFByZXNzIGBDdHJsICsgU2hpZnQgKyBSYCAoV2luZG93cy9MaW51eCkgb3IgYENtZCArIFNoaWZ0ICsgUmAgKE1hYykKLSBGaXJlZm94OiBQcmVzcyBgQ3RybCArIEY1YCBvciBgQ21kICsgU2hpZnQgKyBSYAoKKipPcHRpb24gQiAtIENsZWFyIFNlcnZpY2UgV29ya2VyIChSZWNvbW1lbmRlZCk6KioKMS4gT3BlbiBEZXZUb29scyAoRjEyKQoyLiBHbyB0byAiQXBwbGljYXRpb24iIHRhYiAoQ2hyb21lKSBvciAiU3RvcmFnZSIgdGFiIChGaXJlZm94KQozLiBDbGljayAiU2VydmljZSBXb3JrZXJzIiBpbiB0aGUgbGVmdCBzaWRlYmFyCjQuIENsaWNrICJVbnJlZ2lzdGVyIiBuZXh0IHRvIHRoZSBzZXJ2aWNlIHdvcmtlcgo1LiBSZWZyZXNoIHRoZSBwYWdlCgojIyMgU3RlcCA0OiBUZXN0IFB1c2ggTm90aWZpY2F0aW9ucwoxLiBPcGVuIHlvdXIgYXBwIChzaG91bGQgYmUgYXQgaHR0cDovL2xvY2FsaG9zdDo1MTczIG9yIHNpbWlsYXIpCjIuIExvZyBpbiBpZiBuZWVkZWQKMy4gV2hlbiBwcm9tcHRlZCwgY2xpY2sgIkVuYWJsZSIgZm9yIHB1c2ggbm90aWZpY2F0aW9ucwo0LiBZb3Ugc2hvdWxkIHNlZSAiUHVzaCBub3RpZmljYXRpb25zIGVuYWJsZWQhIPCflJQiCgotLS0KCiMjIPCfp6ogQWx0ZXJuYXRpdmU6IFVzZSB0aGUgRGlhZ25vc3RpYyBUb29sCgpJZiB5b3Ugc3RpbGwgc2VlIGVycm9ycywgdXNlIHRoZSBkaWFnbm9zdGljIHRvb2wgdG8gaWRlbnRpZnkgdGhlIGlzc3VlOgoKMS4gT3BlbjogYHRtcF9yb3ZvZGV2X2RpYWdub3NlX3B1c2guaHRtbGAgaW4geW91ciBicm93c2VyCjIuIENsaWNrICJSdW4gRnVsbCBEaWFnbm9zdGljcyIKMy4gQ2hlY2sgdGhlIGxvZyBvdXRwdXQgZm9yIHNwZWNpZmljIGVycm9ycwoKVGhlIGRpYWdub3N0aWMgdG9vbCB3aWxsIHNob3cgeW91OgotIOKchSBCcm93c2VyIHN1cHBvcnQgc3RhdHVzCi0g4pyFIFBlcm1pc3Npb24gc3RhdHVzCi0g4pyFIFZBUElEIGtleSBjb25maWd1cmF0aW9uCi0g4pyFIFNlcnZpY2Ugd29ya2VyIHJlZ2lzdHJhdGlvbgotIOKchSBQdXNoIHN1YnNjcmlwdGlvbiBzdWNjZXNzL2ZhaWx1cmUKCi0tLQoKIyMg8J+TiyBWZXJpZmljYXRpb24gQ2hlY2tsaXN0CgpBZnRlciByZXN0YXJ0aW5nOgotIFsgXSBEZXYgc2VydmVyIHJlc3RhcnRlZCBzdWNjZXNzZnVsbHkKLSBbIF0gQnJvd3NlciBjYWNoZSBjbGVhcmVkIC8gc2VydmljZSB3b3JrZXIgdW5yZWdpc3RlcmVkCi0gWyBdIEVudmlyb25tZW50IHZhcmlhYmxlIGxvYWRlZCAoY2hlY2sgY29uc29sZTogYGltcG9ydC5tZXRhLmVudi5WSVRFX1ZBUElEX1BVQkxJQ19LRVlgKQotIFsgXSBQdXNoIG5vdGlmaWNhdGlvbiBzdWJzY3JpcHRpb24gd29ya3MKLSBbIF0gVGVzdCBub3RpZmljYXRpb24gYXBwZWFycwoKLS0tCgojIyDwn5SNIElmIFN0aWxsIE5vdCBXb3JraW5nCgpSdW4gdGhpcyBpbiBicm93c2VyIGNvbnNvbGUgdG8gY2hlY2sgaWYgZW52IHZhciBsb2FkZWQ6CmBgYGphdmFzY3JpcHQKY29uc29sZS5sb2coJ1ZBUElEIEtleTonLCBpbXBvcnQubWV0YS5lbnYuVklURV9WQVBJRF9QVUJMSUNfS0VZKTsKYGBgCgoqKkV4cGVjdGVkIG91dHB1dDoqKgpgYGAKVkFQSUQgS2V5OiBCT1BKaUV4Q0dWcDVNYmkxTXI3SHpjbjJIUlZYMko3Q0t2WVFXUzVCbzB2cHZmSmhSbjA5Z19sLXpNZ20zYjFqWUhuQ0IwblBoLTV6RjZnSHJkN00wQmMKYGBgCgoqKklmIGl0IHNob3dzIGB1bmRlZmluZWRgIG9yIGBQTEFDRUhPTERFUl9WQVBJRF9LRVlgOioqCi0gVGhlIGRldiBzZXJ2ZXIgd2Fzbid0IHJlc3RhcnRlZCBwcm9wZXJseQotIE9yIHRoZSBgLmVudi5sb2NhbGAgZmlsZSB3YXNuJ3Qgc2F2ZWQgY29ycmVjdGx5CgotLS0KCiMjIOKchSBDb25maWd1cmF0aW9uIFN1bW1hcnkKCioqRmlsZXMgVXBkYXRlZDoqKgotIOKchSBgLmVudi5sb2NhbGAgLSBWQVBJRCBrZXlzIGFkZGVkCi0g4pyFIGAuZW52LmV4YW1wbGVgIC0gVGVtcGxhdGUgdXBkYXRlZAotIOKchSBDb252ZXggZW52aXJvbm1lbnQgLSBWQVBJRCBrZXlzIHNldAoKKipFbnZpcm9ubWVudCBWYXJpYWJsZXMgU2V0OioqCmBgYApWSVRFX1ZBUElEX1BVQkxJQ19LRVk9Qk9QSmlFeENHVnA1TWJpMU1yN0h6Y24ySFJWWDJKN0NLdllRV1M1Qm8wdnB2ZkpoUm4wOWdfbC16TWdtM2IxallIbkNCMG5QaC01ekY2Z0hyZDdNMEJjClZBUElEX1BSSVZBVEVfS0VZPTVDUkRrX3Y1SkdwVWlQcmYzV2dzS183c21vaGF5Q3ZtdlFmWVBRUzhxT3MKVkFQSURfRU1BSUw9bWFpbHRvOnN1cHBvcnRAZGF0ZWxpbmsuYXBwCmBgYAo="}
+# 🔔 Push Notifications Fix - Critical Step Required
+
+## The Issue
+The error "Failed to enable push notifications" occurs because **the dev server needs to be restarted** to pick up the new VAPID environment variables from `.env.local`.
+
+Vite only reads `.env` files when the server starts, not while it's running.
+
+## ✅ Solution - RESTART DEV SERVER
+
+### Step 1: Stop the Current Dev Server
+In your terminal where `npm run dev` is running:
+- Press `Ctrl + C` to stop the server
+
+### Step 2: Restart the Dev Server
+```bash
+npm run dev
+```
+
+### Step 3: Clear Browser Cache (Important!)
+The service worker and old environment may be cached:
+
+**Option A - Hard Refresh:**
+- Chrome/Edge: Press `Ctrl + Shift + R` (Windows/Linux) or `Cmd + Shift + R` (Mac)
+- Firefox: Press `Ctrl + F5` or `Cmd + Shift + R`
+
+**Option B - Clear Service Worker (Recommended):**
+1. Open DevTools (F12)
+2. Go to "Application" tab (Chrome) or "Storage" tab (Firefox)
+3. Click "Service Workers" in the left sidebar
+4. Click "Unregister" next to the service worker
+5. Refresh the page
+
+### Step 4: Test Push Notifications
+1. Open your app (should be at http://localhost:5173 or similar)
+2. Log in if needed
+3. When prompted, click "Enable" for push notifications
+4. You should see "Push notifications enabled! 🔔"
+
+---
+
+## 🧪 Alternative: Use the Diagnostic Tool
+
+If you still see errors, use the diagnostic tool to identify the issue:
+
+1. Open: `tmp_rovodev_diagnose_push.html` in your browser
+2. Click "Run Full Diagnostics"
+3. Check the log output for specific errors
+
+The diagnostic tool will show you:
+- ✅ Browser support status
+- ✅ Permission status
+- ✅ VAPID key configuration
+- ✅ Service worker registration
+- ✅ Push subscription success/failure
+
+---
+
+## 📋 Verification Checklist
+
+After restarting:
+- [ ] Dev server restarted successfully
+- [ ] Browser cache cleared / service worker unregistered
+- [ ] Environment variable loaded (check console: `import.meta.env.VITE_VAPID_PUBLIC_KEY`)
+- [ ] Push notification subscription works
+- [ ] Test notification appears
+
+---
+
+## 🔍 If Still Not Working
+
+Run this in browser console to check if env var loaded:
+```javascript
+console.log('VAPID Key:', import.meta.env.VITE_VAPID_PUBLIC_KEY);
+```
+
+**Expected output:**
+```
+VAPID Key: BOPJiExCGVp5Mbi1Mr7Hzcn2HRVX2J7CKvYQWS5Bo0vpvfJhRn09g_l-zMgm3b1jYHnCB0nPh-5zF6gHrd7M0Bc
+```
+
+**If it shows `undefined` or `PLACEHOLDER_VAPID_KEY`:**
+- The dev server wasn't restarted properly
+- Or the `.env.local` file wasn't saved correctly
+
+---
+
+## ✅ Configuration Summary
+
+**Files Updated:**
+- ✅ `.env.local` - VAPID keys added
+- ✅ `.env.example` - Template updated
+- ✅ Convex environment - VAPID keys set
+
+**Environment Variables Set:**
+```
+VITE_VAPID_PUBLIC_KEY=BOPJiExCGVp5Mbi1Mr7Hzcn2HRVX2J7CKvYQWS5Bo0vpvfJhRn09g_l-zMgm3b1jYHnCB0nPh-5zF6gHrd7M0Bc
+VAPID_PRIVATE_KEY=5CRDk_v5JGpUiPrf3WgsK_7smohayCvmvQfYPQS8qOs
+VAPID_EMAIL=mailto:support@datelink.app
+```

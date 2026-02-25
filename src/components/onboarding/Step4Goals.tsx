@@ -1,1 +1,155 @@
-{"data":"aW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2J1dHRvbiI7CmltcG9ydCB7IENhcmQsIENhcmRDb250ZW50LCBDYXJkRGVzY3JpcHRpb24sIENhcmRIZWFkZXIsIENhcmRUaXRsZSB9IGZyb20gIkAvY29tcG9uZW50cy91aS9jYXJkIjsKaW1wb3J0IHsgTGFiZWwgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvbGFiZWwiOwppbXBvcnQgeyBUYXJnZXQsIEhlYXJ0LCBVc2VycywgQ29mZmVlLCBDaHVyY2ggfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyBjbiB9IGZyb20gIkAvbGliL3V0aWxzIjsKCmludGVyZmFjZSBTdGVwNFByb3BzIHsKICBmb3JtRGF0YTogewogICAgcmVsYXRpb25zaGlwR29hbDogc3RyaW5nOwogIH07CiAgb25DaGFuZ2U6IChmaWVsZDogc3RyaW5nLCB2YWx1ZTogc3RyaW5nKSA9PiB2b2lkOwogIG9uTmV4dDogKCkgPT4gdm9pZDsKICBvbkJhY2s6ICgpID0+IHZvaWQ7CiAgb25Ta2lwOiAoKSA9PiB2b2lkOwogIG9uU2F2ZUFuZEV4aXQ6ICgpID0+IHZvaWQ7Cn0KCmNvbnN0IGdvYWxzID0gWwogIHsKICAgIHZhbHVlOiAic2VyaW91cyIsCiAgICBsYWJlbDogIkxvbmctdGVybSBSZWxhdGlvbnNoaXAiLAogICAgZGVzY3JpcHRpb246ICJMb29raW5nIGZvciBzb21ldGhpbmcgc2VyaW91cyIsCiAgICBpY29uOiBIZWFydCwKICAgIGNvbG9yOiAicm9zZSIsCiAgfSwKICB7CiAgICB2YWx1ZTogIm1hcnJpYWdlIiwKICAgIGxhYmVsOiAiTWFycmlhZ2UiLAogICAgZGVzY3JpcHRpb246ICJSZWFkeSB0byBzZXR0bGUgZG93biIsCiAgICBpY29uOiBDaHVyY2gsCiAgICBjb2xvcjogInB1cnBsZSIsCiAgfSwKICB7CiAgICB2YWx1ZTogImNhc3VhbCIsCiAgICBsYWJlbDogIkNhc3VhbCBEYXRpbmciLAogICAgZGVzY3JpcHRpb246ICJLZWVwaW5nIGl0IGxpZ2h0IGFuZCBmdW4iLAogICAgaWNvbjogQ29mZmVlLAogICAgY29sb3I6ICJibHVlIiwKICB9LAogIHsKICAgIHZhbHVlOiAiZnJpZW5kc2hpcCIsCiAgICBsYWJlbDogIk5ldyBGcmllbmRzIiwKICAgIGRlc2NyaXB0aW9uOiAiTWFraW5nIGNvbm5lY3Rpb25zIGZpcnN0IiwKICAgIGljb246IFVzZXJzLAogICAgY29sb3I6ICJncmVlbiIsCiAgfSwKXTsKCmV4cG9ydCBjb25zdCBTdGVwNEdvYWxzID0gKHsgZm9ybURhdGEsIG9uQ2hhbmdlLCBvbk5leHQsIG9uQmFjaywgb25Ta2lwLCBvblNhdmVBbmRFeGl0IH06IFN0ZXA0UHJvcHMpID0+IHsKICBjb25zdCBjYW5Qcm9jZWVkID0gZm9ybURhdGEucmVsYXRpb25zaGlwR29hbCAhPT0gIiI7CgogIHJldHVybiAoCiAgICA8Q2FyZCBjbGFzc05hbWU9Im1heC13LTJ4bCBteC1hdXRvIj4KICAgICAgPENhcmRIZWFkZXI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIHNwYWNlLXgtMiBtYi0yIj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LTEwIGgtMTAgYmctcHVycGxlLTEwMCBkYXJrOmJnLXB1cnBsZS05MDAvMzAgcm91bmRlZC1mdWxsIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIj4KICAgICAgICAgICAgPFRhcmdldCBjbGFzc05hbWU9InctNSBoLTUgdGV4dC1wdXJwbGUtNjAwIGRhcms6dGV4dC1wdXJwbGUtNDAwIiAvPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8Q2FyZFRpdGxlPlJlbGF0aW9uc2hpcCBHb2FsczwvQ2FyZFRpdGxlPgogICAgICAgIDwvZGl2PgogICAgICAgIDxDYXJkRGVzY3JpcHRpb24+V2hhdCBhcmUgeW91IGxvb2tpbmcgZm9yIG9uIERhdGVMaW5rPzwvQ2FyZERlc2NyaXB0aW9uPgogICAgICA8L0NhcmRIZWFkZXI+CiAgICAgIDxDYXJkQ29udGVudCBjbGFzc05hbWU9InNwYWNlLXktNiI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMyI+CiAgICAgICAgICA8TGFiZWw+U2VsZWN0IHlvdXIgZ29hbDwvTGFiZWw+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBncmlkLWNvbHMtMSBtZDpncmlkLWNvbHMtMiBnYXAtMyI+CiAgICAgICAgICAgIHtnb2Fscy5tYXAoKGdvYWwpID0+IHsKICAgICAgICAgICAgICBjb25zdCBJY29uID0gZ29hbC5pY29uOwogICAgICAgICAgICAgIGNvbnN0IGlzU2VsZWN0ZWQgPSBmb3JtRGF0YS5yZWxhdGlvbnNoaXBHb2FsID09PSBnb2FsLnZhbHVlOwoKICAgICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgICAgICBrZXk9e2dvYWwudmFsdWV9CiAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IG9uQ2hhbmdlKCJyZWxhdGlvbnNoaXBHb2FsIiwgZ29hbC52YWx1ZSl9CiAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgICAgICAgICAgICAgInAtNCByb3VuZGVkLWxnIGJvcmRlci0yIHRleHQtbGVmdCB0cmFuc2l0aW9uLWFsbCBob3ZlcjpzY2FsZS0xMDUiLAogICAgICAgICAgICAgICAgICAgIGlzU2VsZWN0ZWQKICAgICAgICAgICAgICAgICAgICAgID8gImJvcmRlci1wcmltYXJ5IGJnLXByaW1hcnkvNSBzaGFkb3ctbWQiCiAgICAgICAgICAgICAgICAgICAgICA6ICJib3JkZXItYm9yZGVyIGhvdmVyOmJvcmRlci1wcmltYXJ5LzUwIgogICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1zdGFydCBzcGFjZS14LTMiPgogICAgICAgICAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgICAgICAgICAgICAgICAgICJ3LTEwIGgtMTAgcm91bmRlZC1sZyBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBmbGV4LXNocmluay0wIiwKICAgICAgICAgICAgICAgICAgICAgICAgZ29hbC5jb2xvciA9PT0gInJvc2UiICYmICJiZy1yb3NlLTEwMCBkYXJrOmJnLXJvc2UtOTAwLzMwIiwKICAgICAgICAgICAgICAgICAgICAgICAgZ29hbC5jb2xvciA9PT0gInB1cnBsZSIgJiYgImJnLXB1cnBsZS0xMDAgZGFyazpiZy1wdXJwbGUtOTAwLzMwIiwKICAgICAgICAgICAgICAgICAgICAgICAgZ29hbC5jb2xvciA9PT0gImJsdWUiICYmICJiZy1ibHVlLTEwMCBkYXJrOmJnLWJsdWUtOTAwLzMwIiwKICAgICAgICAgICAgICAgICAgICAgICAgZ29hbC5jb2xvciA9PT0gImdyZWVuIiAmJiAiYmctZ3JlZW4tMTAwIGRhcms6YmctZ3JlZW4tOTAwLzMwIgogICAgICAgICAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICA8SWNvbgogICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2NuKAogICAgICAgICAgICAgICAgICAgICAgICAgICJ3LTUgaC01IiwKICAgICAgICAgICAgICAgICAgICAgICAgICBnb2FsLmNvbG9yID09PSAicm9zZSIgJiYgInRleHQtcm9zZS02MDAgZGFyazp0ZXh0LXJvc2UtNDAwIiwKICAgICAgICAgICAgICAgICAgICAgICAgICBnb2FsLmNvbG9yID09PSAicHVycGxlIiAmJiAidGV4dC1wdXJwbGUtNjAwIGRhcms6dGV4dC1wdXJwbGUtNDAwIiwKICAgICAgICAgICAgICAgICAgICAgICAgICBnb2FsLmNvbG9yID09PSAiYmx1ZSIgJiYgInRleHQtYmx1ZS02MDAgZGFyazp0ZXh0LWJsdWUtNDAwIiwKICAgICAgICAgICAgICAgICAgICAgICAgICBnb2FsLmNvbG9yID09PSAiZ3JlZW4iICYmICJ0ZXh0LWdyZWVuLTYwMCBkYXJrOnRleHQtZ3JlZW4tNDAwIgogICAgICAgICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleC0xIj4KICAgICAgICAgICAgICAgICAgICAgIDxoMyBjbGFzc05hbWU9ImZvbnQtc2VtaWJvbGQgbWItMSI+e2dvYWwubGFiZWx9PC9oMz4KICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQiPntnb2FsLmRlc2NyaXB0aW9ufTwvcD4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICB7aXNTZWxlY3RlZCAmJiAoCiAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleC1zaHJpbmstMCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LTYgaC02IGJnLXByaW1hcnkgcm91bmRlZC1mdWxsIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIj4KICAgICAgICAgICAgICAgICAgICAgICAgICA8c3ZnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InctNCBoLTQgdGV4dC1wcmltYXJ5LWZvcmVncm91bmQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaWxsPSJub25lIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmlld0JveD0iMCAwIDI0IDI0IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3Ryb2tlPSJjdXJyZW50Q29sb3IiCiAgICAgICAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3Ryb2tlTGluZWNhcD0icm91bmQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0cm9rZUxpbmVqb2luPSJyb3VuZCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3Ryb2tlV2lkdGg9ezJ9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGQ9Ik01IDEzbDQgNEwxOSA3IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICAgICk7CiAgICAgICAgICAgIH0pfQogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJiZy1ibHVlLTUwIGRhcms6YmctYmx1ZS05MDAvMjAgYm9yZGVyIGJvcmRlci1ibHVlLTIwMCBkYXJrOmJvcmRlci1ibHVlLTgwMCByb3VuZGVkLWxnIHAtNCI+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAg8J+SoSBCZWluZyBjbGVhciBhYm91dCB5b3VyIGludGVudGlvbnMgaGVscHMgeW91IGZpbmQgY29tcGF0aWJsZSBtYXRjaGVzCiAgICAgICAgICA8L3A+CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGdhcC0zIHB0LTQiPgogICAgICAgICAgPEJ1dHRvbiB2YXJpYW50PSJvdXRsaW5lIiBvbkNsaWNrPXtvbkJhY2t9PgogICAgICAgICAgICBCYWNrCiAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgIDxCdXR0b24gdmFyaWFudD0iZ2hvc3QiIG9uQ2xpY2s9e29uU2tpcH0+CiAgICAgICAgICAgIFNraXAKICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgPEJ1dHRvbiB2YXJpYW50PSJvdXRsaW5lIiBvbkNsaWNrPXtvblNhdmVBbmRFeGl0fSBjbGFzc05hbWU9ImZsZXgtMSI+CiAgICAgICAgICAgIFNhdmUgJiBFeGl0CiAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgIDxCdXR0b24gb25DbGljaz17b25OZXh0fSBkaXNhYmxlZD17IWNhblByb2NlZWR9IGNsYXNzTmFtZT0iZmxleC0xIj4KICAgICAgICAgICAgTmV4dDogUHJlZmVyZW5jZXMKICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgIDwvZGl2PgogICAgICA8L0NhcmRDb250ZW50PgogICAgPC9DYXJkPgogICk7Cn07Cg=="}
+import { Button } from "@/components/ui/button";
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import { Label } from "@/components/ui/label";
+import { Target, Heart, Users, Coffee, Church } from "lucide-react";
+import { cn } from "@/lib/utils";
+
+interface Step4Props {
+  formData: {
+    relationshipGoal: string;
+  };
+  onChange: (field: string, value: string) => void;
+  onNext: () => void;
+  onBack: () => void;
+  onSkip: () => void;
+  onSaveAndExit: () => void;
+}
+
+const goals = [
+  {
+    value: "serious",
+    label: "Long-term Relationship",
+    description: "Looking for something serious",
+    icon: Heart,
+    color: "rose",
+  },
+  {
+    value: "marriage",
+    label: "Marriage",
+    description: "Ready to settle down",
+    icon: Church,
+    color: "purple",
+  },
+  {
+    value: "casual",
+    label: "Casual Dating",
+    description: "Keeping it light and fun",
+    icon: Coffee,
+    color: "blue",
+  },
+  {
+    value: "friendship",
+    label: "New Friends",
+    description: "Making connections first",
+    icon: Users,
+    color: "green",
+  },
+];
+
+export const Step4Goals = ({ formData, onChange, onNext, onBack, onSkip, onSaveAndExit }: Step4Props) => {
+  const canProceed = formData.relationshipGoal !== "";
+
+  return (
+    <Card className="max-w-2xl mx-auto">
+      <CardHeader>
+        <div className="flex items-center space-x-2 mb-2">
+          <div className="w-10 h-10 bg-purple-100 dark:bg-purple-900/30 rounded-full flex items-center justify-center">
+            <Target className="w-5 h-5 text-purple-600 dark:text-purple-400" />
+          </div>
+          <CardTitle>Relationship Goals</CardTitle>
+        </div>
+        <CardDescription>What are you looking for on DateLink?</CardDescription>
+      </CardHeader>
+      <CardContent className="space-y-6">
+        <div className="space-y-3">
+          <Label>Select your goal</Label>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+            {goals.map((goal) => {
+              const Icon = goal.icon;
+              const isSelected = formData.relationshipGoal === goal.value;
+
+              return (
+                <button
+                  key={goal.value}
+                  onClick={() => onChange("relationshipGoal", goal.value)}
+                  className={cn(
+                    "p-4 rounded-lg border-2 text-left transition-all hover:scale-105",
+                    isSelected
+                      ? "border-primary bg-primary/5 shadow-md"
+                      : "border-border hover:border-primary/50"
+                  )}
+                >
+                  <div className="flex items-start space-x-3">
+                    <div
+                      className={cn(
+                        "w-10 h-10 rounded-lg flex items-center justify-center flex-shrink-0",
+                        goal.color === "rose" && "bg-rose-100 dark:bg-rose-900/30",
+                        goal.color === "purple" && "bg-purple-100 dark:bg-purple-900/30",
+                        goal.color === "blue" && "bg-blue-100 dark:bg-blue-900/30",
+                        goal.color === "green" && "bg-green-100 dark:bg-green-900/30"
+                      )}
+                    >
+                      <Icon
+                        className={cn(
+                          "w-5 h-5",
+                          goal.color === "rose" && "text-rose-600 dark:text-rose-400",
+                          goal.color === "purple" && "text-purple-600 dark:text-purple-400",
+                          goal.color === "blue" && "text-blue-600 dark:text-blue-400",
+                          goal.color === "green" && "text-green-600 dark:text-green-400"
+                        )}
+                      />
+                    </div>
+                    <div className="flex-1">
+                      <h3 className="font-semibold mb-1">{goal.label}</h3>
+                      <p className="text-sm text-muted-foreground">{goal.description}</p>
+                    </div>
+                    {isSelected && (
+                      <div className="flex-shrink-0">
+                        <div className="w-6 h-6 bg-primary rounded-full flex items-center justify-center">
+                          <svg
+                            className="w-4 h-4 text-primary-foreground"
+                            fill="none"
+                            viewBox="0 0 24 24"
+                            stroke="currentColor"
+                          >
+                            <path
+                              strokeLinecap="round"
+                              strokeLinejoin="round"
+                              strokeWidth={2}
+                              d="M5 13l4 4L19 7"
+                            />
+                          </svg>
+                        </div>
+                      </div>
+                    )}
+                  </div>
+                </button>
+              );
+            })}
+          </div>
+        </div>
+
+        <div className="bg-blue-50 dark:bg-blue-900/20 border border-blue-200 dark:border-blue-800 rounded-lg p-4">
+          <p className="text-sm text-muted-foreground">
+            💡 Being clear about your intentions helps you find compatible matches
+          </p>
+        </div>
+
+        <div className="flex gap-3 pt-4">
+          <Button variant="outline" onClick={onBack}>
+            Back
+          </Button>
+          <Button variant="ghost" onClick={onSkip}>
+            Skip
+          </Button>
+          <Button variant="outline" onClick={onSaveAndExit} className="flex-1">
+            Save & Exit
+          </Button>
+          <Button onClick={onNext} disabled={!canProceed} className="flex-1">
+            Next: Preferences
+          </Button>
+        </div>
+      </CardContent>
+    </Card>
+  );
+};

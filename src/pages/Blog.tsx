@@ -1,1 +1,61 @@
-{"data":"aW1wb3J0IHsgTGluayB9IGZyb20gInJlYWN0LXJvdXRlci1kb20iOwppbXBvcnQgeyBDYXJkIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2NhcmQiOwppbXBvcnQgeyBCdXR0b24gfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvYnV0dG9uIjsKCmNvbnN0IEJsb2cgPSAoKSA9PiB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJtaW4taC1zY3JlZW4gYmctYmFja2dyb3VuZCI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb250YWluZXIgbXgtYXV0byBweC0zIHNtOnB4LTQgcHktNiBzbTpweS04IG1heC13LTV4bCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiBnYXAtMyBtYi02Ij4KICAgICAgICAgIDxMaW5rIHRvPSIvIj4KICAgICAgICAgICAgPEJ1dHRvbiB2YXJpYW50PSJnaG9zdCI+QmFjayB0byBIb21lPC9CdXR0b24+CiAgICAgICAgICA8L0xpbms+CiAgICAgICAgICA8TGluayB0bz0iL2NvbnRhY3QiPgogICAgICAgICAgICA8QnV0dG9uIHZhcmlhbnQ9Im91dGxpbmUiPlN1Ym1pdCBhIFRvcGljPC9CdXR0b24+CiAgICAgICAgICA8L0xpbms+CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYi04Ij4KICAgICAgICAgIDxoMSBjbGFzc05hbWU9InRleHQtM3hsIHNtOnRleHQtNHhsIGZvbnQtaGVhZGluZyBmb250LWV4dHJhYm9sZCB0cmFja2luZy10aWdodCI+QmxvZzwvaDE+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtbXV0ZWQtZm9yZWdyb3VuZCBtdC0yIG1heC13LTJ4bCI+CiAgICAgICAgICAgIFRpcHMsIHN0b3JpZXMsIGFuZCBndWlkYW5jZSB0byBoZWxwIHlvdSBkYXRlIHNhZmVseSBhbmQgY29uZmlkZW50bHkuCiAgICAgICAgICA8L3A+CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJncmlkIGdhcC00IG1kOmdyaWQtY29scy0yIj4KICAgICAgICAgIDxDYXJkIGNsYXNzTmFtZT0icC02Ij4KICAgICAgICAgICAgPGgyIGNsYXNzTmFtZT0iZm9udC1zZW1pYm9sZCI+RGF0aW5nIFNhZmV0eSBCYXNpY3M8L2gyPgogICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIG10LTIiPgogICAgICAgICAgICAgIExlYXJuIHByYWN0aWNhbCBzdGVwcyB0byBzdGF5IHNhZmUgYmVmb3JlLCBkdXJpbmcsIGFuZCBhZnRlciBhIGZpcnN0IG1lZXQuCiAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTQiPgogICAgICAgICAgICAgIDxMaW5rIHRvPSIvc2FmZXR5LWNlbnRlciI+PEJ1dHRvbiB2YXJpYW50PSJvdXRsaW5lIj5SZWFkIFNhZmV0eSBDZW50ZXI8L0J1dHRvbj48L0xpbms+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9DYXJkPgoKICAgICAgICAgIDxDYXJkIGNsYXNzTmFtZT0icC02Ij4KICAgICAgICAgICAgPGgyIGNsYXNzTmFtZT0iZm9udC1zZW1pYm9sZCI+SGVhbHRoeSBDb21tdW5pY2F0aW9uPC9oMj4KICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBtdC0yIj4KICAgICAgICAgICAgICBIb3cgdG8gc2V0IGJvdW5kYXJpZXMsIGNvbW11bmljYXRlIGludGVudGlvbnMsIGFuZCBrZWVwIGNvbnZlcnNhdGlvbnMgcmVzcGVjdGZ1bC4KICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtNCI+CiAgICAgICAgICAgICAgPExpbmsgdG89Ii9ndWlkZWxpbmVzIj48QnV0dG9uIHZhcmlhbnQ9Im91dGxpbmUiPkNvbW11bml0eSBHdWlkZWxpbmVzPC9CdXR0b24+PC9MaW5rPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvQ2FyZD4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPENhcmQgY2xhc3NOYW1lPSJwLTYgbXQtNiI+CiAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LXhsIGZvbnQtc2VtaWJvbGQiPk1vcmUgYXJ0aWNsZXMgY29taW5nIHNvb248L2gyPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBtdC0yIj4KICAgICAgICAgICAgV2XigJlyZSBidWlsZGluZyBhIGxpYnJhcnkgb2YgaGVscGZ1bCBjb250ZW50LiBJZiB5b3XigJlkIGxpa2UgYSB0b3BpYyBjb3ZlcmVkLCBzZW5kIHVzIGEgbWVzc2FnZS4KICAgICAgICAgIDwvcD4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC00Ij4KICAgICAgICAgICAgPExpbmsgdG89Ii9jb250YWN0Ij48QnV0dG9uPkNvbnRhY3QgVXM8L0J1dHRvbj48L0xpbms+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L0NhcmQ+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfTsKCmV4cG9ydCBkZWZhdWx0IEJsb2c7Cg=="}
+import { Link } from "react-router-dom";
+import { Card } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+
+const Blog = () => {
+  return (
+    <div className="min-h-screen bg-background">
+      <div className="container mx-auto px-3 sm:px-4 py-6 sm:py-8 max-w-5xl">
+        <div className="flex items-center justify-between gap-3 mb-6">
+          <Link to="/">
+            <Button variant="ghost">Back to Home</Button>
+          </Link>
+          <Link to="/contact">
+            <Button variant="outline">Submit a Topic</Button>
+          </Link>
+        </div>
+
+        <div className="mb-8">
+          <h1 className="text-3xl sm:text-4xl font-heading font-extrabold tracking-tight">Blog</h1>
+          <p className="text-muted-foreground mt-2 max-w-2xl">
+            Tips, stories, and guidance to help you date safely and confidently.
+          </p>
+        </div>
+
+        <div className="grid gap-4 md:grid-cols-2">
+          <Card className="p-6">
+            <h2 className="font-semibold">Dating Safety Basics</h2>
+            <p className="text-sm text-muted-foreground mt-2">
+              Learn practical steps to stay safe before, during, and after a first meet.
+            </p>
+            <div className="mt-4">
+              <Link to="/safety-center"><Button variant="outline">Read Safety Center</Button></Link>
+            </div>
+          </Card>
+
+          <Card className="p-6">
+            <h2 className="font-semibold">Healthy Communication</h2>
+            <p className="text-sm text-muted-foreground mt-2">
+              How to set boundaries, communicate intentions, and keep conversations respectful.
+            </p>
+            <div className="mt-4">
+              <Link to="/guidelines"><Button variant="outline">Community Guidelines</Button></Link>
+            </div>
+          </Card>
+        </div>
+
+        <Card className="p-6 mt-6">
+          <h2 className="text-xl font-semibold">More articles coming soon</h2>
+          <p className="text-sm text-muted-foreground mt-2">
+            We’re building a library of helpful content. If you’d like a topic covered, send us a message.
+          </p>
+          <div className="mt-4">
+            <Link to="/contact"><Button>Contact Us</Button></Link>
+          </div>
+        </Card>
+      </div>
+    </div>
+  );
+};
+
+export default Blog;

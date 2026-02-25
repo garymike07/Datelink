@@ -1,1 +1,16 @@
-{"data":"ewogICJmaWxlcyI6IFtdLAogICJyZWZlcmVuY2VzIjogW3sgInBhdGgiOiAiLi90c2NvbmZpZy5hcHAuanNvbiIgfSwgeyAicGF0aCI6ICIuL3RzY29uZmlnLm5vZGUuanNvbiIgfV0sCiAgImNvbXBpbGVyT3B0aW9ucyI6IHsKICAgICJiYXNlVXJsIjogIi4iLAogICAgInBhdGhzIjogewogICAgICAiQC8qIjogWyIuL3NyYy8qIl0KICAgIH0sCiAgICAibm9JbXBsaWNpdEFueSI6IGZhbHNlLAogICAgIm5vVW51c2VkUGFyYW1ldGVycyI6IGZhbHNlLAogICAgInNraXBMaWJDaGVjayI6IHRydWUsCiAgICAiYWxsb3dKcyI6IHRydWUsCiAgICAibm9VbnVzZWRMb2NhbHMiOiBmYWxzZSwKICAgICJzdHJpY3ROdWxsQ2hlY2tzIjogZmFsc2UKICB9Cn0K"}
+{
+  "files": [],
+  "references": [{ "path": "./tsconfig.app.json" }, { "path": "./tsconfig.node.json" }],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "noImplicitAny": false,
+    "noUnusedParameters": false,
+    "skipLibCheck": true,
+    "allowJs": true,
+    "noUnusedLocals": false,
+    "strictNullChecks": false
+  }
+}

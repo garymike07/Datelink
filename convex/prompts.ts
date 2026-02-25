@@ -1,1 +1,218 @@
-{"data":"aW1wb3J0IHsgdiB9IGZyb20gImNvbnZleC92YWx1ZXMiOw0KaW1wb3J0IHsgbXV0YXRpb24sIHF1ZXJ5IH0gZnJvbSAiLi9fZ2VuZXJhdGVkL3NlcnZlciI7DQoNCi8vIEdldCBhbGwgYWN0aXZlIHByb21wdHMNCmV4cG9ydCBjb25zdCBnZXRBY3RpdmVQcm9tcHRzID0gcXVlcnkoew0KICAgIGFyZ3M6IHt9LA0KICAgIGhhbmRsZXI6IGFzeW5jIChjdHgpID0+IHsNCiAgICAgICAgY29uc3QgcHJvbXB0cyA9IGF3YWl0IGN0eC5kYg0KICAgICAgICAgICAgLnF1ZXJ5KCJwcm9tcHRzIikNCiAgICAgICAgICAgIC53aXRoSW5kZXgoImFjdGl2ZSIsIChxKSA9PiBxLmVxKCJpc0FjdGl2ZSIsIHRydWUpKQ0KICAgICAgICAgICAgLmNvbGxlY3QoKTsNCg0KICAgICAgICByZXR1cm4gcHJvbXB0czsNCiAgICB9LA0KfSk7DQoNCi8vIEdldCBwcm9tcHRzIGJ5IGNhdGVnb3J5DQpleHBvcnQgY29uc3QgZ2V0UHJvbXB0c0J5Q2F0ZWdvcnkgPSBxdWVyeSh7DQogICAgYXJnczogeyBjYXRlZ29yeTogdi5zdHJpbmcoKSB9LA0KICAgIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsNCiAgICAgICAgY29uc3QgcHJvbXB0cyA9IGF3YWl0IGN0eC5kYg0KICAgICAgICAgICAgLnF1ZXJ5KCJwcm9tcHRzIikNCiAgICAgICAgICAgIC53aXRoSW5kZXgoImNhdGVnb3J5IiwgKHEpID0+IHEuZXEoImNhdGVnb3J5IiwgYXJncy5jYXRlZ29yeSkpDQogICAgICAgICAgICAuZmlsdGVyKChxKSA9PiBxLmVxKHEuZmllbGQoImlzQWN0aXZlIiksIHRydWUpKQ0KICAgICAgICAgICAgLmNvbGxlY3QoKTsNCg0KICAgICAgICByZXR1cm4gcHJvbXB0czsNCiAgICB9LA0KfSk7DQoNCi8vIEdldCB1c2VyJ3MgcHJvbXB0IGFuc3dlcnMNCmV4cG9ydCBjb25zdCBnZXRVc2VyUHJvbXB0QW5zd2VycyA9IHF1ZXJ5KHsNCiAgICBhcmdzOiB7IHVzZXJJZDogdi5pZCgidXNlcnMiKSB9LA0KICAgIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsNCiAgICAgICAgY29uc3QgYW5zd2VycyA9IGF3YWl0IGN0eC5kYg0KICAgICAgICAgICAgLnF1ZXJ5KCJwcm9tcHRBbnN3ZXJzIikNCiAgICAgICAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCBhcmdzLnVzZXJJZCkpDQogICAgICAgICAgICAuY29sbGVjdCgpOw0KDQogICAgICAgIC8vIEZldGNoIHRoZSBwcm9tcHQgdGV4dCBmb3IgZWFjaCBhbnN3ZXINCiAgICAgICAgY29uc3QgYW5zd2Vyc1dpdGhQcm9tcHRzID0gYXdhaXQgUHJvbWlzZS5hbGwoDQogICAgICAgICAgICBhbnN3ZXJzLm1hcChhc3luYyAoYW5zd2VyKSA9PiB7DQogICAgICAgICAgICAgICAgY29uc3QgcHJvbXB0ID0gYXdhaXQgY3R4LmRiLmdldChhbnN3ZXIucHJvbXB0SWQpOw0KICAgICAgICAgICAgICAgIHJldHVybiB7DQogICAgICAgICAgICAgICAgICAgIC4uLmFuc3dlciwNCiAgICAgICAgICAgICAgICAgICAgcHJvbXB0VGV4dDogcHJvbXB0Py50ZXh0IHx8ICIiLA0KICAgICAgICAgICAgICAgICAgICBwcm9tcHRDYXRlZ29yeTogcHJvbXB0Py5jYXRlZ29yeSB8fCAiIiwNCiAgICAgICAgICAgICAgICB9Ow0KICAgICAgICAgICAgfSkNCiAgICAgICAgKTsNCg0KICAgICAgICAvLyBTb3J0IGJ5IG9yZGVyDQogICAgICAgIGFuc3dlcnNXaXRoUHJvbXB0cy5zb3J0KChhLCBiKSA9PiBhLm9yZGVyIC0gYi5vcmRlcik7DQoNCiAgICAgICAgcmV0dXJuIGFuc3dlcnNXaXRoUHJvbXB0czsNCiAgICB9LA0KfSk7DQoNCi8vIEFkZCBvciB1cGRhdGUgcHJvbXB0IGFuc3dlcg0KZXhwb3J0IGNvbnN0IGFkZFByb21wdEFuc3dlciA9IG11dGF0aW9uKHsNCiAgICBhcmdzOiB7DQogICAgICAgIHVzZXJJZDogdi5pZCgidXNlcnMiKSwNCiAgICAgICAgcHJvbXB0SWQ6IHYuaWQoInByb21wdHMiKSwNCiAgICAgICAgYW5zd2VyOiB2LnN0cmluZygpLA0KICAgICAgICBvcmRlcjogdi5udW1iZXIoKSwNCiAgICB9LA0KICAgIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsNCiAgICAgICAgLy8gR2V0IHVzZXIncyBwcm9maWxlDQogICAgICAgIGNvbnN0IHByb2ZpbGUgPSBhd2FpdCBjdHguZGINCiAgICAgICAgICAgIC5xdWVyeSgicHJvZmlsZXMiKQ0KICAgICAgICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIGFyZ3MudXNlcklkKSkNCiAgICAgICAgICAgIC5maXJzdCgpOw0KDQogICAgICAgIGlmICghcHJvZmlsZSkgew0KICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCJQcm9maWxlIG5vdCBmb3VuZCIpOw0KICAgICAgICB9DQoNCiAgICAgICAgLy8gQ2hlY2sgaWYgYW5zd2VyIGFscmVhZHkgZXhpc3RzIGZvciB0aGlzIHByb21wdA0KICAgICAgICBjb25zdCBleGlzdGluZyA9IGF3YWl0IGN0eC5kYg0KICAgICAgICAgICAgLnF1ZXJ5KCJwcm9tcHRBbnN3ZXJzIikNCiAgICAgICAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCBhcmdzLnVzZXJJZCkpDQogICAgICAgICAgICAuZmlsdGVyKChxKSA9PiBxLmVxKHEuZmllbGQoInByb21wdElkIiksIGFyZ3MucHJvbXB0SWQpKQ0KICAgICAgICAgICAgLmZpcnN0KCk7DQoNCiAgICAgICAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKTsNCg0KICAgICAgICBpZiAoZXhpc3RpbmcpIHsNCiAgICAgICAgICAgIC8vIFVwZGF0ZSBleGlzdGluZyBhbnN3ZXINCiAgICAgICAgICAgIGF3YWl0IGN0eC5kYi5wYXRjaChleGlzdGluZy5faWQsIHsNCiAgICAgICAgICAgICAgICBhbnN3ZXI6IGFyZ3MuYW5zd2VyLA0KICAgICAgICAgICAgICAgIG9yZGVyOiBhcmdzLm9yZGVyLA0KICAgICAgICAgICAgICAgIHVwZGF0ZWRBdDogbm93LA0KICAgICAgICAgICAgfSk7DQoNCiAgICAgICAgICAgIHJldHVybiBleGlzdGluZy5faWQ7DQogICAgICAgIH0gZWxzZSB7DQogICAgICAgICAgICAvLyBDcmVhdGUgbmV3IGFuc3dlcg0KICAgICAgICAgICAgY29uc3QgYW5zd2VySWQgPSBhd2FpdCBjdHguZGIuaW5zZXJ0KCJwcm9tcHRBbnN3ZXJzIiwgew0KICAgICAgICAgICAgICAgIHVzZXJJZDogYXJncy51c2VySWQsDQogICAgICAgICAgICAgICAgcHJvZmlsZUlkOiBwcm9maWxlLl9pZCwNCiAgICAgICAgICAgICAgICBwcm9tcHRJZDogYXJncy5wcm9tcHRJZCwNCiAgICAgICAgICAgICAgICBhbnN3ZXI6IGFyZ3MuYW5zd2VyLA0KICAgICAgICAgICAgICAgIG9yZGVyOiBhcmdzLm9yZGVyLA0KICAgICAgICAgICAgICAgIGNyZWF0ZWRBdDogbm93LA0KICAgICAgICAgICAgICAgIHVwZGF0ZWRBdDogbm93LA0KICAgICAgICAgICAgfSk7DQoNCiAgICAgICAgICAgIHJldHVybiBhbnN3ZXJJZDsNCiAgICAgICAgfQ0KICAgIH0sDQp9KTsNCg0KLy8gVXBkYXRlIHByb21wdCBhbnN3ZXINCmV4cG9ydCBjb25zdCB1cGRhdGVQcm9tcHRBbnN3ZXIgPSBtdXRhdGlvbih7DQogICAgYXJnczogew0KICAgICAgICBhbnN3ZXJJZDogdi5pZCgicHJvbXB0QW5zd2VycyIpLA0KICAgICAgICB1c2VySWQ6IHYuaWQoInVzZXJzIiksDQogICAgICAgIGFuc3dlcjogdi5vcHRpb25hbCh2LnN0cmluZygpKSwNCiAgICAgICAgb3JkZXI6IHYub3B0aW9uYWwodi5udW1iZXIoKSksDQogICAgfSwNCiAgICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7DQogICAgICAgIGNvbnN0IGV4aXN0aW5nID0gYXdhaXQgY3R4LmRiLmdldChhcmdzLmFuc3dlcklkKTsNCg0KICAgICAgICBpZiAoIWV4aXN0aW5nKSB7DQogICAgICAgICAgICB0aHJvdyBuZXcgRXJyb3IoIkFuc3dlciBub3QgZm91bmQiKTsNCiAgICAgICAgfQ0KDQogICAgICAgIGlmIChleGlzdGluZy51c2VySWQgIT09IGFyZ3MudXNlcklkKSB7DQogICAgICAgICAgICB0aHJvdyBuZXcgRXJyb3IoIk5vdCBhdXRob3JpemVkIik7DQogICAgICAgIH0NCg0KICAgICAgICBjb25zdCB1cGRhdGVzOiBhbnkgPSB7DQogICAgICAgICAgICB1cGRhdGVkQXQ6IERhdGUubm93KCksDQogICAgICAgIH07DQoNCiAgICAgICAgaWYgKGFyZ3MuYW5zd2VyICE9PSB1bmRlZmluZWQpIHsNCiAgICAgICAgICAgIHVwZGF0ZXMuYW5zd2VyID0gYXJncy5hbnN3ZXI7DQogICAgICAgIH0NCg0KICAgICAgICBpZiAoYXJncy5vcmRlciAhPT0gdW5kZWZpbmVkKSB7DQogICAgICAgICAgICB1cGRhdGVzLm9yZGVyID0gYXJncy5vcmRlcjsNCiAgICAgICAgfQ0KDQogICAgICAgIGF3YWl0IGN0eC5kYi5wYXRjaChhcmdzLmFuc3dlcklkLCB1cGRhdGVzKTsNCg0KICAgICAgICByZXR1cm4gYXJncy5hbnN3ZXJJZDsNCiAgICB9LA0KfSk7DQoNCi8vIERlbGV0ZSBwcm9tcHQgYW5zd2VyDQpleHBvcnQgY29uc3QgZGVsZXRlUHJvbXB0QW5zd2VyID0gbXV0YXRpb24oew0KICAgIGFyZ3M6IHsNCiAgICAgICAgYW5zd2VySWQ6IHYuaWQoInByb21wdEFuc3dlcnMiKSwNCiAgICAgICAgdXNlcklkOiB2LmlkKCJ1c2VycyIpLA0KICAgIH0sDQogICAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gew0KICAgICAgICBjb25zdCBleGlzdGluZyA9IGF3YWl0IGN0eC5kYi5nZXQoYXJncy5hbnN3ZXJJZCk7DQoNCiAgICAgICAgaWYgKCFleGlzdGluZykgew0KICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCJBbnN3ZXIgbm90IGZvdW5kIik7DQogICAgICAgIH0NCg0KICAgICAgICBpZiAoZXhpc3RpbmcudXNlcklkICE9PSBhcmdzLnVzZXJJZCkgew0KICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCJOb3QgYXV0aG9yaXplZCIpOw0KICAgICAgICB9DQoNCiAgICAgICAgYXdhaXQgY3R4LmRiLmRlbGV0ZShhcmdzLmFuc3dlcklkKTsNCg0KICAgICAgICByZXR1cm4geyBzdWNjZXNzOiB0cnVlIH07DQogICAgfSwNCn0pOw0KDQovLyBTZWVkIGluaXRpYWwgcHJvbXB0cyAocnVuIG9uY2UgdG8gcG9wdWxhdGUgZGF0YWJhc2UpDQpleHBvcnQgY29uc3Qgc2VlZFByb21wdHMgPSBtdXRhdGlvbih7DQogICAgYXJnczoge30sDQogICAgaGFuZGxlcjogYXN5bmMgKGN0eCkgPT4gew0KICAgICAgICBjb25zdCBub3cgPSBEYXRlLm5vdygpOw0KDQogICAgICAgIGNvbnN0IHByb21wdHMgPSBbDQogICAgICAgICAgICAvLyBQZXJzb25hbGl0eQ0KICAgICAgICAgICAgeyB0ZXh0OiAiSSdtIGxvb2tpbmcgZm9yLi4uIiwgY2F0ZWdvcnk6ICJwZXJzb25hbGl0eSIsIGlzQWN0aXZlOiB0cnVlIH0sDQogICAgICAgICAgICB7IHRleHQ6ICJNeSBpZGVhbCBTdW5kYXkgaW52b2x2ZXMuLi4iLCBjYXRlZ29yeTogInBlcnNvbmFsaXR5IiwgaXNBY3RpdmU6IHRydWUgfSwNCiAgICAgICAgICAgIHsgdGV4dDogIkknbSB3ZWlyZGx5IGF0dHJhY3RlZCB0by4uLiIsIGNhdGVnb3J5OiAicGVyc29uYWxpdHkiLCBpc0FjdGl2ZTogdHJ1ZSB9LA0KICAgICAgICAgICAgeyB0ZXh0OiAiVGhlIGtleSB0byBteSBoZWFydCBpcy4uLiIsIGNhdGVnb3J5OiAicGVyc29uYWxpdHkiLCBpc0FjdGl2ZTogdHJ1ZSB9LA0KICAgICAgICAgICAgeyB0ZXh0OiAiSSBnZWVrIG91dCBvbi4uLiIsIGNhdGVnb3J5OiAicGVyc29uYWxpdHkiLCBpc0FjdGl2ZTogdHJ1ZSB9LA0KDQogICAgICAgICAgICAvLyBMaWZlc3R5bGUNCiAgICAgICAgICAgIHsgdGV4dDogIk15IHBlcmZlY3Qgd2Vla2VuZCBsb29rcyBsaWtlLi4uIiwgY2F0ZWdvcnk6ICJsaWZlc3R5bGUiLCBpc0FjdGl2ZTogdHJ1ZSB9LA0KICAgICAgICAgICAgeyB0ZXh0OiAiSSBzcGVuZCB0b28gbXVjaCB0aW1lLi4uIiwgY2F0ZWdvcnk6ICJsaWZlc3R5bGUiLCBpc0FjdGl2ZTogdHJ1ZSB9LA0KICAgICAgICAgICAgeyB0ZXh0OiAiTXkgZ28tdG8ga2FyYW9rZSBzb25nIGlzLi4uIiwgY2F0ZWdvcnk6ICJsaWZlc3R5bGUiLCBpc0FjdGl2ZTogdHJ1ZSB9LA0KICAgICAgICAgICAgeyB0ZXh0OiAiSSdtIGNvbnZpbmNlZCB0aGF0Li4uIiwgY2F0ZWdvcnk6ICJsaWZlc3R5bGUiLCBpc0FjdGl2ZTogdHJ1ZSB9LA0KICAgICAgICAgICAgeyB0ZXh0OiAiTXkgc2ltcGxlIHBsZWFzdXJlcy4uLiIsIGNhdGVnb3J5OiAibGlmZXN0eWxlIiwgaXNBY3RpdmU6IHRydWUgfSwNCg0KICAgICAgICAgICAgLy8gRGF0aW5nDQogICAgICAgICAgICB7IHRleHQ6ICJUaGUgYmVzdCB3YXkgdG8gYXNrIG1lIG91dCBpcy4uLiIsIGNhdGVnb3J5OiAiZGF0aW5nIiwgaXNBY3RpdmU6IHRydWUgfSwNCiAgICAgICAgICAgIHsgdGV4dDogIk15IGxvdmUgbGFuZ3VhZ2UgaXMuLi4iLCBjYXRlZ29yeTogImRhdGluZyIsIGlzQWN0aXZlOiB0cnVlIH0sDQogICAgICAgICAgICB7IHRleHQ6ICJBIHBlcmZlY3QgZmlyc3QgZGF0ZSB3b3VsZCBiZS4uLiIsIGNhdGVnb3J5OiAiZGF0aW5nIiwgaXNBY3RpdmU6IHRydWUgfSwNCiAgICAgICAgICAgIHsgdGV4dDogIkkga25vdyBpdCdzIGEgZ29vZCBtYXRjaCB3aGVuLi4uIiwgY2F0ZWdvcnk6ICJkYXRpbmciLCBpc0FjdGl2ZTogdHJ1ZSB9LA0KICAgICAgICAgICAgeyB0ZXh0OiAiTXkgbW9zdCBjb250cm92ZXJzaWFsIG9waW5pb24gaXMuLi4iLCBjYXRlZ29yeTogImRhdGluZyIsIGlzQWN0aXZlOiB0cnVlIH0sDQoNCiAgICAgICAgICAgIC8vIEZ1bg0KICAgICAgICAgICAgeyB0ZXh0OiAiVHdvIHRydXRocyBhbmQgYSBsaWUuLi4iLCBjYXRlZ29yeTogImZ1biIsIGlzQWN0aXZlOiB0cnVlIH0sDQogICAgICAgICAgICB7IHRleHQ6ICJJJ2xsIGtub3cgSSd2ZSBtYWRlIGl0IHdoZW4uLi4iLCBjYXRlZ29yeTogImZ1biIsIGlzQWN0aXZlOiB0cnVlIH0sDQogICAgICAgICAgICB7IHRleHQ6ICJNeSBoaWRkZW4gdGFsZW50IGlzLi4uIiwgY2F0ZWdvcnk6ICJmdW4iLCBpc0FjdGl2ZTogdHJ1ZSB9LA0KICAgICAgICAgICAgeyB0ZXh0OiAiVGhlIGF3YXJkIEknZCB3aW4gaXMuLi4iLCBjYXRlZ29yeTogImZ1biIsIGlzQWN0aXZlOiB0cnVlIH0sDQogICAgICAgICAgICB7IHRleHQ6ICJJJ20gc2VjcmV0bHkgYS4uLiIsIGNhdGVnb3J5OiAiZnVuIiwgaXNBY3RpdmU6IHRydWUgfSwNCiAgICAgICAgXTsNCg0KICAgICAgICBmb3IgKGNvbnN0IHByb21wdCBvZiBwcm9tcHRzKSB7DQogICAgICAgICAgICBhd2FpdCBjdHguZGIuaW5zZXJ0KCJwcm9tcHRzIiwgew0KICAgICAgICAgICAgICAgIC4uLnByb21wdCwNCiAgICAgICAgICAgICAgICBjcmVhdGVkQXQ6IG5vdywNCiAgICAgICAgICAgIH0pOw0KICAgICAgICB9DQoNCiAgICAgICAgcmV0dXJuIHsgY291bnQ6IHByb21wdHMubGVuZ3RoIH07DQogICAgfSwNCn0pOw0K"}
+import { v } from "convex/values";
+import { mutation, query } from "./_generated/server";
+
+// Get all active prompts
+export const getActivePrompts = query({
+    args: {},
+    handler: async (ctx) => {
+        const prompts = await ctx.db
+            .query("prompts")
+            .withIndex("active", (q) => q.eq("isActive", true))
+            .collect();
+
+        return prompts;
+    },
+});
+
+// Get prompts by category
+export const getPromptsByCategory = query({
+    args: { category: v.string() },
+    handler: async (ctx, args) => {
+        const prompts = await ctx.db
+            .query("prompts")
+            .withIndex("category", (q) => q.eq("category", args.category))
+            .filter((q) => q.eq(q.field("isActive"), true))
+            .collect();
+
+        return prompts;
+    },
+});
+
+// Get user's prompt answers
+export const getUserPromptAnswers = query({
+    args: { userId: v.id("users") },
+    handler: async (ctx, args) => {
+        const answers = await ctx.db
+            .query("promptAnswers")
+            .withIndex("userId", (q) => q.eq("userId", args.userId))
+            .collect();
+
+        // Fetch the prompt text for each answer
+        const answersWithPrompts = await Promise.all(
+            answers.map(async (answer) => {
+                const prompt = await ctx.db.get(answer.promptId);
+                return {
+                    ...answer,
+                    promptText: prompt?.text || "",
+                    promptCategory: prompt?.category || "",
+                };
+            })
+        );
+
+        // Sort by order
+        answersWithPrompts.sort((a, b) => a.order - b.order);
+
+        return answersWithPrompts;
+    },
+});
+
+// Add or update prompt answer
+export const addPromptAnswer = mutation({
+    args: {
+        userId: v.id("users"),
+        promptId: v.id("prompts"),
+        answer: v.string(),
+        order: v.number(),
+    },
+    handler: async (ctx, args) => {
+        // Get user's profile
+        const profile = await ctx.db
+            .query("profiles")
+            .withIndex("userId", (q) => q.eq("userId", args.userId))
+            .first();
+
+        if (!profile) {
+            throw new Error("Profile not found");
+        }
+
+        // Check if answer already exists for this prompt
+        const existing = await ctx.db
+            .query("promptAnswers")
+            .withIndex("userId", (q) => q.eq("userId", args.userId))
+            .filter((q) => q.eq(q.field("promptId"), args.promptId))
+            .first();
+
+        const now = Date.now();
+
+        if (existing) {
+            // Update existing answer
+            await ctx.db.patch(existing._id, {
+                answer: args.answer,
+                order: args.order,
+                updatedAt: now,
+            });
+
+            return existing._id;
+        } else {
+            // Create new answer
+            const answerId = await ctx.db.insert("promptAnswers", {
+                userId: args.userId,
+                profileId: profile._id,
+                promptId: args.promptId,
+                answer: args.answer,
+                order: args.order,
+                createdAt: now,
+                updatedAt: now,
+            });
+
+            return answerId;
+        }
+    },
+});
+
+// Update prompt answer
+export const updatePromptAnswer = mutation({
+    args: {
+        answerId: v.id("promptAnswers"),
+        userId: v.id("users"),
+        answer: v.optional(v.string()),
+        order: v.optional(v.number()),
+    },
+    handler: async (ctx, args) => {
+        const existing = await ctx.db.get(args.answerId);
+
+        if (!existing) {
+            throw new Error("Answer not found");
+        }
+
+        if (existing.userId !== args.userId) {
+            throw new Error("Not authorized");
+        }
+
+        const updates: any = {
+            updatedAt: Date.now(),
+        };
+
+        if (args.answer !== undefined) {
+            updates.answer = args.answer;
+        }
+
+        if (args.order !== undefined) {
+            updates.order = args.order;
+        }
+
+        await ctx.db.patch(args.answerId, updates);
+
+        return args.answerId;
+    },
+});
+
+// Delete prompt answer
+export const deletePromptAnswer = mutation({
+    args: {
+        answerId: v.id("promptAnswers"),
+        userId: v.id("users"),
+    },
+    handler: async (ctx, args) => {
+        const existing = await ctx.db.get(args.answerId);
+
+        if (!existing) {
+            throw new Error("Answer not found");
+        }
+
+        if (existing.userId !== args.userId) {
+            throw new Error("Not authorized");
+        }
+
+        await ctx.db.delete(args.answerId);
+
+        return { success: true };
+    },
+});
+
+// Seed initial prompts (run once to populate database)
+export const seedPrompts = mutation({
+    args: {},
+    handler: async (ctx) => {
+        const now = Date.now();
+
+        const prompts = [
+            // Personality
+            { text: "I'm looking for...", category: "personality", isActive: true },
+            { text: "My ideal Sunday involves...", category: "personality", isActive: true },
+            { text: "I'm weirdly attracted to...", category: "personality", isActive: true },
+            { text: "The key to my heart is...", category: "personality", isActive: true },
+            { text: "I geek out on...", category: "personality", isActive: true },
+
+            // Lifestyle
+            { text: "My perfect weekend looks like...", category: "lifestyle", isActive: true },
+            { text: "I spend too much time...", category: "lifestyle", isActive: true },
+            { text: "My go-to karaoke song is...", category: "lifestyle", isActive: true },
+            { text: "I'm convinced that...", category: "lifestyle", isActive: true },
+            { text: "My simple pleasures...", category: "lifestyle", isActive: true },
+
+            // Dating
+            { text: "The best way to ask me out is...", category: "dating", isActive: true },
+            { text: "My love language is...", category: "dating", isActive: true },
+            { text: "A perfect first date would be...", category: "dating", isActive: true },
+            { text: "I know it's a good match when...", category: "dating", isActive: true },
+            { text: "My most controversial opinion is...", category: "dating", isActive: true },
+
+            // Fun
+            { text: "Two truths and a lie...", category: "fun", isActive: true },
+            { text: "I'll know I've made it when...", category: "fun", isActive: true },
+            { text: "My hidden talent is...", category: "fun", isActive: true },
+            { text: "The award I'd win is...", category: "fun", isActive: true },
+            { text: "I'm secretly a...", category: "fun", isActive: true },
+        ];
+
+        for (const prompt of prompts) {
+            await ctx.db.insert("prompts", {
+                ...prompt,
+                createdAt: now,
+            });
+        }
+
+        return { count: prompts.length };
+    },
+});

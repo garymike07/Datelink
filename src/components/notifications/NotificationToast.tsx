@@ -1,1 +1,57 @@
-{"data":"aW1wb3J0IHsgdXNlRWZmZWN0IH0gZnJvbSAicmVhY3QiOwppbXBvcnQgeyB1c2VRdWVyeSB9IGZyb20gImNvbnZleC9yZWFjdCI7CmltcG9ydCB7IGFwaSB9IGZyb20gIi4uLy4uLy4uL2NvbnZleC9fZ2VuZXJhdGVkL2FwaSI7CmltcG9ydCB7IHVzZVRvYXN0IH0gZnJvbSAiQC9ob29rcy91c2UtdG9hc3QiOwppbXBvcnQgeyB1c2VOYXZpZ2F0ZSB9IGZyb20gInJlYWN0LXJvdXRlci1kb20iOwppbXBvcnQgeyBCZWxsLCBQaG9uZSwgSGVhcnQsIE1lc3NhZ2VTcXVhcmUsIENyZWRpdENhcmQgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyBUb2FzdEFjdGlvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS90b2FzdCI7Cgpjb25zdCBUT0FTVF9JQ09OUzogUmVjb3JkPHN0cmluZywgYW55PiA9IHsKICBtYXRjaDogSGVhcnQsCiAgbWVzc2FnZTogTWVzc2FnZVNxdWFyZSwKICBsaWtlOiBIZWFydCwKICBjYWxsX2luY29taW5nOiBQaG9uZSwKICBwYXltZW50X3N1Y2Nlc3M6IENyZWRpdENhcmQsCn07CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBOb3RpZmljYXRpb25Ub2FzdCh7IHVzZXJJZCB9OiB7IHVzZXJJZDogc3RyaW5nIH0pIHsKICBjb25zdCB7IHRvYXN0IH0gPSB1c2VUb2FzdCgpOwogIGNvbnN0IG5hdmlnYXRlID0gdXNlTmF2aWdhdGUoKTsKICAKICAvLyBTdWJzY3JpYmUgdG8gcmVhbC10aW1lIG5vdGlmaWNhdGlvbnMKICBjb25zdCBub3RpZmljYXRpb25zID0gdXNlUXVlcnkoYXBpLm5vdGlmaWNhdGlvbnMuZ2V0Tm90aWZpY2F0aW9ucywgewogICAgdXNlcklkOiB1c2VySWQgYXMgYW55LAogICAgbGltaXQ6IDEsCiAgICB1bnJlYWRPbmx5OiB0cnVlLAogIH0pOwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgaWYgKCFub3RpZmljYXRpb25zIHx8IG5vdGlmaWNhdGlvbnMubGVuZ3RoID09PSAwKSByZXR1cm47CiAgICAKICAgIGNvbnN0IGxhdGVzdE5vdGlmID0gbm90aWZpY2F0aW9uc1swXTsKICAgIGNvbnN0IGlzTmV3ID0gbGF0ZXN0Tm90aWYgJiYgIWxhdGVzdE5vdGlmLmlzUmVhZCAmJiAKICAgICAgICAgICAgICAgICAgKERhdGUubm93KCkgLSBsYXRlc3ROb3RpZi5jcmVhdGVkQXQpIDwgNTAwMDsKICAgIAogICAgaWYgKGlzTmV3ICYmIFsiY3JpdGljYWwiLCAiaGlnaCJdLmluY2x1ZGVzKGxhdGVzdE5vdGlmLnByaW9yaXR5KSkgewogICAgICBjb25zdCBJY29uID0gVE9BU1RfSUNPTlNbbGF0ZXN0Tm90aWYudHlwZV0gfHwgQmVsbDsKICAgICAgCiAgICAgIHRvYXN0KHsKICAgICAgICB0aXRsZTogKAogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIj4KICAgICAgICAgICAgPEljb24gY2xhc3NOYW1lPSJ3LTQgaC00IiAvPgogICAgICAgICAgICA8c3Bhbj57bGF0ZXN0Tm90aWYudGl0bGV9PC9zcGFuPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgKSwKICAgICAgICBkZXNjcmlwdGlvbjogbGF0ZXN0Tm90aWYuYm9keSwKICAgICAgICBhY3Rpb246IGxhdGVzdE5vdGlmLmxpbmsgPyAoCiAgICAgICAgICA8VG9hc3RBY3Rpb24gYWx0VGV4dD0iVmlldyBub3RpZmljYXRpb24iIG9uQ2xpY2s9eygpID0+IG5hdmlnYXRlKGxhdGVzdE5vdGlmLmxpbmspfT4KICAgICAgICAgICAgVmlldwogICAgICAgICAgPC9Ub2FzdEFjdGlvbj4KICAgICAgICApIDogdW5kZWZpbmVkLAogICAgICAgIGR1cmF0aW9uOiBsYXRlc3ROb3RpZi5wcmlvcml0eSA9PT0gImNyaXRpY2FsIiA/IDEwMDAwIDogNTAwMCwKICAgICAgfSk7CiAgICB9CiAgfSwgW25vdGlmaWNhdGlvbnMsIHRvYXN0LCBuYXZpZ2F0ZV0pOwoKICByZXR1cm4gbnVsbDsKfQo="}
+import { useEffect } from "react";
+import { useQuery } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import { useToast } from "@/hooks/use-toast";
+import { useNavigate } from "react-router-dom";
+import { Bell, Phone, Heart, MessageSquare, CreditCard } from "lucide-react";
+import { ToastAction } from "@/components/ui/toast";
+
+const TOAST_ICONS: Record<string, any> = {
+  match: Heart,
+  message: MessageSquare,
+  like: Heart,
+  call_incoming: Phone,
+  payment_success: CreditCard,
+};
+
+export default function NotificationToast({ userId }: { userId: string }) {
+  const { toast } = useToast();
+  const navigate = useNavigate();
+  
+  // Subscribe to real-time notifications
+  const notifications = useQuery(api.notifications.getNotifications, {
+    userId: userId as any,
+    limit: 1,
+    unreadOnly: true,
+  });
+
+  useEffect(() => {
+    if (!notifications || notifications.length === 0) return;
+    
+    const latestNotif = notifications[0];
+    const isNew = latestNotif && !latestNotif.isRead && 
+                  (Date.now() - latestNotif.createdAt) < 5000;
+    
+    if (isNew && ["critical", "high"].includes(latestNotif.priority)) {
+      const Icon = TOAST_ICONS[latestNotif.type] || Bell;
+      
+      toast({
+        title: (
+          <div className="flex items-center gap-2">
+            <Icon className="w-4 h-4" />
+            <span>{latestNotif.title}</span>
+          </div>
+        ),
+        description: latestNotif.body,
+        action: latestNotif.link ? (
+          <ToastAction altText="View notification" onClick={() => navigate(latestNotif.link)}>
+            View
+          </ToastAction>
+        ) : undefined,
+        duration: latestNotif.priority === "critical" ? 10000 : 5000,
+      });
+    }
+  }, [notifications, toast, navigate]);
+
+  return null;
+}

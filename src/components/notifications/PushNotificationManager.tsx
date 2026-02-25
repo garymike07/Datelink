@@ -1,1 +1,145 @@
-{"data":"aW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSwgdXNlUmVmIH0gZnJvbSAicmVhY3QiOwppbXBvcnQgeyB1c2VBdXRoIH0gZnJvbSAiQC9jb250ZXh0cy9BdXRoQ29udGV4dCI7CmltcG9ydCB7IHVzZVB1c2hOb3RpZmljYXRpb25zIH0gZnJvbSAiQC9ob29rcy91c2VQdXNoTm90aWZpY2F0aW9ucyI7CmltcG9ydCB7IHRvYXN0IH0gZnJvbSAic29ubmVyIjsKCi8qKgogKiBQdXNoTm90aWZpY2F0aW9uTWFuYWdlcgogKiAKICogTWFuYWdlcyBwdXNoIG5vdGlmaWNhdGlvbnMgZm9yIHRoZSBhcHA6CiAqIC0gQXV0b21hdGljYWxseSBwcm9tcHRzIHVzZXIgZm9yIHBlcm1pc3Npb24gb24gZmlyc3QgbG9naW4KICogLSBSZWdpc3RlcnMgc2VydmljZSB3b3JrZXIKICogLSBMaXN0ZW5zIGZvciBzZXJ2aWNlIHdvcmtlciBtZXNzYWdlcyAoZm9yIGNhbGwgYWN0aW9ucywgcmluZ3RvbmVzLCBldGMuKQogKiAtIEhhbmRsZXMgbm90aWZpY2F0aW9uIGNsaWNrcwogKi8KZXhwb3J0IGZ1bmN0aW9uIFB1c2hOb3RpZmljYXRpb25NYW5hZ2VyKCkgewogIGNvbnN0IHsgdXNlciB9ID0gdXNlQXV0aCgpOwogIGNvbnN0IHsgc3Vic2NyaWJlLCBpc1N1cHBvcnRlZCwgaXNTdWJzY3JpYmVkLCBwZXJtaXNzaW9uIH0gPSB1c2VQdXNoTm90aWZpY2F0aW9ucygpOwogIGNvbnN0IFtoYXNQcm9tcHRlZFRoaXNTZXNzaW9uLCBzZXRIYXNQcm9tcHRlZFRoaXNTZXNzaW9uXSA9IHVzZVN0YXRlKGZhbHNlKTsKICBjb25zdCBhdWRpb1JlZiA9IHVzZVJlZjxIVE1MQXVkaW9FbGVtZW50IHwgbnVsbD4obnVsbCk7CgogIC8vIEF1dG8tcHJvbXB0IGZvciBwdXNoIG5vdGlmaWNhdGlvbnMgb24gZmlyc3QgYXV0aGVudGljYXRlZCBzZXNzaW9uCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGlmICghdXNlciB8fCAhaXNTdXBwb3J0ZWQgfHwgaGFzUHJvbXB0ZWRUaGlzU2Vzc2lvbikgcmV0dXJuOwogICAgCiAgICAvLyBDaGVjayBpZiB1c2VyIGhhcyBhbHJlYWR5IGJlZW4gcHJvbXB0ZWQgYmVmb3JlCiAgICBjb25zdCBoYXNCZWVuUHJvbXB0ZWQgPSBsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgncHVzaF9ub3RpZmljYXRpb25fcHJvbXB0ZWQnKTsKICAgIAogICAgaWYgKCFoYXNCZWVuUHJvbXB0ZWQgJiYgcGVybWlzc2lvbiA9PT0gJ2RlZmF1bHQnKSB7CiAgICAgIC8vIFdhaXQgYSBiaXQgYmVmb3JlIHByb21wdGluZyAoZG9uJ3QgYmUgdG9vIGFnZ3Jlc3NpdmUpCiAgICAgIGNvbnN0IHRpbWVyID0gc2V0VGltZW91dCgoKSA9PiB7CiAgICAgICAgc2V0SGFzUHJvbXB0ZWRUaGlzU2Vzc2lvbih0cnVlKTsKICAgICAgICBsb2NhbFN0b3JhZ2Uuc2V0SXRlbSgncHVzaF9ub3RpZmljYXRpb25fcHJvbXB0ZWQnLCAndHJ1ZScpOwogICAgICAgIAogICAgICAgIC8vIFNob3cgYSBmcmllbmRseSB0b2FzdCBhc2tpbmcgZm9yIHBlcm1pc3Npb24KICAgICAgICB0b2FzdC5pbmZvKCJFbmFibGUgbm90aWZpY2F0aW9ucyB0byBnZXQgaW5zdGFudCB1cGRhdGVzIG9uIG1lc3NhZ2VzIGFuZCBjYWxscyIsIHsKICAgICAgICAgIGR1cmF0aW9uOiA4MDAwLAogICAgICAgICAgYWN0aW9uOiB7CiAgICAgICAgICAgIGxhYmVsOiAiRW5hYmxlIiwKICAgICAgICAgICAgb25DbGljazogYXN5bmMgKCkgPT4gewogICAgICAgICAgICAgIGNvbnN0IHN1Y2Nlc3MgPSBhd2FpdCBzdWJzY3JpYmUoKTsKICAgICAgICAgICAgICBpZiAoc3VjY2VzcykgewogICAgICAgICAgICAgICAgdG9hc3Quc3VjY2VzcygiUHVzaCBub3RpZmljYXRpb25zIGVuYWJsZWQhIPCflJQiKTsKICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgLy8gRXZlbiBpZiBwdXNoIHN1YnNjcmlwdGlvbiBmYWlscywgd2UgY2FuIHN0aWxsIHVzZSBicm93c2VyIG5vdGlmaWNhdGlvbnMKICAgICAgICAgICAgICAgIHRvYXN0LmluZm8oIkJyb3dzZXIgbm90aWZpY2F0aW9ucyBhcmUgc3RpbGwgYXZhaWxhYmxlIGZvciB0aGlzIHNlc3Npb24iLCB7CiAgICAgICAgICAgICAgICAgIGR1cmF0aW9uOiA1MDAwLAogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9LAogICAgICAgICAgfSwKICAgICAgICAgIGNhbmNlbDogewogICAgICAgICAgICBsYWJlbDogIk5vdCBub3ciLAogICAgICAgICAgICBvbkNsaWNrOiAoKSA9PiB7CiAgICAgICAgICAgICAgLy8gVXNlciBkZWNsaW5lZCwgZG9uJ3QgYXNrIGFnYWluIHRoaXMgc2Vzc2lvbgogICAgICAgICAgICB9CiAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICAgIH0sIDMwMDApOyAvLyBXYWl0IDMgc2Vjb25kcyBhZnRlciBsb2dpbgoKICAgICAgcmV0dXJuICgpID0+IGNsZWFyVGltZW91dCh0aW1lcik7CiAgICB9CiAgICAKICAgIC8vIERvbid0IGF1dG8tc3Vic2NyaWJlIGV2ZW4gaWYgcGVybWlzc2lvbiBpcyBncmFudGVkCiAgICAvLyBUaGUgdXNlciBzaG91bGQgZXhwbGljaXRseSBjbGljayAiRW5hYmxlIiB0byBzdWJzY3JpYmUKICAgIC8vIFRoaXMgcHJldmVudHMgdGhlICJPbmx5IHJlcXVlc3Qgbm90aWZpY2F0aW9uIHBlcm1pc3Npb24gaW4gcmVzcG9uc2UgdG8gYSB1c2VyIGdlc3R1cmUiIHdhcm5pbmcKICB9LCBbdXNlciwgaXNTdXBwb3J0ZWQsIHBlcm1pc3Npb24sIGlzU3Vic2NyaWJlZCwgaGFzUHJvbXB0ZWRUaGlzU2Vzc2lvbiwgc3Vic2NyaWJlXSk7CgogIC8vIExpc3RlbiBmb3Igc2VydmljZSB3b3JrZXIgbWVzc2FnZXMKICB1c2VFZmZlY3QoKCkgPT4gewogICAgaWYgKCEoJ3NlcnZpY2VXb3JrZXInIGluIG5hdmlnYXRvcikpIHJldHVybjsKCiAgICBjb25zdCBoYW5kbGVNZXNzYWdlID0gKGV2ZW50OiBNZXNzYWdlRXZlbnQpID0+IHsKICAgICAgY29uc3QgeyB0eXBlLCBjYWxsSWQgfSA9IGV2ZW50LmRhdGE7CgogICAgICBzd2l0Y2ggKHR5cGUpIHsKICAgICAgICBjYXNlICdQTEFZX1JJTkdUT05FJzoKICAgICAgICAgIC8vIFBsYXkgcmluZ3RvbmUgZm9yIGluY29taW5nIGNhbGwKICAgICAgICAgIHBsYXlSaW5ndG9uZSgpOwogICAgICAgICAgYnJlYWs7CgogICAgICAgIGNhc2UgJ0FOU1dFUl9DQUxMJzoKICAgICAgICAgIC8vIFN0b3AgcmluZ3RvbmUgd2hlbiBjYWxsIGlzIGFuc3dlcmVkCiAgICAgICAgICBzdG9wUmluZ3RvbmUoKTsKICAgICAgICAgIC8vIFRoZSBuYXZpZ2F0aW9uIGlzIGhhbmRsZWQgYnkgdGhlIHNlcnZpY2Ugd29ya2VyCiAgICAgICAgICBicmVhazsKCiAgICAgICAgY2FzZSAnREVDTElORV9DQUxMJzoKICAgICAgICAgIC8vIFN0b3AgcmluZ3RvbmUgd2hlbiBjYWxsIGlzIGRlY2xpbmVkCiAgICAgICAgICBzdG9wUmluZ3RvbmUoKTsKICAgICAgICAgIC8vIE9wdGlvbmFsbHksIGNhbGwgYSBtdXRhdGlvbiB0byBkZWNsaW5lIHRoZSBjYWxsCiAgICAgICAgICBjb25zb2xlLmxvZygnQ2FsbCBkZWNsaW5lZCBmcm9tIG5vdGlmaWNhdGlvbjonLCBjYWxsSWQpOwogICAgICAgICAgYnJlYWs7CgogICAgICAgIGNhc2UgJ0NBTExfTk9USUZJQ0FUSU9OX0RJU01JU1NFRCc6CiAgICAgICAgICAvLyBTdG9wIHJpbmd0b25lIGlmIG5vdGlmaWNhdGlvbiBpcyBkaXNtaXNzZWQKICAgICAgICAgIHN0b3BSaW5ndG9uZSgpOwogICAgICAgICAgYnJlYWs7CgogICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICBjb25zb2xlLmxvZygnVW5rbm93biBzZXJ2aWNlIHdvcmtlciBtZXNzYWdlOicsIGV2ZW50LmRhdGEpOwogICAgICB9CiAgICB9OwoKICAgIG5hdmlnYXRvci5zZXJ2aWNlV29ya2VyLmFkZEV2ZW50TGlzdGVuZXIoJ21lc3NhZ2UnLCBoYW5kbGVNZXNzYWdlKTsKCiAgICByZXR1cm4gKCkgPT4gewogICAgICBuYXZpZ2F0b3Iuc2VydmljZVdvcmtlci5yZW1vdmVFdmVudExpc3RlbmVyKCdtZXNzYWdlJywgaGFuZGxlTWVzc2FnZSk7CiAgICB9OwogIH0sIFtdKTsKCiAgLy8gUGxheSByaW5ndG9uZQogIGNvbnN0IHBsYXlSaW5ndG9uZSA9ICgpID0+IHsKICAgIGlmICghYXVkaW9SZWYuY3VycmVudCkgewogICAgICAvLyBDcmVhdGUgYXVkaW8gZWxlbWVudCBmb3IgcmluZ3RvbmUKICAgICAgYXVkaW9SZWYuY3VycmVudCA9IG5ldyBBdWRpbygnL25vdGlmaWNhdGlvbi5tcDMnKTsKICAgICAgYXVkaW9SZWYuY3VycmVudC5sb29wID0gdHJ1ZTsKICAgIH0KCiAgICBhdWRpb1JlZi5jdXJyZW50LnBsYXkoKS5jYXRjaChlcnIgPT4gewogICAgICBjb25zb2xlLmVycm9yKCdGYWlsZWQgdG8gcGxheSByaW5ndG9uZTonLCBlcnIpOwogICAgICAvLyBGYWxsYmFjazogdXNlIHN5c3RlbSBub3RpZmljYXRpb24gc291bmQgKGFscmVhZHkgcGxheWVkIGJ5IGJyb3dzZXIpCiAgICB9KTsKICB9OwoKICAvLyBTdG9wIHJpbmd0b25lCiAgY29uc3Qgc3RvcFJpbmd0b25lID0gKCkgPT4gewogICAgaWYgKGF1ZGlvUmVmLmN1cnJlbnQpIHsKICAgICAgYXVkaW9SZWYuY3VycmVudC5wYXVzZSgpOwogICAgICBhdWRpb1JlZi5jdXJyZW50LmN1cnJlbnRUaW1lID0gMDsKICAgIH0KICB9OwoKICAvLyBDbGVhbnVwIGF1ZGlvIG9uIHVubW91bnQKICB1c2VFZmZlY3QoKCkgPT4gewogICAgcmV0dXJuICgpID0+IHsKICAgICAgaWYgKGF1ZGlvUmVmLmN1cnJlbnQpIHsKICAgICAgICBhdWRpb1JlZi5jdXJyZW50LnBhdXNlKCk7CiAgICAgICAgYXVkaW9SZWYuY3VycmVudCA9IG51bGw7CiAgICAgIH0KICAgIH07CiAgfSwgW10pOwoKICAvLyBUaGlzIGNvbXBvbmVudCBkb2Vzbid0IHJlbmRlciBhbnl0aGluZwogIHJldHVybiBudWxsOwp9Cg=="}
+import { useEffect, useState, useRef } from "react";
+import { useAuth } from "@/contexts/AuthContext";
+import { usePushNotifications } from "@/hooks/usePushNotifications";
+import { toast } from "sonner";
+
+/**
+ * PushNotificationManager
+ * 
+ * Manages push notifications for the app:
+ * - Automatically prompts user for permission on first login
+ * - Registers service worker
+ * - Listens for service worker messages (for call actions, ringtones, etc.)
+ * - Handles notification clicks
+ */
+export function PushNotificationManager() {
+  const { user } = useAuth();
+  const { subscribe, isSupported, isSubscribed, permission } = usePushNotifications();
+  const [hasPromptedThisSession, setHasPromptedThisSession] = useState(false);
+  const audioRef = useRef<HTMLAudioElement | null>(null);
+
+  // Auto-prompt for push notifications on first authenticated session
+  useEffect(() => {
+    if (!user || !isSupported || hasPromptedThisSession) return;
+    
+    // Check if user has already been prompted before
+    const hasBeenPrompted = localStorage.getItem('push_notification_prompted');
+    
+    if (!hasBeenPrompted && permission === 'default') {
+      // Wait a bit before prompting (don't be too aggressive)
+      const timer = setTimeout(() => {
+        setHasPromptedThisSession(true);
+        localStorage.setItem('push_notification_prompted', 'true');
+        
+        // Show a friendly toast asking for permission
+        toast.info("Enable notifications to get instant updates on messages and calls", {
+          duration: 8000,
+          action: {
+            label: "Enable",
+            onClick: async () => {
+              const success = await subscribe();
+              if (success) {
+                toast.success("Push notifications enabled! 🔔");
+              } else {
+                // Even if push subscription fails, we can still use browser notifications
+                toast.info("Browser notifications are still available for this session", {
+                  duration: 5000,
+                });
+              }
+            },
+          },
+          cancel: {
+            label: "Not now",
+            onClick: () => {
+              // User declined, don't ask again this session
+            }
+          }
+        });
+      }, 3000); // Wait 3 seconds after login
+
+      return () => clearTimeout(timer);
+    }
+    
+    // Don't auto-subscribe even if permission is granted
+    // The user should explicitly click "Enable" to subscribe
+    // This prevents the "Only request notification permission in response to a user gesture" warning
+  }, [user, isSupported, permission, isSubscribed, hasPromptedThisSession, subscribe]);
+
+  // Listen for service worker messages
+  useEffect(() => {
+    if (!('serviceWorker' in navigator)) return;
+
+    const handleMessage = (event: MessageEvent) => {
+      const { type, callId } = event.data;
+
+      switch (type) {
+        case 'PLAY_RINGTONE':
+          // Play ringtone for incoming call
+          playRingtone();
+          break;
+
+        case 'ANSWER_CALL':
+          // Stop ringtone when call is answered
+          stopRingtone();
+          // The navigation is handled by the service worker
+          break;
+
+        case 'DECLINE_CALL':
+          // Stop ringtone when call is declined
+          stopRingtone();
+          // Optionally, call a mutation to decline the call
+          console.log('Call declined from notification:', callId);
+          break;
+
+        case 'CALL_NOTIFICATION_DISMISSED':
+          // Stop ringtone if notification is dismissed
+          stopRingtone();
+          break;
+
+        default:
+          console.log('Unknown service worker message:', event.data);
+      }
+    };
+
+    navigator.serviceWorker.addEventListener('message', handleMessage);
+
+    return () => {
+      navigator.serviceWorker.removeEventListener('message', handleMessage);
+    };
+  }, []);
+
+  // Play ringtone
+  const playRingtone = () => {
+    if (!audioRef.current) {
+      // Create audio element for ringtone
+      audioRef.current = new Audio('/notification.mp3');
+      audioRef.current.loop = true;
+    }
+
+    audioRef.current.play().catch(err => {
+      console.error('Failed to play ringtone:', err);
+      // Fallback: use system notification sound (already played by browser)
+    });
+  };
+
+  // Stop ringtone
+  const stopRingtone = () => {
+    if (audioRef.current) {
+      audioRef.current.pause();
+      audioRef.current.currentTime = 0;
+    }
+  };
+
+  // Cleanup audio on unmount
+  useEffect(() => {
+    return () => {
+      if (audioRef.current) {
+        audioRef.current.pause();
+        audioRef.current = null;
+      }
+    };
+  }, []);
+
+  // This component doesn't render anything
+  return null;
+}

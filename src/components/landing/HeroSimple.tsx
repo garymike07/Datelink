@@ -1,1 +1,130 @@
-{"data":"aW1wb3J0IHsgbW90aW9uIH0gZnJvbSAiZnJhbWVyLW1vdGlvbiI7CmltcG9ydCB7IEhlYXJ0LCBTcGFya2xlcywgU2hpZWxkLCBVc2VycywgQXJyb3dSaWdodCwgQmFkZ2VDaGVjayB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IEJ1dHRvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS9idXR0b24iOwppbXBvcnQgeyBMaW5rIH0gZnJvbSAicmVhY3Qtcm91dGVyLWRvbSI7CmltcG9ydCBoZXJvSW1hZ2UgZnJvbSAiQC9hc3NldHMvaGVyby1jb3VwbGUta2VueWFuLnBuZyI7Cgpjb25zdCBIZXJvU2ltcGxlID0gKCkgPT4gewogIHJldHVybiAoCiAgICA8c2VjdGlvbiBjbGFzc05hbWU9InJlbGF0aXZlIG1pbi1oLXNjcmVlbiBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBwdC0yMCBwYi0xNiBvdmVyZmxvdy1oaWRkZW4iPgogICAgICB7LyogSGVybyBCYWNrZ3JvdW5kIEltYWdlICovfQogICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJzb2x1dGUgaW5zZXQtMCB6LTAiPgogICAgICAgIDxpbWcKICAgICAgICAgIHNyYz17aGVyb0ltYWdlfQogICAgICAgICAgYWx0PSJIYXBweSBLZW55YW4gQ291cGxlIgogICAgICAgICAgY2xhc3NOYW1lPSJ3LWZ1bGwgaC1mdWxsIG9iamVjdC1jb3ZlciBvYmplY3QtY2VudGVyIgogICAgICAgIC8+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgYmctYmxhY2svNDAgYmFja2Ryb3AtYmx1ci1bMnB4XSIgLz4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJzb2x1dGUgaW5zZXQtMCBiZy1ncmFkaWVudC10by10IGZyb20tYmFja2dyb3VuZCB2aWEtYmFja2dyb3VuZC8yMCB0by10cmFuc3BhcmVudCIgLz4KICAgICAgPC9kaXY+CgogICAgICB7LyogQW5pbWF0ZWQgR3JhZGllbnQgT3JicyAtIEFkanVzdGVkIGZvciB2aXNpYmlsaXR5ICovfQogICAgICA8bW90aW9uLmRpdgogICAgICAgIGFuaW1hdGU9e3sKICAgICAgICAgIHNjYWxlOiBbMSwgMS4xNSwgMV0sCiAgICAgICAgICBvcGFjaXR5OiBbMC4zLCAwLjUsIDAuM10sCiAgICAgICAgfX0KICAgICAgICB0cmFuc2l0aW9uPXt7CiAgICAgICAgICBkdXJhdGlvbjogOSwKICAgICAgICAgIHJlcGVhdDogSW5maW5pdHksCiAgICAgICAgICBlYXNlOiAiZWFzZUluT3V0IiwKICAgICAgICB9fQogICAgICAgIGNsYXNzTmFtZT0iYWJzb2x1dGUgdG9wLTAgcmlnaHQtMCB3LVs2MDBweF0gaC1bNjAwcHhdIGJnLXByaW1hcnkvMjAgcm91bmRlZC1mdWxsIGJsdXItM3hsIG1peC1ibGVuZC1zY3JlZW4iCiAgICAgIC8+CgogICAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGFpbmVyIG1heC13LTZ4bCBteC1hdXRvIHB4LTQgc206cHgtNiByZWxhdGl2ZSB6LTEwIj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idGV4dC1jZW50ZXIgc3BhY2UteS04Ij4KICAgICAgICAgIHsvKiBQcmVtaXVtIEJhZGdlICovfQogICAgICAgICAgPG1vdGlvbi5kaXYKICAgICAgICAgICAgaW5pdGlhbD17eyBvcGFjaXR5OiAwLCB5OiAyMCB9fQogICAgICAgICAgICBhbmltYXRlPXt7IG9wYWNpdHk6IDEsIHk6IDAgfX0KICAgICAgICAgICAgdHJhbnNpdGlvbj17eyBkdXJhdGlvbjogMC42IH19CiAgICAgICAgICAgIGNsYXNzTmFtZT0iaW5saW5lLWZsZXggaXRlbXMtY2VudGVyIGdhcC0yIGJnLXdoaXRlLzEwIGJhY2tkcm9wLWJsdXItbWQgcHgtNSBweS0yLjUgcm91bmRlZC1mdWxsIGJvcmRlciBib3JkZXItd2hpdGUvMjAgc2hhZG93LXhsIgogICAgICAgICAgPgogICAgICAgICAgICA8bW90aW9uLmRpdgogICAgICAgICAgICAgIGFuaW1hdGU9e3sgcm90YXRlOiBbMCwgMzYwXSB9fQogICAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDMsIHJlcGVhdDogSW5maW5pdHksIGVhc2U6ICJsaW5lYXIiIH19CiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8U3BhcmtsZXMgY2xhc3NOYW1lPSJ3LTQgaC00IHRleHQtYWNjZW50IiAvPgogICAgICAgICAgICA8L21vdGlvbi5kaXY+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC14cyBmb250LWJvbGQgdGV4dC13aGl0ZSB0cmFja2luZy13aWRlIHVwcGVyY2FzZSI+CiAgICAgICAgICAgICAgUHJlbWl1bSBLZW55YW4gRGF0aW5nCiAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgIDwvbW90aW9uLmRpdj4KCiAgICAgICAgICB7LyogTWFpbiBIZWFkaW5nICovfQogICAgICAgICAgPG1vdGlvbi5kaXYKICAgICAgICAgICAgaW5pdGlhbD17eyBvcGFjaXR5OiAwLCB5OiAzMCB9fQogICAgICAgICAgICBhbmltYXRlPXt7IG9wYWNpdHk6IDEsIHk6IDAgfX0KICAgICAgICAgICAgdHJhbnNpdGlvbj17eyBkdXJhdGlvbjogMC43LCBkZWxheTogMC4xIH19CiAgICAgICAgICA+CiAgICAgICAgICAgIDxoMSBjbGFzc05hbWU9InRleHQtNHhsIHNtOnRleHQtNnhsIGxnOnRleHQtN3hsIGZvbnQtaGVhZGluZyBmb250LWJsYWNrIHRyYWNraW5nLXRpZ2h0IG1iLTYgbGVhZGluZy1bMS4xXSB0ZXh0LXdoaXRlIGRyb3Atc2hhZG93LWxnIj4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImJsb2NrIG1iLTIgdGV4dC10cmFuc3BhcmVudCBiZy1jbGlwLXRleHQgYmctZ3JhZGllbnQtdG8tciBmcm9tLXdoaXRlIHZpYS13aGl0ZS85MCB0by13aGl0ZS84MCI+CiAgICAgICAgICAgICAgICBDb25uZWN0LiBMb3ZlLiBVbml0ZS4KICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJyZWxhdGl2ZSBpbmxpbmUtYmxvY2sgdGV4dC10cmFuc3BhcmVudCBiZy1jbGlwLXRleHQgYmctZ3JhZGllbnQtdG8tciBmcm9tLWFjY2VudCB2aWEtd2hpdGUgdG8tYWNjZW50Ij4KICAgICAgICAgICAgICAgIFBlcmZlY3QgTWF0Y2gKICAgICAgICAgICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iYWJzb2x1dGUgLWJvdHRvbS0yIGxlZnQtMCByaWdodC0wIGgtMiBiZy1hY2NlbnQvNTAgcm91bmRlZC1mdWxsIGJsdXItc20iCiAgICAgICAgICAgICAgICAgIGluaXRpYWw9e3sgc2NhbGVYOiAwIH19CiAgICAgICAgICAgICAgICAgIGFuaW1hdGU9e3sgc2NhbGVYOiAxIH19CiAgICAgICAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZGVsYXk6IDAuNSwgZHVyYXRpb246IDAuOCB9fQogICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgIDwvaDE+CgogICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtbGcgc206dGV4dC14bCB0ZXh0LXdoaXRlLzkwIG1heC13LTJ4bCBteC1hdXRvIGZvbnQtbWVkaXVtIGxlYWRpbmctcmVsYXhlZCBkcm9wLXNoYWRvdy1tZCI+CiAgICAgICAgICAgICAgQ29ubmVjdCB3aXRoIHNpbmdsZXMgaW4gTmFpcm9iaSBhbmQgYWNyb3NzIEtlbnlhLiBTZXJpb3VzIHJlbGF0aW9uc2hpcHMsIGdlbnVpbmUgY29ubmVjdGlvbnMsIGFuZCB0cnVlIGxvdmUgYXdhaXQuCiAgICAgICAgICAgIDwvcD4KICAgICAgICAgIDwvbW90aW9uLmRpdj4KCiAgICAgICAgICB7LyogVHJ1c3QgSW5kaWNhdG9ycyAqL30KICAgICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogMjAgfX0KICAgICAgICAgICAgYW5pbWF0ZT17eyBvcGFjaXR5OiAxLCB5OiAwIH19CiAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuNiwgZGVsYXk6IDAuNCB9fQogICAgICAgICAgICBjbGFzc05hbWU9ImZsZXggZmxleC13cmFwIGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBnYXAtNCB0ZXh0LXdoaXRlIgogICAgICAgICAgPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgYmctYmxhY2svMzAgcHgtNCBweS0yIHJvdW5kZWQtZnVsbCBib3JkZXIgYm9yZGVyLXdoaXRlLzEwIGJhY2tkcm9wLWJsdXItc20iPgogICAgICAgICAgICAgIDxTaGllbGQgY2xhc3NOYW1lPSJ3LTQgaC00IHRleHQtc2Vjb25kYXJ5IiAvPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZm9udC1zZW1pYm9sZCB0ZXh0LXhzIj5WZXJpZmllZCBQcm9maWxlczwvc3Bhbj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiBiZy1ibGFjay8zMCBweC00IHB5LTIgcm91bmRlZC1mdWxsIGJvcmRlciBib3JkZXItd2hpdGUvMTAgYmFja2Ryb3AtYmx1ci1zbSI+CiAgICAgICAgICAgICAgPFVzZXJzIGNsYXNzTmFtZT0idy00IGgtNCB0ZXh0LWFjY2VudCIgLz4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImZvbnQtc2VtaWJvbGQgdGV4dC14cyI+U2FmZSBDb21tdW5pdHk8L3NwYW4+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9tb3Rpb24uZGl2PgoKICAgICAgICAgIHsvKiBDVEEgQnV0dG9ucyAqL30KICAgICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogMjAgfX0KICAgICAgICAgICAgYW5pbWF0ZT17eyBvcGFjaXR5OiAxLCB5OiAwIH19CiAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuNiwgZGVsYXk6IDAuNSB9fQogICAgICAgICAgICBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wgc206ZmxleC1yb3cgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIGdhcC00IHB0LTQiCiAgICAgICAgICA+CiAgICAgICAgICAgIDxMaW5rIHRvPSIvc2lnbnVwIiBjbGFzc05hbWU9InctZnVsbCBzbTp3LWF1dG8iPgogICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgIHNpemU9ImxnIgogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ3LWZ1bGwgc206dy1hdXRvIGgtMTQgcHgtOCB0ZXh0LWJhc2Ugcm91bmRlZC1mdWxsIGJnLXByaW1hcnkgaG92ZXI6YmctcHJpbWFyeS85MCB0ZXh0LXdoaXRlIGJvcmRlci0wIHNoYWRvdy1sZyBob3ZlcjpzaGFkb3ctcHJpbWFyeS8yNSBob3ZlcjpzY2FsZS0xMDUgdHJhbnNpdGlvbi1hbGwgZHVyYXRpb24tMzAwIgogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxIZWFydCBjbGFzc05hbWU9InctNSBoLTUgbXItMiBmaWxsLXdoaXRlIGFuaW1hdGUtcHVsc2UiIC8+CiAgICAgICAgICAgICAgICBTdGFydCBEYXRpbmcgTm93CiAgICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgICAgPExpbmsgdG89Ii9sb2dpbiIgY2xhc3NOYW1lPSJ3LWZ1bGwgc206dy1hdXRvIj4KICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICBzaXplPSJsZyIKICAgICAgICAgICAgICAgIHZhcmlhbnQ9Im91dGxpbmUiCiAgICAgICAgICAgICAgICBjbGFzc05hbWU9InctZnVsbCBzbTp3LWF1dG8gaC0xNCBweC04IHRleHQtYmFzZSByb3VuZGVkLWZ1bGwgYm9yZGVyLTIgYm9yZGVyLXdoaXRlLzMwIGJnLXdoaXRlLzEwIHRleHQtd2hpdGUgYmFja2Ryb3AtYmx1ci1tZCBob3ZlcjpiZy13aGl0ZSBob3Zlcjp0ZXh0LWJsYWNrIGhvdmVyOmJvcmRlci13aGl0ZSB0cmFuc2l0aW9uLWFsbCBkdXJhdGlvbi0zMDAiCiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgTWVtYmVyIExvZyBJbgogICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICA8L21vdGlvbi5kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9zZWN0aW9uPgogICk7Cn07CgpleHBvcnQgZGVmYXVsdCBIZXJvU2ltcGxlOwo="}
+import { motion } from "framer-motion";
+import { Heart, Sparkles, Shield, Users, ArrowRight, BadgeCheck } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import { Link } from "react-router-dom";
+import heroImage from "@/assets/hero-couple-kenyan.png";
+
+const HeroSimple = () => {
+  return (
+    <section className="relative min-h-screen flex items-center justify-center pt-20 pb-16 overflow-hidden">
+      {/* Hero Background Image */}
+      <div className="absolute inset-0 z-0">
+        <img
+          src={heroImage}
+          alt="Happy Kenyan Couple"
+          className="w-full h-full object-cover object-center"
+        />
+        <div className="absolute inset-0 bg-black/40 backdrop-blur-[2px]" />
+        <div className="absolute inset-0 bg-gradient-to-t from-background via-background/20 to-transparent" />
+      </div>
+
+      {/* Animated Gradient Orbs - Adjusted for visibility */}
+      <motion.div
+        animate={{
+          scale: [1, 1.15, 1],
+          opacity: [0.3, 0.5, 0.3],
+        }}
+        transition={{
+          duration: 9,
+          repeat: Infinity,
+          ease: "easeInOut",
+        }}
+        className="absolute top-0 right-0 w-[600px] h-[600px] bg-primary/20 rounded-full blur-3xl mix-blend-screen"
+      />
+
+      <div className="container max-w-6xl mx-auto px-4 sm:px-6 relative z-10">
+        <div className="text-center space-y-8">
+          {/* Premium Badge */}
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6 }}
+            className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-md px-5 py-2.5 rounded-full border border-white/20 shadow-xl"
+          >
+            <motion.div
+              animate={{ rotate: [0, 360] }}
+              transition={{ duration: 3, repeat: Infinity, ease: "linear" }}
+            >
+              <Sparkles className="w-4 h-4 text-accent" />
+            </motion.div>
+            <span className="text-xs font-bold text-white tracking-wide uppercase">
+              Premium Kenyan Dating
+            </span>
+          </motion.div>
+
+          {/* Main Heading */}
+          <motion.div
+            initial={{ opacity: 0, y: 30 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.7, delay: 0.1 }}
+          >
+            <h1 className="text-4xl sm:text-6xl lg:text-7xl font-heading font-black tracking-tight mb-6 leading-[1.1] text-white drop-shadow-lg">
+              <span className="block mb-2 text-transparent bg-clip-text bg-gradient-to-r from-white via-white/90 to-white/80">
+                Connect. Love. Unite.
+              </span>
+              <span className="relative inline-block text-transparent bg-clip-text bg-gradient-to-r from-accent via-white to-accent">
+                Perfect Match
+                <motion.div
+                  className="absolute -bottom-2 left-0 right-0 h-2 bg-accent/50 rounded-full blur-sm"
+                  initial={{ scaleX: 0 }}
+                  animate={{ scaleX: 1 }}
+                  transition={{ delay: 0.5, duration: 0.8 }}
+                />
+              </span>
+            </h1>
+
+            <p className="text-lg sm:text-xl text-white/90 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow-md">
+              Connect with singles in Nairobi and across Kenya. Serious relationships, genuine connections, and true love await.
+            </p>
+          </motion.div>
+
+          {/* Trust Indicators */}
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6, delay: 0.4 }}
+            className="flex flex-wrap items-center justify-center gap-4 text-white"
+          >
+            <div className="flex items-center gap-2 bg-black/30 px-4 py-2 rounded-full border border-white/10 backdrop-blur-sm">
+              <Shield className="w-4 h-4 text-secondary" />
+              <span className="font-semibold text-xs">Verified Profiles</span>
+            </div>
+            <div className="flex items-center gap-2 bg-black/30 px-4 py-2 rounded-full border border-white/10 backdrop-blur-sm">
+              <Users className="w-4 h-4 text-accent" />
+              <span className="font-semibold text-xs">Safe Community</span>
+            </div>
+          </motion.div>
+
+          {/* CTA Buttons */}
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6, delay: 0.5 }}
+            className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-4"
+          >
+            <Link to="/signup" className="w-full sm:w-auto">
+              <Button
+                size="lg"
+                className="w-full sm:w-auto h-14 px-8 text-base rounded-full bg-primary hover:bg-primary/90 text-white border-0 shadow-lg hover:shadow-primary/25 hover:scale-105 transition-all duration-300"
+              >
+                <Heart className="w-5 h-5 mr-2 fill-white animate-pulse" />
+                Start Dating Now
+              </Button>
+            </Link>
+            <Link to="/login" className="w-full sm:w-auto">
+              <Button
+                size="lg"
+                variant="outline"
+                className="w-full sm:w-auto h-14 px-8 text-base rounded-full border-2 border-white/30 bg-white/10 text-white backdrop-blur-md hover:bg-white hover:text-black hover:border-white transition-all duration-300"
+              >
+                Member Log In
+              </Button>
+            </Link>
+          </motion.div>
+        </div>
+      </div>
+    </section>
+  );
+};
+
+export default HeroSimple;

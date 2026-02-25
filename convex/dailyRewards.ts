@@ -1,1 +1,301 @@
-{"data":"aW1wb3J0IHsgdiB9IGZyb20gImNvbnZleC92YWx1ZXMiOwppbXBvcnQgeyBtdXRhdGlvbiwgcXVlcnkgfSBmcm9tICIuL19nZW5lcmF0ZWQvc2VydmVyIjsKaW1wb3J0IHsgaW5zZXJ0Tm90aWZpY2F0aW9uIH0gZnJvbSAiLi9ub3RpZmljYXRpb25zIjsKCi8qKgogKiBEYWlseSBMb2dpbiBTdHJlYWsgJiBSZXdhcmRzIFN5c3RlbQogKiBHYW1pZmljYXRpb24gZmVhdHVyZSB0byBib29zdCBkYWlseSBlbmdhZ2VtZW50CiAqLwoKZXhwb3J0IGludGVyZmFjZSBEYWlseVJld2FyZCB7CiAgZGF5OiBudW1iZXI7CiAgdHlwZTogImJvb3N0IiB8ICJ1bmxvY2siIHwgInByZW1pdW1fdHJpYWwiIHwgImJhZGdlIjsKICBhbW91bnQ6IG51bWJlcjsKICBkZXNjcmlwdGlvbjogc3RyaW5nOwogIGljb246IHN0cmluZzsKfQoKLy8gUmV3YXJkIHRpZXJzIGZvciBjb25zZWN1dGl2ZSBkYXlzCmNvbnN0IFNUUkVBS19SRVdBUkRTOiBEYWlseVJld2FyZFtdID0gWwogIHsgZGF5OiAxLCB0eXBlOiAiYm9vc3QiLCBhbW91bnQ6IDEsIGRlc2NyaXB0aW9uOiAiV2VsY29tZSEgMSBmcmVlIHByb2ZpbGUgYm9vc3QiLCBpY29uOiAi8J+OiSIgfSwKICB7IGRheTogMywgdHlwZTogInVubG9jayIsIGFtb3VudDogMSwgZGVzY3JpcHRpb246ICIzLWRheSBzdHJlYWshIDEgZnJlZSBwcm9maWxlIHVubG9jayIsIGljb246ICLwn5SlIiB9LAogIHsgZGF5OiA3LCB0eXBlOiAiYm9vc3QiLCBhbW91bnQ6IDIsIGRlc2NyaXB0aW9uOiAiV2VlayBzdHJvbmchIDIgZnJlZSBib29zdHMiLCBpY29uOiAi4q2QIiB9LAogIHsgZGF5OiAxNCwgdHlwZTogInVubG9jayIsIGFtb3VudDogMiwgZGVzY3JpcHRpb246ICJUd28gd2Vla3MhIDIgZnJlZSB1bmxvY2tzIiwgaWNvbjogIvCfko4iIH0sCiAgeyBkYXk6IDMwLCB0eXBlOiAicHJlbWl1bV90cmlhbCIsIGFtb3VudDogMSwgZGVzY3JpcHRpb246ICJNb250aCBtaWxlc3RvbmUhIDEgZGF5IHByZW1pdW0gdHJpYWwiLCBpY29uOiAi8J+RkSIgfSwKICB7IGRheTogNjAsIHR5cGU6ICJ1bmxvY2siLCBhbW91bnQ6IDUsIGRlc2NyaXB0aW9uOiAiNjAgZGF5cyEgNSBmcmVlIHVubG9ja3MiLCBpY29uOiAi8J+PhiIgfSwKICB7IGRheTogOTAsIHR5cGU6ICJwcmVtaXVtX3RyaWFsIiwgYW1vdW50OiAzLCBkZXNjcmlwdGlvbjogIjkwIGRheXMhIDMgZGF5cyBwcmVtaXVtIiwgaWNvbjogIvCfjJ8iIH0sCiAgeyBkYXk6IDE4MCwgdHlwZTogImJhZGdlIiwgYW1vdW50OiAxLCBkZXNjcmlwdGlvbjogIkhhbGYgeWVhciEgTGVnZW5kYXJ5IGJhZGdlIiwgaWNvbjogIvCfjpbvuI8iIH0sCl07CgovLyBDaGVjayBhbmQgY2xhaW0gZGFpbHkgbG9naW4gcmV3YXJkCmV4cG9ydCBjb25zdCBjbGFpbURhaWx5TG9naW4gPSBtdXRhdGlvbih7CiAgYXJnczogewogICAgdXNlcklkOiB2LmlkKCJ1c2VycyIpLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3QgdXNlciA9IGF3YWl0IGN0eC5kYi5nZXQoYXJncy51c2VySWQpOwogICAgaWYgKCF1c2VyKSB0aHJvdyBuZXcgRXJyb3IoIlVzZXIgbm90IGZvdW5kIik7CgogICAgLy8gR2V0IG9yIGNyZWF0ZSBzdHJlYWsgcmVjb3JkCiAgICBsZXQgc3RyZWFrID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgibG9naW5TdHJlYWtzIikKICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIGFyZ3MudXNlcklkKSkKICAgICAgLmZpcnN0KCk7CgogICAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKTsKICAgIGNvbnN0IHRvZGF5ID0gbmV3IERhdGUobm93KTsKICAgIHRvZGF5LnNldEhvdXJzKDAsIDAsIDAsIDApOwogICAgY29uc3QgdG9kYXlUaW1lc3RhbXAgPSB0b2RheS5nZXRUaW1lKCk7CgogICAgLy8gQ2hlY2sgaWYgYWxyZWFkeSBjbGFpbWVkIHRvZGF5CiAgICBpZiAoc3RyZWFrICYmIHN0cmVhay5sYXN0Q2xhaW1EYXRlID49IHRvZGF5VGltZXN0YW1wKSB7CiAgICAgIHJldHVybiB7CiAgICAgICAgYWxyZWFkeUNsYWltZWQ6IHRydWUsCiAgICAgICAgY3VycmVudFN0cmVhazogc3RyZWFrLmN1cnJlbnRTdHJlYWssCiAgICAgICAgbmV4dFJld2FyZDogZ2V0TmV4dFJld2FyZChzdHJlYWsuY3VycmVudFN0cmVhayksCiAgICAgIH07CiAgICB9CgogICAgbGV0IG5ld1N0cmVhayA9IDE7CiAgICBsZXQgaXNOZXdSZWNvcmQgPSBmYWxzZTsKICAgIGxldCByZXdhcmRDbGFpbWVkOiBEYWlseVJld2FyZCB8IG51bGwgPSBudWxsOwoKICAgIGlmIChzdHJlYWspIHsKICAgICAgY29uc3QgeWVzdGVyZGF5ID0gbmV3IERhdGUobm93KTsKICAgICAgeWVzdGVyZGF5LnNldERhdGUoeWVzdGVyZGF5LmdldERhdGUoKSAtIDEpOwogICAgICB5ZXN0ZXJkYXkuc2V0SG91cnMoMCwgMCwgMCwgMCk7CiAgICAgIGNvbnN0IHllc3RlcmRheVRpbWVzdGFtcCA9IHllc3RlcmRheS5nZXRUaW1lKCk7CgogICAgICAvLyBDaGVjayBpZiBsYXN0IGNsYWltIHdhcyB5ZXN0ZXJkYXkgKGNvbnRpbnVlIHN0cmVhaykKICAgICAgaWYgKHN0cmVhay5sYXN0Q2xhaW1EYXRlID49IHllc3RlcmRheVRpbWVzdGFtcCAmJiBzdHJlYWsubGFzdENsYWltRGF0ZSA8IHRvZGF5VGltZXN0YW1wKSB7CiAgICAgICAgbmV3U3RyZWFrID0gc3RyZWFrLmN1cnJlbnRTdHJlYWsgKyAxOwogICAgICB9IGVsc2UgewogICAgICAgIC8vIFN0cmVhayBicm9rZW4sIHJlc2V0IHRvIDEKICAgICAgICBuZXdTdHJlYWsgPSAxOwogICAgICB9CgogICAgICAvLyBDaGVjayBpZiBuZXcgcmVjb3JkCiAgICAgIGlmIChuZXdTdHJlYWsgPiBzdHJlYWsubG9uZ2VzdFN0cmVhaykgewogICAgICAgIGlzTmV3UmVjb3JkID0gdHJ1ZTsKICAgICAgfQoKICAgICAgLy8gVXBkYXRlIHN0cmVhawogICAgICBhd2FpdCBjdHguZGIucGF0Y2goc3RyZWFrLl9pZCwgewogICAgICAgIGN1cnJlbnRTdHJlYWs6IG5ld1N0cmVhaywKICAgICAgICBsb25nZXN0U3RyZWFrOiBNYXRoLm1heChuZXdTdHJlYWssIHN0cmVhay5sb25nZXN0U3RyZWFrKSwKICAgICAgICB0b3RhbExvZ2luczogc3RyZWFrLnRvdGFsTG9naW5zICsgMSwKICAgICAgICBsYXN0Q2xhaW1EYXRlOiB0b2RheVRpbWVzdGFtcCwKICAgICAgfSk7CiAgICB9IGVsc2UgewogICAgICAvLyBDcmVhdGUgbmV3IHN0cmVhawogICAgICBjb25zdCBzdHJlYWtJZCA9IGF3YWl0IGN0eC5kYi5pbnNlcnQoImxvZ2luU3RyZWFrcyIsIHsKICAgICAgICB1c2VySWQ6IGFyZ3MudXNlcklkLAogICAgICAgIGN1cnJlbnRTdHJlYWs6IDEsCiAgICAgICAgbG9uZ2VzdFN0cmVhazogMSwKICAgICAgICB0b3RhbExvZ2luczogMSwKICAgICAgICBsYXN0Q2xhaW1EYXRlOiB0b2RheVRpbWVzdGFtcCwKICAgICAgfSk7CiAgICAgIC8vIEZldGNoIHRoZSBjcmVhdGVkIHN0cmVhawogICAgICBjb25zdCBuZXdTdHJlYWtEb2MgPSBhd2FpdCBjdHguZGIuZ2V0KHN0cmVha0lkKTsKICAgICAgc3RyZWFrID0gbmV3U3RyZWFrRG9jOwogICAgICBuZXdTdHJlYWsgPSAxOwogICAgfQoKICAgIC8vIENoZWNrIGlmIHVzZXIgZWFybmVkIGEgcmV3YXJkCiAgICBjb25zdCByZXdhcmQgPSBTVFJFQUtfUkVXQVJEUy5maW5kKHIgPT4gci5kYXkgPT09IG5ld1N0cmVhayk7CiAgICBpZiAocmV3YXJkKSB7CiAgICAgIHJld2FyZENsYWltZWQgPSByZXdhcmQ7CiAgICAgIGF3YWl0IGdyYW50U3RyZWFrUmV3YXJkKGN0eCwgYXJncy51c2VySWQsIHJld2FyZCk7CgogICAgICAvLyBTZW5kIG5vdGlmaWNhdGlvbgogICAgICBhd2FpdCBpbnNlcnROb3RpZmljYXRpb24oY3R4LCB7CiAgICAgICAgdXNlcklkOiBhcmdzLnVzZXJJZCwKICAgICAgICB0eXBlOiAiZGFpbHlfcmV3YXJkIiwKICAgICAgICB0aXRsZTogYCR7cmV3YXJkLmljb259ICR7bmV3U3RyZWFrfS1EYXkgU3RyZWFrIFJld2FyZCFgLAogICAgICAgIGJvZHk6IHJld2FyZC5kZXNjcmlwdGlvbiwKICAgICAgICBwcmlvcml0eTogImhpZ2giLAogICAgICAgIGNhdGVnb3J5OiAic3lzdGVtIiwKICAgICAgICBpY29uOiByZXdhcmQuaWNvbiwKICAgICAgICBhY3Rpb25CdXR0b25zOiBbCiAgICAgICAgICB7IGxhYmVsOiAiVmlldyBSZXdhcmRzIiwgYWN0aW9uOiAibmF2aWdhdGUiLCBsaW5rOiAiL2Rhc2hib2FyZCIgfSwKICAgICAgICBdLAogICAgICB9KTsKICAgIH0KCiAgICByZXR1cm4gewogICAgICBhbHJlYWR5Q2xhaW1lZDogZmFsc2UsCiAgICAgIGN1cnJlbnRTdHJlYWs6IG5ld1N0cmVhaywKICAgICAgbG9uZ2VzdFN0cmVhazogc3RyZWFrPy5sb25nZXN0U3RyZWFrIHx8IG5ld1N0cmVhaywKICAgICAgaXNOZXdSZWNvcmQsCiAgICAgIHJld2FyZENsYWltZWQsCiAgICAgIG5leHRSZXdhcmQ6IGdldE5leHRSZXdhcmQobmV3U3RyZWFrKSwKICAgICAgdG90YWxMb2dpbnM6IHN0cmVhaz8udG90YWxMb2dpbnMgfHwgMSwKICAgIH07CiAgfSwKfSk7CgovLyBHZXQgY3VycmVudCBzdHJlYWsgc3RhdHVzCmV4cG9ydCBjb25zdCBnZXRTdHJlYWtTdGF0dXMgPSBxdWVyeSh7CiAgYXJnczogewogICAgdXNlcklkOiB2LmlkKCJ1c2VycyIpLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3Qgc3RyZWFrID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgibG9naW5TdHJlYWtzIikKICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIGFyZ3MudXNlcklkKSkKICAgICAgLmZpcnN0KCk7CgogICAgaWYgKCFzdHJlYWspIHsKICAgICAgcmV0dXJuIHsKICAgICAgICBjdXJyZW50U3RyZWFrOiAwLAogICAgICAgIGxvbmdlc3RTdHJlYWs6IDAsCiAgICAgICAgdG90YWxMb2dpbnM6IDAsCiAgICAgICAgY2FuQ2xhaW1Ub2RheTogdHJ1ZSwKICAgICAgICBuZXh0UmV3YXJkOiBnZXROZXh0UmV3YXJkKDApLAogICAgICAgIHVwY29taW5nUmV3YXJkczogU1RSRUFLX1JFV0FSRFMuc2xpY2UoMCwgNSksCiAgICAgIH07CiAgICB9CgogICAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKTsKICAgIGNvbnN0IHRvZGF5ID0gbmV3IERhdGUobm93KTsKICAgIHRvZGF5LnNldEhvdXJzKDAsIDAsIDAsIDApOwogICAgY29uc3QgdG9kYXlUaW1lc3RhbXAgPSB0b2RheS5nZXRUaW1lKCk7CgogICAgLy8gQ2hlY2sgaWYgY2FuIGNsYWltIHRvZGF5CiAgICBjb25zdCBjYW5DbGFpbVRvZGF5ID0gc3RyZWFrLmxhc3RDbGFpbURhdGUgPCB0b2RheVRpbWVzdGFtcDsKCiAgICAvLyBDaGVjayBpZiBzdHJlYWsgaXMgc3RpbGwgYWN0aXZlIChjbGFpbWVkIHllc3RlcmRheSBvciB0b2RheSkKICAgIGNvbnN0IHllc3RlcmRheSA9IG5ldyBEYXRlKG5vdyk7CiAgICB5ZXN0ZXJkYXkuc2V0RGF0ZSh5ZXN0ZXJkYXkuZ2V0RGF0ZSgpIC0gMSk7CiAgICB5ZXN0ZXJkYXkuc2V0SG91cnMoMCwgMCwgMCwgMCk7CiAgICBjb25zdCB5ZXN0ZXJkYXlUaW1lc3RhbXAgPSB5ZXN0ZXJkYXkuZ2V0VGltZSgpOwoKICAgIGNvbnN0IGlzU3RyZWFrQWN0aXZlID0gc3RyZWFrLmxhc3RDbGFpbURhdGUgPj0geWVzdGVyZGF5VGltZXN0YW1wOwogICAgY29uc3QgY3VycmVudFN0cmVhayA9IGlzU3RyZWFrQWN0aXZlID8gc3RyZWFrLmN1cnJlbnRTdHJlYWsgOiAwOwoKICAgIHJldHVybiB7CiAgICAgIGN1cnJlbnRTdHJlYWssCiAgICAgIGxvbmdlc3RTdHJlYWs6IHN0cmVhay5sb25nZXN0U3RyZWFrLAogICAgICB0b3RhbExvZ2luczogc3RyZWFrLnRvdGFsTG9naW5zLAogICAgICBjYW5DbGFpbVRvZGF5LAogICAgICBsYXN0Q2xhaW1EYXRlOiBzdHJlYWsubGFzdENsYWltRGF0ZSwKICAgICAgbmV4dFJld2FyZDogZ2V0TmV4dFJld2FyZChjdXJyZW50U3RyZWFrKSwKICAgICAgdXBjb21pbmdSZXdhcmRzOiBTVFJFQUtfUkVXQVJEUy5maWx0ZXIociA9PiByLmRheSA+IGN1cnJlbnRTdHJlYWspLnNsaWNlKDAsIDUpLAogICAgfTsKICB9LAp9KTsKCi8vIEdldCBsZWFkZXJib2FyZCBvZiBsb25nZXN0IHN0cmVha3MKZXhwb3J0IGNvbnN0IGdldFN0cmVha0xlYWRlcmJvYXJkID0gcXVlcnkoewogIGFyZ3M6IHsKICAgIGxpbWl0OiB2Lm9wdGlvbmFsKHYubnVtYmVyKCkpLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3QgbGltaXQgPSBhcmdzLmxpbWl0IHx8IDEwOwoKICAgIGNvbnN0IHN0cmVha3MgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJsb2dpblN0cmVha3MiKQogICAgICAub3JkZXIoImRlc2MiKQogICAgICAudGFrZShsaW1pdCAqIDIpOyAvLyBUYWtlIG1vcmUgdG8gZmlsdGVyIG91dCBpbmFjdGl2ZSBzdHJlYWtzCgogICAgLy8gU29ydCBieSBsb25nZXN0IHN0cmVhawogICAgY29uc3Qgc29ydGVkU3RyZWFrcyA9IHN0cmVha3MKICAgICAgLnNvcnQoKGEsIGIpID0+IGIubG9uZ2VzdFN0cmVhayAtIGEubG9uZ2VzdFN0cmVhaykKICAgICAgLnNsaWNlKDAsIGxpbWl0KTsKCiAgICAvLyBHZXQgdXNlciBwcm9maWxlcwogICAgY29uc3QgbGVhZGVyYm9hcmQgPSBhd2FpdCBQcm9taXNlLmFsbCgKICAgICAgc29ydGVkU3RyZWFrcy5tYXAoYXN5bmMgKHN0cmVhaykgPT4gewogICAgICAgIGNvbnN0IHVzZXIgPSBhd2FpdCBjdHguZGIuZ2V0KHN0cmVhay51c2VySWQpOwogICAgICAgIGNvbnN0IHByb2ZpbGUgPSBhd2FpdCBjdHguZGIKICAgICAgICAgIC5xdWVyeSgicHJvZmlsZXMiKQogICAgICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIHN0cmVhay51c2VySWQpKQogICAgICAgICAgLmZpcnN0KCk7CgogICAgICAgIHJldHVybiB7CiAgICAgICAgICB1c2VySWQ6IHN0cmVhay51c2VySWQsCiAgICAgICAgICB1c2VyTmFtZTogdXNlcj8ubmFtZSB8fCAiQW5vbnltb3VzIiwKICAgICAgICAgIGN1cnJlbnRTdHJlYWs6IHN0cmVhay5jdXJyZW50U3RyZWFrLAogICAgICAgICAgbG9uZ2VzdFN0cmVhazogc3RyZWFrLmxvbmdlc3RTdHJlYWssCiAgICAgICAgICB0b3RhbExvZ2luczogc3RyZWFrLnRvdGFsTG9naW5zLAogICAgICAgICAgcHJvZmlsZVBob3RvOiB1bmRlZmluZWQsIC8vIFByb2ZpbGUgcGhvdG9zIHdpbGwgYmUgaGFuZGxlZCBkaWZmZXJlbnRseQogICAgICAgIH07CiAgICAgIH0pCiAgICApOwoKICAgIHJldHVybiBsZWFkZXJib2FyZDsKICB9LAp9KTsKCi8vIEhlbHBlcjogR2V0IG5leHQgcmV3YXJkIGZvciBnaXZlbiBzdHJlYWsKZnVuY3Rpb24gZ2V0TmV4dFJld2FyZChjdXJyZW50U3RyZWFrOiBudW1iZXIpOiBEYWlseVJld2FyZCB8IG51bGwgewogIGNvbnN0IG5leHRSZXdhcmQgPSBTVFJFQUtfUkVXQVJEUy5maW5kKHIgPT4gci5kYXkgPiBjdXJyZW50U3RyZWFrKTsKICByZXR1cm4gbmV4dFJld2FyZCB8fCBudWxsOwp9CgovLyBIZWxwZXI6IEdyYW50IHJld2FyZCB0byB1c2VyCmFzeW5jIGZ1bmN0aW9uIGdyYW50U3RyZWFrUmV3YXJkKGN0eDogYW55LCB1c2VySWQ6IGFueSwgcmV3YXJkOiBEYWlseVJld2FyZCkgewogIGNvbnN0IG5vdyA9IERhdGUubm93KCk7CgogIHN3aXRjaCAocmV3YXJkLnR5cGUpIHsKICAgIGNhc2UgImJvb3N0IjoKICAgICAgLy8gR3JhbnQgYm9vc3QgY3JlZGl0cwogICAgICBjb25zdCBib29zdENyZWRpdHMgPSBhd2FpdCBjdHguZGIKICAgICAgICAucXVlcnkoImJvb3N0Q3JlZGl0cyIpCiAgICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHE6IGFueSkgPT4gcS5lcSgidXNlcklkIiwgdXNlcklkKSkKICAgICAgICAuZmlyc3QoKTsKCiAgICAgIGlmIChib29zdENyZWRpdHMpIHsKICAgICAgICBhd2FpdCBjdHguZGIucGF0Y2goYm9vc3RDcmVkaXRzLl9pZCwgewogICAgICAgICAgY3JlZGl0czogYm9vc3RDcmVkaXRzLmNyZWRpdHMgKyByZXdhcmQuYW1vdW50LAogICAgICAgIH0pOwogICAgICB9IGVsc2UgewogICAgICAgIGF3YWl0IGN0eC5kYi5pbnNlcnQoImJvb3N0Q3JlZGl0cyIsIHsKICAgICAgICAgIHVzZXJJZCwKICAgICAgICAgIGNyZWRpdHM6IHJld2FyZC5hbW91bnQsCiAgICAgICAgICBsYXN0R3JhbnRlZDogbm93LAogICAgICAgIH0pOwogICAgICB9CiAgICAgIGJyZWFrOwoKICAgIGNhc2UgInVubG9jayI6CiAgICAgIC8vIEdyYW50IHVubG9jayBjcmVkaXRzCiAgICAgIGNvbnN0IHVubG9ja0NyZWRpdHMgPSBhd2FpdCBjdHguZGIKICAgICAgICAucXVlcnkoInVubG9ja0NyZWRpdHMiKQogICAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxOiBhbnkpID0+IHEuZXEoInVzZXJJZCIsIHVzZXJJZCkpCiAgICAgICAgLmZpcnN0KCk7CgogICAgICBpZiAodW5sb2NrQ3JlZGl0cykgewogICAgICAgIGF3YWl0IGN0eC5kYi5wYXRjaCh1bmxvY2tDcmVkaXRzLl9pZCwgewogICAgICAgICAgY3JlZGl0czogdW5sb2NrQ3JlZGl0cy5jcmVkaXRzICsgcmV3YXJkLmFtb3VudCwKICAgICAgICB9KTsKICAgICAgfSBlbHNlIHsKICAgICAgICBhd2FpdCBjdHguZGIuaW5zZXJ0KCJ1bmxvY2tDcmVkaXRzIiwgewogICAgICAgICAgdXNlcklkLAogICAgICAgICAgY3JlZGl0czogcmV3YXJkLmFtb3VudCwKICAgICAgICAgIGxhc3RHcmFudGVkOiBub3csCiAgICAgICAgfSk7CiAgICAgIH0KICAgICAgYnJlYWs7CgogICAgY2FzZSAicHJlbWl1bV90cmlhbCI6CiAgICAgIC8vIEdyYW50IHByZW1pdW0gdHJpYWwgZGF5cwogICAgICAvLyBUaGlzIHdvdWxkIGludGVncmF0ZSB3aXRoIHlvdXIgc3Vic2NyaXB0aW9uIHN5c3RlbQogICAgICBicmVhazsKCiAgICBjYXNlICJiYWRnZSI6CiAgICAgIC8vIEdyYW50IHNwZWNpYWwgYmFkZ2UKICAgICAgY29uc3QgYmFkZ2VJZCA9IGBzdHJlYWtfJHtyZXdhcmQuZGF5fV9kYXlzYDsKICAgICAgYXdhaXQgY3R4LmRiLmluc2VydCgidXNlckJhZGdlcyIsIHsKICAgICAgICB1c2VySWQsCiAgICAgICAgYmFkZ2VJZCwKICAgICAgICBuYW1lOiBgJHtyZXdhcmQuZGF5fSBEYXkgU3RyZWFrYCwKICAgICAgICBkZXNjcmlwdGlvbjogYExvZ2dlZCBpbiBmb3IgJHtyZXdhcmQuZGF5fSBjb25zZWN1dGl2ZSBkYXlzYCwKICAgICAgICBpY29uOiByZXdhcmQuaWNvbiwKICAgICAgICBjYXRlZ29yeTogImFjaGlldmVtZW50IiwKICAgICAgICByYXJpdHk6ICJsZWdlbmRhcnkiLAogICAgICAgIGVhcm5lZEF0OiBub3csCiAgICAgIH0pOwogICAgICBicmVhazsKICB9Cn0K"}
+import { v } from "convex/values";
+import { mutation, query } from "./_generated/server";
+import { insertNotification } from "./notifications";
+
+/**
+ * Daily Login Streak & Rewards System
+ * Gamification feature to boost daily engagement
+ */
+
+export interface DailyReward {
+  day: number;
+  type: "boost" | "unlock" | "premium_trial" | "badge";
+  amount: number;
+  description: string;
+  icon: string;
+}
+
+// Reward tiers for consecutive days
+const STREAK_REWARDS: DailyReward[] = [
+  { day: 1, type: "boost", amount: 1, description: "Welcome! 1 free profile boost", icon: "🎉" },
+  { day: 3, type: "unlock", amount: 1, description: "3-day streak! 1 free profile unlock", icon: "🔥" },
+  { day: 7, type: "boost", amount: 2, description: "Week strong! 2 free boosts", icon: "⭐" },
+  { day: 14, type: "unlock", amount: 2, description: "Two weeks! 2 free unlocks", icon: "💎" },
+  { day: 30, type: "premium_trial", amount: 1, description: "Month milestone! 1 day premium trial", icon: "👑" },
+  { day: 60, type: "unlock", amount: 5, description: "60 days! 5 free unlocks", icon: "🏆" },
+  { day: 90, type: "premium_trial", amount: 3, description: "90 days! 3 days premium", icon: "🌟" },
+  { day: 180, type: "badge", amount: 1, description: "Half year! Legendary badge", icon: "🎖️" },
+];
+
+// Check and claim daily login reward
+export const claimDailyLogin = mutation({
+  args: {
+    userId: v.id("users"),
+  },
+  handler: async (ctx, args) => {
+    const user = await ctx.db.get(args.userId);
+    if (!user) throw new Error("User not found");
+
+    // Get or create streak record
+    let streak = await ctx.db
+      .query("loginStreaks")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .first();
+
+    const now = Date.now();
+    const today = new Date(now);
+    today.setHours(0, 0, 0, 0);
+    const todayTimestamp = today.getTime();
+
+    // Check if already claimed today
+    if (streak && streak.lastClaimDate >= todayTimestamp) {
+      return {
+        alreadyClaimed: true,
+        currentStreak: streak.currentStreak,
+        nextReward: getNextReward(streak.currentStreak),
+      };
+    }
+
+    let newStreak = 1;
+    let isNewRecord = false;
+    let rewardClaimed: DailyReward | null = null;
+
+    if (streak) {
+      const yesterday = new Date(now);
+      yesterday.setDate(yesterday.getDate() - 1);
+      yesterday.setHours(0, 0, 0, 0);
+      const yesterdayTimestamp = yesterday.getTime();
+
+      // Check if last claim was yesterday (continue streak)
+      if (streak.lastClaimDate >= yesterdayTimestamp && streak.lastClaimDate < todayTimestamp) {
+        newStreak = streak.currentStreak + 1;
+      } else {
+        // Streak broken, reset to 1
+        newStreak = 1;
+      }
+
+      // Check if new record
+      if (newStreak > streak.longestStreak) {
+        isNewRecord = true;
+      }
+
+      // Update streak
+      await ctx.db.patch(streak._id, {
+        currentStreak: newStreak,
+        longestStreak: Math.max(newStreak, streak.longestStreak),
+        totalLogins: streak.totalLogins + 1,
+        lastClaimDate: todayTimestamp,
+      });
+    } else {
+      // Create new streak
+      const streakId = await ctx.db.insert("loginStreaks", {
+        userId: args.userId,
+        currentStreak: 1,
+        longestStreak: 1,
+        totalLogins: 1,
+        lastClaimDate: todayTimestamp,
+      });
+      // Fetch the created streak
+      const newStreakDoc = await ctx.db.get(streakId);
+      streak = newStreakDoc;
+      newStreak = 1;
+    }
+
+    // Check if user earned a reward
+    const reward = STREAK_REWARDS.find(r => r.day === newStreak);
+    if (reward) {
+      rewardClaimed = reward;
+      await grantStreakReward(ctx, args.userId, reward);
+
+      // Send notification
+      await insertNotification(ctx, {
+        userId: args.userId,
+        type: "daily_reward",
+        title: `${reward.icon} ${newStreak}-Day Streak Reward!`,
+        body: reward.description,
+        priority: "high",
+        category: "system",
+        icon: reward.icon,
+        actionButtons: [
+          { label: "View Rewards", action: "navigate", link: "/dashboard" },
+        ],
+      });
+    }
+
+    return {
+      alreadyClaimed: false,
+      currentStreak: newStreak,
+      longestStreak: streak?.longestStreak || newStreak,
+      isNewRecord,
+      rewardClaimed,
+      nextReward: getNextReward(newStreak),
+      totalLogins: streak?.totalLogins || 1,
+    };
+  },
+});
+
+// Get current streak status
+export const getStreakStatus = query({
+  args: {
+    userId: v.id("users"),
+  },
+  handler: async (ctx, args) => {
+    const streak = await ctx.db
+      .query("loginStreaks")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .first();
+
+    if (!streak) {
+      return {
+        currentStreak: 0,
+        longestStreak: 0,
+        totalLogins: 0,
+        canClaimToday: true,
+        nextReward: getNextReward(0),
+        upcomingRewards: STREAK_REWARDS.slice(0, 5),
+      };
+    }
+
+    const now = Date.now();
+    const today = new Date(now);
+    today.setHours(0, 0, 0, 0);
+    const todayTimestamp = today.getTime();
+
+    // Check if can claim today
+    const canClaimToday = streak.lastClaimDate < todayTimestamp;
+
+    // Check if streak is still active (claimed yesterday or today)
+    const yesterday = new Date(now);
+    yesterday.setDate(yesterday.getDate() - 1);
+    yesterday.setHours(0, 0, 0, 0);
+    const yesterdayTimestamp = yesterday.getTime();
+
+    const isStreakActive = streak.lastClaimDate >= yesterdayTimestamp;
+    const currentStreak = isStreakActive ? streak.currentStreak : 0;
+
+    return {
+      currentStreak,
+      longestStreak: streak.longestStreak,
+      totalLogins: streak.totalLogins,
+      canClaimToday,
+      lastClaimDate: streak.lastClaimDate,
+      nextReward: getNextReward(currentStreak),
+      upcomingRewards: STREAK_REWARDS.filter(r => r.day > currentStreak).slice(0, 5),
+    };
+  },
+});
+
+// Get leaderboard of longest streaks
+export const getStreakLeaderboard = query({
+  args: {
+    limit: v.optional(v.number()),
+  },
+  handler: async (ctx, args) => {
+    const limit = args.limit || 10;
+
+    const streaks = await ctx.db
+      .query("loginStreaks")
+      .order("desc")
+      .take(limit * 2); // Take more to filter out inactive streaks
+
+    // Sort by longest streak
+    const sortedStreaks = streaks
+      .sort((a, b) => b.longestStreak - a.longestStreak)
+      .slice(0, limit);
+
+    // Get user profiles
+    const leaderboard = await Promise.all(
+      sortedStreaks.map(async (streak) => {
+        const user = await ctx.db.get(streak.userId);
+        const profile = await ctx.db
+          .query("profiles")
+          .withIndex("userId", (q) => q.eq("userId", streak.userId))
+          .first();
+
+        return {
+          userId: streak.userId,
+          userName: user?.name || "Anonymous",
+          currentStreak: streak.currentStreak,
+          longestStreak: streak.longestStreak,
+          totalLogins: streak.totalLogins,
+          profilePhoto: undefined, // Profile photos will be handled differently
+        };
+      })
+    );
+
+    return leaderboard;
+  },
+});
+
+// Helper: Get next reward for given streak
+function getNextReward(currentStreak: number): DailyReward | null {
+  const nextReward = STREAK_REWARDS.find(r => r.day > currentStreak);
+  return nextReward || null;
+}
+
+// Helper: Grant reward to user
+async function grantStreakReward(ctx: any, userId: any, reward: DailyReward) {
+  const now = Date.now();
+
+  switch (reward.type) {
+    case "boost":
+      // Grant boost credits
+      const boostCredits = await ctx.db
+        .query("boostCredits")
+        .withIndex("userId", (q: any) => q.eq("userId", userId))
+        .first();
+
+      if (boostCredits) {
+        await ctx.db.patch(boostCredits._id, {
+          credits: boostCredits.credits + reward.amount,
+        });
+      } else {
+        await ctx.db.insert("boostCredits", {
+          userId,
+          credits: reward.amount,
+          lastGranted: now,
+        });
+      }
+      break;
+
+    case "unlock":
+      // Grant unlock credits
+      const unlockCredits = await ctx.db
+        .query("unlockCredits")
+        .withIndex("userId", (q: any) => q.eq("userId", userId))
+        .first();
+
+      if (unlockCredits) {
+        await ctx.db.patch(unlockCredits._id, {
+          credits: unlockCredits.credits + reward.amount,
+        });
+      } else {
+        await ctx.db.insert("unlockCredits", {
+          userId,
+          credits: reward.amount,
+          lastGranted: now,
+        });
+      }
+      break;
+
+    case "premium_trial":
+      // Grant premium trial days
+      // This would integrate with your subscription system
+      break;
+
+    case "badge":
+      // Grant special badge
+      const badgeId = `streak_${reward.day}_days`;
+      await ctx.db.insert("userBadges", {
+        userId,
+        badgeId,
+        name: `${reward.day} Day Streak`,
+        description: `Logged in for ${reward.day} consecutive days`,
+        icon: reward.icon,
+        category: "achievement",
+        rarity: "legendary",
+        earnedAt: now,
+      });
+      break;
+  }
+}

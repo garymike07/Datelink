@@ -1,1 +1,199 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUsIHVzZVJlZiB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgbW90aW9uLCB1c2VNb3Rpb25WYWx1ZSwgdXNlVHJhbnNmb3JtLCBQYW5JbmZvIH0gZnJvbSAiZnJhbWVyLW1vdGlvbiI7CmltcG9ydCB7IFByb2ZpbGVDYXJkIH0gZnJvbSAiLi9Qcm9maWxlQ2FyZCI7CgppbnRlcmZhY2UgUGhvdG8gewogIF9pZD86IHN0cmluZzsKICB1cmw6IHN0cmluZzsKICBvcmRlcjogbnVtYmVyOwogIGlzUHJpbWFyeTogYm9vbGVhbjsKfQoKaW50ZXJmYWNlIFByb2ZpbGUgewogIHVzZXJJZDogc3RyaW5nOwogIG5hbWU6IHN0cmluZzsKICBhZ2U6IG51bWJlcjsKICBsb2NhdGlvbj86IHN0cmluZzsKICBqb2JUaXRsZT86IHN0cmluZzsKICBiaW8/OiBzdHJpbmc7CiAgcGhvdG9zOiBQaG90b1tdOwogIGludGVyZXN0czogc3RyaW5nW107CiAgaXNQcmVtaXVtPzogYm9vbGVhbjsKICBkaXN0YW5jZUttPzogbnVtYmVyIHwgbnVsbDsKICBkaXN0YW5jZUNpdHk/OiBzdHJpbmcgfCBudWxsOwogIHBhc3Nwb3J0TW9kZT86IGJvb2xlYW47Cn0KCmludGVyZmFjZSBDYXJkU3RhY2tQcm9wcyB7CiAgcHJvZmlsZXM6IFByb2ZpbGVbXTsKICBjdXJyZW50SW5kZXg6IG51bWJlcjsKICBjdXJyZW50VXNlcklkPzogc3RyaW5nOwogIG9uU3dpcGVMZWZ0OiAocHJvZmlsZTogUHJvZmlsZSkgPT4gdm9pZDsKICBvblN3aXBlUmlnaHQ6IChwcm9maWxlOiBQcm9maWxlKSA9PiB2b2lkOwogIG9uU3dpcGVVcDogKHByb2ZpbGU6IFByb2ZpbGUpID0+IHZvaWQ7CiAgb25JbmZvQ2xpY2s/OiAocHJvZmlsZTogUHJvZmlsZSkgPT4gdm9pZDsKfQoKY29uc3QgU1dJUEVfVEhSRVNIT0xEID0gMTAwOwpjb25zdCBST1RBVElPTl9GQUNUT1IgPSAxNTsKCmV4cG9ydCBjb25zdCBDYXJkU3RhY2sgPSAoewogIHByb2ZpbGVzLAogIGN1cnJlbnRJbmRleCwKICBjdXJyZW50VXNlcklkLAogIG9uU3dpcGVMZWZ0LAogIG9uU3dpcGVSaWdodCwKICBvblN3aXBlVXAsCiAgb25JbmZvQ2xpY2ssCn06IENhcmRTdGFja1Byb3BzKSA9PiB7CiAgY29uc3QgW2V4aXREaXJlY3Rpb24sIHNldEV4aXREaXJlY3Rpb25dID0gdXNlU3RhdGU8J2xlZnQnIHwgJ3JpZ2h0JyB8ICd1cCcgfCBudWxsPihudWxsKTsKICBjb25zdCB4ID0gdXNlTW90aW9uVmFsdWUoMCk7CiAgY29uc3QgeSA9IHVzZU1vdGlvblZhbHVlKDApOwoKICAvLyBSb3RhdGlvbiBiYXNlZCBvbiBob3Jpem9udGFsIGRyYWcKICBjb25zdCByb3RhdGUgPSB1c2VUcmFuc2Zvcm0oeCwgWy0yMDAsIDIwMF0sIFstUk9UQVRJT05fRkFDVE9SLCBST1RBVElPTl9GQUNUT1JdKTsKICAKICAvLyBPcGFjaXR5IG92ZXJsYXlzIGZvciB2aXN1YWwgZmVlZGJhY2sKICBjb25zdCBsaWtlT3BhY2l0eSA9IHVzZVRyYW5zZm9ybSh4LCBbMCwgMTAwXSwgWzAsIDFdKTsKICBjb25zdCBwYXNzT3BhY2l0eSA9IHVzZVRyYW5zZm9ybSh4LCBbLTEwMCwgMF0sIFsxLCAwXSk7CiAgY29uc3Qgc3VwZXJMaWtlT3BhY2l0eSA9IHVzZVRyYW5zZm9ybSh5LCBbLTEwMCwgMF0sIFsxLCAwXSk7CgogIGNvbnN0IGhhbmRsZURyYWdFbmQgPSAoZXZlbnQ6IGFueSwgaW5mbzogUGFuSW5mbykgPT4gewogICAgY29uc3QgY3VycmVudFByb2ZpbGUgPSBwcm9maWxlc1tjdXJyZW50SW5kZXhdOwogICAgaWYgKCFjdXJyZW50UHJvZmlsZSkgcmV0dXJuOwoKICAgIC8vIFN1cGVyIExpa2UgKHN3aXBlIHVwKQogICAgaWYgKGluZm8ub2Zmc2V0LnkgPCAtU1dJUEVfVEhSRVNIT0xEKSB7CiAgICAgIHNldEV4aXREaXJlY3Rpb24oJ3VwJyk7CiAgICAgIG9uU3dpcGVVcChjdXJyZW50UHJvZmlsZSk7CiAgICAgIHJldHVybjsKICAgIH0KCiAgICAvLyBMaWtlIChzd2lwZSByaWdodCkKICAgIGlmIChpbmZvLm9mZnNldC54ID4gU1dJUEVfVEhSRVNIT0xEKSB7CiAgICAgIHNldEV4aXREaXJlY3Rpb24oJ3JpZ2h0Jyk7CiAgICAgIG9uU3dpcGVSaWdodChjdXJyZW50UHJvZmlsZSk7CiAgICAgIHJldHVybjsKICAgIH0KCiAgICAvLyBQYXNzIChzd2lwZSBsZWZ0KQogICAgaWYgKGluZm8ub2Zmc2V0LnggPCAtU1dJUEVfVEhSRVNIT0xEKSB7CiAgICAgIHNldEV4aXREaXJlY3Rpb24oJ2xlZnQnKTsKICAgICAgb25Td2lwZUxlZnQoY3VycmVudFByb2ZpbGUpOwogICAgICByZXR1cm47CiAgICB9CgogICAgLy8gUmVzZXQgaWYgbm90IGVub3VnaCBzd2lwZQogICAgeC5zZXQoMCk7CiAgICB5LnNldCgwKTsKICB9OwoKICBjb25zdCBjdXJyZW50UHJvZmlsZSA9IHByb2ZpbGVzW2N1cnJlbnRJbmRleF07CiAgY29uc3QgbmV4dFByb2ZpbGUgPSBwcm9maWxlc1tjdXJyZW50SW5kZXggKyAxXTsKICBjb25zdCBhZnRlck5leHRQcm9maWxlID0gcHJvZmlsZXNbY3VycmVudEluZGV4ICsgMl07CgogIGlmICghY3VycmVudFByb2ZpbGUpIHsKICAgIHJldHVybiBudWxsOwogIH0KCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJyZWxhdGl2ZSB3LWZ1bGwgaC1bNjV2aF0gbWQ6aC1bNzV2aF0gbWF4LXctbWQgbXgtYXV0byBwZXJzcGVjdGl2ZS0xMDAwIj4KICAgICAgey8qIENhcmQgc3RhY2sgd2l0aCAzIGNhcmRzIHZpc2libGUgKi99CiAgICAgIAogICAgICB7LyogVGhpcmQgY2FyZCAoYmFja2dyb3VuZCkgKi99CiAgICAgIHthZnRlck5leHRQcm9maWxlICYmICgKICAgICAgICA8bW90aW9uLmRpdgogICAgICAgICAgY2xhc3NOYW1lPSJhYnNvbHV0ZSBpbnNldC0wIHotMCIKICAgICAgICAgIGluaXRpYWw9e3sgc2NhbGU6IDAuOSwgeTogMzAsIG9wYWNpdHk6IDAgfX0KICAgICAgICAgIGFuaW1hdGU9e3sgc2NhbGU6IDAuOSwgeTogMzAsIG9wYWNpdHk6IDAuNSB9fQogICAgICAgICAgdHJhbnNpdGlvbj17eyBkdXJhdGlvbjogMC40IH19CiAgICAgICAgPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InctZnVsbCBoLWZ1bGwgcm91bmRlZC0zeGwgYmctd2hpdGUgc2hhZG93LXhsIG9wYWNpdHktNTAgYm9yZGVyIGJvcmRlci13aGl0ZS81MCIgLz4KICAgICAgICA8L21vdGlvbi5kaXY+CiAgICAgICl9CgogICAgICB7LyogU2Vjb25kIGNhcmQgKG1pZGRsZSkgKi99CiAgICAgIHtuZXh0UHJvZmlsZSAmJiAoCiAgICAgICAgPG1vdGlvbi5kaXYKICAgICAgICAgIGNsYXNzTmFtZT0iYWJzb2x1dGUgaW5zZXQtMCB6LTEwIgogICAgICAgICAgaW5pdGlhbD17eyBzY2FsZTogMC45NSwgeTogMTUsIG9wYWNpdHk6IDAuOCB9fQogICAgICAgICAgYW5pbWF0ZT17eyBzY2FsZTogMC45NSwgeTogMTUsIG9wYWNpdHk6IDEgfX0KICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuNCB9fQogICAgICAgID4KICAgICAgICAgIDxQcm9maWxlQ2FyZCBwcm9maWxlPXtuZXh0UHJvZmlsZX0gY3VycmVudFVzZXJJZD17Y3VycmVudFVzZXJJZH0gLz4KICAgICAgICA8L21vdGlvbi5kaXY+CiAgICAgICl9CgogICAgICB7LyogQ3VycmVudCBjYXJkICh0b3ApICovfQogICAgICA8bW90aW9uLmRpdgogICAgICAgIGNsYXNzTmFtZT0iYWJzb2x1dGUgaW5zZXQtMCB6LTIwIGN1cnNvci1ncmFiIGFjdGl2ZTpjdXJzb3ItZ3JhYmJpbmciCiAgICAgICAgc3R5bGU9e3sKICAgICAgICAgIHgsCiAgICAgICAgICB5LAogICAgICAgICAgcm90YXRlLAogICAgICAgIH19CiAgICAgICAgZHJhZwogICAgICAgIGRyYWdDb25zdHJhaW50cz17eyBsZWZ0OiAwLCByaWdodDogMCwgdG9wOiAwLCBib3R0b206IDAgfX0KICAgICAgICBkcmFnRWxhc3RpYz17MC43fQogICAgICAgIG9uRHJhZ0VuZD17aGFuZGxlRHJhZ0VuZH0KICAgICAgICBpbml0aWFsPXt7IHNjYWxlOiAxLCBvcGFjaXR5OiAxIH19CiAgICAgICAgYW5pbWF0ZT17CiAgICAgICAgICBleGl0RGlyZWN0aW9uCiAgICAgICAgICAgID8gewogICAgICAgICAgICAgICAgeDogZXhpdERpcmVjdGlvbiA9PT0gJ2xlZnQnID8gLTEwMDAgOiBleGl0RGlyZWN0aW9uID09PSAncmlnaHQnID8gMTAwMCA6IDAsCiAgICAgICAgICAgICAgICB5OiBleGl0RGlyZWN0aW9uID09PSAndXAnID8gLTEwMDAgOiAwLAogICAgICAgICAgICAgICAgb3BhY2l0eTogMCwKICAgICAgICAgICAgICAgIHJvdGF0ZTogZXhpdERpcmVjdGlvbiA9PT0gJ2xlZnQnID8gLTQ1IDogZXhpdERpcmVjdGlvbiA9PT0gJ3JpZ2h0JyA/IDQ1IDogMCwKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIDogeyBzY2FsZTogMSwgb3BhY2l0eTogMSwgeDogMCwgeTogMCB9CiAgICAgICAgfQogICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuNCwgZWFzZTogImVhc2VJbk91dCIgfX0KICAgICAgICBvbkFuaW1hdGlvbkNvbXBsZXRlPXsoKSA9PiB7CiAgICAgICAgICBpZiAoZXhpdERpcmVjdGlvbikgewogICAgICAgICAgICBzZXRFeGl0RGlyZWN0aW9uKG51bGwpOwogICAgICAgICAgICB4LnNldCgwKTsKICAgICAgICAgICAgeS5zZXQoMCk7CiAgICAgICAgICB9CiAgICAgICAgfX0KICAgICAgPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LWZ1bGwgaC1mdWxsIHNoYWRvdy0yeGwgcm91bmRlZC0zeGwgb3ZlcmZsb3ctaGlkZGVuIGJnLWNhcmQgYm9yZGVyLTQgYm9yZGVyLXdoaXRlLzUwIj4KICAgICAgICAgICAgPFByb2ZpbGVDYXJkIAogICAgICAgICAgICAgIHByb2ZpbGU9e2N1cnJlbnRQcm9maWxlfQogICAgICAgICAgICAgIGN1cnJlbnRVc2VySWQ9e2N1cnJlbnRVc2VySWR9CiAgICAgICAgICAgICAgb25JbmZvQ2xpY2s9e29uSW5mb0NsaWNrID8gKCkgPT4gb25JbmZvQ2xpY2soY3VycmVudFByb2ZpbGUpIDogdW5kZWZpbmVkfQogICAgICAgICAgICAvPgogICAgICAgIDwvZGl2PgoKICAgICAgICB7LyogTGlrZSBPdmVybGF5IChyaWdodCBzd2lwZSBmZWVkYmFjaykgKi99CiAgICAgICAgPG1vdGlvbi5kaXYKICAgICAgICAgIGNsYXNzTmFtZT0iYWJzb2x1dGUgdG9wLTEwIGxlZnQtOCB6LTMwIHBvaW50ZXItZXZlbnRzLW5vbmUiCiAgICAgICAgICBzdHlsZT17eyBvcGFjaXR5OiBsaWtlT3BhY2l0eSB9fQogICAgICAgID4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJib3JkZXItNCBib3JkZXItZ3JlZW4tNTAwIHRleHQtZ3JlZW4tNTAwIGZvbnQtZXh0cmFib2xkIHRleHQtNHhsIHB4LTQgcHktMiByb3VuZGVkLXhsIC1yb3RhdGUtMTIgYmctd2hpdGUvMjAgYmFja2Ryb3AtYmx1ci1zbSBzaGFkb3ctbGciPgogICAgICAgICAgICBMSUtFCiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L21vdGlvbi5kaXY+CgogICAgICAgIHsvKiBQYXNzIE92ZXJsYXkgKGxlZnQgc3dpcGUgZmVlZGJhY2spICovfQogICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICBjbGFzc05hbWU9ImFic29sdXRlIHRvcC0xMCByaWdodC04IHotMzAgcG9pbnRlci1ldmVudHMtbm9uZSIKICAgICAgICAgIHN0eWxlPXt7IG9wYWNpdHk6IHBhc3NPcGFjaXR5IH19CiAgICAgICAgPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImJvcmRlci00IGJvcmRlci1yZWQtNTAwIHRleHQtcmVkLTUwMCBmb250LWV4dHJhYm9sZCB0ZXh0LTR4bCBweC00IHB5LTIgcm91bmRlZC14bCByb3RhdGUtMTIgYmctd2hpdGUvMjAgYmFja2Ryb3AtYmx1ci1zbSBzaGFkb3ctbGciPgogICAgICAgICAgICBOT1BFCiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L21vdGlvbi5kaXY+CgogICAgICAgIHsvKiBTdXBlciBMaWtlIE92ZXJsYXkgKHVwIHN3aXBlIGZlZWRiYWNrKSAqL30KICAgICAgICA8bW90aW9uLmRpdgogICAgICAgICAgY2xhc3NOYW1lPSJhYnNvbHV0ZSBib3R0b20tMzIgbGVmdC0wIHJpZ2h0LTAgei0zMCBwb2ludGVyLWV2ZW50cy1ub25lIGZsZXgganVzdGlmeS1jZW50ZXIiCiAgICAgICAgICBzdHlsZT17eyBvcGFjaXR5OiBzdXBlckxpa2VPcGFjaXR5IH19CiAgICAgICAgPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImJvcmRlci00IGJvcmRlci1ibHVlLTUwMCB0ZXh0LWJsdWUtNTAwIGZvbnQtZXh0cmFib2xkIHRleHQtNHhsIHB4LTQgcHktMiByb3VuZGVkLXhsIC1yb3RhdGUtNiBiZy13aGl0ZS8yMCBiYWNrZHJvcC1ibHVyLXNtIHNoYWRvdy1sZyI+CiAgICAgICAgICAgIFNVUEVSIExJS0UKICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvbW90aW9uLmRpdj4KICAgICAgPC9tb3Rpb24uZGl2PgogICAgPC9kaXY+CiAgKTsKfTsK"}
+import { useState, useRef } from "react";
+import { motion, useMotionValue, useTransform, PanInfo } from "framer-motion";
+import { ProfileCard } from "./ProfileCard";
+
+interface Photo {
+  _id?: string;
+  url: string;
+  order: number;
+  isPrimary: boolean;
+}
+
+interface Profile {
+  userId: string;
+  name: string;
+  age: number;
+  location?: string;
+  jobTitle?: string;
+  bio?: string;
+  photos: Photo[];
+  interests: string[];
+  isPremium?: boolean;
+  distanceKm?: number | null;
+  distanceCity?: string | null;
+  passportMode?: boolean;
+}
+
+interface CardStackProps {
+  profiles: Profile[];
+  currentIndex: number;
+  currentUserId?: string;
+  onSwipeLeft: (profile: Profile) => void;
+  onSwipeRight: (profile: Profile) => void;
+  onSwipeUp: (profile: Profile) => void;
+  onInfoClick?: (profile: Profile) => void;
+}
+
+const SWIPE_THRESHOLD = 100;
+const ROTATION_FACTOR = 15;
+
+export const CardStack = ({
+  profiles,
+  currentIndex,
+  currentUserId,
+  onSwipeLeft,
+  onSwipeRight,
+  onSwipeUp,
+  onInfoClick,
+}: CardStackProps) => {
+  const [exitDirection, setExitDirection] = useState<'left' | 'right' | 'up' | null>(null);
+  const x = useMotionValue(0);
+  const y = useMotionValue(0);
+
+  // Rotation based on horizontal drag
+  const rotate = useTransform(x, [-200, 200], [-ROTATION_FACTOR, ROTATION_FACTOR]);
+  
+  // Opacity overlays for visual feedback
+  const likeOpacity = useTransform(x, [0, 100], [0, 1]);
+  const passOpacity = useTransform(x, [-100, 0], [1, 0]);
+  const superLikeOpacity = useTransform(y, [-100, 0], [1, 0]);
+
+  const handleDragEnd = (event: any, info: PanInfo) => {
+    const currentProfile = profiles[currentIndex];
+    if (!currentProfile) return;
+
+    // Super Like (swipe up)
+    if (info.offset.y < -SWIPE_THRESHOLD) {
+      setExitDirection('up');
+      onSwipeUp(currentProfile);
+      return;
+    }
+
+    // Like (swipe right)
+    if (info.offset.x > SWIPE_THRESHOLD) {
+      setExitDirection('right');
+      onSwipeRight(currentProfile);
+      return;
+    }
+
+    // Pass (swipe left)
+    if (info.offset.x < -SWIPE_THRESHOLD) {
+      setExitDirection('left');
+      onSwipeLeft(currentProfile);
+      return;
+    }
+
+    // Reset if not enough swipe
+    x.set(0);
+    y.set(0);
+  };
+
+  const currentProfile = profiles[currentIndex];
+  const nextProfile = profiles[currentIndex + 1];
+  const afterNextProfile = profiles[currentIndex + 2];
+
+  if (!currentProfile) {
+    return null;
+  }
+
+  return (
+    <div className="relative w-full h-[65vh] md:h-[75vh] max-w-md mx-auto perspective-1000">
+      {/* Card stack with 3 cards visible */}
+      
+      {/* Third card (background) */}
+      {afterNextProfile && (
+        <motion.div
+          className="absolute inset-0 z-0"
+          initial={{ scale: 0.9, y: 30, opacity: 0 }}
+          animate={{ scale: 0.9, y: 30, opacity: 0.5 }}
+          transition={{ duration: 0.4 }}
+        >
+          <div className="w-full h-full rounded-3xl bg-white shadow-xl opacity-50 border border-white/50" />
+        </motion.div>
+      )}
+
+      {/* Second card (middle) */}
+      {nextProfile && (
+        <motion.div
+          className="absolute inset-0 z-10"
+          initial={{ scale: 0.95, y: 15, opacity: 0.8 }}
+          animate={{ scale: 0.95, y: 15, opacity: 1 }}
+          transition={{ duration: 0.4 }}
+        >
+          <ProfileCard profile={nextProfile} currentUserId={currentUserId} />
+        </motion.div>
+      )}
+
+      {/* Current card (top) */}
+      <motion.div
+        className="absolute inset-0 z-20 cursor-grab active:cursor-grabbing"
+        style={{
+          x,
+          y,
+          rotate,
+        }}
+        drag
+        dragConstraints={{ left: 0, right: 0, top: 0, bottom: 0 }}
+        dragElastic={0.7}
+        onDragEnd={handleDragEnd}
+        initial={{ scale: 1, opacity: 1 }}
+        animate={
+          exitDirection
+            ? {
+                x: exitDirection === 'left' ? -1000 : exitDirection === 'right' ? 1000 : 0,
+                y: exitDirection === 'up' ? -1000 : 0,
+                opacity: 0,
+                rotate: exitDirection === 'left' ? -45 : exitDirection === 'right' ? 45 : 0,
+              }
+            : { scale: 1, opacity: 1, x: 0, y: 0 }
+        }
+        transition={{ duration: 0.4, ease: "easeInOut" }}
+        onAnimationComplete={() => {
+          if (exitDirection) {
+            setExitDirection(null);
+            x.set(0);
+            y.set(0);
+          }
+        }}
+      >
+        <div className="w-full h-full shadow-2xl rounded-3xl overflow-hidden bg-card border-4 border-white/50">
+            <ProfileCard 
+              profile={currentProfile}
+              currentUserId={currentUserId}
+              onInfoClick={onInfoClick ? () => onInfoClick(currentProfile) : undefined}
+            />
+        </div>
+
+        {/* Like Overlay (right swipe feedback) */}
+        <motion.div
+          className="absolute top-10 left-8 z-30 pointer-events-none"
+          style={{ opacity: likeOpacity }}
+        >
+          <div className="border-4 border-green-500 text-green-500 font-extrabold text-4xl px-4 py-2 rounded-xl -rotate-12 bg-white/20 backdrop-blur-sm shadow-lg">
+            LIKE
+          </div>
+        </motion.div>
+
+        {/* Pass Overlay (left swipe feedback) */}
+        <motion.div
+          className="absolute top-10 right-8 z-30 pointer-events-none"
+          style={{ opacity: passOpacity }}
+        >
+          <div className="border-4 border-red-500 text-red-500 font-extrabold text-4xl px-4 py-2 rounded-xl rotate-12 bg-white/20 backdrop-blur-sm shadow-lg">
+            NOPE
+          </div>
+        </motion.div>
+
+        {/* Super Like Overlay (up swipe feedback) */}
+        <motion.div
+          className="absolute bottom-32 left-0 right-0 z-30 pointer-events-none flex justify-center"
+          style={{ opacity: superLikeOpacity }}
+        >
+          <div className="border-4 border-blue-500 text-blue-500 font-extrabold text-4xl px-4 py-2 rounded-xl -rotate-6 bg-white/20 backdrop-blur-sm shadow-lg">
+            SUPER LIKE
+          </div>
+        </motion.div>
+      </motion.div>
+    </div>
+  );
+};

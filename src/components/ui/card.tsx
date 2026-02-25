@@ -1,1 +1,50 @@
-{"data":"aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAicmVhY3QiOwoKaW1wb3J0IHsgY24gfSBmcm9tICJAL2xpYi91dGlscyI7Cgpjb25zdCBDYXJkID0gUmVhY3QuZm9yd2FyZFJlZjxIVE1MRGl2RWxlbWVudCwgUmVhY3QuSFRNTEF0dHJpYnV0ZXM8SFRNTERpdkVsZW1lbnQ+PigoeyBjbGFzc05hbWUsIC4uLnByb3BzIH0sIHJlZikgPT4gKAogIDxkaXYKICAgIHJlZj17cmVmfQogICAgY2xhc3NOYW1lPXtjbigKICAgICAgInJvdW5kZWQtMnhsIGJvcmRlciBib3JkZXItd2hpdGUvNDAgZGFyazpib3JkZXItd2hpdGUvMTAgYmctd2hpdGUvODAgZGFyazpiZy1ibGFjay80NSBiYWNrZHJvcC1ibHVyLXhsIHRleHQtY2FyZC1mb3JlZ3JvdW5kIHNoYWRvdy1nbGFzcy1zbSB0cmFuc2l0aW9uLXNoYWRvdyBkdXJhdGlvbi0zMDAiLAogICAgICBjbGFzc05hbWUsCiAgICApfQogICAgey4uLnByb3BzfQogIC8+CikpOwpDYXJkLmRpc3BsYXlOYW1lID0gIkNhcmQiOwoKY29uc3QgQ2FyZEhlYWRlciA9IFJlYWN0LmZvcndhcmRSZWY8SFRNTERpdkVsZW1lbnQsIFJlYWN0LkhUTUxBdHRyaWJ1dGVzPEhUTUxEaXZFbGVtZW50Pj4oCiAgKHsgY2xhc3NOYW1lLCAuLi5wcm9wcyB9LCByZWYpID0+ICgKICAgIDxkaXYgcmVmPXtyZWZ9IGNsYXNzTmFtZT17Y24oImZsZXggZmxleC1jb2wgc3BhY2UteS0xLjUgcC01IiwgY2xhc3NOYW1lKX0gey4uLnByb3BzfSAvPgogICksCik7CkNhcmRIZWFkZXIuZGlzcGxheU5hbWUgPSAiQ2FyZEhlYWRlciI7Cgpjb25zdCBDYXJkVGl0bGUgPSBSZWFjdC5mb3J3YXJkUmVmPEhUTUxQYXJhZ3JhcGhFbGVtZW50LCBSZWFjdC5IVE1MQXR0cmlidXRlczxIVE1MSGVhZGluZ0VsZW1lbnQ+PigKICAoeyBjbGFzc05hbWUsIC4uLnByb3BzIH0sIHJlZikgPT4gKAogICAgPGgzIHJlZj17cmVmfSBjbGFzc05hbWU9e2NuKCJ0ZXh0LWxnIGZvbnQtc2VtaWJvbGQgbGVhZGluZy1ub25lIHRyYWNraW5nLXRpZ2h0IiwgY2xhc3NOYW1lKX0gey4uLnByb3BzfSAvPgogICksCik7CkNhcmRUaXRsZS5kaXNwbGF5TmFtZSA9ICJDYXJkVGl0bGUiOwoKY29uc3QgQ2FyZERlc2NyaXB0aW9uID0gUmVhY3QuZm9yd2FyZFJlZjxIVE1MUGFyYWdyYXBoRWxlbWVudCwgUmVhY3QuSFRNTEF0dHJpYnV0ZXM8SFRNTFBhcmFncmFwaEVsZW1lbnQ+PigKICAoeyBjbGFzc05hbWUsIC4uLnByb3BzIH0sIHJlZikgPT4gKAogICAgPHAgcmVmPXtyZWZ9IGNsYXNzTmFtZT17Y24oInRleHQteHMgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIiwgY2xhc3NOYW1lKX0gey4uLnByb3BzfSAvPgogICksCik7CkNhcmREZXNjcmlwdGlvbi5kaXNwbGF5TmFtZSA9ICJDYXJkRGVzY3JpcHRpb24iOwoKY29uc3QgQ2FyZENvbnRlbnQgPSBSZWFjdC5mb3J3YXJkUmVmPEhUTUxEaXZFbGVtZW50LCBSZWFjdC5IVE1MQXR0cmlidXRlczxIVE1MRGl2RWxlbWVudD4+KAogICh7IGNsYXNzTmFtZSwgLi4ucHJvcHMgfSwgcmVmKSA9PiA8ZGl2IHJlZj17cmVmfSBjbGFzc05hbWU9e2NuKCJwLTUgcHQtMCIsIGNsYXNzTmFtZSl9IHsuLi5wcm9wc30gLz4sCik7CkNhcmRDb250ZW50LmRpc3BsYXlOYW1lID0gIkNhcmRDb250ZW50IjsKCmNvbnN0IENhcmRGb290ZXIgPSBSZWFjdC5mb3J3YXJkUmVmPEhUTUxEaXZFbGVtZW50LCBSZWFjdC5IVE1MQXR0cmlidXRlczxIVE1MRGl2RWxlbWVudD4+KAogICh7IGNsYXNzTmFtZSwgLi4ucHJvcHMgfSwgcmVmKSA9PiAoCiAgICA8ZGl2IHJlZj17cmVmfSBjbGFzc05hbWU9e2NuKCJmbGV4IGl0ZW1zLWNlbnRlciBwLTQgcHQtMCIsIGNsYXNzTmFtZSl9IHsuLi5wcm9wc30gLz4KICApLAopOwpDYXJkRm9vdGVyLmRpc3BsYXlOYW1lID0gIkNhcmRGb290ZXIiOwoKZXhwb3J0IHsgQ2FyZCwgQ2FyZEhlYWRlciwgQ2FyZEZvb3RlciwgQ2FyZFRpdGxlLCBDYXJkRGVzY3JpcHRpb24sIENhcmRDb250ZW50IH07Cg=="}
+import * as React from "react";
+
+import { cn } from "@/lib/utils";
+
+const Card = React.forwardRef<HTMLDivElement, React.HTMLAttributes<HTMLDivElement>>(({ className, ...props }, ref) => (
+  <div
+    ref={ref}
+    className={cn(
+      "rounded-2xl border border-white/40 dark:border-white/10 bg-white/80 dark:bg-black/45 backdrop-blur-xl text-card-foreground shadow-glass-sm transition-shadow duration-300",
+      className,
+    )}
+    {...props}
+  />
+));
+Card.displayName = "Card";
+
+const CardHeader = React.forwardRef<HTMLDivElement, React.HTMLAttributes<HTMLDivElement>>(
+  ({ className, ...props }, ref) => (
+    <div ref={ref} className={cn("flex flex-col space-y-1.5 p-5", className)} {...props} />
+  ),
+);
+CardHeader.displayName = "CardHeader";
+
+const CardTitle = React.forwardRef<HTMLParagraphElement, React.HTMLAttributes<HTMLHeadingElement>>(
+  ({ className, ...props }, ref) => (
+    <h3 ref={ref} className={cn("text-lg font-semibold leading-none tracking-tight", className)} {...props} />
+  ),
+);
+CardTitle.displayName = "CardTitle";
+
+const CardDescription = React.forwardRef<HTMLParagraphElement, React.HTMLAttributes<HTMLParagraphElement>>(
+  ({ className, ...props }, ref) => (
+    <p ref={ref} className={cn("text-xs text-muted-foreground", className)} {...props} />
+  ),
+);
+CardDescription.displayName = "CardDescription";
+
+const CardContent = React.forwardRef<HTMLDivElement, React.HTMLAttributes<HTMLDivElement>>(
+  ({ className, ...props }, ref) => <div ref={ref} className={cn("p-5 pt-0", className)} {...props} />,
+);
+CardContent.displayName = "CardContent";
+
+const CardFooter = React.forwardRef<HTMLDivElement, React.HTMLAttributes<HTMLDivElement>>(
+  ({ className, ...props }, ref) => (
+    <div ref={ref} className={cn("flex items-center p-4 pt-0", className)} {...props} />
+  ),
+);
+CardFooter.displayName = "CardFooter";
+
+export { Card, CardHeader, CardFooter, CardTitle, CardDescription, CardContent };

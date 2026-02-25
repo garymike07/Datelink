@@ -1,1 +1,40 @@
-{"data":"aW1wb3J0IHsgTGluayB9IGZyb20gInJlYWN0LXJvdXRlci1kb20iOwppbXBvcnQgeyBDYXJkIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2NhcmQiOwppbXBvcnQgeyBCdXR0b24gfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvYnV0dG9uIjsKCmNvbnN0IENhcmVlcnMgPSAoKSA9PiB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJtaW4taC1zY3JlZW4gYmctYmFja2dyb3VuZCI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb250YWluZXIgbXgtYXV0byBweC0zIHNtOnB4LTQgcHktNiBzbTpweS04IG1heC13LTV4bCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiBnYXAtMyBtYi02Ij4KICAgICAgICAgIDxMaW5rIHRvPSIvIj4KICAgICAgICAgICAgPEJ1dHRvbiB2YXJpYW50PSJnaG9zdCI+QmFjayB0byBIb21lPC9CdXR0b24+CiAgICAgICAgICA8L0xpbms+CiAgICAgICAgICA8YSBocmVmPSJtYWlsdG86Y2FyZWVyc0BkYXRlbGluay5jb20iPgogICAgICAgICAgICA8QnV0dG9uIHZhcmlhbnQ9Im91dGxpbmUiPkVtYWlsIENhcmVlcnM8L0J1dHRvbj4KICAgICAgICAgIDwvYT4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1iLTgiPgogICAgICAgICAgPGgxIGNsYXNzTmFtZT0idGV4dC0zeGwgc206dGV4dC00eGwgZm9udC1oZWFkaW5nIGZvbnQtZXh0cmFib2xkIHRyYWNraW5nLXRpZ2h0Ij5DYXJlZXJzPC9oMT4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1tdXRlZC1mb3JlZ3JvdW5kIG10LTIgbWF4LXctMnhsIj4KICAgICAgICAgICAgSGVscCB1cyBidWlsZCBhIHNhZmVyLCBtb3JlIHJlc3BlY3RmdWwgd2F5IGZvciBwZW9wbGUgdG8gbWVldC4KICAgICAgICAgIDwvcD4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPENhcmQgY2xhc3NOYW1lPSJwLTYiPgogICAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC14bCBmb250LXNlbWlib2xkIj5PcGVuIHJvbGVzPC9oMj4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQgbXQtMiI+CiAgICAgICAgICAgIFdl4oCZcmUgbm90IGhpcmluZyBwdWJsaWNseSByaWdodCBub3cuIElmIHlvdeKAmXJlIHBhc3Npb25hdGUgYWJvdXQgc2FmZXR5LCB0cnVzdCwgYW5kIGdyZWF0IFVYLCBlbWFpbCB1cyBhbmQgdGVsbAogICAgICAgICAgICB1cyBob3cgeW914oCZZCBsaWtlIHRvIGNvbnRyaWJ1dGUuCiAgICAgICAgICA8L3A+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtNCI+CiAgICAgICAgICAgIDxhIGhyZWY9Im1haWx0bzpjYXJlZXJzQGRhdGVsaW5rLmNvbSI+PEJ1dHRvbj5jYXJlZXJzQGRhdGVsaW5rLmNvbTwvQnV0dG9uPjwvYT4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvQ2FyZD4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9OwoKZXhwb3J0IGRlZmF1bHQgQ2FyZWVyczsK"}
+import { Link } from "react-router-dom";
+import { Card } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+
+const Careers = () => {
+  return (
+    <div className="min-h-screen bg-background">
+      <div className="container mx-auto px-3 sm:px-4 py-6 sm:py-8 max-w-5xl">
+        <div className="flex items-center justify-between gap-3 mb-6">
+          <Link to="/">
+            <Button variant="ghost">Back to Home</Button>
+          </Link>
+          <a href="mailto:careers@datelink.com">
+            <Button variant="outline">Email Careers</Button>
+          </a>
+        </div>
+
+        <div className="mb-8">
+          <h1 className="text-3xl sm:text-4xl font-heading font-extrabold tracking-tight">Careers</h1>
+          <p className="text-muted-foreground mt-2 max-w-2xl">
+            Help us build a safer, more respectful way for people to meet.
+          </p>
+        </div>
+
+        <Card className="p-6">
+          <h2 className="text-xl font-semibold">Open roles</h2>
+          <p className="text-sm text-muted-foreground mt-2">
+            We’re not hiring publicly right now. If you’re passionate about safety, trust, and great UX, email us and tell
+            us how you’d like to contribute.
+          </p>
+          <div className="mt-4">
+            <a href="mailto:careers@datelink.com"><Button>careers@datelink.com</Button></a>
+          </div>
+        </Card>
+      </div>
+    </div>
+  );
+};
+
+export default Careers;

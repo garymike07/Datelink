@@ -1,1 +1,67 @@
-{"data":"aW1wb3J0IHsgTGluayB9IGZyb20gInJlYWN0LXJvdXRlci1kb20iOwppbXBvcnQgeyBDYXJkIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2NhcmQiOwppbXBvcnQgeyBCdXR0b24gfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvYnV0dG9uIjsKaW1wb3J0IHsgTWFpbCwgU2hpZWxkIH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKCmNvbnN0IENvbnRhY3QgPSAoKSA9PiB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJtaW4taC1zY3JlZW4gYmctYmFja2dyb3VuZCI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb250YWluZXIgbXgtYXV0byBweC0zIHNtOnB4LTQgcHktNiBzbTpweS04IG1heC13LTV4bCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiBnYXAtMyBtYi02Ij4KICAgICAgICAgIDxMaW5rIHRvPSIvIj4KICAgICAgICAgICAgPEJ1dHRvbiB2YXJpYW50PSJnaG9zdCI+QmFjayB0byBIb21lPC9CdXR0b24+CiAgICAgICAgICA8L0xpbms+CiAgICAgICAgICA8TGluayB0bz0iL2hlbHAiPgogICAgICAgICAgICA8QnV0dG9uIHZhcmlhbnQ9Im91dGxpbmUiPkhlbHAgQ2VudGVyPC9CdXR0b24+CiAgICAgICAgICA8L0xpbms+CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYi04Ij4KICAgICAgICAgIDxoMSBjbGFzc05hbWU9InRleHQtM3hsIHNtOnRleHQtNHhsIGZvbnQtaGVhZGluZyBmb250LWV4dHJhYm9sZCB0cmFja2luZy10aWdodCI+Q29udGFjdCBVczwvaDE+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtbXV0ZWQtZm9yZWdyb3VuZCBtdC0yIG1heC13LTJ4bCI+CiAgICAgICAgICAgIFdl4oCZcmUgaGVyZSB0byBoZWxwLiBGb3IgdXJnZW50IHNhZmV0eSBjb25jZXJucywgcGxlYXNlIHVzZSB0aGUgU2FmZXR5IENlbnRlciBndWlkYW5jZSBhbmQgY29udGFjdCBsb2NhbAogICAgICAgICAgICBhdXRob3JpdGllcyBpZiB5b3XigJlyZSBpbiBkYW5nZXIuCiAgICAgICAgICA8L3A+CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJncmlkIGdhcC00IG1kOmdyaWQtY29scy0yIj4KICAgICAgICAgIDxDYXJkIGNsYXNzTmFtZT0icC02Ij4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIG1iLTMiPgogICAgICAgICAgICAgIDxNYWlsIGNsYXNzTmFtZT0idy01IGgtNSB0ZXh0LXByaW1hcnkiIC8+CiAgICAgICAgICAgICAgPGgyIGNsYXNzTmFtZT0iZm9udC1zZW1pYm9sZCI+U3VwcG9ydDwvaDI+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj5BY2NvdW50IGhlbHAsIHRlY2huaWNhbCBpc3N1ZXMsIGJpbGxpbmcgcXVlc3Rpb25zLjwvcD4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTQiPgogICAgICAgICAgICAgIDxhIGhyZWY9Im1haWx0bzpzdXBwb3J0QGRhdGVsaW5rLmNvbSI+PEJ1dHRvbj5zdXBwb3J0QGRhdGVsaW5rLmNvbTwvQnV0dG9uPjwvYT4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L0NhcmQ+CgogICAgICAgICAgPENhcmQgY2xhc3NOYW1lPSJwLTYiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgbWItMyI+CiAgICAgICAgICAgICAgPFNoaWVsZCBjbGFzc05hbWU9InctNSBoLTUgdGV4dC1wcmltYXJ5IiAvPgogICAgICAgICAgICAgIDxoMiBjbGFzc05hbWU9ImZvbnQtc2VtaWJvbGQiPlNhZmV0eTwvaDI+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgICBSZXBvcnRpbmcgaGFyYXNzbWVudCwgc2NhbXMsIG9yIHNhZmV0eSBjb25jZXJucy4KICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtNCBmbGV4IGZsZXgtd3JhcCBnYXAtMiI+CiAgICAgICAgICAgICAgPExpbmsgdG89Ii9zYWZldHktY2VudGVyIj48QnV0dG9uIHZhcmlhbnQ9Im91dGxpbmUiPlNhZmV0eSBDZW50ZXI8L0J1dHRvbj48L0xpbms+CiAgICAgICAgICAgICAgPExpbmsgdG89Ii9yZXBvcnQiPjxCdXR0b24+UmVwb3J0IGEgUHJvYmxlbTwvQnV0dG9uPjwvTGluaz4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L0NhcmQ+CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxDYXJkIGNsYXNzTmFtZT0icC02IG10LTYiPgogICAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC14bCBmb250LXNlbWlib2xkIj5CZWZvcmUgeW91IG1lc3NhZ2UgdXM8L2gyPgogICAgICAgICAgPHVsIGNsYXNzTmFtZT0ibXQtMyBsaXN0LWRpc2MgcGwtNiBzcGFjZS15LTIgdGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgICA8bGk+SW5jbHVkZSB0aGUgZW1haWwgeW91IHNpZ25lZCB1cCB3aXRoLjwvbGk+CiAgICAgICAgICAgIDxsaT5TaGFyZSBzY3JlZW5zaG90cyBpZiByZWxldmFudCAoYXZvaWQgc2VuZGluZyBzZW5zaXRpdmUgaW5mbyBsaWtlIE9UUHMgb3IgcGFzc3dvcmRzKS48L2xpPgogICAgICAgICAgICA8bGk+VGVsbCB1cyB3aGF0IHlvdSBleHBlY3RlZCB2cyB3aGF0IGhhcHBlbmVkLjwvbGk+CiAgICAgICAgICA8L3VsPgogICAgICAgIDwvQ2FyZD4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9OwoKZXhwb3J0IGRlZmF1bHQgQ29udGFjdDsK"}
+import { Link } from "react-router-dom";
+import { Card } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+import { Mail, Shield } from "lucide-react";
+
+const Contact = () => {
+  return (
+    <div className="min-h-screen bg-background">
+      <div className="container mx-auto px-3 sm:px-4 py-6 sm:py-8 max-w-5xl">
+        <div className="flex items-center justify-between gap-3 mb-6">
+          <Link to="/">
+            <Button variant="ghost">Back to Home</Button>
+          </Link>
+          <Link to="/help">
+            <Button variant="outline">Help Center</Button>
+          </Link>
+        </div>
+
+        <div className="mb-8">
+          <h1 className="text-3xl sm:text-4xl font-heading font-extrabold tracking-tight">Contact Us</h1>
+          <p className="text-muted-foreground mt-2 max-w-2xl">
+            We’re here to help. For urgent safety concerns, please use the Safety Center guidance and contact local
+            authorities if you’re in danger.
+          </p>
+        </div>
+
+        <div className="grid gap-4 md:grid-cols-2">
+          <Card className="p-6">
+            <div className="flex items-center gap-2 mb-3">
+              <Mail className="w-5 h-5 text-primary" />
+              <h2 className="font-semibold">Support</h2>
+            </div>
+            <p className="text-sm text-muted-foreground">Account help, technical issues, billing questions.</p>
+            <div className="mt-4">
+              <a href="mailto:support@datelink.com"><Button>support@datelink.com</Button></a>
+            </div>
+          </Card>
+
+          <Card className="p-6">
+            <div className="flex items-center gap-2 mb-3">
+              <Shield className="w-5 h-5 text-primary" />
+              <h2 className="font-semibold">Safety</h2>
+            </div>
+            <p className="text-sm text-muted-foreground">
+              Reporting harassment, scams, or safety concerns.
+            </p>
+            <div className="mt-4 flex flex-wrap gap-2">
+              <Link to="/safety-center"><Button variant="outline">Safety Center</Button></Link>
+              <Link to="/report"><Button>Report a Problem</Button></Link>
+            </div>
+          </Card>
+        </div>
+
+        <Card className="p-6 mt-6">
+          <h2 className="text-xl font-semibold">Before you message us</h2>
+          <ul className="mt-3 list-disc pl-6 space-y-2 text-sm text-muted-foreground">
+            <li>Include the email you signed up with.</li>
+            <li>Share screenshots if relevant (avoid sending sensitive info like OTPs or passwords).</li>
+            <li>Tell us what you expected vs what happened.</li>
+          </ul>
+        </Card>
+      </div>
+    </div>
+  );
+};
+
+export default Contact;

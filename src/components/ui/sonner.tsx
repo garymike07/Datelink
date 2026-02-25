@@ -1,1 +1,27 @@
-{"data":"aW1wb3J0IHsgdXNlVGhlbWUgfSBmcm9tICJuZXh0LXRoZW1lcyI7CmltcG9ydCB7IFRvYXN0ZXIgYXMgU29ubmVyLCB0b2FzdCB9IGZyb20gInNvbm5lciI7Cgp0eXBlIFRvYXN0ZXJQcm9wcyA9IFJlYWN0LkNvbXBvbmVudFByb3BzPHR5cGVvZiBTb25uZXI+OwoKY29uc3QgVG9hc3RlciA9ICh7IC4uLnByb3BzIH06IFRvYXN0ZXJQcm9wcykgPT4gewogIGNvbnN0IHsgdGhlbWUgPSAic3lzdGVtIiB9ID0gdXNlVGhlbWUoKTsKCiAgcmV0dXJuICgKICAgIDxTb25uZXIKICAgICAgdGhlbWU9e3RoZW1lIGFzIFRvYXN0ZXJQcm9wc1sidGhlbWUiXX0KICAgICAgY2xhc3NOYW1lPSJ0b2FzdGVyIGdyb3VwIgogICAgICB0b2FzdE9wdGlvbnM9e3sKICAgICAgICBjbGFzc05hbWVzOiB7CiAgICAgICAgICB0b2FzdDoKICAgICAgICAgICAgImdyb3VwIHRvYXN0IGdyb3VwLVsudG9hc3Rlcl06YmctYmFja2dyb3VuZCBncm91cC1bLnRvYXN0ZXJdOnRleHQtZm9yZWdyb3VuZCBncm91cC1bLnRvYXN0ZXJdOmJvcmRlci1ib3JkZXIgZ3JvdXAtWy50b2FzdGVyXTpzaGFkb3ctbGciLAogICAgICAgICAgZGVzY3JpcHRpb246ICJncm91cC1bLnRvYXN0XTp0ZXh0LW11dGVkLWZvcmVncm91bmQiLAogICAgICAgICAgYWN0aW9uQnV0dG9uOiAiZ3JvdXAtWy50b2FzdF06YmctcHJpbWFyeSBncm91cC1bLnRvYXN0XTp0ZXh0LXByaW1hcnktZm9yZWdyb3VuZCIsCiAgICAgICAgICBjYW5jZWxCdXR0b246ICJncm91cC1bLnRvYXN0XTpiZy1tdXRlZCBncm91cC1bLnRvYXN0XTp0ZXh0LW11dGVkLWZvcmVncm91bmQiLAogICAgICAgIH0sCiAgICAgIH19CiAgICAgIHsuLi5wcm9wc30KICAgIC8+CiAgKTsKfTsKCmV4cG9ydCB7IFRvYXN0ZXIsIHRvYXN0IH07Cg=="}
+import { useTheme } from "next-themes";
+import { Toaster as Sonner, toast } from "sonner";
+
+type ToasterProps = React.ComponentProps<typeof Sonner>;
+
+const Toaster = ({ ...props }: ToasterProps) => {
+  const { theme = "system" } = useTheme();
+
+  return (
+    <Sonner
+      theme={theme as ToasterProps["theme"]}
+      className="toaster group"
+      toastOptions={{
+        classNames: {
+          toast:
+            "group toast group-[.toaster]:bg-background group-[.toaster]:text-foreground group-[.toaster]:border-border group-[.toaster]:shadow-lg",
+          description: "group-[.toast]:text-muted-foreground",
+          actionButton: "group-[.toast]:bg-primary group-[.toast]:text-primary-foreground",
+          cancelButton: "group-[.toast]:bg-muted group-[.toast]:text-muted-foreground",
+        },
+      }}
+      {...props}
+    />
+  );
+};
+
+export { Toaster, toast };

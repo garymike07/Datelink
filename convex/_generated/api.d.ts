@@ -1,1 +1,123 @@
-{"data":"LyogZXNsaW50LWRpc2FibGUgKi8KLyoqCiAqIEdlbmVyYXRlZCBgYXBpYCB1dGlsaXR5LgogKgogKiBUSElTIENPREUgSVMgQVVUT01BVElDQUxMWSBHRU5FUkFURUQuCiAqCiAqIFRvIHJlZ2VuZXJhdGUsIHJ1biBgbnB4IGNvbnZleCBkZXZgLgogKiBAbW9kdWxlCiAqLwoKaW1wb3J0IHR5cGUgKiBhcyBhY2NvdW50TWFuYWdlbWVudCBmcm9tICIuLi9hY2NvdW50TWFuYWdlbWVudC5qcyI7CmltcG9ydCB0eXBlICogYXMgYWN0aXZpdHlUcmFja2luZyBmcm9tICIuLi9hY3Rpdml0eVRyYWNraW5nLmpzIjsKaW1wb3J0IHR5cGUgKiBhcyBhbmFseXRpY3MgZnJvbSAiLi4vYW5hbHl0aWNzLmpzIjsKaW1wb3J0IHR5cGUgKiBhcyBhdHRhY2htZW50cyBmcm9tICIuLi9hdHRhY2htZW50cy5qcyI7CmltcG9ydCB0eXBlICogYXMgYXV0aCBmcm9tICIuLi9hdXRoLmpzIjsKaW1wb3J0IHR5cGUgKiBhcyBiYWRnZXMgZnJvbSAiLi4vYmFkZ2VzLmpzIjsKaW1wb3J0IHR5cGUgKiBhcyBjb21wYXRpYmlsaXR5IGZyb20gIi4uL2NvbXBhdGliaWxpdHkuanMiOwppbXBvcnQgdHlwZSAqIGFzIGNyb25zIGZyb20gIi4uL2Nyb25zLmpzIjsKaW1wb3J0IHR5cGUgKiBhcyBkYWlseVJld2FyZHMgZnJvbSAiLi4vZGFpbHlSZXdhcmRzLmpzIjsKaW1wb3J0IHR5cGUgKiBhcyBkYXRhRXhwb3J0IGZyb20gIi4uL2RhdGFFeHBvcnQuanMiOwppbXBvcnQgdHlwZSAqIGFzIGRpc2NvdmVyeSBmcm9tICIuLi9kaXNjb3ZlcnkuanMiOwppbXBvcnQgdHlwZSAqIGFzIGZyZWVUcmlhbCBmcm9tICIuLi9mcmVlVHJpYWwuanMiOwppbXBvcnQgdHlwZSAqIGFzIGdhbWlmaWNhdGlvbiBmcm9tICIuLi9nYW1pZmljYXRpb24uanMiOwppbXBvcnQgdHlwZSAqIGFzIGxpcGFuYSBmcm9tICIuLi9saXBhbmEuanMiOwppbXBvcnQgdHlwZSAqIGFzIG1hdGNoaW5nIGZyb20gIi4uL21hdGNoaW5nLmpzIjsKaW1wb3J0IHR5cGUgKiBhcyBtZXNzYWdlcyBmcm9tICIuLi9tZXNzYWdlcy5qcyI7CmltcG9ydCB0eXBlICogYXMgbXBlc2EgZnJvbSAiLi4vbXBlc2EuanMiOwppbXBvcnQgdHlwZSAqIGFzIG5vdGlmaWNhdGlvblByZWZlcmVuY2VzIGZyb20gIi4uL25vdGlmaWNhdGlvblByZWZlcmVuY2VzLmpzIjsKaW1wb3J0IHR5cGUgKiBhcyBub3RpZmljYXRpb25zIGZyb20gIi4uL25vdGlmaWNhdGlvbnMuanMiOwppbXBvcnQgdHlwZSAqIGFzIG9uYm9hcmRpbmcgZnJvbSAiLi4vb25ib2FyZGluZy5qcyI7CmltcG9ydCB0eXBlICogYXMgcGF5bWVudHMgZnJvbSAiLi4vcGF5bWVudHMuanMiOwppbXBvcnQgdHlwZSAqIGFzIHBheW1lbnRzQ2xlYW51cCBmcm9tICIuLi9wYXltZW50c0NsZWFudXAuanMiOwppbXBvcnQgdHlwZSAqIGFzIHBheW1lbnRzSW50ZXJuYWwgZnJvbSAiLi4vcGF5bWVudHNJbnRlcm5hbC5qcyI7CmltcG9ydCB0eXBlICogYXMgcGF5bWVudHNTdGF0dXMgZnJvbSAiLi4vcGF5bWVudHNTdGF0dXMuanMiOwppbXBvcnQgdHlwZSAqIGFzIHByZXNlbmNlIGZyb20gIi4uL3ByZXNlbmNlLmpzIjsKaW1wb3J0IHR5cGUgKiBhcyBwcm9maWxlU2NvcmUgZnJvbSAiLi4vcHJvZmlsZVNjb3JlLmpzIjsKaW1wb3J0IHR5cGUgKiBhcyBwcm9maWxlVW5sb2NrcyBmcm9tICIuLi9wcm9maWxlVW5sb2Nrcy5qcyI7CmltcG9ydCB0eXBlICogYXMgcHJvZmlsZXMgZnJvbSAiLi4vcHJvZmlsZXMuanMiOwppbXBvcnQgdHlwZSAqIGFzIHByb2dyZXNzaXZlRGlzY2xvc3VyZSBmcm9tICIuLi9wcm9ncmVzc2l2ZURpc2Nsb3N1cmUuanMiOwppbXBvcnQgdHlwZSAqIGFzIHByb21wdHMgZnJvbSAiLi4vcHJvbXB0cy5qcyI7CmltcG9ydCB0eXBlICogYXMgcHVzaE5vdGlmaWNhdGlvbnMgZnJvbSAiLi4vcHVzaE5vdGlmaWNhdGlvbnMuanMiOwppbXBvcnQgdHlwZSAqIGFzIHB1c2hOb3RpZmljYXRpb25zQWN0aW9ucyBmcm9tICIuLi9wdXNoTm90aWZpY2F0aW9uc0FjdGlvbnMuanMiOwppbXBvcnQgdHlwZSAqIGFzIHNhZmV0eSBmcm9tICIuLi9zYWZldHkuanMiOwppbXBvcnQgdHlwZSAqIGFzIHNjaGVkdWxlZE1lc3NhZ2VzIGZyb20gIi4uL3NjaGVkdWxlZE1lc3NhZ2VzLmpzIjsKaW1wb3J0IHR5cGUgKiBhcyBzZXR0aW5ncyBmcm9tICIuLi9zZXR0aW5ncy5qcyI7CmltcG9ydCB0eXBlICogYXMgc3RhdHVzUG9zdHMgZnJvbSAiLi4vc3RhdHVzUG9zdHMuanMiOwppbXBvcnQgdHlwZSAqIGFzIHN1YnNjcmlwdGlvbnMgZnJvbSAiLi4vc3Vic2NyaXB0aW9ucy5qcyI7CmltcG9ydCB0eXBlICogYXMgdmVyaWZpY2F0aW9uIGZyb20gIi4uL3ZlcmlmaWNhdGlvbi5qcyI7CgppbXBvcnQgdHlwZSB7CiAgQXBpRnJvbU1vZHVsZXMsCiAgRmlsdGVyQXBpLAogIEZ1bmN0aW9uUmVmZXJlbmNlLAp9IGZyb20gImNvbnZleC9zZXJ2ZXIiOwoKZGVjbGFyZSBjb25zdCBmdWxsQXBpOiBBcGlGcm9tTW9kdWxlczx7CiAgYWNjb3VudE1hbmFnZW1lbnQ6IHR5cGVvZiBhY2NvdW50TWFuYWdlbWVudDsKICBhY3Rpdml0eVRyYWNraW5nOiB0eXBlb2YgYWN0aXZpdHlUcmFja2luZzsKICBhbmFseXRpY3M6IHR5cGVvZiBhbmFseXRpY3M7CiAgYXR0YWNobWVudHM6IHR5cGVvZiBhdHRhY2htZW50czsKICBhdXRoOiB0eXBlb2YgYXV0aDsKICBiYWRnZXM6IHR5cGVvZiBiYWRnZXM7CiAgY29tcGF0aWJpbGl0eTogdHlwZW9mIGNvbXBhdGliaWxpdHk7CiAgY3JvbnM6IHR5cGVvZiBjcm9uczsKICBkYWlseVJld2FyZHM6IHR5cGVvZiBkYWlseVJld2FyZHM7CiAgZGF0YUV4cG9ydDogdHlwZW9mIGRhdGFFeHBvcnQ7CiAgZGlzY292ZXJ5OiB0eXBlb2YgZGlzY292ZXJ5OwogIGZyZWVUcmlhbDogdHlwZW9mIGZyZWVUcmlhbDsKICBnYW1pZmljYXRpb246IHR5cGVvZiBnYW1pZmljYXRpb247CiAgbGlwYW5hOiB0eXBlb2YgbGlwYW5hOwogIG1hdGNoaW5nOiB0eXBlb2YgbWF0Y2hpbmc7CiAgbWVzc2FnZXM6IHR5cGVvZiBtZXNzYWdlczsKICBtcGVzYTogdHlwZW9mIG1wZXNhOwogIG5vdGlmaWNhdGlvblByZWZlcmVuY2VzOiB0eXBlb2Ygbm90aWZpY2F0aW9uUHJlZmVyZW5jZXM7CiAgbm90aWZpY2F0aW9uczogdHlwZW9mIG5vdGlmaWNhdGlvbnM7CiAgb25ib2FyZGluZzogdHlwZW9mIG9uYm9hcmRpbmc7CiAgcGF5bWVudHM6IHR5cGVvZiBwYXltZW50czsKICBwYXltZW50c0NsZWFudXA6IHR5cGVvZiBwYXltZW50c0NsZWFudXA7CiAgcGF5bWVudHNJbnRlcm5hbDogdHlwZW9mIHBheW1lbnRzSW50ZXJuYWw7CiAgcGF5bWVudHNTdGF0dXM6IHR5cGVvZiBwYXltZW50c1N0YXR1czsKICBwcmVzZW5jZTogdHlwZW9mIHByZXNlbmNlOwogIHByb2ZpbGVTY29yZTogdHlwZW9mIHByb2ZpbGVTY29yZTsKICBwcm9maWxlVW5sb2NrczogdHlwZW9mIHByb2ZpbGVVbmxvY2tzOwogIHByb2ZpbGVzOiB0eXBlb2YgcHJvZmlsZXM7CiAgcHJvZ3Jlc3NpdmVEaXNjbG9zdXJlOiB0eXBlb2YgcHJvZ3Jlc3NpdmVEaXNjbG9zdXJlOwogIHByb21wdHM6IHR5cGVvZiBwcm9tcHRzOwogIHB1c2hOb3RpZmljYXRpb25zOiB0eXBlb2YgcHVzaE5vdGlmaWNhdGlvbnM7CiAgcHVzaE5vdGlmaWNhdGlvbnNBY3Rpb25zOiB0eXBlb2YgcHVzaE5vdGlmaWNhdGlvbnNBY3Rpb25zOwogIHNhZmV0eTogdHlwZW9mIHNhZmV0eTsKICBzY2hlZHVsZWRNZXNzYWdlczogdHlwZW9mIHNjaGVkdWxlZE1lc3NhZ2VzOwogIHNldHRpbmdzOiB0eXBlb2Ygc2V0dGluZ3M7CiAgc3RhdHVzUG9zdHM6IHR5cGVvZiBzdGF0dXNQb3N0czsKICBzdWJzY3JpcHRpb25zOiB0eXBlb2Ygc3Vic2NyaXB0aW9uczsKICB2ZXJpZmljYXRpb246IHR5cGVvZiB2ZXJpZmljYXRpb247Cn0+OwoKLyoqCiAqIEEgdXRpbGl0eSBmb3IgcmVmZXJlbmNpbmcgQ29udmV4IGZ1bmN0aW9ucyBpbiB5b3VyIGFwcCdzIHB1YmxpYyBBUEkuCiAqCiAqIFVzYWdlOgogKiBgYGBqcwogKiBjb25zdCBteUZ1bmN0aW9uUmVmZXJlbmNlID0gYXBpLm15TW9kdWxlLm15RnVuY3Rpb247CiAqIGBgYAogKi8KZXhwb3J0IGRlY2xhcmUgY29uc3QgYXBpOiBGaWx0ZXJBcGk8CiAgdHlwZW9mIGZ1bGxBcGksCiAgRnVuY3Rpb25SZWZlcmVuY2U8YW55LCAicHVibGljIj4KPjsKCi8qKgogKiBBIHV0aWxpdHkgZm9yIHJlZmVyZW5jaW5nIENvbnZleCBmdW5jdGlvbnMgaW4geW91ciBhcHAncyBpbnRlcm5hbCBBUEkuCiAqCiAqIFVzYWdlOgogKiBgYGBqcwogKiBjb25zdCBteUZ1bmN0aW9uUmVmZXJlbmNlID0gaW50ZXJuYWwubXlNb2R1bGUubXlGdW5jdGlvbjsKICogYGBgCiAqLwpleHBvcnQgZGVjbGFyZSBjb25zdCBpbnRlcm5hbDogRmlsdGVyQXBpPAogIHR5cGVvZiBmdWxsQXBpLAogIEZ1bmN0aW9uUmVmZXJlbmNlPGFueSwgImludGVybmFsIj4KPjsKCmV4cG9ydCBkZWNsYXJlIGNvbnN0IGNvbXBvbmVudHM6IHt9Owo="}
+/* eslint-disable */
+/**
+ * Generated `api` utility.
+ *
+ * THIS CODE IS AUTOMATICALLY GENERATED.
+ *
+ * To regenerate, run `npx convex dev`.
+ * @module
+ */
+
+import type * as accountManagement from "../accountManagement.js";
+import type * as activityTracking from "../activityTracking.js";
+import type * as analytics from "../analytics.js";
+import type * as attachments from "../attachments.js";
+import type * as auth from "../auth.js";
+import type * as badges from "../badges.js";
+import type * as compatibility from "../compatibility.js";
+import type * as crons from "../crons.js";
+import type * as dailyRewards from "../dailyRewards.js";
+import type * as dataExport from "../dataExport.js";
+import type * as discovery from "../discovery.js";
+import type * as freeTrial from "../freeTrial.js";
+import type * as gamification from "../gamification.js";
+import type * as lipana from "../lipana.js";
+import type * as matching from "../matching.js";
+import type * as messages from "../messages.js";
+import type * as mpesa from "../mpesa.js";
+import type * as notificationPreferences from "../notificationPreferences.js";
+import type * as notifications from "../notifications.js";
+import type * as onboarding from "../onboarding.js";
+import type * as payments from "../payments.js";
+import type * as paymentsCleanup from "../paymentsCleanup.js";
+import type * as paymentsInternal from "../paymentsInternal.js";
+import type * as paymentsStatus from "../paymentsStatus.js";
+import type * as presence from "../presence.js";
+import type * as profileScore from "../profileScore.js";
+import type * as profileUnlocks from "../profileUnlocks.js";
+import type * as profiles from "../profiles.js";
+import type * as progressiveDisclosure from "../progressiveDisclosure.js";
+import type * as prompts from "../prompts.js";
+import type * as pushNotifications from "../pushNotifications.js";
+import type * as pushNotificationsActions from "../pushNotificationsActions.js";
+import type * as safety from "../safety.js";
+import type * as scheduledMessages from "../scheduledMessages.js";
+import type * as settings from "../settings.js";
+import type * as statusPosts from "../statusPosts.js";
+import type * as subscriptions from "../subscriptions.js";
+import type * as verification from "../verification.js";
+
+import type {
+  ApiFromModules,
+  FilterApi,
+  FunctionReference,
+} from "convex/server";
+
+declare const fullApi: ApiFromModules<{
+  accountManagement: typeof accountManagement;
+  activityTracking: typeof activityTracking;
+  analytics: typeof analytics;
+  attachments: typeof attachments;
+  auth: typeof auth;
+  badges: typeof badges;
+  compatibility: typeof compatibility;
+  crons: typeof crons;
+  dailyRewards: typeof dailyRewards;
+  dataExport: typeof dataExport;
+  discovery: typeof discovery;
+  freeTrial: typeof freeTrial;
+  gamification: typeof gamification;
+  lipana: typeof lipana;
+  matching: typeof matching;
+  messages: typeof messages;
+  mpesa: typeof mpesa;
+  notificationPreferences: typeof notificationPreferences;
+  notifications: typeof notifications;
+  onboarding: typeof onboarding;
+  payments: typeof payments;
+  paymentsCleanup: typeof paymentsCleanup;
+  paymentsInternal: typeof paymentsInternal;
+  paymentsStatus: typeof paymentsStatus;
+  presence: typeof presence;
+  profileScore: typeof profileScore;
+  profileUnlocks: typeof profileUnlocks;
+  profiles: typeof profiles;
+  progressiveDisclosure: typeof progressiveDisclosure;
+  prompts: typeof prompts;
+  pushNotifications: typeof pushNotifications;
+  pushNotificationsActions: typeof pushNotificationsActions;
+  safety: typeof safety;
+  scheduledMessages: typeof scheduledMessages;
+  settings: typeof settings;
+  statusPosts: typeof statusPosts;
+  subscriptions: typeof subscriptions;
+  verification: typeof verification;
+}>;
+
+/**
+ * A utility for referencing Convex functions in your app's public API.
+ *
+ * Usage:
+ * ```js
+ * const myFunctionReference = api.myModule.myFunction;
+ * ```
+ */
+export declare const api: FilterApi<
+  typeof fullApi,
+  FunctionReference<any, "public">
+>;
+
+/**
+ * A utility for referencing Convex functions in your app's internal API.
+ *
+ * Usage:
+ * ```js
+ * const myFunctionReference = internal.myModule.myFunction;
+ * ```
+ */
+export declare const internal: FilterApi<
+  typeof fullApi,
+  FunctionReference<any, "internal">
+>;
+
+export declare const components: {};

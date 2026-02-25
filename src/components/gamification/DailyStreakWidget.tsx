@@ -1,1 +1,274 @@
-{"data":"aW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgdXNlUXVlcnksIHVzZU11dGF0aW9uIH0gZnJvbSAiY29udmV4L3JlYWN0IjsKaW1wb3J0IHsgYXBpIH0gZnJvbSAiLi4vLi4vLi4vY29udmV4L19nZW5lcmF0ZWQvYXBpIjsKaW1wb3J0IHR5cGUgeyBJZCB9IGZyb20gIi4uLy4uLy4uL2NvbnZleC9fZ2VuZXJhdGVkL2RhdGFNb2RlbCI7CmltcG9ydCB7IENhcmQsIENhcmRDb250ZW50LCBDYXJkRGVzY3JpcHRpb24sIENhcmRIZWFkZXIsIENhcmRUaXRsZSB9IGZyb20gIkAvY29tcG9uZW50cy91aS9jYXJkIjsKaW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2J1dHRvbiI7CmltcG9ydCB7IEJhZGdlIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2JhZGdlIjsKaW1wb3J0IHsgUHJvZ3Jlc3MgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvcHJvZ3Jlc3MiOwppbXBvcnQgeyBGbGFtZSwgR2lmdCwgVHJvcGh5LCBDYWxlbmRhciwgU3BhcmtsZXMgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyB0b2FzdCB9IGZyb20gInNvbm5lciI7CmltcG9ydCBjb25mZXR0aSBmcm9tICJyZWFjdC1jb25mZXR0aSI7CmltcG9ydCB7IERpYWxvZywgRGlhbG9nQ29udGVudCwgRGlhbG9nRGVzY3JpcHRpb24sIERpYWxvZ0hlYWRlciwgRGlhbG9nVGl0bGUgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvZGlhbG9nIjsKCmludGVyZmFjZSBEYWlseVN0cmVha1dpZGdldFByb3BzIHsKICB1c2VySWQ6IElkPCJ1c2VycyI+OwogIHZhcmlhbnQ/OiAiY2FyZCIgfCAiY29tcGFjdCIgfCAiYmFubmVyIjsKfQoKZXhwb3J0IGZ1bmN0aW9uIERhaWx5U3RyZWFrV2lkZ2V0KHsgdXNlcklkLCB2YXJpYW50ID0gImNhcmQiIH06IERhaWx5U3RyZWFrV2lkZ2V0UHJvcHMpIHsKICBjb25zdCBbc2hvd1Jld2FyZE1vZGFsLCBzZXRTaG93UmV3YXJkTW9kYWxdID0gdXNlU3RhdGUoZmFsc2UpOwogIGNvbnN0IFtjbGFpbWVkUmV3YXJkLCBzZXRDbGFpbWVkUmV3YXJkXSA9IHVzZVN0YXRlPGFueT4obnVsbCk7CiAgY29uc3QgW3Nob3dDb25mZXR0aSwgc2V0U2hvd0NvbmZldHRpXSA9IHVzZVN0YXRlKGZhbHNlKTsKCiAgY29uc3Qgc3RyZWFrU3RhdHVzID0gdXNlUXVlcnkoYXBpLmRhaWx5UmV3YXJkcy5nZXRTdHJlYWtTdGF0dXMsIHsgdXNlcklkIH0pOwogIGNvbnN0IGNsYWltRGFpbHkgPSB1c2VNdXRhdGlvbihhcGkuZGFpbHlSZXdhcmRzLmNsYWltRGFpbHlMb2dpbik7CgogIGNvbnN0IGhhbmRsZUNsYWltRGFpbHkgPSBhc3luYyAoKSA9PiB7CiAgICB0cnkgewogICAgICBjb25zdCByZXN1bHQgPSBhd2FpdCBjbGFpbURhaWx5KHsgdXNlcklkIH0pOwoKICAgICAgaWYgKHJlc3VsdC5hbHJlYWR5Q2xhaW1lZCkgewogICAgICAgIHRvYXN0LmluZm8oIkFscmVhZHkgY2xhaW1lZCB0b2RheSEiLCB7CiAgICAgICAgICBkZXNjcmlwdGlvbjogYEN1cnJlbnQgc3RyZWFrOiAke3Jlc3VsdC5jdXJyZW50U3RyZWFrfSBkYXlzYCwKICAgICAgICB9KTsKICAgICAgICByZXR1cm47CiAgICAgIH0KCiAgICAgIGlmIChyZXN1bHQucmV3YXJkQ2xhaW1lZCkgewogICAgICAgIHNldENsYWltZWRSZXdhcmQocmVzdWx0LnJld2FyZENsYWltZWQpOwogICAgICAgIHNldFNob3dSZXdhcmRNb2RhbCh0cnVlKTsKICAgICAgICBzZXRTaG93Q29uZmV0dGkodHJ1ZSk7CiAgICAgICAgc2V0VGltZW91dCgoKSA9PiBzZXRTaG93Q29uZmV0dGkoZmFsc2UpLCA1MDAwKTsKICAgICAgfSBlbHNlIHsKICAgICAgICB0b2FzdC5zdWNjZXNzKGBEYXkgJHtyZXN1bHQuY3VycmVudFN0cmVha30gY2xhaW1lZCFgLCB7CiAgICAgICAgICBkZXNjcmlwdGlvbjogYEtlZXAgaXQgdXAhICR7cmVzdWx0Lm5leHRSZXdhcmQgPyBgTmV4dCByZXdhcmQgYXQgJHtyZXN1bHQubmV4dFJld2FyZC5kYXl9IGRheXNgIDogIiJ9YCwKICAgICAgICB9KTsKICAgICAgfQogICAgfSBjYXRjaCAoZXJyb3I6IGFueSkgewogICAgICB0b2FzdC5lcnJvcigiRmFpbGVkIHRvIGNsYWltIGRhaWx5IGxvZ2luIiwgewogICAgICAgIGRlc2NyaXB0aW9uOiBlcnJvci5tZXNzYWdlLAogICAgICB9KTsKICAgIH0KICB9OwoKICBpZiAoIXN0cmVha1N0YXR1cykgewogICAgcmV0dXJuIG51bGw7CiAgfQoKICBjb25zdCB7IGN1cnJlbnRTdHJlYWssIGxvbmdlc3RTdHJlYWssIGNhbkNsYWltVG9kYXksIG5leHRSZXdhcmQsIHVwY29taW5nUmV3YXJkcyB9ID0gc3RyZWFrU3RhdHVzOwoKICAvLyBDb21wYWN0IGJhbm5lciB2YXJpYW50IGZvciB0b3Agb2YgZGFzaGJvYXJkCiAgaWYgKHZhcmlhbnQgPT09ICJiYW5uZXIiICYmIGNhbkNsYWltVG9kYXkpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJiZy1ncmFkaWVudC10by1yIGZyb20tb3JhbmdlLTUwMCB0by1waW5rLTUwMCB0ZXh0LXdoaXRlIHJvdW5kZWQtbGcgcC00IHNoYWRvdy1sZyI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiI+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTMiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idy0xMiBoLTEyIGJnLXdoaXRlLzIwIHJvdW5kZWQtZnVsbCBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciI+CiAgICAgICAgICAgICAgPEZsYW1lIGNsYXNzTmFtZT0idy02IGgtNiIgLz4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0iZm9udC1ib2xkIHRleHQtbGciPkRhaWx5IExvZ2luIFJld2FyZDwvaDM+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIG9wYWNpdHktOTAiPgogICAgICAgICAgICAgICAge2N1cnJlbnRTdHJlYWsgPiAwID8gYCR7Y3VycmVudFN0cmVha30gZGF5IHN0cmVhayFgIDogIlN0YXJ0IHlvdXIgc3RyZWFrIHRvZGF5In0KICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgIG9uQ2xpY2s9e2hhbmRsZUNsYWltRGFpbHl9CiAgICAgICAgICAgIHNpemU9ImxnIgogICAgICAgICAgICBjbGFzc05hbWU9ImJnLXdoaXRlIHRleHQtb3JhbmdlLTYwMCBob3ZlcjpiZy13aGl0ZS85MCIKICAgICAgICAgID4KICAgICAgICAgICAgPEdpZnQgY2xhc3NOYW1lPSJ3LTUgaC01IG1yLTIiIC8+CiAgICAgICAgICAgIENsYWltIE5vdwogICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgKTsKICB9CgogIC8vIENvbXBhY3QgdmFyaWFudAogIGlmICh2YXJpYW50ID09PSAiY29tcGFjdCIpIHsKICAgIHJldHVybiAoCiAgICAgIDxDYXJkIGNsYXNzTmFtZT0iYm9yZGVyLWwtNCBib3JkZXItb3JhbmdlLTUwMCI+CiAgICAgICAgPENhcmRDb250ZW50IGNsYXNzTmFtZT0icC00Ij4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4iPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTMiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LTEwIGgtMTAgYmctb3JhbmdlLTEwMCBkYXJrOmJnLW9yYW5nZS05NTAgcm91bmRlZC1mdWxsIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIj4KICAgICAgICAgICAgICAgIDxGbGFtZSBjbGFzc05hbWU9InctNSBoLTUgdGV4dC1vcmFuZ2UtNjAwIGRhcms6dGV4dC1vcmFuZ2UtNDAwIiAvPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9ImZvbnQtc2VtaWJvbGQgdGV4dC1zbSI+CiAgICAgICAgICAgICAgICAgIHtjdXJyZW50U3RyZWFrID4gMCA/IGAke2N1cnJlbnRTdHJlYWt9IERheSBTdHJlYWtgIDogIlN0YXJ0IFlvdXIgU3RyZWFrIn0KICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgICAgICAgICB7Y2FuQ2xhaW1Ub2RheSA/ICJDbGFpbSB5b3VyIGRhaWx5IHJld2FyZCIgOiAiQ29tZSBiYWNrIHRvbW9ycm93In0KICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIHtjYW5DbGFpbVRvZGF5ICYmICgKICAgICAgICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9e2hhbmRsZUNsYWltRGFpbHl9IHNpemU9InNtIiB2YXJpYW50PSJkZWZhdWx0Ij4KICAgICAgICAgICAgICAgIENsYWltCiAgICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgICl9CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L0NhcmRDb250ZW50PgogICAgICA8L0NhcmQ+CiAgICApOwogIH0KCiAgLy8gRnVsbCBjYXJkIHZhcmlhbnQKICByZXR1cm4gKAogICAgPD4KICAgICAge3Nob3dDb25mZXR0aSAmJiAoCiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZpeGVkIGluc2V0LTAgcG9pbnRlci1ldmVudHMtbm9uZSB6LTUwIj4KICAgICAgICAgIDxjb25mZXR0aQogICAgICAgICAgICB3aWR0aD17d2luZG93LmlubmVyV2lkdGh9CiAgICAgICAgICAgIGhlaWdodD17d2luZG93LmlubmVySGVpZ2h0fQogICAgICAgICAgICByZWN5Y2xlPXtmYWxzZX0KICAgICAgICAgICAgbnVtYmVyT2ZQaWVjZXM9ezIwMH0KICAgICAgICAgIC8+CiAgICAgICAgPC9kaXY+CiAgICAgICl9CgogICAgICA8Q2FyZD4KICAgICAgICA8Q2FyZEhlYWRlcj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4iPgogICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgIDxDYXJkVGl0bGUgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiI+CiAgICAgICAgICAgICAgICA8RmxhbWUgY2xhc3NOYW1lPSJ3LTUgaC01IHRleHQtb3JhbmdlLTYwMCIgLz4KICAgICAgICAgICAgICAgIERhaWx5IExvZ2luIFN0cmVhawogICAgICAgICAgICAgIDwvQ2FyZFRpdGxlPgogICAgICAgICAgICAgIDxDYXJkRGVzY3JpcHRpb24gY2xhc3NOYW1lPSJtdC0xIj4KICAgICAgICAgICAgICAgIExvZyBpbiBkYWlseSB0byBlYXJuIHJld2FyZHMgYW5kIGJvb3N0IHlvdXIgcHJvZmlsZQogICAgICAgICAgICAgIDwvQ2FyZERlc2NyaXB0aW9uPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPEJhZGdlIHZhcmlhbnQ9InNlY29uZGFyeSIgY2xhc3NOYW1lPSJ0ZXh0LWxnIHB4LTMgcHktMSI+CiAgICAgICAgICAgICAgPEZsYW1lIGNsYXNzTmFtZT0idy00IGgtNCBtci0xIHRleHQtb3JhbmdlLTYwMCIgLz4KICAgICAgICAgICAgICB7Y3VycmVudFN0cmVha30KICAgICAgICAgICAgPC9CYWRnZT4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvQ2FyZEhlYWRlcj4KICAgICAgICA8Q2FyZENvbnRlbnQgY2xhc3NOYW1lPSJzcGFjZS15LTYiPgogICAgICAgICAgey8qIEN1cnJlbnQgU3RyZWFrIERpc3BsYXkgKi99CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idGV4dC1jZW50ZXIgcHktNiBiZy1ncmFkaWVudC10by1iciBmcm9tLW9yYW5nZS01MCB0by1waW5rLTUwIGRhcms6ZnJvbS1vcmFuZ2UtOTUwLzMwIGRhcms6dG8tcGluay05NTAvMzAgcm91bmRlZC1sZyI+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBnYXAtMiBtYi0yIj4KICAgICAgICAgICAgICA8RmxhbWUgY2xhc3NOYW1lPSJ3LTggaC04IHRleHQtb3JhbmdlLTYwMCIgLz4KICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtNXhsIGZvbnQtYm9sZCB0ZXh0LW9yYW5nZS02MDAiPntjdXJyZW50U3RyZWFrfTwvc3Bhbj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgICAgIHtjdXJyZW50U3RyZWFrID09PSAxID8gIkRheSBTdHJlYWsiIDogIkRheXMgU3RyZWFrIn0KICAgICAgICAgICAgPC9wPgogICAgICAgICAgICB7bG9uZ2VzdFN0cmVhayA+IGN1cnJlbnRTdHJlYWsgJiYgKAogICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LW11dGVkLWZvcmVncm91bmQgbXQtMiI+CiAgICAgICAgICAgICAgICA8VHJvcGh5IGNsYXNzTmFtZT0idy0zIGgtMyBpbmxpbmUgbXItMSIgLz4KICAgICAgICAgICAgICAgIFBlcnNvbmFsIGJlc3Q6IHtsb25nZXN0U3RyZWFrfSBkYXlzCiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICApfQogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgey8qIENsYWltIEJ1dHRvbiAqL30KICAgICAgICAgIHtjYW5DbGFpbVRvZGF5ID8gKAogICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgb25DbGljaz17aGFuZGxlQ2xhaW1EYWlseX0KICAgICAgICAgICAgICBzaXplPSJsZyIKICAgICAgICAgICAgICBjbGFzc05hbWU9InctZnVsbCBiZy1ncmFkaWVudC10by1yIGZyb20tb3JhbmdlLTYwMCB0by1waW5rLTYwMCBob3Zlcjpmcm9tLW9yYW5nZS03MDAgaG92ZXI6dG8tcGluay03MDAiCiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8R2lmdCBjbGFzc05hbWU9InctNSBoLTUgbXItMiIgLz4KICAgICAgICAgICAgICBDbGFpbSBUb2RheSdzIFJld2FyZAogICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICkgOiAoCiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LWNlbnRlciBweS0zIGJnLW11dGVkIHJvdW5kZWQtbGciPgogICAgICAgICAgICAgIDxDYWxlbmRhciBjbGFzc05hbWU9InctNSBoLTUgbXgtYXV0byBtYi0xIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCIgLz4KICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gZm9udC1tZWRpdW0iPkFscmVhZHkgY2xhaW1lZCB0b2RheSE8L3A+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBtdC0xIj5Db21lIGJhY2sgdG9tb3Jyb3c8L3A+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgKX0KCiAgICAgICAgICB7LyogTmV4dCBSZXdhcmQgKi99CiAgICAgICAgICB7bmV4dFJld2FyZCAmJiAoCiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwLTQgYmctbXV0ZWQvNTAgcm91bmRlZC1sZyI+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBtYi0yIj5ORVhUIFJFV0FSRDwvcD4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyI+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LTN4bCI+e25leHRSZXdhcmQuaWNvbn08L2Rpdj4KICAgICAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9ImZvbnQtc2VtaWJvbGQgdGV4dC1zbSI+RGF5IHtuZXh0UmV3YXJkLmRheX08L3A+CiAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+e25leHRSZXdhcmQuZGVzY3JpcHRpb259PC9wPgogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIHtuZXh0UmV3YXJkLmRheSA+IGN1cnJlbnRTdHJlYWsgJiYgKAogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTMiPgogICAgICAgICAgICAgICAgICA8UHJvZ3Jlc3MgCiAgICAgICAgICAgICAgICAgICAgdmFsdWU9eyhjdXJyZW50U3RyZWFrIC8gbmV4dFJld2FyZC5kYXkpICogMTAwfSAKICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImgtMiIKICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCB0ZXh0LXJpZ2h0IG10LTEiPgogICAgICAgICAgICAgICAgICAgIHtuZXh0UmV3YXJkLmRheSAtIGN1cnJlbnRTdHJlYWt9IGRheXMgdG8gZ28KICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICApfQoKICAgICAgICAgIHsvKiBVcGNvbWluZyBSZXdhcmRzICovfQogICAgICAgICAge3VwY29taW5nUmV3YXJkcyAmJiB1cGNvbWluZ1Jld2FyZHMubGVuZ3RoID4gMCAmJiAoCiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTIiPgogICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyBmb250LXNlbWlib2xkIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+VVBDT01JTkcgUkVXQVJEUzwvcD4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0yIj4KICAgICAgICAgICAgICAgIHt1cGNvbWluZ1Jld2FyZHMuc2xpY2UoMCwgNCkubWFwKChyZXdhcmQpID0+ICgKICAgICAgICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgICAgICAgIGtleT17cmV3YXJkLmRheX0KICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiBwLTIgcm91bmRlZCBob3ZlcjpiZy1tdXRlZC81MCB0cmFuc2l0aW9uLWNvbG9ycyIKICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiI+CiAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtbGciPntyZXdhcmQuaWNvbn08L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgZm9udC1tZWRpdW0iPkRheSB7cmV3YXJkLmRheX08L3A+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LW11dGVkLWZvcmVncm91bmQiPntyZXdhcmQuZGVzY3JpcHRpb259PC9wPgogICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAge3Jld2FyZC5kYXkgPD0gY3VycmVudFN0cmVhayArIDUgJiYgKAogICAgICAgICAgICAgICAgICAgICAgPEJhZGdlIHZhcmlhbnQ9InNlY29uZGFyeSIgY2xhc3NOYW1lPSJ0ZXh0LXhzIj5Tb29uPC9CYWRnZT4KICAgICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICkpfQogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICl9CiAgICAgICAgPC9DYXJkQ29udGVudD4KICAgICAgPC9DYXJkPgoKICAgICAgey8qIFJld2FyZCBNb2RhbCAqL30KICAgICAgPERpYWxvZyBvcGVuPXtzaG93UmV3YXJkTW9kYWx9IG9uT3BlbkNoYW5nZT17c2V0U2hvd1Jld2FyZE1vZGFsfT4KICAgICAgICA8RGlhbG9nQ29udGVudCBjbGFzc05hbWU9InNtOm1heC13LW1kIj4KICAgICAgICAgIDxEaWFsb2dIZWFkZXI+CiAgICAgICAgICAgIDxEaWFsb2dUaXRsZSBjbGFzc05hbWU9InRleHQtY2VudGVyIHRleHQtMnhsIj4KICAgICAgICAgICAgICDwn46JIFJld2FyZCBVbmxvY2tlZCEKICAgICAgICAgICAgPC9EaWFsb2dUaXRsZT4KICAgICAgICAgICAgPERpYWxvZ0Rlc2NyaXB0aW9uIGNsYXNzTmFtZT0idGV4dC1jZW50ZXIiPgogICAgICAgICAgICAgIFlvdSd2ZSBlYXJuZWQgYSBzcGVjaWFsIHJld2FyZCBmb3IgeW91ciB7Y2xhaW1lZFJld2FyZD8uZGF5fS1kYXkgc3RyZWFrIQogICAgICAgICAgICA8L0RpYWxvZ0Rlc2NyaXB0aW9uPgogICAgICAgICAgPC9EaWFsb2dIZWFkZXI+CiAgICAgICAgICB7Y2xhaW1lZFJld2FyZCAmJiAoCiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJweS02IHRleHQtY2VudGVyIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idGV4dC02eGwgbWItNCI+e2NsYWltZWRSZXdhcmQuaWNvbn08L2Rpdj4KICAgICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJ0ZXh0LXhsIGZvbnQtYm9sZCBtYi0yIj57Y2xhaW1lZFJld2FyZC5kZXNjcmlwdGlvbn08L2gzPgogICAgICAgICAgICAgIDxCYWRnZSB2YXJpYW50PSJzZWNvbmRhcnkiIGNsYXNzTmFtZT0idGV4dC1sZyBweC00IHB5LTIiPgogICAgICAgICAgICAgICAgPFNwYXJrbGVzIGNsYXNzTmFtZT0idy00IGgtNCBtci0yIiAvPgogICAgICAgICAgICAgICAge2NsYWltZWRSZXdhcmQudHlwZSA9PT0gImJvb3N0IiAmJiBgJHtjbGFpbWVkUmV3YXJkLmFtb3VudH0gQm9vc3Qke2NsYWltZWRSZXdhcmQuYW1vdW50ID4gMSA/ICdzJyA6ICcnfWB9CiAgICAgICAgICAgICAgICB7Y2xhaW1lZFJld2FyZC50eXBlID09PSAidW5sb2NrIiAmJiBgJHtjbGFpbWVkUmV3YXJkLmFtb3VudH0gVW5sb2NrJHtjbGFpbWVkUmV3YXJkLmFtb3VudCA+IDEgPyAncycgOiAnJ31gfQogICAgICAgICAgICAgICAge2NsYWltZWRSZXdhcmQudHlwZSA9PT0gInByZW1pdW1fdHJpYWwiICYmIGAke2NsYWltZWRSZXdhcmQuYW1vdW50fSBEYXkgUHJlbWl1bWB9CiAgICAgICAgICAgICAgICB7Y2xhaW1lZFJld2FyZC50eXBlID09PSAiYmFkZ2UiICYmICJTcGVjaWFsIEJhZGdlIn0KICAgICAgICAgICAgICA8L0JhZGdlPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICl9CiAgICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9eygpID0+IHNldFNob3dSZXdhcmRNb2RhbChmYWxzZSl9IHNpemU9ImxnIj4KICAgICAgICAgICAgQXdlc29tZSEKICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgIDwvRGlhbG9nQ29udGVudD4KICAgICAgPC9EaWFsb2c+CiAgICA8Lz4KICApOwp9Cg=="}
+import { useEffect, useState } from "react";
+import { useQuery, useMutation } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import type { Id } from "../../../convex/_generated/dataModel";
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+import { Badge } from "@/components/ui/badge";
+import { Progress } from "@/components/ui/progress";
+import { Flame, Gift, Trophy, Calendar, Sparkles } from "lucide-react";
+import { toast } from "sonner";
+import confetti from "react-confetti";
+import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from "@/components/ui/dialog";
+
+interface DailyStreakWidgetProps {
+  userId: Id<"users">;
+  variant?: "card" | "compact" | "banner";
+}
+
+export function DailyStreakWidget({ userId, variant = "card" }: DailyStreakWidgetProps) {
+  const [showRewardModal, setShowRewardModal] = useState(false);
+  const [claimedReward, setClaimedReward] = useState<any>(null);
+  const [showConfetti, setShowConfetti] = useState(false);
+
+  const streakStatus = useQuery(api.dailyRewards.getStreakStatus, { userId });
+  const claimDaily = useMutation(api.dailyRewards.claimDailyLogin);
+
+  const handleClaimDaily = async () => {
+    try {
+      const result = await claimDaily({ userId });
+
+      if (result.alreadyClaimed) {
+        toast.info("Already claimed today!", {
+          description: `Current streak: ${result.currentStreak} days`,
+        });
+        return;
+      }
+
+      if (result.rewardClaimed) {
+        setClaimedReward(result.rewardClaimed);
+        setShowRewardModal(true);
+        setShowConfetti(true);
+        setTimeout(() => setShowConfetti(false), 5000);
+      } else {
+        toast.success(`Day ${result.currentStreak} claimed!`, {
+          description: `Keep it up! ${result.nextReward ? `Next reward at ${result.nextReward.day} days` : ""}`,
+        });
+      }
+    } catch (error: any) {
+      toast.error("Failed to claim daily login", {
+        description: error.message,
+      });
+    }
+  };
+
+  if (!streakStatus) {
+    return null;
+  }
+
+  const { currentStreak, longestStreak, canClaimToday, nextReward, upcomingRewards } = streakStatus;
+
+  // Compact banner variant for top of dashboard
+  if (variant === "banner" && canClaimToday) {
+    return (
+      <div className="bg-gradient-to-r from-orange-500 to-pink-500 text-white rounded-lg p-4 shadow-lg">
+        <div className="flex items-center justify-between">
+          <div className="flex items-center gap-3">
+            <div className="w-12 h-12 bg-white/20 rounded-full flex items-center justify-center">
+              <Flame className="w-6 h-6" />
+            </div>
+            <div>
+              <h3 className="font-bold text-lg">Daily Login Reward</h3>
+              <p className="text-sm opacity-90">
+                {currentStreak > 0 ? `${currentStreak} day streak!` : "Start your streak today"}
+              </p>
+            </div>
+          </div>
+          <Button
+            onClick={handleClaimDaily}
+            size="lg"
+            className="bg-white text-orange-600 hover:bg-white/90"
+          >
+            <Gift className="w-5 h-5 mr-2" />
+            Claim Now
+          </Button>
+        </div>
+      </div>
+    );
+  }
+
+  // Compact variant
+  if (variant === "compact") {
+    return (
+      <Card className="border-l-4 border-orange-500">
+        <CardContent className="p-4">
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-3">
+              <div className="w-10 h-10 bg-orange-100 dark:bg-orange-950 rounded-full flex items-center justify-center">
+                <Flame className="w-5 h-5 text-orange-600 dark:text-orange-400" />
+              </div>
+              <div>
+                <p className="font-semibold text-sm">
+                  {currentStreak > 0 ? `${currentStreak} Day Streak` : "Start Your Streak"}
+                </p>
+                <p className="text-xs text-muted-foreground">
+                  {canClaimToday ? "Claim your daily reward" : "Come back tomorrow"}
+                </p>
+              </div>
+            </div>
+            {canClaimToday && (
+              <Button onClick={handleClaimDaily} size="sm" variant="default">
+                Claim
+              </Button>
+            )}
+          </div>
+        </CardContent>
+      </Card>
+    );
+  }
+
+  // Full card variant
+  return (
+    <>
+      {showConfetti && (
+        <div className="fixed inset-0 pointer-events-none z-50">
+          <confetti
+            width={window.innerWidth}
+            height={window.innerHeight}
+            recycle={false}
+            numberOfPieces={200}
+          />
+        </div>
+      )}
+
+      <Card>
+        <CardHeader>
+          <div className="flex items-center justify-between">
+            <div>
+              <CardTitle className="flex items-center gap-2">
+                <Flame className="w-5 h-5 text-orange-600" />
+                Daily Login Streak
+              </CardTitle>
+              <CardDescription className="mt-1">
+                Log in daily to earn rewards and boost your profile
+              </CardDescription>
+            </div>
+            <Badge variant="secondary" className="text-lg px-3 py-1">
+              <Flame className="w-4 h-4 mr-1 text-orange-600" />
+              {currentStreak}
+            </Badge>
+          </div>
+        </CardHeader>
+        <CardContent className="space-y-6">
+          {/* Current Streak Display */}
+          <div className="text-center py-6 bg-gradient-to-br from-orange-50 to-pink-50 dark:from-orange-950/30 dark:to-pink-950/30 rounded-lg">
+            <div className="flex items-center justify-center gap-2 mb-2">
+              <Flame className="w-8 h-8 text-orange-600" />
+              <span className="text-5xl font-bold text-orange-600">{currentStreak}</span>
+            </div>
+            <p className="text-sm text-muted-foreground">
+              {currentStreak === 1 ? "Day Streak" : "Days Streak"}
+            </p>
+            {longestStreak > currentStreak && (
+              <p className="text-xs text-muted-foreground mt-2">
+                <Trophy className="w-3 h-3 inline mr-1" />
+                Personal best: {longestStreak} days
+              </p>
+            )}
+          </div>
+
+          {/* Claim Button */}
+          {canClaimToday ? (
+            <Button
+              onClick={handleClaimDaily}
+              size="lg"
+              className="w-full bg-gradient-to-r from-orange-600 to-pink-600 hover:from-orange-700 hover:to-pink-700"
+            >
+              <Gift className="w-5 h-5 mr-2" />
+              Claim Today's Reward
+            </Button>
+          ) : (
+            <div className="text-center py-3 bg-muted rounded-lg">
+              <Calendar className="w-5 h-5 mx-auto mb-1 text-muted-foreground" />
+              <p className="text-sm font-medium">Already claimed today!</p>
+              <p className="text-xs text-muted-foreground mt-1">Come back tomorrow</p>
+            </div>
+          )}
+
+          {/* Next Reward */}
+          {nextReward && (
+            <div className="p-4 bg-muted/50 rounded-lg">
+              <p className="text-xs text-muted-foreground mb-2">NEXT REWARD</p>
+              <div className="flex items-center justify-between">
+                <div className="flex items-center gap-3">
+                  <div className="text-3xl">{nextReward.icon}</div>
+                  <div>
+                    <p className="font-semibold text-sm">Day {nextReward.day}</p>
+                    <p className="text-xs text-muted-foreground">{nextReward.description}</p>
+                  </div>
+                </div>
+              </div>
+              {nextReward.day > currentStreak && (
+                <div className="mt-3">
+                  <Progress 
+                    value={(currentStreak / nextReward.day) * 100} 
+                    className="h-2"
+                  />
+                  <p className="text-xs text-muted-foreground text-right mt-1">
+                    {nextReward.day - currentStreak} days to go
+                  </p>
+                </div>
+              )}
+            </div>
+          )}
+
+          {/* Upcoming Rewards */}
+          {upcomingRewards && upcomingRewards.length > 0 && (
+            <div className="space-y-2">
+              <p className="text-xs font-semibold text-muted-foreground">UPCOMING REWARDS</p>
+              <div className="space-y-2">
+                {upcomingRewards.slice(0, 4).map((reward) => (
+                  <div
+                    key={reward.day}
+                    className="flex items-center justify-between p-2 rounded hover:bg-muted/50 transition-colors"
+                  >
+                    <div className="flex items-center gap-2">
+                      <span className="text-lg">{reward.icon}</span>
+                      <div>
+                        <p className="text-xs font-medium">Day {reward.day}</p>
+                        <p className="text-xs text-muted-foreground">{reward.description}</p>
+                      </div>
+                    </div>
+                    {reward.day <= currentStreak + 5 && (
+                      <Badge variant="secondary" className="text-xs">Soon</Badge>
+                    )}
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+        </CardContent>
+      </Card>
+
+      {/* Reward Modal */}
+      <Dialog open={showRewardModal} onOpenChange={setShowRewardModal}>
+        <DialogContent className="sm:max-w-md">
+          <DialogHeader>
+            <DialogTitle className="text-center text-2xl">
+              🎉 Reward Unlocked!
+            </DialogTitle>
+            <DialogDescription className="text-center">
+              You've earned a special reward for your {claimedReward?.day}-day streak!
+            </DialogDescription>
+          </DialogHeader>
+          {claimedReward && (
+            <div className="py-6 text-center">
+              <div className="text-6xl mb-4">{claimedReward.icon}</div>
+              <h3 className="text-xl font-bold mb-2">{claimedReward.description}</h3>
+              <Badge variant="secondary" className="text-lg px-4 py-2">
+                <Sparkles className="w-4 h-4 mr-2" />
+                {claimedReward.type === "boost" && `${claimedReward.amount} Boost${claimedReward.amount > 1 ? 's' : ''}`}
+                {claimedReward.type === "unlock" && `${claimedReward.amount} Unlock${claimedReward.amount > 1 ? 's' : ''}`}
+                {claimedReward.type === "premium_trial" && `${claimedReward.amount} Day Premium`}
+                {claimedReward.type === "badge" && "Special Badge"}
+              </Badge>
+            </div>
+          )}
+          <Button onClick={() => setShowRewardModal(false)} size="lg">
+            Awesome!
+          </Button>
+        </DialogContent>
+      </Dialog>
+    </>
+  );
+}

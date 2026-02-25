@@ -1,1 +1,48 @@
-{"data":"aW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2J1dHRvbiI7CmltcG9ydCB7IExpbmsgfSBmcm9tICJyZWFjdC1yb3V0ZXItZG9tIjsKCmNvbnN0IENUQSA9ICgpID0+IHsKICByZXR1cm4gKAogICAgPHNlY3Rpb24gY2xhc3NOYW1lPSJweS0yMCBtZDpweS0zMiBiZy1zZWNvbmRhcnkvMTAiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGFpbmVyIG14LWF1dG8gcHgtNCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1heC13LTN4bCBteC1hdXRvIHRleHQtY2VudGVyIj4KICAgICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQtMnhsIG1kOnRleHQtM3hsIGZvbnQtaGVhZGluZyBmb250LWJvbGQgdGV4dC1mb3JlZ3JvdW5kIG1iLTMiPgogICAgICAgICAgICBSZWFkeSB0byBGaW5kIFlvdXIgTG92ZT8KICAgICAgICAgIDwvaDI+CgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIG1kOnRleHQtYmFzZSBmb250LWJvZHkgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIG1iLTYgbWF4LXctMnhsIG14LWF1dG8iPgogICAgICAgICAgICBKb2luIERhdGVMaW5rIHRvZGF5IGFuZCBzdGFydCBtZWV0aW5nIGFtYXppbmcgcGVvcGxlIHdobyBhcmUgc2VyaW91cyBhYm91dCByZWxhdGlvbnNoaXBzCiAgICAgICAgICA8L3A+CgogICAgICAgICAgey8qIENUQSBCdXR0b25zICovfQogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wgc206ZmxleC1yb3cgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIGdhcC00Ij4KICAgICAgICAgICAgPExpbmsgdG89Ii9zaWdudXAiPgogICAgICAgICAgICAgIDxCdXR0b24gCiAgICAgICAgICAgICAgICBzaXplPSJsZyIgCiAgICAgICAgICAgICAgICBjbGFzc05hbWU9InctZnVsbCBzbTp3LWF1dG8gaC0xMSBweC03IHRleHQtc20gcm91bmRlZC1sZyBidG4tZ3JhZGllbnQgZm9udC1zZW1pYm9sZCIKICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICBHZXQgU3RhcnRlZAogICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgIDxMaW5rIHRvPSIvbG9naW4iPgogICAgICAgICAgICAgIDxCdXR0b24gCiAgICAgICAgICAgICAgICBzaXplPSJsZyIgCiAgICAgICAgICAgICAgICB2YXJpYW50PSJvdXRsaW5lIiAKICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0idy1mdWxsIHNtOnctYXV0byBoLTExIHB4LTcgdGV4dC1zbSByb3VuZGVkLWxnIGJvcmRlci0yIGJvcmRlci1wcmltYXJ5LzMwIHRleHQtcHJpbWFyeSBob3Zlcjpib3JkZXItcHJpbWFyeSBob3Zlcjp0ZXh0LXByaW1hcnkgZm9udC1zZW1pYm9sZCIKICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICBTaWduIEluCiAgICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgIHsvKiBUcnVzdCBpbmRpY2F0b3JzICovfQogICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBtdC02Ij4KICAgICAgICAgICAgU2VjdXJlIE0tUGVzYSBQYXltZW50IOKAoiBWZXJpZmllZCBQcm9maWxlcyDigKIgQ2FuY2VsIEFueXRpbWUKICAgICAgICAgIDwvcD4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L3NlY3Rpb24+CiAgKTsKfTsKCmV4cG9ydCBkZWZhdWx0IENUQTsK"}
+import { Button } from "@/components/ui/button";
+import { Link } from "react-router-dom";
+
+const CTA = () => {
+  return (
+    <section className="py-20 md:py-32 bg-secondary/10">
+      <div className="container mx-auto px-4">
+        <div className="max-w-3xl mx-auto text-center">
+          <h2 className="text-2xl md:text-3xl font-heading font-bold text-foreground mb-3">
+            Ready to Find Your Love?
+          </h2>
+
+          <p className="text-sm md:text-base font-body text-muted-foreground mb-6 max-w-2xl mx-auto">
+            Join DateLink today and start meeting amazing people who are serious about relationships
+          </p>
+
+          {/* CTA Buttons */}
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
+            <Link to="/signup">
+              <Button 
+                size="lg" 
+                className="w-full sm:w-auto h-11 px-7 text-sm rounded-lg btn-gradient font-semibold"
+              >
+                Get Started
+              </Button>
+            </Link>
+            <Link to="/login">
+              <Button 
+                size="lg" 
+                variant="outline" 
+                className="w-full sm:w-auto h-11 px-7 text-sm rounded-lg border-2 border-primary/30 text-primary hover:border-primary hover:text-primary font-semibold"
+              >
+                Sign In
+              </Button>
+            </Link>
+          </div>
+
+          {/* Trust indicators */}
+          <p className="text-xs text-muted-foreground mt-6">
+            Secure M-Pesa Payment • Verified Profiles • Cancel Anytime
+          </p>
+        </div>
+      </div>
+    </section>
+  );
+};
+
+export default CTA;

@@ -1,1 +1,49 @@
-{"data":"aW1wb3J0IHsgbXV0YXRpb24sIHF1ZXJ5IH0gZnJvbSAiLi9fZ2VuZXJhdGVkL3NlcnZlciI7CmltcG9ydCB7IHYgfSBmcm9tICJjb252ZXgvdmFsdWVzIjsKaW1wb3J0IHsgSWQgfSBmcm9tICIuL19nZW5lcmF0ZWQvZGF0YU1vZGVsIjsKCmNvbnN0IE1BWF9BVFRBQ0hNRU5UX1NJWkUgPSA1MCAqIDEwMjQgKiAxMDI0OwoKZXhwb3J0IGNvbnN0IGdlbmVyYXRlQXR0YWNobWVudFVwbG9hZFVybCA9IG11dGF0aW9uKHsKICBhcmdzOiB7CiAgICB1c2VySWQ6IHYuaWQoInVzZXJzIiksCiAgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICBjb25zdCB1c2VyID0gYXdhaXQgY3R4LmRiLmdldChhcmdzLnVzZXJJZCk7CiAgICBpZiAoIXVzZXIpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCJVc2VyIG5vdCBmb3VuZCIpOwogICAgfQoKICAgIHJldHVybiBhd2FpdCBjdHguc3RvcmFnZS5nZW5lcmF0ZVVwbG9hZFVybCgpOwogIH0sCn0pOwoKZXhwb3J0IGNvbnN0IGdldEF0dGFjaG1lbnRVcmwgPSBxdWVyeSh7CiAgYXJnczogewogICAgc3RvcmFnZUlkOiB2LmlkKCJfc3RvcmFnZSIpLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgcmV0dXJuIGF3YWl0IGN0eC5zdG9yYWdlLmdldFVybChhcmdzLnN0b3JhZ2VJZCk7CiAgfSwKfSk7CgpleHBvcnQgY29uc3QgdmFsaWRhdGVBdHRhY2htZW50TWV0YWRhdGEgPSBtdXRhdGlvbih7CiAgYXJnczogewogICAgc3RvcmFnZUlkOiB2LmlkKCJfc3RvcmFnZSIpLAogICAgZmlsZU5hbWU6IHYuc3RyaW5nKCksCiAgICBtaW1lVHlwZTogdi5zdHJpbmcoKSwKICAgIGZpbGVTaXplOiB2Lm51bWJlcigpLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgaWYgKGFyZ3MuZmlsZVNpemUgPiBNQVhfQVRUQUNITUVOVF9TSVpFKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcigiRmlsZSBleGNlZWRzIDUwTUIgbGltaXQiKTsKICAgIH0KCiAgICByZXR1cm4gewogICAgICBzdG9yYWdlSWQ6IGFyZ3Muc3RvcmFnZUlkLAogICAgICBmaWxlTmFtZTogYXJncy5maWxlTmFtZSwKICAgICAgbWltZVR5cGU6IGFyZ3MubWltZVR5cGUsCiAgICAgIGZpbGVTaXplOiBhcmdzLmZpbGVTaXplLAogICAgfTsKICB9LAp9KTsK"}
+import { mutation, query } from "./_generated/server";
+import { v } from "convex/values";
+import { Id } from "./_generated/dataModel";
+
+const MAX_ATTACHMENT_SIZE = 50 * 1024 * 1024;
+
+export const generateAttachmentUploadUrl = mutation({
+  args: {
+    userId: v.id("users"),
+  },
+  handler: async (ctx, args) => {
+    const user = await ctx.db.get(args.userId);
+    if (!user) {
+      throw new Error("User not found");
+    }
+
+    return await ctx.storage.generateUploadUrl();
+  },
+});
+
+export const getAttachmentUrl = query({
+  args: {
+    storageId: v.id("_storage"),
+  },
+  handler: async (ctx, args) => {
+    return await ctx.storage.getUrl(args.storageId);
+  },
+});
+
+export const validateAttachmentMetadata = mutation({
+  args: {
+    storageId: v.id("_storage"),
+    fileName: v.string(),
+    mimeType: v.string(),
+    fileSize: v.number(),
+  },
+  handler: async (ctx, args) => {
+    if (args.fileSize > MAX_ATTACHMENT_SIZE) {
+      throw new Error("File exceeds 50MB limit");
+    }
+
+    return {
+      storageId: args.storageId,
+      fileName: args.fileName,
+      mimeType: args.mimeType,
+      fileSize: args.fileSize,
+    };
+  },
+});

@@ -1,1 +1,188 @@
-{"data":"aW1wb3J0IHsgSG9tZSwgSGVhcnQsIE1lc3NhZ2VDaXJjbGUsIFVzZXIsIFNoaWVsZCwgU2V0dGluZ3MsIExvZ091dCwgU3BhcmtsZXMsIENyZWRpdENhcmQsIE1lbnUgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyBMaW5rLCB1c2VMb2NhdGlvbiB9IGZyb20gInJlYWN0LXJvdXRlci1kb20iOwppbXBvcnQgeyB1c2VRdWVyeSB9IGZyb20gImNvbnZleC9yZWFjdCI7CmltcG9ydCB7IGFwaSB9IGZyb20gIi4uLy4uLy4uL2NvbnZleC9fZ2VuZXJhdGVkL2FwaSI7CmltcG9ydCB7IHVzZUF1dGggfSBmcm9tICJAL2NvbnRleHRzL0F1dGhDb250ZXh0IjsKaW1wb3J0IHsKICAgIFNpZGViYXIsCiAgICBTaWRlYmFyQ29udGVudCwKICAgIFNpZGViYXJGb290ZXIsCiAgICBTaWRlYmFyR3JvdXAsCiAgICBTaWRlYmFyR3JvdXBDb250ZW50LAogICAgU2lkZWJhckdyb3VwTGFiZWwsCiAgICBTaWRlYmFySGVhZGVyLAogICAgU2lkZWJhck1lbnUsCiAgICBTaWRlYmFyTWVudUJ1dHRvbiwKICAgIFNpZGViYXJNZW51SXRlbSwKICAgIFNpZGViYXJTZXBhcmF0b3IsCiAgICBTaWRlYmFyVHJpZ2dlciwKfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvc2lkZWJhciI7CmltcG9ydCB7IEF2YXRhciwgQXZhdGFyRmFsbGJhY2ssIEF2YXRhckltYWdlIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2F2YXRhciI7CmltcG9ydCB7IEJ1dHRvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS9idXR0b24iOwoKY29uc3QgbWVudUl0ZW1zID0gWwogICAgeyB0aXRsZTogIkRpc2NvdmVyIiwgdXJsOiAiL2Rpc2NvdmVyIiwgaWNvbjogSG9tZSwgY29sb3I6ICJ0ZXh0LWJsdWUtNTAwIiwgaG92ZXJDb2xvcjogImhvdmVyOnRleHQtYmx1ZS02MDAiLCBiZ0NvbG9yOiAiYmctYmx1ZS01MDAvMTAiIH0sCiAgICB7IHRpdGxlOiAiTWF0Y2hlcyIsIHVybDogIi9tYXRjaGVzIiwgaWNvbjogSGVhcnQsIGNvbG9yOiAidGV4dC1yb3NlLTUwMCIsIGhvdmVyQ29sb3I6ICJob3Zlcjp0ZXh0LXJvc2UtNjAwIiwgYmdDb2xvcjogImJnLXJvc2UtNTAwLzEwIiB9LAogICAgeyB0aXRsZTogIk1lc3NhZ2VzIiwgdXJsOiAiL21lc3NhZ2VzIiwgaWNvbjogTWVzc2FnZUNpcmNsZSwgY29sb3I6ICJ0ZXh0LWVtZXJhbGQtNTAwIiwgaG92ZXJDb2xvcjogImhvdmVyOnRleHQtZW1lcmFsZC02MDAiLCBiZ0NvbG9yOiAiYmctZW1lcmFsZC01MDAvMTAiIH0sCiAgICB7IHRpdGxlOiAiUHJvZmlsZSIsIHVybDogIi9kYXNoYm9hcmQiLCBpY29uOiBVc2VyLCBjb2xvcjogInRleHQtcHVycGxlLTUwMCIsIGhvdmVyQ29sb3I6ICJob3Zlcjp0ZXh0LXB1cnBsZS02MDAiLCBiZ0NvbG9yOiAiYmctcHVycGxlLTUwMC8xMCIgfSwKICAgIHsgdGl0bGU6ICJTYWZldHkiLCB1cmw6ICIvc2FmZXR5IiwgaWNvbjogU2hpZWxkLCBjb2xvcjogInRleHQtYW1iZXItNTAwIiwgaG92ZXJDb2xvcjogImhvdmVyOnRleHQtYW1iZXItNjAwIiwgYmdDb2xvcjogImJnLWFtYmVyLTUwMC8xMCIgfSwKXTsKCmNvbnN0IHNlY29uZGFyeUl0ZW1zID0gWwogICAgeyB0aXRsZTogIlN1YnNjcmlwdGlvbiIsIHVybDogIi9zdWJzY3JpcHRpb24iLCBpY29uOiBDcmVkaXRDYXJkLCBjb2xvcjogInRleHQtaW5kaWdvLTUwMCIsIGhvdmVyQ29sb3I6ICJob3Zlcjp0ZXh0LWluZGlnby02MDAiLCBiZ0NvbG9yOiAiYmctaW5kaWdvLTUwMC8xMCIgfSwKICAgIHsgdGl0bGU6ICJTZXR0aW5ncyIsIHVybDogIi9zZXR0aW5ncyIsIGljb246IFNldHRpbmdzLCBjb2xvcjogInRleHQtc2xhdGUtNTAwIiwgaG92ZXJDb2xvcjogImhvdmVyOnRleHQtc2xhdGUtNjAwIiwgYmdDb2xvcjogImJnLXNsYXRlLTUwMC8xMCIgfSwKXTsKCmV4cG9ydCBmdW5jdGlvbiBBcHBTaWRlYmFyKCkgewogICAgY29uc3QgbG9jYXRpb24gPSB1c2VMb2NhdGlvbigpOwogICAgY29uc3QgeyB1c2VyIH0gPSB1c2VBdXRoKCk7CiAgICBjb25zdCB1c2VySWQgPSB1c2VyPy5faWQ7CiAgICBjb25zdCBwcm9maWxlID0gdXNlUXVlcnkoYXBpLnByb2ZpbGVzLmdldE15UHJvZmlsZSwgdXNlcklkID8geyB1c2VySWQgfSA6ICJza2lwIik7CgogICAgY29uc3QgeyBsb2dvdXQgfSA9IHVzZUF1dGgoKTsKCiAgICBjb25zdCBoYW5kbGVMb2dvdXQgPSBhc3luYyAoKSA9PiB7CiAgICAgICAgYXdhaXQgbG9nb3V0KCk7CiAgICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSAiLyI7CiAgICB9OwoKICAgIHJldHVybiAoCiAgICAgICAgPFNpZGViYXIgdmFyaWFudD0ic2lkZWJhciIgY29sbGFwc2libGU9Imljb24iIGNsYXNzTmFtZT0iYm9yZGVyLXIgYm9yZGVyLXdoaXRlLzQwIGRhcms6Ym9yZGVyLXdoaXRlLzUgYmctd2hpdGUvODAgZGFyazpiZy1ibGFjay80MCBiYWNrZHJvcC1ibHVyLTJ4bCBzaGFkb3ctZ2xhc3Mtc20iPgogICAgICAgICAgICA8U2lkZWJhckhlYWRlciBjbGFzc05hbWU9ImgtMjAgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIHB4LTQiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0zIHctZnVsbCBncm91cC1kYXRhLVtjb2xsYXBzaWJsZT1pY29uXTpqdXN0aWZ5LWNlbnRlciI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InJlbGF0aXZlIGdyb3VwIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImJnLWdyYWRpZW50LWtlbnlhIHAtMiByb3VuZGVkLXhsIHNoYWRvdy1sZyBzaGFkb3ctcHJpbWFyeS8yMCBncm91cC1ob3ZlcjpzY2FsZS0xMDUgdHJhbnNpdGlvbi10cmFuc2Zvcm0gZHVyYXRpb24tMzAwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIvbG9nby5wbmciIGFsdD0iRGF0ZUxpbmsiIGNsYXNzTmFtZT0idy02IGgtNiBvYmplY3QtY29udGFpbiIgLz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBpbnNldC0wIGJnLXdoaXRlLzIwIGJsdXItbWQgcm91bmRlZC14bCAtei0xMCIgLz4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LWNvbCBncm91cC1kYXRhLVtjb2xsYXBzaWJsZT1pY29uXTpoaWRkZW4gb3ZlcmZsb3ctaGlkZGVuIHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTMwMCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZm9udC1oZWFkaW5nIGZvbnQtZXh0cmFib2xkIHRleHQtbGcgdGV4dC1mb3JlZ3JvdW5kIHRyYWNraW5nLXRpZ2h0IHdoaXRlc3BhY2Utbm93cmFwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIERhdGVMaW5rCiAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LVsxMHB4XSB0ZXh0LW11dGVkLWZvcmVncm91bmQgZm9udC1zZW1pYm9sZCB1cHBlcmNhc2UgdHJhY2tpbmctd2lkZXN0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIENvbm5lY3QuIExvdmUuIFVuaXRlLgogICAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9TaWRlYmFySGVhZGVyPgoKICAgICAgICAgICAgPFNpZGViYXJDb250ZW50IGNsYXNzTmFtZT0icHgtMyBweS0yIj4KICAgICAgICAgICAgICAgIDxTaWRlYmFyR3JvdXA+CiAgICAgICAgICAgICAgICAgICAgPFNpZGViYXJHcm91cExhYmVsIGNsYXNzTmFtZT0idGV4dC14cyBmb250LWJvbGQgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kLzcwIHVwcGVyY2FzZSB0cmFja2luZy13aWRlc3QgcHgtMiBtYi0yIGdyb3VwLWRhdGEtW2NvbGxhcHNpYmxlPWljb25dOmhpZGRlbiI+CiAgICAgICAgICAgICAgICAgICAgICAgIE1haW4gTWVudQogICAgICAgICAgICAgICAgICAgIDwvU2lkZWJhckdyb3VwTGFiZWw+CiAgICAgICAgICAgICAgICAgICAgPFNpZGViYXJHcm91cENvbnRlbnQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxTaWRlYmFyTWVudSBjbGFzc05hbWU9ImdhcC0yIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHttZW51SXRlbXMubWFwKChpdGVtKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgaXNBY3RpdmUgPSBsb2NhdGlvbi5wYXRobmFtZSA9PT0gaXRlbS51cmw7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFNpZGViYXJNZW51SXRlbSBrZXk9e2l0ZW0udGl0bGV9PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFNpZGViYXJNZW51QnV0dG9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXNDaGlsZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRvb2x0aXA9e2l0ZW0udGl0bGV9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXNBY3RpdmU9e2lzQWN0aXZlfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17YGgtMTEgcm91bmRlZC14bCB0cmFuc2l0aW9uLWFsbCBkdXJhdGlvbi0zMDAgZ3JvdXAgcmVsYXRpdmUgb3ZlcmZsb3ctaGlkZGVuICR7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlzQWN0aXZlIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPyBgJHtpdGVtLmJnQ29sb3J9ICR7aXRlbS5jb2xvcn1gIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOiBgaG92ZXI6Ymctd2hpdGUvNTAgZGFyazpob3ZlcjpiZy13aGl0ZS8xMCAke2l0ZW0uY29sb3J9ICR7aXRlbS5ob3ZlckNvbG9yfWAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9YH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8TGluayB0bz17aXRlbS51cmx9IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTMgdy1mdWxsIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge2lzQWN0aXZlICYmICgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtgYWJzb2x1dGUgbGVmdC0wIHRvcC0xLzIgLXRyYW5zbGF0ZS15LTEvMiB3LTEgaC02ICR7aXRlbS5jb2xvci5yZXBsYWNlKCd0ZXh0LScsICdiZy0nKX0gcm91bmRlZC1yLWZ1bGxgfSAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aXRlbS5pY29uIGNsYXNzTmFtZT17YHctNSBoLTUgdHJhbnNpdGlvbi10cmFuc2Zvcm0gZ3JvdXAtaG92ZXI6c2NhbGUtMTEwICR7aXNBY3RpdmUgPyAiZmlsbC1jdXJyZW50IiA6ICIifWB9IC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZm9udC1tZWRpdW0iPntpdGVtLnRpdGxlfTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L1NpZGViYXJNZW51QnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L1NpZGViYXJNZW51SXRlbT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSl9CiAgICAgICAgICAgICAgICAgICAgICAgIDwvU2lkZWJhck1lbnU+CiAgICAgICAgICAgICAgICAgICAgPC9TaWRlYmFyR3JvdXBDb250ZW50PgogICAgICAgICAgICAgICAgPC9TaWRlYmFyR3JvdXA+CgogICAgICAgICAgICAgICAgPFNpZGViYXJTZXBhcmF0b3IgY2xhc3NOYW1lPSJteS00IG14LTIgYmctYm9yZGVyLzQwIiAvPgoKICAgICAgICAgICAgICAgIDxTaWRlYmFyR3JvdXA+CiAgICAgICAgICAgICAgICAgICAgPFNpZGViYXJHcm91cExhYmVsIGNsYXNzTmFtZT0idGV4dC14cyBmb250LWJvbGQgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kLzcwIHVwcGVyY2FzZSB0cmFja2luZy13aWRlc3QgcHgtMiBtYi0yIGdyb3VwLWRhdGEtW2NvbGxhcHNpYmxlPWljb25dOmhpZGRlbiI+CiAgICAgICAgICAgICAgICAgICAgICAgIEFjY291bnQKICAgICAgICAgICAgICAgICAgICA8L1NpZGViYXJHcm91cExhYmVsPgogICAgICAgICAgICAgICAgICAgIDxTaWRlYmFyR3JvdXBDb250ZW50PgogICAgICAgICAgICAgICAgICAgICAgICA8U2lkZWJhck1lbnUgY2xhc3NOYW1lPSJnYXAtMSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7c2Vjb25kYXJ5SXRlbXMubWFwKChpdGVtKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgaXNBY3RpdmUgPSBsb2NhdGlvbi5wYXRobmFtZSA9PT0gaXRlbS51cmw7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFNpZGViYXJNZW51SXRlbSBrZXk9e2l0ZW0udGl0bGV9PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFNpZGViYXJNZW51QnV0dG9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXNDaGlsZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRvb2x0aXA9e2l0ZW0udGl0bGV9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtgaC0xMCByb3VuZGVkLXhsIHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTMwMCAkewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpc0FjdGl2ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPyBgJHtpdGVtLmJnQ29sb3J9ICR7aXRlbS5jb2xvcn1gCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6IGBob3ZlcjpiZy13aGl0ZS81MCBkYXJrOmhvdmVyOmJnLXdoaXRlLzEwICR7aXRlbS5jb2xvcn0gJHtpdGVtLmhvdmVyQ29sb3J9YAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH1gfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxMaW5rIHRvPXtpdGVtLnVybH0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpdGVtLmljb24gY2xhc3NOYW1lPSJ3LTUgaC01IiAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3Bhbj57aXRlbS50aXRsZX08L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9TaWRlYmFyTWVudUJ1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9TaWRlYmFyTWVudUl0ZW0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPFNpZGViYXJNZW51SXRlbT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8U2lkZWJhck1lbnVCdXR0b24KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25DbGljaz17aGFuZGxlTG9nb3V0fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImgtMTAgcm91bmRlZC14bCB0ZXh0LXJlZC01MDAgaG92ZXI6dGV4dC1yZWQtNjAwIGhvdmVyOmJnLXJlZC01MDAvMTAgdHJhbnNpdGlvbi1hbGwgZHVyYXRpb24tMzAwIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPExvZ091dCBjbGFzc05hbWU9InctNSBoLTUiIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPkxvZ291dDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L1NpZGViYXJNZW51QnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9TaWRlYmFyTWVudUl0ZW0+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvU2lkZWJhck1lbnU+CiAgICAgICAgICAgICAgICAgICAgPC9TaWRlYmFyR3JvdXBDb250ZW50PgogICAgICAgICAgICAgICAgPC9TaWRlYmFyR3JvdXA+CgogICAgICAgICAgICAgICAgey8qIFByZW1pdW0gUHJvbW8gLSBDb2xsYXBzZWQgTG9naWMgSGFuZGxlZCB2aWEgQ1NTIHVzdWFsbHksIG9yIGp1c3QgaGlkZSBpbiBjb2RlICovfQogICAgICAgICAgICAgICAgeyFwcm9maWxlPy5pc1ByZW1pdW0gJiYgKAogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC1hdXRvIHAtNCBteC0xIHJvdW5kZWQtMnhsIGdyYWRpZW50LWdvbGQgc2hhZG93LWxnIHJlbGF0aXZlIG92ZXJmbG93LWhpZGRlbiBncm91cCBncm91cC1kYXRhLVtjb2xsYXBzaWJsZT1pY29uXTpoaWRkZW4gdHJhbnNpdGlvbi1hbGwgZHVyYXRpb24tNTAwIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIHRvcC0wIHJpZ2h0LTAgcC0yIG9wYWNpdHktMjAgZ3JvdXAtaG92ZXI6b3BhY2l0eS0zMCB0cmFuc2l0aW9uLW9wYWNpdHkiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPFNwYXJrbGVzIGNsYXNzTmFtZT0idy0xNiBoLTE2IGFuaW1hdGUtcHVsc2Utc29mdCIgLz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyZWxhdGl2ZSB6LTEwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoMyBjbGFzc05hbWU9ImZvbnQtYm9sZCB0ZXh0LXdoaXRlIHRleHQtbGcgbGVhZGluZy10aWdodCBtYi0xIj5HbyBQcmVtaXVtPC9oMz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LXdoaXRlLzkwIG1iLTMgZm9udC1tZWRpdW0iPkdldCB1bmxpbWl0ZWQgbGlrZXMgJiBzZWUgd2hvIGxpa2VzIHlvdSE8L3A+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2l6ZT0ic20iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ3LWZ1bGwgYmctd2hpdGUgdGV4dC1hY2NlbnQgaG92ZXI6Ymctd2hpdGUvOTAgYm9yZGVyLTAgZm9udC1ib2xkIHNoYWRvdy1zbSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhc0NoaWxkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPExpbmsgdG89Ii91cGdyYWRlIj5VcGdyYWRlIE5vdzwvTGluaz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgIDwvU2lkZWJhckNvbnRlbnQ+CgogICAgICAgICAgICA8U2lkZWJhckZvb3RlciBjbGFzc05hbWU9InAtNCBiZy13aGl0ZS81IGRhcms6YmctYmxhY2svMjAgYmFja2Ryb3AtYmx1ci1zbSI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTMgcC0yIHJvdW5kZWQteGwgaG92ZXI6Ymctd2hpdGUvMTAgdHJhbnNpdGlvbi1jb2xvcnMgY3Vyc29yLXBvaW50ZXIgZ3JvdXAgZ3JvdXAtZGF0YS1bY29sbGFwc2libGU9aWNvbl06anVzdGlmeS1jZW50ZXIiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyZWxhdGl2ZSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxBdmF0YXIgY2xhc3NOYW1lPSJoLTEwIHctMTAgYm9yZGVyLTIgYm9yZGVyLXdoaXRlLzIwIHNoYWRvdy1zbSB0cmFuc2l0aW9uLXRyYW5zZm9ybSBncm91cC1ob3ZlcjpzY2FsZS0xMDUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPEF2YXRhckltYWdlIHNyYz17cHJvZmlsZT8uaW1hZ2VzPy5bMF0gfHwgdXNlcj8uaW1hZ2V9IGNsYXNzTmFtZT0ib2JqZWN0LWNvdmVyIiAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPEF2YXRhckZhbGxiYWNrIGNsYXNzTmFtZT0iYmctZ3JhZGllbnQtbG92ZSB0ZXh0LXdoaXRlIGZvbnQtYm9sZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3VzZXI/Lm5hbWU/LlswXSB8fCAiVSJ9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L0F2YXRhckZhbGxiYWNrPgogICAgICAgICAgICAgICAgICAgICAgICA8L0F2YXRhcj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGJvdHRvbS0wIHJpZ2h0LTAgdy0zIGgtMyBiZy1ncmVlbi01MDAgYm9yZGVyLTIgYm9yZGVyLWNhcmQgcm91bmRlZC1mdWxsIiAvPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtY29sIG92ZXJmbG93LWhpZGRlbiBncm91cC1kYXRhLVtjb2xsYXBzaWJsZT1pY29uXTpoaWRkZW4iPgogICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtc20gZm9udC1ib2xkIHRydW5jYXRlIHRleHQtZm9yZWdyb3VuZCI+e3VzZXI/Lm5hbWUgfHwgIkd1ZXN0In08L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LW11dGVkLWZvcmVncm91bmQgdHJ1bmNhdGUgb3BhY2l0eS04MCI+e3VzZXI/LmVtYWlsIHx8ICJTaWduIGluIn08L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9TaWRlYmFyRm9vdGVyPgogICAgICAgIDwvU2lkZWJhcj4KICAgICk7Cn0K"}
+import { Home, Heart, MessageCircle, User, Shield, Settings, LogOut, Sparkles, CreditCard, Menu } from "lucide-react";
+import { Link, useLocation } from "react-router-dom";
+import { useQuery } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import { useAuth } from "@/contexts/AuthContext";
+import {
+    Sidebar,
+    SidebarContent,
+    SidebarFooter,
+    SidebarGroup,
+    SidebarGroupContent,
+    SidebarGroupLabel,
+    SidebarHeader,
+    SidebarMenu,
+    SidebarMenuButton,
+    SidebarMenuItem,
+    SidebarSeparator,
+    SidebarTrigger,
+} from "@/components/ui/sidebar";
+import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
+import { Button } from "@/components/ui/button";
+
+const menuItems = [
+    { title: "Discover", url: "/discover", icon: Home, color: "text-blue-500", hoverColor: "hover:text-blue-600", bgColor: "bg-blue-500/10" },
+    { title: "Matches", url: "/matches", icon: Heart, color: "text-rose-500", hoverColor: "hover:text-rose-600", bgColor: "bg-rose-500/10" },
+    { title: "Messages", url: "/messages", icon: MessageCircle, color: "text-emerald-500", hoverColor: "hover:text-emerald-600", bgColor: "bg-emerald-500/10" },
+    { title: "Profile", url: "/dashboard", icon: User, color: "text-purple-500", hoverColor: "hover:text-purple-600", bgColor: "bg-purple-500/10" },
+    { title: "Safety", url: "/safety", icon: Shield, color: "text-amber-500", hoverColor: "hover:text-amber-600", bgColor: "bg-amber-500/10" },
+];
+
+const secondaryItems = [
+    { title: "Subscription", url: "/subscription", icon: CreditCard, color: "text-indigo-500", hoverColor: "hover:text-indigo-600", bgColor: "bg-indigo-500/10" },
+    { title: "Settings", url: "/settings", icon: Settings, color: "text-slate-500", hoverColor: "hover:text-slate-600", bgColor: "bg-slate-500/10" },
+];
+
+export function AppSidebar() {
+    const location = useLocation();
+    const { user } = useAuth();
+    const userId = user?._id;
+    const profile = useQuery(api.profiles.getMyProfile, userId ? { userId } : "skip");
+
+    const { logout } = useAuth();
+
+    const handleLogout = async () => {
+        await logout();
+        window.location.href = "/";
+    };
+
+    return (
+        <Sidebar variant="sidebar" collapsible="icon" className="border-r border-white/40 dark:border-white/5 bg-white/80 dark:bg-black/40 backdrop-blur-2xl shadow-glass-sm">
+            <SidebarHeader className="h-20 flex items-center justify-between px-4">
+                <div className="flex items-center gap-3 w-full group-data-[collapsible=icon]:justify-center">
+                    <div className="relative group">
+                        <div className="bg-gradient-kenya p-2 rounded-xl shadow-lg shadow-primary/20 group-hover:scale-105 transition-transform duration-300">
+                            <img src="/logo.png" alt="DateLink" className="w-6 h-6 object-contain" />
+                        </div>
+                        <div className="absolute inset-0 bg-white/20 blur-md rounded-xl -z-10" />
+                    </div>
+                    <div className="flex flex-col group-data-[collapsible=icon]:hidden overflow-hidden transition-all duration-300">
+                        <span className="font-heading font-extrabold text-lg text-foreground tracking-tight whitespace-nowrap">
+                            DateLink
+                        </span>
+                        <span className="text-[10px] text-muted-foreground font-semibold uppercase tracking-widest">
+                            Connect. Love. Unite.
+                        </span>
+                    </div>
+                </div>
+            </SidebarHeader>
+
+            <SidebarContent className="px-3 py-2">
+                <SidebarGroup>
+                    <SidebarGroupLabel className="text-xs font-bold text-muted-foreground/70 uppercase tracking-widest px-2 mb-2 group-data-[collapsible=icon]:hidden">
+                        Main Menu
+                    </SidebarGroupLabel>
+                    <SidebarGroupContent>
+                        <SidebarMenu className="gap-2">
+                            {menuItems.map((item) => {
+                                const isActive = location.pathname === item.url;
+                                return (
+                                    <SidebarMenuItem key={item.title}>
+                                        <SidebarMenuButton
+                                            asChild
+                                            tooltip={item.title}
+                                            isActive={isActive}
+                                            className={`h-11 rounded-xl transition-all duration-300 group relative overflow-hidden ${
+                                                isActive 
+                                                    ? `${item.bgColor} ${item.color}` 
+                                                    : `hover:bg-white/50 dark:hover:bg-white/10 ${item.color} ${item.hoverColor}`
+                                            }`}
+                                        >
+                                            <Link to={item.url} className="flex items-center gap-3 w-full">
+                                                {isActive && (
+                                                    <div className={`absolute left-0 top-1/2 -translate-y-1/2 w-1 h-6 ${item.color.replace('text-', 'bg-')} rounded-r-full`} />
+                                                )}
+                                                <item.icon className={`w-5 h-5 transition-transform group-hover:scale-110 ${isActive ? "fill-current" : ""}`} />
+                                                <span className="font-medium">{item.title}</span>
+                                            </Link>
+                                        </SidebarMenuButton>
+                                    </SidebarMenuItem>
+                                );
+                            })}
+                        </SidebarMenu>
+                    </SidebarGroupContent>
+                </SidebarGroup>
+
+                <SidebarSeparator className="my-4 mx-2 bg-border/40" />
+
+                <SidebarGroup>
+                    <SidebarGroupLabel className="text-xs font-bold text-muted-foreground/70 uppercase tracking-widest px-2 mb-2 group-data-[collapsible=icon]:hidden">
+                        Account
+                    </SidebarGroupLabel>
+                    <SidebarGroupContent>
+                        <SidebarMenu className="gap-1">
+                            {secondaryItems.map((item) => {
+                                const isActive = location.pathname === item.url;
+                                return (
+                                    <SidebarMenuItem key={item.title}>
+                                        <SidebarMenuButton
+                                            asChild
+                                            tooltip={item.title}
+                                            className={`h-10 rounded-xl transition-all duration-300 ${
+                                                isActive
+                                                    ? `${item.bgColor} ${item.color}`
+                                                    : `hover:bg-white/50 dark:hover:bg-white/10 ${item.color} ${item.hoverColor}`
+                                            }`}
+                                        >
+                                            <Link to={item.url}>
+                                                <item.icon className="w-5 h-5" />
+                                                <span>{item.title}</span>
+                                            </Link>
+                                        </SidebarMenuButton>
+                                    </SidebarMenuItem>
+                                );
+                            })}
+                            <SidebarMenuItem>
+                                <SidebarMenuButton
+                                    onClick={handleLogout}
+                                    className="h-10 rounded-xl text-red-500 hover:text-red-600 hover:bg-red-500/10 transition-all duration-300"
+                                >
+                                    <LogOut className="w-5 h-5" />
+                                    <span>Logout</span>
+                                </SidebarMenuButton>
+                            </SidebarMenuItem>
+                        </SidebarMenu>
+                    </SidebarGroupContent>
+                </SidebarGroup>
+
+                {/* Premium Promo - Collapsed Logic Handled via CSS usually, or just hide in code */}
+                {!profile?.isPremium && (
+                    <div className="mt-auto p-4 mx-1 rounded-2xl gradient-gold shadow-lg relative overflow-hidden group group-data-[collapsible=icon]:hidden transition-all duration-500">
+                        <div className="absolute top-0 right-0 p-2 opacity-20 group-hover:opacity-30 transition-opacity">
+                            <Sparkles className="w-16 h-16 animate-pulse-soft" />
+                        </div>
+                        <div className="relative z-10">
+                            <h3 className="font-bold text-white text-lg leading-tight mb-1">Go Premium</h3>
+                            <p className="text-xs text-white/90 mb-3 font-medium">Get unlimited likes & see who likes you!</p>
+                            <Button
+                                size="sm"
+                                className="w-full bg-white text-accent hover:bg-white/90 border-0 font-bold shadow-sm"
+                                asChild
+                            >
+                                <Link to="/upgrade">Upgrade Now</Link>
+                            </Button>
+                        </div>
+                    </div>
+                )}
+            </SidebarContent>
+
+            <SidebarFooter className="p-4 bg-white/5 dark:bg-black/20 backdrop-blur-sm">
+                <div className="flex items-center gap-3 p-2 rounded-xl hover:bg-white/10 transition-colors cursor-pointer group group-data-[collapsible=icon]:justify-center">
+                    <div className="relative">
+                        <Avatar className="h-10 w-10 border-2 border-white/20 shadow-sm transition-transform group-hover:scale-105">
+                            <AvatarImage src={profile?.images?.[0] || user?.image} className="object-cover" />
+                            <AvatarFallback className="bg-gradient-love text-white font-bold">
+                                {user?.name?.[0] || "U"}
+                            </AvatarFallback>
+                        </Avatar>
+                        <div className="absolute bottom-0 right-0 w-3 h-3 bg-green-500 border-2 border-card rounded-full" />
+                    </div>
+                    <div className="flex flex-col overflow-hidden group-data-[collapsible=icon]:hidden">
+                        <span className="text-sm font-bold truncate text-foreground">{user?.name || "Guest"}</span>
+                        <span className="text-xs text-muted-foreground truncate opacity-80">{user?.email || "Sign in"}</span>
+                    </div>
+                </div>
+            </SidebarFooter>
+        </Sidebar>
+    );
+}

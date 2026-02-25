@@ -1,1 +1,11 @@
-{"data":"aW1wb3J0IHsgTWVzc2FnZUNpcmNsZSB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CgpleHBvcnQgZnVuY3Rpb24gTm9NZXNzYWdlc0VtcHR5U3RhdGUoKSB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LWNlbnRlciBweS0yMCBnbGFzcy1jYXJkIHJvdW5kZWQtM3hsIG14LTQiPgogICAgICA8TWVzc2FnZUNpcmNsZSBjbGFzc05hbWU9InctMTYgaC0xNiBteC1hdXRvIHRleHQtbXV0ZWQtZm9yZWdyb3VuZC8zMCBtYi00IiAvPgogICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LXhsIGZvbnQtc2VtaWJvbGQgbWItMiI+Tm8gbWVzc2FnZXMgeWV0PC9oMj4KICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LW11dGVkLWZvcmVncm91bmQiPllvdXIgbWVzc2FnZXMgd2lsbCBhcHBlYXIgaGVyZSBvbmNlIHlvdSBtYXRjaCBhbmQgc3RhcnQgY2hhdHRpbmcuPC9wPgogICAgPC9kaXY+CiAgKTsKfQo="}
+import { MessageCircle } from "lucide-react";
+
+export function NoMessagesEmptyState() {
+  return (
+    <div className="text-center py-20 glass-card rounded-3xl mx-4">
+      <MessageCircle className="w-16 h-16 mx-auto text-muted-foreground/30 mb-4" />
+      <h2 className="text-xl font-semibold mb-2">No messages yet</h2>
+      <p className="text-muted-foreground">Your messages will appear here once you match and start chatting.</p>
+    </div>
+  );
+}

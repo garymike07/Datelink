@@ -1,1 +1,30 @@
-{"data":"aW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2J1dHRvbiI7CmltcG9ydCB7IEhlYXJ0IH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKCmV4cG9ydCBmdW5jdGlvbiBPdXRPZlByb2ZpbGVzRW1wdHlTdGF0ZSh7CiAgb25WaWV3TWF0Y2hlcywKICBvbkNoYW5nZVByZWZlcmVuY2VzLAp9OiB7CiAgb25WaWV3TWF0Y2hlczogKCkgPT4gdm9pZDsKICBvbkNoYW5nZVByZWZlcmVuY2VzOiAoKSA9PiB2b2lkOwp9KSB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtY29sIGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBtaW4taC1bNjB2aF0gdGV4dC1jZW50ZXIgcC00Ij4KICAgICAgPGRpdiBjbGFzc05hbWU9ImdsYXNzLWNhcmQgcC0xMiByb3VuZGVkLTN4bCBtYXgtdy1tZCB3LWZ1bGwiPgogICAgICAgIDxIZWFydCBjbGFzc05hbWU9InctMTYgaC0xNiBteC1hdXRvIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBtYi00IG9wYWNpdHktNTAiIC8+CiAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC0yeGwgZm9udC1oZWFkaW5nIGZvbnQtYm9sZCBtYi0yIj5Zb3UndmUgc2VlbiBldmVyeW9uZSBpbiB5b3VyIGFyZWE8L2gyPgogICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1tdXRlZC1mb3JlZ3JvdW5kIG1iLTgiPgogICAgICAgICAgVHJ5IGV4cGFuZGluZyB5b3VyIHByZWZlcmVuY2VzIG9yIGNoZWNrIGJhY2sgbGF0ZXIgZm9yIG5ldyBwcm9maWxlcy4KICAgICAgICA8L3A+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMyI+CiAgICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9e29uVmlld01hdGNoZXN9IHZhcmlhbnQ9Imhlcm8iIGNsYXNzTmFtZT0idy1mdWxsIj4KICAgICAgICAgICAgVmlldyBZb3VyIE1hdGNoZXMKICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgPEJ1dHRvbiBvbkNsaWNrPXtvbkNoYW5nZVByZWZlcmVuY2VzfSB2YXJpYW50PSJvdXRsaW5lIiBjbGFzc05hbWU9InctZnVsbCI+CiAgICAgICAgICAgIENoYW5nZSBQcmVmZXJlbmNlcwogICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQo="}
+import { Button } from "@/components/ui/button";
+import { Heart } from "lucide-react";
+
+export function OutOfProfilesEmptyState({
+  onViewMatches,
+  onChangePreferences,
+}: {
+  onViewMatches: () => void;
+  onChangePreferences: () => void;
+}) {
+  return (
+    <div className="flex flex-col items-center justify-center min-h-[60vh] text-center p-4">
+      <div className="glass-card p-12 rounded-3xl max-w-md w-full">
+        <Heart className="w-16 h-16 mx-auto text-muted-foreground mb-4 opacity-50" />
+        <h2 className="text-2xl font-heading font-bold mb-2">You've seen everyone in your area</h2>
+        <p className="text-muted-foreground mb-8">
+          Try expanding your preferences or check back later for new profiles.
+        </p>
+        <div className="space-y-3">
+          <Button onClick={onViewMatches} variant="hero" className="w-full">
+            View Your Matches
+          </Button>
+          <Button onClick={onChangePreferences} variant="outline" className="w-full">
+            Change Preferences
+          </Button>
+        </div>
+      </div>
+    </div>
+  );
+}

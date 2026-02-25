@@ -1,1 +1,133 @@
-{"data":"aW1wb3J0IHsgdXNlRWZmZWN0IH0gZnJvbSAicmVhY3QiOwoKY29uc3QgREVGQVVMVF9UV0lUVEVSX0NBUkQgPSAic3VtbWFyeV9sYXJnZV9pbWFnZSI7Cgp0eXBlIFNlb1Byb3BzID0gewogIHRpdGxlOiBzdHJpbmc7CiAgZGVzY3JpcHRpb246IHN0cmluZzsKICBjYW5vbmljYWw/OiBzdHJpbmc7CiAga2V5d29yZHM/OiBzdHJpbmdbXTsKICBhdXRob3I/OiBzdHJpbmc7CiAgb2dJbWFnZT86IHN0cmluZzsKICBvZ1R5cGU/OiBzdHJpbmc7CiAgdHdpdHRlckNhcmQ/OiBzdHJpbmc7CiAgdHdpdHRlclNpdGU/OiBzdHJpbmc7CiAgbm9JbmRleD86IGJvb2xlYW47CiAganNvbkxkPzogUmVjb3JkPHN0cmluZywgdW5rbm93bj4gfCBBcnJheTxSZWNvcmQ8c3RyaW5nLCB1bmtub3duPj47Cn07Cgpjb25zdCBzZXRNZXRhVGFnID0gKHsKICBzZWxlY3RvciwKICBhdHRyLAogIGNvbnRlbnQsCn06IHsKICBzZWxlY3Rvcjogc3RyaW5nOwogIGF0dHI6ICJuYW1lIiB8ICJwcm9wZXJ0eSI7CiAgY29udGVudDogc3RyaW5nOwp9KSA9PiB7CiAgaWYgKCFjb250ZW50KSByZXR1cm47CiAgbGV0IGVsZW1lbnQgPSBkb2N1bWVudC5oZWFkLnF1ZXJ5U2VsZWN0b3I8SFRNTE1ldGFFbGVtZW50PihgbWV0YVske2F0dHJ9PSIke3NlbGVjdG9yfSJdYCk7CiAgaWYgKCFlbGVtZW50KSB7CiAgICBlbGVtZW50ID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgibWV0YSIpOwogICAgZWxlbWVudC5zZXRBdHRyaWJ1dGUoYXR0ciwgc2VsZWN0b3IpOwogICAgZG9jdW1lbnQuaGVhZC5hcHBlbmRDaGlsZChlbGVtZW50KTsKICB9CiAgZWxlbWVudC5zZXRBdHRyaWJ1dGUoImNvbnRlbnQiLCBjb250ZW50KTsKfTsKCmNvbnN0IHNldExpbmtUYWcgPSAoeyByZWwsIGhyZWYgfTogeyByZWw6IHN0cmluZzsgaHJlZjogc3RyaW5nIH0pID0+IHsKICBpZiAoIWhyZWYpIHJldHVybjsKICBsZXQgZWxlbWVudCA9IGRvY3VtZW50LmhlYWQucXVlcnlTZWxlY3RvcjxIVE1MTGlua0VsZW1lbnQ+KGBsaW5rW3JlbD0iJHtyZWx9Il1gKTsKICBpZiAoIWVsZW1lbnQpIHsKICAgIGVsZW1lbnQgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCJsaW5rIik7CiAgICBlbGVtZW50LnNldEF0dHJpYnV0ZSgicmVsIiwgcmVsKTsKICAgIGRvY3VtZW50LmhlYWQuYXBwZW5kQ2hpbGQoZWxlbWVudCk7CiAgfQogIGVsZW1lbnQuc2V0QXR0cmlidXRlKCJocmVmIiwgaHJlZik7Cn07Cgpjb25zdCBzZXRKc29uTGQgPSAoanNvbkxkPzogU2VvUHJvcHNbImpzb25MZCJdKSA9PiB7CiAgY29uc3QgaWQgPSAic2VvLWpzb25sZCI7CiAgY29uc3QgZXhpc3RpbmcgPSBkb2N1bWVudC5oZWFkLnF1ZXJ5U2VsZWN0b3I8SFRNTFNjcmlwdEVsZW1lbnQ+KGBzY3JpcHQjJHtpZH1gKTsKICBpZiAoIWpzb25MZCkgewogICAgaWYgKGV4aXN0aW5nKSBleGlzdGluZy5yZW1vdmUoKTsKICAgIHJldHVybjsKICB9CiAgY29uc3Qgc2NyaXB0ID0gZXhpc3RpbmcgPz8gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7CiAgc2NyaXB0LmlkID0gaWQ7CiAgc2NyaXB0LnR5cGUgPSAiYXBwbGljYXRpb24vbGQranNvbiI7CiAgc2NyaXB0LnRleHRDb250ZW50ID0gSlNPTi5zdHJpbmdpZnkoanNvbkxkLCBudWxsLCAyKTsKICBpZiAoIWV4aXN0aW5nKSBkb2N1bWVudC5oZWFkLmFwcGVuZENoaWxkKHNjcmlwdCk7Cn07Cgpjb25zdCBTZW8gPSAoewogIHRpdGxlLAogIGRlc2NyaXB0aW9uLAogIGNhbm9uaWNhbCwKICBrZXl3b3JkcyA9IFtdLAogIGF1dGhvciwKICBvZ0ltYWdlLAogIG9nVHlwZSA9ICJ3ZWJzaXRlIiwKICB0d2l0dGVyQ2FyZCA9IERFRkFVTFRfVFdJVFRFUl9DQVJELAogIHR3aXR0ZXJTaXRlLAogIG5vSW5kZXggPSBmYWxzZSwKICBqc29uTGQsCn06IFNlb1Byb3BzKSA9PiB7CiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGRvY3VtZW50LnRpdGxlID0gdGl0bGU7CgogICAgc2V0TWV0YVRhZyh7IHNlbGVjdG9yOiAiZGVzY3JpcHRpb24iLCBhdHRyOiAibmFtZSIsIGNvbnRlbnQ6IGRlc2NyaXB0aW9uIH0pOwogICAgc2V0TWV0YVRhZyh7IHNlbGVjdG9yOiAia2V5d29yZHMiLCBhdHRyOiAibmFtZSIsIGNvbnRlbnQ6IGtleXdvcmRzLmZpbHRlcihCb29sZWFuKS5qb2luKCIsICIpIH0pOwogICAgaWYgKGF1dGhvcikgewogICAgICBzZXRNZXRhVGFnKHsgc2VsZWN0b3I6ICJhdXRob3IiLCBhdHRyOiAibmFtZSIsIGNvbnRlbnQ6IGF1dGhvciB9KTsKICAgIH0KCiAgICBzZXRNZXRhVGFnKHsgc2VsZWN0b3I6ICJvZzp0aXRsZSIsIGF0dHI6ICJwcm9wZXJ0eSIsIGNvbnRlbnQ6IHRpdGxlIH0pOwogICAgc2V0TWV0YVRhZyh7IHNlbGVjdG9yOiAib2c6ZGVzY3JpcHRpb24iLCBhdHRyOiAicHJvcGVydHkiLCBjb250ZW50OiBkZXNjcmlwdGlvbiB9KTsKICAgIHNldE1ldGFUYWcoeyBzZWxlY3RvcjogIm9nOnR5cGUiLCBhdHRyOiAicHJvcGVydHkiLCBjb250ZW50OiBvZ1R5cGUgfSk7CiAgICBpZiAob2dJbWFnZSkgewogICAgICBzZXRNZXRhVGFnKHsgc2VsZWN0b3I6ICJvZzppbWFnZSIsIGF0dHI6ICJwcm9wZXJ0eSIsIGNvbnRlbnQ6IG9nSW1hZ2UgfSk7CiAgICB9CiAgICBpZiAoY2Fub25pY2FsKSB7CiAgICAgIHNldE1ldGFUYWcoeyBzZWxlY3RvcjogIm9nOnVybCIsIGF0dHI6ICJwcm9wZXJ0eSIsIGNvbnRlbnQ6IGNhbm9uaWNhbCB9KTsKICAgIH0KCiAgICBzZXRNZXRhVGFnKHsgc2VsZWN0b3I6ICJ0d2l0dGVyOmNhcmQiLCBhdHRyOiAibmFtZSIsIGNvbnRlbnQ6IHR3aXR0ZXJDYXJkIH0pOwogICAgaWYgKHR3aXR0ZXJTaXRlKSB7CiAgICAgIHNldE1ldGFUYWcoeyBzZWxlY3RvcjogInR3aXR0ZXI6c2l0ZSIsIGF0dHI6ICJuYW1lIiwgY29udGVudDogdHdpdHRlclNpdGUgfSk7CiAgICB9CiAgICBzZXRNZXRhVGFnKHsgc2VsZWN0b3I6ICJ0d2l0dGVyOnRpdGxlIiwgYXR0cjogIm5hbWUiLCBjb250ZW50OiB0aXRsZSB9KTsKICAgIHNldE1ldGFUYWcoeyBzZWxlY3RvcjogInR3aXR0ZXI6ZGVzY3JpcHRpb24iLCBhdHRyOiAibmFtZSIsIGNvbnRlbnQ6IGRlc2NyaXB0aW9uIH0pOwogICAgaWYgKG9nSW1hZ2UpIHsKICAgICAgc2V0TWV0YVRhZyh7IHNlbGVjdG9yOiAidHdpdHRlcjppbWFnZSIsIGF0dHI6ICJuYW1lIiwgY29udGVudDogb2dJbWFnZSB9KTsKICAgIH0KCiAgICBpZiAoY2Fub25pY2FsKSB7CiAgICAgIHNldExpbmtUYWcoeyByZWw6ICJjYW5vbmljYWwiLCBocmVmOiBjYW5vbmljYWwgfSk7CiAgICB9CgogICAgaWYgKG5vSW5kZXgpIHsKICAgICAgc2V0TWV0YVRhZyh7IHNlbGVjdG9yOiAicm9ib3RzIiwgYXR0cjogIm5hbWUiLCBjb250ZW50OiAibm9pbmRleCwgbm9mb2xsb3ciIH0pOwogICAgfSBlbHNlIHsKICAgICAgc2V0TWV0YVRhZyh7IHNlbGVjdG9yOiAicm9ib3RzIiwgYXR0cjogIm5hbWUiLCBjb250ZW50OiAiaW5kZXgsIGZvbGxvdyIgfSk7CiAgICB9CgogICAgc2V0SnNvbkxkKGpzb25MZCk7CiAgfSwgWwogICAgdGl0bGUsCiAgICBkZXNjcmlwdGlvbiwKICAgIGNhbm9uaWNhbCwKICAgIGtleXdvcmRzLAogICAgYXV0aG9yLAogICAgb2dJbWFnZSwKICAgIG9nVHlwZSwKICAgIHR3aXR0ZXJDYXJkLAogICAgdHdpdHRlclNpdGUsCiAgICBub0luZGV4LAogICAganNvbkxkLAogIF0pOwoKICByZXR1cm4gbnVsbDsKfTsKCmV4cG9ydCBkZWZhdWx0IFNlbzsK"}
+import { useEffect } from "react";
+
+const DEFAULT_TWITTER_CARD = "summary_large_image";
+
+type SeoProps = {
+  title: string;
+  description: string;
+  canonical?: string;
+  keywords?: string[];
+  author?: string;
+  ogImage?: string;
+  ogType?: string;
+  twitterCard?: string;
+  twitterSite?: string;
+  noIndex?: boolean;
+  jsonLd?: Record<string, unknown> | Array<Record<string, unknown>>;
+};
+
+const setMetaTag = ({
+  selector,
+  attr,
+  content,
+}: {
+  selector: string;
+  attr: "name" | "property";
+  content: string;
+}) => {
+  if (!content) return;
+  let element = document.head.querySelector<HTMLMetaElement>(`meta[${attr}="${selector}"]`);
+  if (!element) {
+    element = document.createElement("meta");
+    element.setAttribute(attr, selector);
+    document.head.appendChild(element);
+  }
+  element.setAttribute("content", content);
+};
+
+const setLinkTag = ({ rel, href }: { rel: string; href: string }) => {
+  if (!href) return;
+  let element = document.head.querySelector<HTMLLinkElement>(`link[rel="${rel}"]`);
+  if (!element) {
+    element = document.createElement("link");
+    element.setAttribute("rel", rel);
+    document.head.appendChild(element);
+  }
+  element.setAttribute("href", href);
+};
+
+const setJsonLd = (jsonLd?: SeoProps["jsonLd"]) => {
+  const id = "seo-jsonld";
+  const existing = document.head.querySelector<HTMLScriptElement>(`script#${id}`);
+  if (!jsonLd) {
+    if (existing) existing.remove();
+    return;
+  }
+  const script = existing ?? document.createElement("script");
+  script.id = id;
+  script.type = "application/ld+json";
+  script.textContent = JSON.stringify(jsonLd, null, 2);
+  if (!existing) document.head.appendChild(script);
+};
+
+const Seo = ({
+  title,
+  description,
+  canonical,
+  keywords = [],
+  author,
+  ogImage,
+  ogType = "website",
+  twitterCard = DEFAULT_TWITTER_CARD,
+  twitterSite,
+  noIndex = false,
+  jsonLd,
+}: SeoProps) => {
+  useEffect(() => {
+    document.title = title;
+
+    setMetaTag({ selector: "description", attr: "name", content: description });
+    setMetaTag({ selector: "keywords", attr: "name", content: keywords.filter(Boolean).join(", ") });
+    if (author) {
+      setMetaTag({ selector: "author", attr: "name", content: author });
+    }
+
+    setMetaTag({ selector: "og:title", attr: "property", content: title });
+    setMetaTag({ selector: "og:description", attr: "property", content: description });
+    setMetaTag({ selector: "og:type", attr: "property", content: ogType });
+    if (ogImage) {
+      setMetaTag({ selector: "og:image", attr: "property", content: ogImage });
+    }
+    if (canonical) {
+      setMetaTag({ selector: "og:url", attr: "property", content: canonical });
+    }
+
+    setMetaTag({ selector: "twitter:card", attr: "name", content: twitterCard });
+    if (twitterSite) {
+      setMetaTag({ selector: "twitter:site", attr: "name", content: twitterSite });
+    }
+    setMetaTag({ selector: "twitter:title", attr: "name", content: title });
+    setMetaTag({ selector: "twitter:description", attr: "name", content: description });
+    if (ogImage) {
+      setMetaTag({ selector: "twitter:image", attr: "name", content: ogImage });
+    }
+
+    if (canonical) {
+      setLinkTag({ rel: "canonical", href: canonical });
+    }
+
+    if (noIndex) {
+      setMetaTag({ selector: "robots", attr: "name", content: "noindex, nofollow" });
+    } else {
+      setMetaTag({ selector: "robots", attr: "name", content: "index, follow" });
+    }
+
+    setJsonLd(jsonLd);
+  }, [
+    title,
+    description,
+    canonical,
+    keywords,
+    author,
+    ogImage,
+    ogType,
+    twitterCard,
+    twitterSite,
+    noIndex,
+    jsonLd,
+  ]);
+
+  return null;
+};
+
+export default Seo;

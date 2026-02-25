@@ -1,1 +1,164 @@
-{"data":"aW1wb3J0IHsgRGlhbG9nLCBEaWFsb2dDb250ZW50LCBEaWFsb2dEZXNjcmlwdGlvbiwgRGlhbG9nVGl0bGUgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvZGlhbG9nIjsKaW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2J1dHRvbiI7CmltcG9ydCB7IEhlYXJ0LCBNZXNzYWdlQ2lyY2xlLCBTcGFya2xlcyB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IHVzZUVmZmVjdCwgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCBDb25mZXR0aSBmcm9tICJyZWFjdC1jb25mZXR0aSI7CmltcG9ydCB7IHVzZU5hdmlnYXRlIH0gZnJvbSAicmVhY3Qtcm91dGVyLWRvbSI7CgppbnRlcmZhY2UgTWF0Y2hNb2RhbFByb3BzIHsKICBpc09wZW46IGJvb2xlYW47CiAgb25DbG9zZTogKCkgPT4gdm9pZDsKICBjdXJyZW50VXNlcjogewogICAgbmFtZTogc3RyaW5nOwogICAgcGhvdG8/OiBzdHJpbmc7CiAgfTsKICBtYXRjaGVkVXNlcjogewogICAgbmFtZTogc3RyaW5nOwogICAgcGhvdG8/OiBzdHJpbmc7CiAgICB1c2VySWQ6IHN0cmluZzsKICB9OwogIG1hdGNoSWQ/OiBzdHJpbmc7Cn0KCmNvbnN0IE1hdGNoTW9kYWwgPSAoeyBpc09wZW4sIG9uQ2xvc2UsIGN1cnJlbnRVc2VyLCBtYXRjaGVkVXNlciwgbWF0Y2hJZCB9OiBNYXRjaE1vZGFsUHJvcHMpID0+IHsKICBjb25zdCBuYXZpZ2F0ZSA9IHVzZU5hdmlnYXRlKCk7CiAgY29uc3QgW3Nob3dDb25mZXR0aSwgc2V0U2hvd0NvbmZldHRpXSA9IHVzZVN0YXRlKGZhbHNlKTsKICBjb25zdCBbd2luZG93U2l6ZSwgc2V0V2luZG93U2l6ZV0gPSB1c2VTdGF0ZSh7IHdpZHRoOiAwLCBoZWlnaHQ6IDAgfSk7CgogIHVzZUVmZmVjdCgoKSA9PiB7CiAgICBpZiAoaXNPcGVuKSB7CiAgICAgIHNldFNob3dDb25mZXR0aSh0cnVlKTsKICAgICAgc2V0V2luZG93U2l6ZSh7CiAgICAgICAgd2lkdGg6IHdpbmRvdy5pbm5lcldpZHRoLAogICAgICAgIGhlaWdodDogd2luZG93LmlubmVySGVpZ2h0LAogICAgICB9KTsKCiAgICAgIC8vIFN0b3AgY29uZmV0dGkgYWZ0ZXIgNSBzZWNvbmRzCiAgICAgIGNvbnN0IHRpbWVyID0gc2V0VGltZW91dCgoKSA9PiB7CiAgICAgICAgc2V0U2hvd0NvbmZldHRpKGZhbHNlKTsKICAgICAgfSwgNTAwMCk7CgogICAgICByZXR1cm4gKCkgPT4gY2xlYXJUaW1lb3V0KHRpbWVyKTsKICAgIH0KICB9LCBbaXNPcGVuXSk7CgogIGNvbnN0IGhhbmRsZVNlbmRNZXNzYWdlID0gKCkgPT4gewogICAgaWYgKG1hdGNoSWQpIHsKICAgICAgbmF2aWdhdGUoYC9jaGF0LyR7bWF0Y2hJZH1gKTsKICAgIH0KICAgIG9uQ2xvc2UoKTsKICB9OwoKICByZXR1cm4gKAogICAgPD4KICAgICAge3Nob3dDb25mZXR0aSAmJiAoCiAgICAgICAgPENvbmZldHRpCiAgICAgICAgICB3aWR0aD17d2luZG93U2l6ZS53aWR0aH0KICAgICAgICAgIGhlaWdodD17d2luZG93U2l6ZS5oZWlnaHR9CiAgICAgICAgICByZWN5Y2xlPXtmYWxzZX0KICAgICAgICAgIG51bWJlck9mUGllY2VzPXs1MDB9CiAgICAgICAgICBncmF2aXR5PXswLjN9CiAgICAgICAgLz4KICAgICAgKX0KCiAgICAgIDxEaWFsb2cgb3Blbj17aXNPcGVufSBvbk9wZW5DaGFuZ2U9e29uQ2xvc2V9PgogICAgICAgIDxEaWFsb2dDb250ZW50IGNsYXNzTmFtZT0ibWF4LXctbWQgcC0wIG92ZXJmbG93LWhpZGRlbiBib3JkZXItbm9uZSBiZy1ncmFkaWVudC10by1iciBmcm9tLXBpbmstNTAgdmlhLXB1cnBsZS01MCB0by1ibHVlLTUwIGRhcms6ZnJvbS1waW5rLTk1MC8yMCBkYXJrOnZpYS1wdXJwbGUtOTUwLzIwIGRhcms6dG8tYmx1ZS05NTAvMjAiPgogICAgICAgICAgPERpYWxvZ1RpdGxlIGNsYXNzTmFtZT0ic3Itb25seSI+TWF0Y2g8L0RpYWxvZ1RpdGxlPgogICAgICAgICAgPERpYWxvZ0Rlc2NyaXB0aW9uIGNsYXNzTmFtZT0ic3Itb25seSI+CiAgICAgICAgICAgIFlvdSBtYXRjaGVkIHdpdGgge21hdGNoZWRVc2VyLm5hbWV9CiAgICAgICAgICA8L0RpYWxvZ0Rlc2NyaXB0aW9uPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtY2VudGVyIHNwYWNlLXktNiBwLTgiPgogICAgICAgICAgICB7LyogU3BhcmtsZXMgQW5pbWF0aW9uICovfQogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBqdXN0aWZ5LWNlbnRlciI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InJlbGF0aXZlIj4KICAgICAgICAgICAgICAgIDxTcGFya2xlcyBjbGFzc05hbWU9InctMTYgaC0xNiB0ZXh0LWFtYmVyLTUwMCBhbmltYXRlLXB1bHNlLXNvZnQgYWJzb2x1dGUgLXRvcC0yIC1sZWZ0LTIiIC8+CiAgICAgICAgICAgICAgICA8SGVhcnQgY2xhc3NOYW1lPSJ3LTEyIGgtMTIgdGV4dC1wcmltYXJ5IGFuaW1hdGUtcHVsc2UgZmlsbC1wcmltYXJ5IiAvPgogICAgICAgICAgICAgICAgPFNwYXJrbGVzIGNsYXNzTmFtZT0idy0xNiBoLTE2IHRleHQtYW1iZXItNTAwIGFuaW1hdGUtcHVsc2Utc29mdCBhYnNvbHV0ZSAtYm90dG9tLTIgLXJpZ2h0LTIiIC8+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgey8qIFRpdGxlICovfQogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0yIj4KICAgICAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LTR4bCBmb250LWhlYWRpbmcgZm9udC1ib2xkIGJnLWdyYWRpZW50LWxvdmUgYmctY2xpcC10ZXh0IHRleHQtdHJhbnNwYXJlbnQiPgogICAgICAgICAgICAgICAgSXQncyBhIE1hdGNoIQogICAgICAgICAgICAgIDwvaDI+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgICAgICAgWW91IGFuZCB7bWF0Y2hlZFVzZXIubmFtZX0gbGlrZWQgZWFjaCBvdGhlcgogICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICB7LyogUHJvZmlsZSBQaG90b3MgKi99CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGp1c3RpZnktY2VudGVyIGl0ZW1zLWNlbnRlciBnYXAtNCBweS00Ij4KICAgICAgICAgICAgICB7LyogQ3VycmVudCBVc2VyIFBob3RvICovfQogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyZWxhdGl2ZSBhbmltYXRlLXNsaWRlLWluLWxlZnQiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InctMjQgaC0yNCByb3VuZGVkLWZ1bGwgb3ZlcmZsb3ctaGlkZGVuIGJvcmRlci00IGJvcmRlci13aGl0ZSBzaGFkb3ctbGciPgogICAgICAgICAgICAgICAgICB7Y3VycmVudFVzZXIucGhvdG8gPyAoCiAgICAgICAgICAgICAgICAgICAgPGltZwogICAgICAgICAgICAgICAgICAgICAgc3JjPXtjdXJyZW50VXNlci5waG90b30KICAgICAgICAgICAgICAgICAgICAgIGFsdD17Y3VycmVudFVzZXIubmFtZX0KICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0idy1mdWxsIGgtZnVsbCBvYmplY3QtY292ZXIiCiAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgKSA6ICgKICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idy1mdWxsIGgtZnVsbCBiZy1ncmFkaWVudC10by1iciBmcm9tLXByaW1hcnkvMjAgdG8tc2Vjb25kYXJ5LzIwIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIj4KICAgICAgICAgICAgICAgICAgICAgIDxIZWFydCBjbGFzc05hbWU9InctOCBoLTggdGV4dC1wcmltYXJ5IG9wYWNpdHktNTAiIC8+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgey8qIEhlYXJ0IEljb24gKi99CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFuaW1hdGUtYm91bmNlLXNvZnQiPgogICAgICAgICAgICAgICAgPEhlYXJ0IGNsYXNzTmFtZT0idy04IGgtOCB0ZXh0LXByaW1hcnkgZmlsbC1wcmltYXJ5IiAvPgogICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICB7LyogTWF0Y2hlZCBVc2VyIFBob3RvICovfQogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJyZWxhdGl2ZSBhbmltYXRlLXNsaWRlLWluLXJpZ2h0Ij4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LTI0IGgtMjQgcm91bmRlZC1mdWxsIG92ZXJmbG93LWhpZGRlbiBib3JkZXItNCBib3JkZXItd2hpdGUgc2hhZG93LWxnIj4KICAgICAgICAgICAgICAgICAge21hdGNoZWRVc2VyLnBob3RvID8gKAogICAgICAgICAgICAgICAgICAgIDxpbWcKICAgICAgICAgICAgICAgICAgICAgIHNyYz17bWF0Y2hlZFVzZXIucGhvdG99CiAgICAgICAgICAgICAgICAgICAgICBhbHQ9e21hdGNoZWRVc2VyLm5hbWV9CiAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InctZnVsbCBoLWZ1bGwgb2JqZWN0LWNvdmVyIgogICAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICAgICkgOiAoCiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InctZnVsbCBoLWZ1bGwgYmctZ3JhZGllbnQtdG8tYnIgZnJvbS1wcmltYXJ5LzIwIHRvLXNlY29uZGFyeS8yMCBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciI+CiAgICAgICAgICAgICAgICAgICAgICA8SGVhcnQgY2xhc3NOYW1lPSJ3LTggaC04IHRleHQtcHJpbWFyeSBvcGFjaXR5LTUwIiAvPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgey8qIEFjdGlvbiBCdXR0b25zICovfQogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0zIHB0LTQiPgogICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgIG9uQ2xpY2s9e2hhbmRsZVNlbmRNZXNzYWdlfQogICAgICAgICAgICAgICAgc2l6ZT0ibGciCiAgICAgICAgICAgICAgICBjbGFzc05hbWU9InctZnVsbCBiZy1ncmFkaWVudC1sb3ZlIHNoYWRvdy1sZyBob3ZlcjpzaGFkb3cteGwgdHJhbnNpdGlvbi1hbGwiCiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPE1lc3NhZ2VDaXJjbGUgY2xhc3NOYW1lPSJ3LTUgaC01IG1yLTIiIC8+CiAgICAgICAgICAgICAgICBTZW5kIGEgTWVzc2FnZQogICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgIG9uQ2xpY2s9e29uQ2xvc2V9CiAgICAgICAgICAgICAgICBzaXplPSJsZyIKICAgICAgICAgICAgICAgIHZhcmlhbnQ9Imdob3N0IgogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ3LWZ1bGwiCiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgS2VlcCBTd2lwaW5nCiAgICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgey8qIFBybyBUaXAgKi99CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBiZy13aGl0ZS81MCBkYXJrOmJnLWJsYWNrLzIwIHJvdW5kZWQtbGcgcC0zIj4KICAgICAgICAgICAgICDwn5KhIDxzcGFuIGNsYXNzTmFtZT0iZm9udC1tZWRpdW0iPlBybyB0aXA6PC9zcGFuPiBCcmVhayB0aGUgaWNlIHdpdGggYSBjb21tZW50IGFib3V0CiAgICAgICAgICAgICAgc29tZXRoaW5nIHlvdSBoYXZlIGluIGNvbW1vbiEKICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L0RpYWxvZ0NvbnRlbnQ+CiAgICAgIDwvRGlhbG9nPgogICAgPC8+CiAgKTsKfTsKCmV4cG9ydCBkZWZhdWx0IE1hdGNoTW9kYWw7Cg=="}
+import { Dialog, DialogContent, DialogDescription, DialogTitle } from "@/components/ui/dialog";
+import { Button } from "@/components/ui/button";
+import { Heart, MessageCircle, Sparkles } from "lucide-react";
+import { useEffect, useState } from "react";
+import Confetti from "react-confetti";
+import { useNavigate } from "react-router-dom";
+
+interface MatchModalProps {
+  isOpen: boolean;
+  onClose: () => void;
+  currentUser: {
+    name: string;
+    photo?: string;
+  };
+  matchedUser: {
+    name: string;
+    photo?: string;
+    userId: string;
+  };
+  matchId?: string;
+}
+
+const MatchModal = ({ isOpen, onClose, currentUser, matchedUser, matchId }: MatchModalProps) => {
+  const navigate = useNavigate();
+  const [showConfetti, setShowConfetti] = useState(false);
+  const [windowSize, setWindowSize] = useState({ width: 0, height: 0 });
+
+  useEffect(() => {
+    if (isOpen) {
+      setShowConfetti(true);
+      setWindowSize({
+        width: window.innerWidth,
+        height: window.innerHeight,
+      });
+
+      // Stop confetti after 5 seconds
+      const timer = setTimeout(() => {
+        setShowConfetti(false);
+      }, 5000);
+
+      return () => clearTimeout(timer);
+    }
+  }, [isOpen]);
+
+  const handleSendMessage = () => {
+    if (matchId) {
+      navigate(`/chat/${matchId}`);
+    }
+    onClose();
+  };
+
+  return (
+    <>
+      {showConfetti && (
+        <Confetti
+          width={windowSize.width}
+          height={windowSize.height}
+          recycle={false}
+          numberOfPieces={500}
+          gravity={0.3}
+        />
+      )}
+
+      <Dialog open={isOpen} onOpenChange={onClose}>
+        <DialogContent className="max-w-md p-0 overflow-hidden border-none bg-gradient-to-br from-pink-50 via-purple-50 to-blue-50 dark:from-pink-950/20 dark:via-purple-950/20 dark:to-blue-950/20">
+          <DialogTitle className="sr-only">Match</DialogTitle>
+          <DialogDescription className="sr-only">
+            You matched with {matchedUser.name}
+          </DialogDescription>
+          <div className="text-center space-y-6 p-8">
+            {/* Sparkles Animation */}
+            <div className="flex justify-center">
+              <div className="relative">
+                <Sparkles className="w-16 h-16 text-amber-500 animate-pulse-soft absolute -top-2 -left-2" />
+                <Heart className="w-12 h-12 text-primary animate-pulse fill-primary" />
+                <Sparkles className="w-16 h-16 text-amber-500 animate-pulse-soft absolute -bottom-2 -right-2" />
+              </div>
+            </div>
+
+            {/* Title */}
+            <div className="space-y-2">
+              <h2 className="text-4xl font-heading font-bold bg-gradient-love bg-clip-text text-transparent">
+                It's a Match!
+              </h2>
+              <p className="text-muted-foreground">
+                You and {matchedUser.name} liked each other
+              </p>
+            </div>
+
+            {/* Profile Photos */}
+            <div className="flex justify-center items-center gap-4 py-4">
+              {/* Current User Photo */}
+              <div className="relative animate-slide-in-left">
+                <div className="w-24 h-24 rounded-full overflow-hidden border-4 border-white shadow-lg">
+                  {currentUser.photo ? (
+                    <img
+                      src={currentUser.photo}
+                      alt={currentUser.name}
+                      className="w-full h-full object-cover"
+                    />
+                  ) : (
+                    <div className="w-full h-full bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center">
+                      <Heart className="w-8 h-8 text-primary opacity-50" />
+                    </div>
+                  )}
+                </div>
+              </div>
+
+              {/* Heart Icon */}
+              <div className="animate-bounce-soft">
+                <Heart className="w-8 h-8 text-primary fill-primary" />
+              </div>
+
+              {/* Matched User Photo */}
+              <div className="relative animate-slide-in-right">
+                <div className="w-24 h-24 rounded-full overflow-hidden border-4 border-white shadow-lg">
+                  {matchedUser.photo ? (
+                    <img
+                      src={matchedUser.photo}
+                      alt={matchedUser.name}
+                      className="w-full h-full object-cover"
+                    />
+                  ) : (
+                    <div className="w-full h-full bg-gradient-to-br from-primary/20 to-secondary/20 flex items-center justify-center">
+                      <Heart className="w-8 h-8 text-primary opacity-50" />
+                    </div>
+                  )}
+                </div>
+              </div>
+            </div>
+
+            {/* Action Buttons */}
+            <div className="space-y-3 pt-4">
+              <Button
+                onClick={handleSendMessage}
+                size="lg"
+                className="w-full bg-gradient-love shadow-lg hover:shadow-xl transition-all"
+              >
+                <MessageCircle className="w-5 h-5 mr-2" />
+                Send a Message
+              </Button>
+              <Button
+                onClick={onClose}
+                size="lg"
+                variant="ghost"
+                className="w-full"
+              >
+                Keep Swiping
+              </Button>
+            </div>
+
+            {/* Pro Tip */}
+            <div className="text-xs text-muted-foreground bg-white/50 dark:bg-black/20 rounded-lg p-3">
+              💡 <span className="font-medium">Pro tip:</span> Break the ice with a comment about
+              something you have in common!
+            </div>
+          </div>
+        </DialogContent>
+      </Dialog>
+    </>
+  );
+};
+
+export default MatchModal;

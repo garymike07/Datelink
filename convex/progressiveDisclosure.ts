@@ -1,1 +1,146 @@
-{"data":"aW1wb3J0IHsgdiB9IGZyb20gImNvbnZleC92YWx1ZXMiOwppbXBvcnQgeyBxdWVyeSB9IGZyb20gIi4vX2dlbmVyYXRlZC9zZXJ2ZXIiOwoKLyoqCiAqIEdldCBwZXJzb25hbGl6ZWQgdXBncmFkZSBwcm9tcHRzIGJhc2VkIG9uIHVzZXIgYmVoYXZpb3IKICovCmV4cG9ydCBjb25zdCBnZXRVcGdyYWRlUmVjb21tZW5kYXRpb24gPSBxdWVyeSh7CiAgYXJnczogeyB1c2VySWQ6IHYuaWQoInVzZXJzIikgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICBjb25zdCB1c2VyID0gYXdhaXQgY3R4LmRiLmdldChhcmdzLnVzZXJJZCk7CiAgICBpZiAoIXVzZXIpIHJldHVybiBudWxsOwoKICAgIC8vIENoZWNrIGlmIHByZW1pdW0KICAgIGNvbnN0IHN1YiA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoInN1YnNjcmlwdGlvbnMiKQogICAgICAud2l0aEluZGV4KCJ1c2VySWQiLCAocSkgPT4gcS5lcSgidXNlcklkIiwgYXJncy51c2VySWQpKQogICAgICAub3JkZXIoImRlc2MiKQogICAgICAuZmlyc3QoKTsKCiAgICBpZiAoc3ViPy5zdGF0dXMgPT09ICJhY3RpdmUiKSByZXR1cm4gbnVsbDsgLy8gQWxyZWFkeSBwcmVtaXVtCgogICAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKTsKCiAgICAvLyBHZXQgdXNlciBhY3Rpdml0eQogICAgY29uc3QgdW5sb2NrcyA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoInByb2ZpbGVVbmxvY2tzIikKICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIGFyZ3MudXNlcklkKSkKICAgICAgLmNvbGxlY3QoKTsKCiAgICBjb25zdCBtYXRjaGVzID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgibWF0Y2hlcyIpCiAgICAgIC5maWx0ZXIoKHEpID0+CiAgICAgICAgcS5vcigKICAgICAgICAgIHEuZXEocS5maWVsZCgidXNlcjFJZCIpLCBhcmdzLnVzZXJJZCksCiAgICAgICAgICBxLmVxKHEuZmllbGQoInVzZXIySWQiKSwgYXJncy51c2VySWQpCiAgICAgICAgKQogICAgICApCiAgICAgIC5jb2xsZWN0KCk7CgogICAgY29uc3QgbGlrZXMgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJsaWtlcyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCBhcmdzLnVzZXJJZCkpCiAgICAgIC5jb2xsZWN0KCk7CgogICAgLy8gUGVvcGxlIHdobyBsaWtlZCB0aGVtIGJhY2sKICAgIGNvbnN0IGxpa2VkQnlPdGhlcnMgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJsaWtlcyIpCiAgICAgIC53aXRoSW5kZXgoImxpa2VkVXNlcklkIiwgKHEpID0+IHEuZXEoImxpa2VkVXNlcklkIiwgYXJncy51c2VySWQpKQogICAgICAuY29sbGVjdCgpOwoKICAgIC8vIEFuYWx5emUgYmVoYXZpb3IgcGF0dGVybnMKICAgIGNvbnN0IHRyaWFsVW5sb2NrcyA9IHVubG9ja3MuZmlsdGVyKCh1KSA9PiB1LnVubG9ja01ldGhvZCA9PT0gImZyZWVfdHJpYWwiKS5sZW5ndGg7CiAgICBjb25zdCBwYWlkVW5sb2NrcyA9IHVubG9ja3MuZmlsdGVyKCh1KSA9PiB1LnVubG9ja01ldGhvZCA9PT0gInBhaWRfdW5sb2NrIikubGVuZ3RoOwogICAgY29uc3QgaGFzTWF0Y2hlcyA9IG1hdGNoZXMubGVuZ3RoID4gMDsKICAgIGNvbnN0IGhhc0JlZW5MaWtlZCA9IGxpa2VkQnlPdGhlcnMubGVuZ3RoID4gMDsKICAgIGNvbnN0IGxpa2VzR2l2ZW4gPSBsaWtlcy5sZW5ndGg7CgogICAgLy8gQ2hlY2sgdHJpYWwgc3RhdHVzCiAgICBjb25zdCBpblRyaWFsID0gdXNlci5mcmVlVHJpYWxFbmRzQXQgJiYgdXNlci5mcmVlVHJpYWxFbmRzQXQgPiBub3c7CiAgICBjb25zdCB0cmlhbEV4cGlyZWQgPSB1c2VyLmZyZWVUcmlhbFVzZWQgJiYgKCF1c2VyLmZyZWVUcmlhbEVuZHNBdCB8fCB1c2VyLmZyZWVUcmlhbEVuZHNBdCA8PSBub3cpOwoKICAgIC8vIFJlY29tbWVuZGF0aW9uIGxvZ2ljCiAgICBsZXQgcmVjb21tZW5kYXRpb24gPSBudWxsOwoKICAgIGlmIChpblRyaWFsICYmIHRyaWFsVW5sb2NrcyA+PSA0KSB7CiAgICAgIC8vIEFib3V0IHRvIHJ1biBvdXQgb2YgZnJlZSB1bmxvY2tzCiAgICAgIHJlY29tbWVuZGF0aW9uID0gewogICAgICAgIHR5cGU6ICJ0cmlhbF9hbG1vc3RfZG9uZSIsCiAgICAgICAgdXJnZW5jeTogImhpZ2giLAogICAgICAgIHRpdGxlOiAiT25seSAxIEZyZWUgVW5sb2NrIExlZnQhIPCflKUiLAogICAgICAgIG1lc3NhZ2U6ICJZb3UncmUgbG92aW5nIERhdGVMaW5rMjU0ISBVcGdyYWRlIG5vdyB0byB1bmxvY2sgdW5saW1pdGVkIHByb2ZpbGVzLiIsCiAgICAgICAgY3RhOiAiR2V0IFVubGltaXRlZCBVbmxvY2tzIiwKICAgICAgICBkaXNjb3VudDogbnVsbCwKICAgICAgfTsKICAgIH0gZWxzZSBpZiAodHJpYWxFeHBpcmVkICYmIGhhc01hdGNoZXMgJiYgdHJpYWxVbmxvY2tzID09PSA1KSB7CiAgICAgIC8vIEhhZCBnb29kIHRyaWFsIGV4cGVyaWVuY2Ugd2l0aCBtYXRjaGVzCiAgICAgIHJlY29tbWVuZGF0aW9uID0gewogICAgICAgIHR5cGU6ICJwb3N0X3RyaWFsX3N1Y2Nlc3MiLAogICAgICAgIHVyZ2VuY3k6ICJtZWRpdW0iLAogICAgICAgIHRpdGxlOiAiS2VlcCB0aGUgTW9tZW50dW0gR29pbmchIPCfkpUiLAogICAgICAgIG1lc3NhZ2U6IGBZb3UgaGF2ZSAke21hdGNoZXMubGVuZ3RofSBtYXRjaCR7bWF0Y2hlcy5sZW5ndGggPiAxID8gJ2VzJyA6ICcnfSEgRG9uJ3QgbG9zZSB0aGVtIC0gdXBncmFkZSB0byBjb250aW51ZSBjaGF0dGluZy5gLAogICAgICAgIGN0YTogIlVwZ3JhZGUgdG8gUHJlbWl1bSIsCiAgICAgICAgZGlzY291bnQ6IG51bGwsCiAgICAgIH07CiAgICB9IGVsc2UgaWYgKGhhc0JlZW5MaWtlZCAmJiAhaW5UcmlhbCAmJiAhc3ViKSB7CiAgICAgIC8vIFNvbWVvbmUgbGlrZXMgdGhlbSBidXQgdGhleSBjYW4ndCBzZWUKICAgICAgcmVjb21tZW5kYXRpb24gPSB7CiAgICAgICAgdHlwZTogImxpa2VzX3dhaXRpbmciLAogICAgICAgIHVyZ2VuY3k6ICJoaWdoIiwKICAgICAgICB0aXRsZTogYCR7bGlrZWRCeU90aGVycy5sZW5ndGh9ICR7bGlrZWRCeU90aGVycy5sZW5ndGggPiAxID8gJ1Blb3BsZScgOiAnUGVyc29uJ30gTGlrZWQgWW91ISDwn5iNYCwKICAgICAgICBtZXNzYWdlOiAiU2VlIHdobydzIGludGVyZXN0ZWQgYW5kIG1hdGNoIGluc3RhbnRseSB3aXRoIFByZW1pdW0uIiwKICAgICAgICBjdGE6ICJTZWUgV2hvIExpa2VzIE1lIiwKICAgICAgICBkaXNjb3VudDogbnVsbCwKICAgICAgfTsKICAgIH0gZWxzZSBpZiAocGFpZFVubG9ja3MgPj0gMykgewogICAgICAvLyBTcGVuZGluZyBvbiBpbmRpdmlkdWFsIHVubG9ja3MgLSBiZXR0ZXIgdG8gc3Vic2NyaWJlCiAgICAgIHJlY29tbWVuZGF0aW9uID0gewogICAgICAgIHR5cGU6ICJmcmVxdWVudF9idXllciIsCiAgICAgICAgdXJnZW5jeTogIm1lZGl1bSIsCiAgICAgICAgdGl0bGU6ICJTYXZlIE1vbmV5IHdpdGggUHJlbWl1bSEg8J+SsCIsCiAgICAgICAgbWVzc2FnZTogYFlvdSd2ZSBzcGVudCBLRVMgJHtwYWlkVW5sb2NrcyAqIDEwfSBvbiB1bmxvY2tzLiBHZXQgdW5saW1pdGVkIGZvciBLRVMgMTAwL3dlZWshYCwKICAgICAgICBjdGE6ICJTYXZlIHdpdGggUHJlbWl1bSIsCiAgICAgICAgZGlzY291bnQ6ICJTQVZFX05PVyIsCiAgICAgIH07CiAgICB9IGVsc2UgaWYgKGxpa2VzR2l2ZW4gPj0gOCAmJiAhaGFzTWF0Y2hlcykgewogICAgICAvLyBBY3RpdmUgdXNlciB3aXRob3V0IG1hdGNoZXMgLSBuZWVkcyBib29zdAogICAgICByZWNvbW1lbmRhdGlvbiA9IHsKICAgICAgICB0eXBlOiAiYm9vc3RfdmlzaWJpbGl0eSIsCiAgICAgICAgdXJnZW5jeTogImxvdyIsCiAgICAgICAgdGl0bGU6ICJHZXQgTW9yZSBNYXRjaGVzISDwn5qAIiwKICAgICAgICBtZXNzYWdlOiAiUHJlbWl1bSB1c2VycyBnZXQgMTB4IG1vcmUgcHJvZmlsZSB2aWV3cy4gU3RhcnQgbWF0Y2hpbmcgdG9kYXkhIiwKICAgICAgICBjdGE6ICJCb29zdCBNeSBQcm9maWxlIiwKICAgICAgICBkaXNjb3VudDogbnVsbCwKICAgICAgfTsKICAgIH0KCiAgICByZXR1cm4gcmVjb21tZW5kYXRpb247CiAgfSwKfSk7CgovKioKICogR2V0IHRyaWFsIHN0YXR1cyBmb3IgYSB1c2VyIChoZWxwZXIgZm9yIGNhbGN1bGF0aW5nIGhvdXJzIHJlbWFpbmluZykKICovCmV4cG9ydCBjb25zdCBnZXRUcmlhbFRpbWVSZW1haW5pbmcgPSBxdWVyeSh7CiAgYXJnczogeyB1c2VySWQ6IHYuaWQoInVzZXJzIikgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICBjb25zdCB1c2VyID0gYXdhaXQgY3R4LmRiLmdldChhcmdzLnVzZXJJZCk7CiAgICBpZiAoIXVzZXIgfHwgIXVzZXIuZnJlZVRyaWFsRW5kc0F0KSByZXR1cm4gbnVsbDsKCiAgICBjb25zdCBub3cgPSBEYXRlLm5vdygpOwogICAgY29uc3QgdGltZVJlbWFpbmluZyA9IHVzZXIuZnJlZVRyaWFsRW5kc0F0IC0gbm93OwoKICAgIGlmICh0aW1lUmVtYWluaW5nIDw9IDApIHsKICAgICAgcmV0dXJuIHsgZXhwaXJlZDogdHJ1ZSwgaG91cnNSZW1haW5pbmc6IDAgfTsKICAgIH0KCiAgICBjb25zdCBob3Vyc1JlbWFpbmluZyA9IE1hdGguY2VpbCh0aW1lUmVtYWluaW5nIC8gKDYwICogNjAgKiAxMDAwKSk7CgogICAgcmV0dXJuIHsKICAgICAgZXhwaXJlZDogZmFsc2UsCiAgICAgIGhvdXJzUmVtYWluaW5nLAogICAgICBlbmRzQXQ6IHVzZXIuZnJlZVRyaWFsRW5kc0F0LAogICAgICBzaG91bGRTaG93VXJnZW50UHJvbXB0OiBob3Vyc1JlbWFpbmluZyA8PSAyLAogICAgfTsKICB9LAp9KTsK"}
+import { v } from "convex/values";
+import { query } from "./_generated/server";
+
+/**
+ * Get personalized upgrade prompts based on user behavior
+ */
+export const getUpgradeRecommendation = query({
+  args: { userId: v.id("users") },
+  handler: async (ctx, args) => {
+    const user = await ctx.db.get(args.userId);
+    if (!user) return null;
+
+    // Check if premium
+    const sub = await ctx.db
+      .query("subscriptions")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .order("desc")
+      .first();
+
+    if (sub?.status === "active") return null; // Already premium
+
+    const now = Date.now();
+
+    // Get user activity
+    const unlocks = await ctx.db
+      .query("profileUnlocks")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .collect();
+
+    const matches = await ctx.db
+      .query("matches")
+      .filter((q) =>
+        q.or(
+          q.eq(q.field("user1Id"), args.userId),
+          q.eq(q.field("user2Id"), args.userId)
+        )
+      )
+      .collect();
+
+    const likes = await ctx.db
+      .query("likes")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .collect();
+
+    // People who liked them back
+    const likedByOthers = await ctx.db
+      .query("likes")
+      .withIndex("likedUserId", (q) => q.eq("likedUserId", args.userId))
+      .collect();
+
+    // Analyze behavior patterns
+    const trialUnlocks = unlocks.filter((u) => u.unlockMethod === "free_trial").length;
+    const paidUnlocks = unlocks.filter((u) => u.unlockMethod === "paid_unlock").length;
+    const hasMatches = matches.length > 0;
+    const hasBeenLiked = likedByOthers.length > 0;
+    const likesGiven = likes.length;
+
+    // Check trial status
+    const inTrial = user.freeTrialEndsAt && user.freeTrialEndsAt > now;
+    const trialExpired = user.freeTrialUsed && (!user.freeTrialEndsAt || user.freeTrialEndsAt <= now);
+
+    // Recommendation logic
+    let recommendation = null;
+
+    if (inTrial && trialUnlocks >= 4) {
+      // About to run out of free unlocks
+      recommendation = {
+        type: "trial_almost_done",
+        urgency: "high",
+        title: "Only 1 Free Unlock Left! 🔥",
+        message: "You're loving DateLink254! Upgrade now to unlock unlimited profiles.",
+        cta: "Get Unlimited Unlocks",
+        discount: null,
+      };
+    } else if (trialExpired && hasMatches && trialUnlocks === 5) {
+      // Had good trial experience with matches
+      recommendation = {
+        type: "post_trial_success",
+        urgency: "medium",
+        title: "Keep the Momentum Going! 💕",
+        message: `You have ${matches.length} match${matches.length > 1 ? 'es' : ''}! Don't lose them - upgrade to continue chatting.`,
+        cta: "Upgrade to Premium",
+        discount: null,
+      };
+    } else if (hasBeenLiked && !inTrial && !sub) {
+      // Someone likes them but they can't see
+      recommendation = {
+        type: "likes_waiting",
+        urgency: "high",
+        title: `${likedByOthers.length} ${likedByOthers.length > 1 ? 'People' : 'Person'} Liked You! 😍`,
+        message: "See who's interested and match instantly with Premium.",
+        cta: "See Who Likes Me",
+        discount: null,
+      };
+    } else if (paidUnlocks >= 3) {
+      // Spending on individual unlocks - better to subscribe
+      recommendation = {
+        type: "frequent_buyer",
+        urgency: "medium",
+        title: "Save Money with Premium! 💰",
+        message: `You've spent KES ${paidUnlocks * 10} on unlocks. Get unlimited for KES 100/week!`,
+        cta: "Save with Premium",
+        discount: "SAVE_NOW",
+      };
+    } else if (likesGiven >= 8 && !hasMatches) {
+      // Active user without matches - needs boost
+      recommendation = {
+        type: "boost_visibility",
+        urgency: "low",
+        title: "Get More Matches! 🚀",
+        message: "Premium users get 10x more profile views. Start matching today!",
+        cta: "Boost My Profile",
+        discount: null,
+      };
+    }
+
+    return recommendation;
+  },
+});
+
+/**
+ * Get trial status for a user (helper for calculating hours remaining)
+ */
+export const getTrialTimeRemaining = query({
+  args: { userId: v.id("users") },
+  handler: async (ctx, args) => {
+    const user = await ctx.db.get(args.userId);
+    if (!user || !user.freeTrialEndsAt) return null;
+
+    const now = Date.now();
+    const timeRemaining = user.freeTrialEndsAt - now;
+
+    if (timeRemaining <= 0) {
+      return { expired: true, hoursRemaining: 0 };
+    }
+
+    const hoursRemaining = Math.ceil(timeRemaining / (60 * 60 * 1000));
+
+    return {
+      expired: false,
+      hoursRemaining,
+      endsAt: user.freeTrialEndsAt,
+      shouldShowUrgentPrompt: hoursRemaining <= 2,
+    };
+  },
+});

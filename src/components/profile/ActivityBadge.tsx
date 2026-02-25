@@ -1,1 +1,136 @@
-{"data":"aW1wb3J0IHsgdXNlUXVlcnkgfSBmcm9tICJjb252ZXgvcmVhY3QiOwppbXBvcnQgeyBhcGkgfSBmcm9tICIuLi8uLi8uLi9jb252ZXgvX2dlbmVyYXRlZC9hcGkiOwppbXBvcnQgdHlwZSB7IElkIH0gZnJvbSAiLi4vLi4vLi4vY29udmV4L19nZW5lcmF0ZWQvZGF0YU1vZGVsIjsKaW1wb3J0IHsgQmFkZ2UgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvYmFkZ2UiOwppbXBvcnQgeyBUb29sdGlwLCBUb29sdGlwQ29udGVudCwgVG9vbHRpcFByb3ZpZGVyLCBUb29sdGlwVHJpZ2dlciB9IGZyb20gIkAvY29tcG9uZW50cy91aS90b29sdGlwIjsKaW1wb3J0IHsgQ2xvY2ssIE1lc3NhZ2VDaXJjbGUsIENoZWNrQ2hlY2sgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwoKaW50ZXJmYWNlIEFjdGl2aXR5QmFkZ2VQcm9wcyB7CiAgdXNlcklkOiBJZDwidXNlcnMiPjsKICBzaG93UmVzcG9uc2VSYXRlPzogYm9vbGVhbjsKICBzaXplPzogInNtIiB8ICJtZCIgfCAibGciOwp9CgpleHBvcnQgZnVuY3Rpb24gQWN0aXZpdHlCYWRnZSh7IHVzZXJJZCwgc2hvd1Jlc3BvbnNlUmF0ZSA9IHRydWUsIHNpemUgPSAibWQiIH06IEFjdGl2aXR5QmFkZ2VQcm9wcykgewogIGNvbnN0IGFjdGl2aXR5QmFkZ2UgPSB1c2VRdWVyeShhcGkuYWN0aXZpdHlUcmFja2luZy5nZXRBY3Rpdml0eUJhZGdlLCB7IHVzZXJJZCB9KTsKCiAgaWYgKCFhY3Rpdml0eUJhZGdlKSB7CiAgICByZXR1cm4gbnVsbDsKICB9CgogIGNvbnN0IHsgYWN0aXZpdHlTdGF0dXMsIGFjdGl2aXR5TGFiZWwsIGFjdGl2aXR5Q29sb3IsIHJlc3BvbnNlTGFiZWwsIHJlc3BvbmRzUXVpY2tseSwgYXZlcmFnZVJlc3BvbnNlVGltZU1pbnV0ZXMgfSA9IGFjdGl2aXR5QmFkZ2U7CgogIGNvbnN0IGJhZGdlU2l6ZSA9IHsKICAgIHNtOiAidGV4dC14cyBweC0yIHB5LTAuNSIsCiAgICBtZDogInRleHQtc20gcHgtMi41IHB5LTEiLAogICAgbGc6ICJ0ZXh0LWJhc2UgcHgtMyBweS0xLjUiLAogIH1bc2l6ZV07CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LXdyYXAgZ2FwLTIgaXRlbXMtY2VudGVyIj4KICAgICAgey8qIEFjdGl2aXR5IFN0YXR1cyBCYWRnZSAqL30KICAgICAge2FjdGl2aXR5TGFiZWwgJiYgKAogICAgICAgIDxUb29sdGlwUHJvdmlkZXI+CiAgICAgICAgICA8VG9vbHRpcD4KICAgICAgICAgICAgPFRvb2x0aXBUcmlnZ2VyIGFzQ2hpbGQ+CiAgICAgICAgICAgICAgPEJhZGdlCiAgICAgICAgICAgICAgICB2YXJpYW50PSJzZWNvbmRhcnkiCiAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2Ake2JhZGdlU2l6ZX0gZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEuNWB9CiAgICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IGFjdGl2aXR5Q29sb3IgPT09ICJiZy1ncmVlbi01MDAiID8gIiMyMmM1NWUxNSIgOiAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3Rpdml0eUNvbG9yID09PSAiYmctYmx1ZS01MDAiID8gIiMzYjgyZjYxNSIgOiAiIzZiNzI4MDE1IiwKICAgICAgICAgICAgICAgICAgY29sb3I6IGFjdGl2aXR5Q29sb3IgPT09ICJiZy1ncmVlbi01MDAiID8gIiMyMmM1NWUiIDoKICAgICAgICAgICAgICAgICAgICAgICAgIGFjdGl2aXR5Q29sb3IgPT09ICJiZy1ibHVlLTUwMCIgPyAiIzNiODJmNiIgOiAiIzZiNzI4MCIsCiAgICAgICAgICAgICAgICAgIGJvcmRlckNvbG9yOiBhY3Rpdml0eUNvbG9yID09PSAiYmctZ3JlZW4tNTAwIiA/ICIjMjJjNTVlNTAiIDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFjdGl2aXR5Q29sb3IgPT09ICJiZy1ibHVlLTUwMCIgPyAiIzNiODJmNjUwIiA6ICIjNmI3MjgwNTAiLAogICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8c3BhbgogICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InctMiBoLTIgcm91bmRlZC1mdWxsIgogICAgICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogYWN0aXZpdHlDb2xvciA9PT0gImJnLWdyZWVuLTUwMCIgPyAiIzIyYzU1ZSIgOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWN0aXZpdHlDb2xvciA9PT0gImJnLWJsdWUtNTAwIiA/ICIjM2I4MmY2IiA6ICIjNmI3MjgwIiwKICAgICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICB7YWN0aXZpdHlMYWJlbH0KICAgICAgICAgICAgICA8L0JhZGdlPgogICAgICAgICAgICA8L1Rvb2x0aXBUcmlnZ2VyPgogICAgICAgICAgICA8VG9vbHRpcENvbnRlbnQ+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhzIj4KICAgICAgICAgICAgICAgIHthY3Rpdml0eVN0YXR1cyA9PT0gImFjdGl2ZV9ub3ciICYmICJPbmxpbmUgcmlnaHQgbm93In0KICAgICAgICAgICAgICAgIHthY3Rpdml0eVN0YXR1cyA9PT0gImFjdGl2ZV90b2RheSIgJiYgIkFjdGl2ZSB3aXRoaW4gdGhlIGxhc3QgMjQgaG91cnMifQogICAgICAgICAgICAgICAge2FjdGl2aXR5U3RhdHVzID09PSAiYWN0aXZlX3dlZWsiICYmICJBY3RpdmUgd2l0aGluIHRoZSBsYXN0IHdlZWsifQogICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPC9Ub29sdGlwQ29udGVudD4KICAgICAgICAgIDwvVG9vbHRpcD4KICAgICAgICA8L1Rvb2x0aXBQcm92aWRlcj4KICAgICAgKX0KCiAgICAgIHsvKiBSZXNwb25zZSBSYXRlIEJhZGdlICovfQogICAgICB7c2hvd1Jlc3BvbnNlUmF0ZSAmJiByZXNwb25zZUxhYmVsICYmICgKICAgICAgICA8VG9vbHRpcFByb3ZpZGVyPgogICAgICAgICAgPFRvb2x0aXA+CiAgICAgICAgICAgIDxUb29sdGlwVHJpZ2dlciBhc0NoaWxkPgogICAgICAgICAgICAgIDxCYWRnZSB2YXJpYW50PSJvdXRsaW5lIiBjbGFzc05hbWU9e2Ake2JhZGdlU2l6ZX0gZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEuNWB9PgogICAgICAgICAgICAgICAgPE1lc3NhZ2VDaXJjbGUgY2xhc3NOYW1lPSJ3LTMgaC0zIiAvPgogICAgICAgICAgICAgICAge3Jlc3BvbnNlTGFiZWx9CiAgICAgICAgICAgICAgPC9CYWRnZT4KICAgICAgICAgICAgPC9Ub29sdGlwVHJpZ2dlcj4KICAgICAgICAgICAgPFRvb2x0aXBDb250ZW50PgogICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyI+VXN1YWxseSByZXBsaWVzIHRvIG1lc3NhZ2VzPC9wPgogICAgICAgICAgICA8L1Rvb2x0aXBDb250ZW50PgogICAgICAgICAgPC9Ub29sdGlwPgogICAgICAgIDwvVG9vbHRpcFByb3ZpZGVyPgogICAgICApfQoKICAgICAgey8qIFJlc3BvbmRzIFF1aWNrbHkgQmFkZ2UgKi99CiAgICAgIHtzaG93UmVzcG9uc2VSYXRlICYmIHJlc3BvbmRzUXVpY2tseSAmJiAoCiAgICAgICAgPFRvb2x0aXBQcm92aWRlcj4KICAgICAgICAgIDxUb29sdGlwPgogICAgICAgICAgICA8VG9vbHRpcFRyaWdnZXIgYXNDaGlsZD4KICAgICAgICAgICAgICA8QmFkZ2UgdmFyaWFudD0ic2Vjb25kYXJ5IiBjbGFzc05hbWU9e2Ake2JhZGdlU2l6ZX0gZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEuNSBiZy1ncmVlbi01MCBkYXJrOmJnLWdyZWVuLTk1MC8zMCB0ZXh0LWdyZWVuLTcwMCBkYXJrOnRleHQtZ3JlZW4tNDAwIGJvcmRlci1ncmVlbi0yMDAgZGFyazpib3JkZXItZ3JlZW4tODAwYH0+CiAgICAgICAgICAgICAgICA8Q2hlY2tDaGVjayBjbGFzc05hbWU9InctMyBoLTMiIC8+CiAgICAgICAgICAgICAgICBRdWljayBSZXBseQogICAgICAgICAgICAgIDwvQmFkZ2U+CiAgICAgICAgICAgIDwvVG9vbHRpcFRyaWdnZXI+CiAgICAgICAgICAgIDxUb29sdGlwQ29udGVudD4KICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMiPgogICAgICAgICAgICAgICAgUmVzcG9uZHMgaW4gdW5kZXIge01hdGgucm91bmQoYXZlcmFnZVJlc3BvbnNlVGltZU1pbnV0ZXMpfSBtaW51dGVzIG9uIGF2ZXJhZ2UKICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDwvVG9vbHRpcENvbnRlbnQ+CiAgICAgICAgICA8L1Rvb2x0aXA+CiAgICAgICAgPC9Ub29sdGlwUHJvdmlkZXI+CiAgICAgICl9CiAgICA8L2Rpdj4KICApOwp9CgovLyBCYXRjaCB2ZXJzaW9uIGZvciByZW5kZXJpbmcgbXVsdGlwbGUgYmFkZ2VzIGVmZmljaWVudGx5CmludGVyZmFjZSBCYXRjaEFjdGl2aXR5QmFkZ2VzUHJvcHMgewogIHVzZXJJZHM6IElkPCJ1c2VycyI+W107CiAgc2hvd1Jlc3BvbnNlUmF0ZT86IGJvb2xlYW47CiAgc2l6ZT86ICJzbSIgfCAibWQiIHwgImxnIjsKfQoKZXhwb3J0IGZ1bmN0aW9uIEJhdGNoQWN0aXZpdHlCYWRnZXMoeyB1c2VySWRzLCBzaG93UmVzcG9uc2VSYXRlID0gdHJ1ZSwgc2l6ZSA9ICJtZCIgfTogQmF0Y2hBY3Rpdml0eUJhZGdlc1Byb3BzKSB7CiAgY29uc3QgYmFkZ2VzID0gdXNlUXVlcnkoYXBpLmFjdGl2aXR5VHJhY2tpbmcuZ2V0QmF0Y2hBY3Rpdml0eUJhZGdlcywgeyB1c2VySWRzIH0pOwoKICBpZiAoIWJhZGdlcykgewogICAgcmV0dXJuIG51bGw7CiAgfQoKICByZXR1cm4gKAogICAgPD4KICAgICAge3VzZXJJZHMubWFwKCh1c2VySWQpID0+IHsKICAgICAgICBjb25zdCBiYWRnZSA9IGJhZGdlc1t1c2VySWRdOwogICAgICAgIGlmICghYmFkZ2UpIHJldHVybiBudWxsOwoKICAgICAgICByZXR1cm4gKAogICAgICAgICAgPGRpdiBrZXk9e3VzZXJJZH0+CiAgICAgICAgICAgIDxBY3Rpdml0eUJhZGdlIHVzZXJJZD17dXNlcklkfSBzaG93UmVzcG9uc2VSYXRlPXtzaG93UmVzcG9uc2VSYXRlfSBzaXplPXtzaXplfSAvPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgKTsKICAgICAgfSl9CiAgICA8Lz4KICApOwp9Cg=="}
+import { useQuery } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import type { Id } from "../../../convex/_generated/dataModel";
+import { Badge } from "@/components/ui/badge";
+import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip";
+import { Clock, MessageCircle, CheckCheck } from "lucide-react";
+
+interface ActivityBadgeProps {
+  userId: Id<"users">;
+  showResponseRate?: boolean;
+  size?: "sm" | "md" | "lg";
+}
+
+export function ActivityBadge({ userId, showResponseRate = true, size = "md" }: ActivityBadgeProps) {
+  const activityBadge = useQuery(api.activityTracking.getActivityBadge, { userId });
+
+  if (!activityBadge) {
+    return null;
+  }
+
+  const { activityStatus, activityLabel, activityColor, responseLabel, respondsQuickly, averageResponseTimeMinutes } = activityBadge;
+
+  const badgeSize = {
+    sm: "text-xs px-2 py-0.5",
+    md: "text-sm px-2.5 py-1",
+    lg: "text-base px-3 py-1.5",
+  }[size];
+
+  return (
+    <div className="flex flex-wrap gap-2 items-center">
+      {/* Activity Status Badge */}
+      {activityLabel && (
+        <TooltipProvider>
+          <Tooltip>
+            <TooltipTrigger asChild>
+              <Badge
+                variant="secondary"
+                className={`${badgeSize} flex items-center gap-1.5`}
+                style={{
+                  backgroundColor: activityColor === "bg-green-500" ? "#22c55e15" : 
+                                   activityColor === "bg-blue-500" ? "#3b82f615" : "#6b728015",
+                  color: activityColor === "bg-green-500" ? "#22c55e" :
+                         activityColor === "bg-blue-500" ? "#3b82f6" : "#6b7280",
+                  borderColor: activityColor === "bg-green-500" ? "#22c55e50" :
+                               activityColor === "bg-blue-500" ? "#3b82f650" : "#6b728050",
+                }}
+              >
+                <span
+                  className="w-2 h-2 rounded-full"
+                  style={{
+                    backgroundColor: activityColor === "bg-green-500" ? "#22c55e" :
+                                     activityColor === "bg-blue-500" ? "#3b82f6" : "#6b7280",
+                  }}
+                />
+                {activityLabel}
+              </Badge>
+            </TooltipTrigger>
+            <TooltipContent>
+              <p className="text-xs">
+                {activityStatus === "active_now" && "Online right now"}
+                {activityStatus === "active_today" && "Active within the last 24 hours"}
+                {activityStatus === "active_week" && "Active within the last week"}
+              </p>
+            </TooltipContent>
+          </Tooltip>
+        </TooltipProvider>
+      )}
+
+      {/* Response Rate Badge */}
+      {showResponseRate && responseLabel && (
+        <TooltipProvider>
+          <Tooltip>
+            <TooltipTrigger asChild>
+              <Badge variant="outline" className={`${badgeSize} flex items-center gap-1.5`}>
+                <MessageCircle className="w-3 h-3" />
+                {responseLabel}
+              </Badge>
+            </TooltipTrigger>
+            <TooltipContent>
+              <p className="text-xs">Usually replies to messages</p>
+            </TooltipContent>
+          </Tooltip>
+        </TooltipProvider>
+      )}
+
+      {/* Responds Quickly Badge */}
+      {showResponseRate && respondsQuickly && (
+        <TooltipProvider>
+          <Tooltip>
+            <TooltipTrigger asChild>
+              <Badge variant="secondary" className={`${badgeSize} flex items-center gap-1.5 bg-green-50 dark:bg-green-950/30 text-green-700 dark:text-green-400 border-green-200 dark:border-green-800`}>
+                <CheckCheck className="w-3 h-3" />
+                Quick Reply
+              </Badge>
+            </TooltipTrigger>
+            <TooltipContent>
+              <p className="text-xs">
+                Responds in under {Math.round(averageResponseTimeMinutes)} minutes on average
+              </p>
+            </TooltipContent>
+          </Tooltip>
+        </TooltipProvider>
+      )}
+    </div>
+  );
+}
+
+// Batch version for rendering multiple badges efficiently
+interface BatchActivityBadgesProps {
+  userIds: Id<"users">[];
+  showResponseRate?: boolean;
+  size?: "sm" | "md" | "lg";
+}
+
+export function BatchActivityBadges({ userIds, showResponseRate = true, size = "md" }: BatchActivityBadgesProps) {
+  const badges = useQuery(api.activityTracking.getBatchActivityBadges, { userIds });
+
+  if (!badges) {
+    return null;
+  }
+
+  return (
+    <>
+      {userIds.map((userId) => {
+        const badge = badges[userId];
+        if (!badge) return null;
+
+        return (
+          <div key={userId}>
+            <ActivityBadge userId={userId} showResponseRate={showResponseRate} size={size} />
+          </div>
+        );
+      })}
+    </>
+  );
+}

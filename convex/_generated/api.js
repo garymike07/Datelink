@@ -1,1 +1,23 @@
-{"data":"LyogZXNsaW50LWRpc2FibGUgKi8KLyoqCiAqIEdlbmVyYXRlZCBgYXBpYCB1dGlsaXR5LgogKgogKiBUSElTIENPREUgSVMgQVVUT01BVElDQUxMWSBHRU5FUkFURUQuCiAqCiAqIFRvIHJlZ2VuZXJhdGUsIHJ1biBgbnB4IGNvbnZleCBkZXZgLgogKiBAbW9kdWxlCiAqLwoKaW1wb3J0IHsgYW55QXBpLCBjb21wb25lbnRzR2VuZXJpYyB9IGZyb20gImNvbnZleC9zZXJ2ZXIiOwoKLyoqCiAqIEEgdXRpbGl0eSBmb3IgcmVmZXJlbmNpbmcgQ29udmV4IGZ1bmN0aW9ucyBpbiB5b3VyIGFwcCdzIEFQSS4KICoKICogVXNhZ2U6CiAqIGBgYGpzCiAqIGNvbnN0IG15RnVuY3Rpb25SZWZlcmVuY2UgPSBhcGkubXlNb2R1bGUubXlGdW5jdGlvbjsKICogYGBgCiAqLwpleHBvcnQgY29uc3QgYXBpID0gYW55QXBpOwpleHBvcnQgY29uc3QgaW50ZXJuYWwgPSBhbnlBcGk7CmV4cG9ydCBjb25zdCBjb21wb25lbnRzID0gY29tcG9uZW50c0dlbmVyaWMoKTsK"}
+/* eslint-disable */
+/**
+ * Generated `api` utility.
+ *
+ * THIS CODE IS AUTOMATICALLY GENERATED.
+ *
+ * To regenerate, run `npx convex dev`.
+ * @module
+ */
+
+import { anyApi, componentsGeneric } from "convex/server";
+
+/**
+ * A utility for referencing Convex functions in your app's API.
+ *
+ * Usage:
+ * ```js
+ * const myFunctionReference = api.myModule.myFunction;
+ * ```
+ */
+export const api = anyApi;
+export const internal = anyApi;
+export const components = componentsGeneric();

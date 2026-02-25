@@ -1,1 +1,234 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IG1vdGlvbiwgQW5pbWF0ZVByZXNlbmNlIH0gZnJvbSAiZnJhbWVyLW1vdGlvbiI7CmltcG9ydCB7IENoZXZyb25MZWZ0LCBDaGV2cm9uUmlnaHQsIEhlYXJ0LCBRdW90ZSB9IGZyb20gImx1Y2lkZS1yZWFjdCI7Cgpjb25zdCBTdWNjZXNzU3RvcmllcyA9ICgpID0+IHsKICBjb25zdCBbY3VycmVudEluZGV4LCBzZXRDdXJyZW50SW5kZXhdID0gdXNlU3RhdGUoMCk7CgogIGNvbnN0IHN0b3JpZXMgPSBbCiAgICB7CiAgICAgIG5hbWVzOiAiQnJpYW4gJiBBa2lueWkiLAogICAgICBsb2NhdGlvbjogIk5haXJvYmkiLAogICAgICBkdXJhdGlvbjogIlRvZ2V0aGVyIDIgeWVhcnMiLAogICAgICBxdW90ZTogIldlIG1ldCBvbiBEYXRlTGluayBhbmQgbm93IHdlIGFyZSBwbGFubmluZyBvdXIgd2VkZGluZy4gVGhlIGNvbW11bml0eSBtYWRlIGl0IGVhc3kgdG8gZmluZCBzb21lb25lIHNlcmlvdXMgYWJvdXQgbG92ZS4iLAogICAgICBpbWFnZTogImh0dHBzOi8vaW1hZ2VzLnVuc3BsYXNoLmNvbS9waG90by0xNTI0NTA0Mzg4OTQwLWIxYzE3MjI2NTNlMT93PTQwMCZoPTQwMCZmaXQ9Y3JvcCZjcm9wPWZhY2VzIiwKICAgIH0sCiAgICB7CiAgICAgIG5hbWVzOiAiUGV0ZXIgJiBXYW5qaWt1IiwKICAgICAgbG9jYXRpb246ICJNb21iYXNhIiwKICAgICAgZHVyYXRpb246ICJFbmdhZ2VkIiwKICAgICAgcXVvdGU6ICJUaGUgdmVyaWZpZWQgcHJvZmlsZXMgZ2F2ZSB1cyBjb25maWRlbmNlLiBXZSBjb25uZWN0ZWQgb3ZlciBzaGFyZWQgZ29hbHMgYW5kIG5vdyB3ZSBhcmUgZW5nYWdlZC4iLAogICAgICBpbWFnZTogImh0dHBzOi8vaW1hZ2VzLnVuc3BsYXNoLmNvbS9waG90by0xNTI0NTAzMDMzNDExLWM5NTY2OTg2ZmM4Zj93PTQwMCZoPTQwMCZmaXQ9Y3JvcCZjcm9wPWZhY2VzIiwKICAgIH0sCiAgICB7CiAgICAgIG5hbWVzOiAiRGF2aWQgJiBFc3RoZXIiLAogICAgICBsb2NhdGlvbjogIktpc3VtdSIsCiAgICAgIGR1cmF0aW9uOiAiTWFycmllZCIsCiAgICAgIHF1b3RlOiAiVGhlIHByaWNpbmcgd2FzIHBlcmZlY3QgZm9yIHVzLiBXZSBtZXQsIGRhdGVkLCBhbmQgbm93IHdlIGFyZSBtYXJyaWVkLiBUaGFuayB5b3UgZm9yIGJyaW5naW5nIHVzIHRvZ2V0aGVyLiIsCiAgICAgIGltYWdlOiAiaHR0cHM6Ly9pbWFnZXMudW5zcGxhc2guY29tL3Bob3RvLTE1MDA2NDg3Njc3OTEtMDBkY2M5OTRhNDNlP3c9NDAwJmg9NDAwJmZpdD1jcm9wJmNyb3A9ZmFjZXMiLAogICAgfSwKICAgIHsKICAgICAgbmFtZXM6ICJLZXZpbiAmIFdhbWJ1aSIsCiAgICAgIGxvY2F0aW9uOiAiTmFrdXJ1IiwKICAgICAgZHVyYXRpb246ICJUb2dldGhlciAxIHllYXIiLAogICAgICBxdW90ZTogIkV2ZXJ5b25lIGlzIHNlcmlvdXMgYWJvdXQgcmVhbCBsb3ZlIGhlcmUuIFdlIGZvdW5kIGVhY2ggb3RoZXIgcXVpY2tseSBhbmQgdGhlIGV4cGVyaWVuY2UgZmVsdCBzYWZlIGFuZCByZXNwZWN0ZnVsLiIsCiAgICAgIGltYWdlOiAiaHR0cHM6Ly9pbWFnZXMudW5zcGxhc2guY29tL3Bob3RvLTE0OTQ3OTAxMDgzNzctYmU5YzI5YjI5MzMwP3c9NDAwJmg9NDAwJmZpdD1jcm9wJmNyb3A9ZmFjZXMiLAogICAgfSwKICBdOwoKICBjb25zdCBuZXh0U3RvcnkgPSAoKSA9PiB7CiAgICBzZXRDdXJyZW50SW5kZXgoKHByZXYpID0+IChwcmV2ICsgMSkgJSBzdG9yaWVzLmxlbmd0aCk7CiAgfTsKCiAgY29uc3QgcHJldlN0b3J5ID0gKCkgPT4gewogICAgc2V0Q3VycmVudEluZGV4KChwcmV2KSA9PiAocHJldiAtIDEgKyBzdG9yaWVzLmxlbmd0aCkgJSBzdG9yaWVzLmxlbmd0aCk7CiAgfTsKCiAgcmV0dXJuICgKICAgIDxzZWN0aW9uIGlkPSJzdWNjZXNzLXN0b3JpZXMiIGNsYXNzTmFtZT0icHktMjAgbWQ6cHktMjggYmctYmFja2dyb3VuZCByZWxhdGl2ZSBvdmVyZmxvdy1oaWRkZW4iPgogICAgICB7LyogRW5oYW5jZWQgQmFja2dyb3VuZCAqL30KICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBpbnNldC0wIGJnLWhlcm8tcGF0dGVybiBvcGFjaXR5LTUwIiAvPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSB0b3AtMS80IGxlZnQtMS80IHctOTYgaC05NiBiZy1wcmltYXJ5LzEwIHJvdW5kZWQtZnVsbCBibHVyLTN4bCBhbmltYXRlLXB1bHNlLXNvZnQiIC8+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGJvdHRvbS0xLzQgcmlnaHQtMS80IHctOTYgaC05NiBiZy1zZWNvbmRhcnkvMTAgcm91bmRlZC1mdWxsIGJsdXItM3hsIGFuaW1hdGUtcHVsc2Utc29mdCIgLz4KICAgICAgPC9kaXY+CgogICAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGFpbmVyIG1heC13LTd4bCBteC1hdXRvIHB4LTQgc206cHgtNiByZWxhdGl2ZSB6LTEwIj4KICAgICAgICB7LyogSGVhZGVyICovfQogICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICBpbml0aWFsPXt7IG9wYWNpdHk6IDAsIHk6IDIwIH19CiAgICAgICAgICB3aGlsZUluVmlldz17eyBvcGFjaXR5OiAxLCB5OiAwIH19CiAgICAgICAgICB2aWV3cG9ydD17eyBvbmNlOiB0cnVlIH19CiAgICAgICAgICB0cmFuc2l0aW9uPXt7IGR1cmF0aW9uOiAwLjYgfX0KICAgICAgICAgIGNsYXNzTmFtZT0idGV4dC1jZW50ZXIgbWItMTYiCiAgICAgICAgPgogICAgICAgICAgPG1vdGlvbi5zcGFuIAogICAgICAgICAgICBpbml0aWFsPXt7IG9wYWNpdHk6IDAsIHNjYWxlOiAwLjkgfX0KICAgICAgICAgICAgd2hpbGVJblZpZXc9e3sgb3BhY2l0eTogMSwgc2NhbGU6IDEgfX0KICAgICAgICAgICAgdmlld3BvcnQ9e3sgb25jZTogdHJ1ZSB9fQogICAgICAgICAgICBjbGFzc05hbWU9ImlubGluZS1mbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiBweC01IHB5LTIuNSBiZy13aGl0ZS83MCB0ZXh0LWZvcmVncm91bmQgcm91bmRlZC1mdWxsIHRleHQtc20gZm9udC1ib2xkIG1iLTYgYm9yZGVyIGJvcmRlci1wcmltYXJ5LzE1IgogICAgICAgICAgPgogICAgICAgICAgICA8SGVhcnQgY2xhc3NOYW1lPSJ3LTUgaC01IGZpbGwtcHJpbWFyeSB0ZXh0LXByaW1hcnkiIC8+CiAgICAgICAgICAgIFN1Y2Nlc3MgU3RvcmllcwogICAgICAgICAgPC9tb3Rpb24uc3Bhbj4KICAgICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQtNHhsIG1kOnRleHQtNXhsIGxnOnRleHQtNnhsIGZvbnQtYmxhY2sgbWItNiB0ZXh0LWZvcmVncm91bmQgbGVhZGluZy10aWdodCI+CiAgICAgICAgICAgIFJlYWwgTG92ZSwgUmVhbCA8c3BhbiBjbGFzc05hbWU9InRleHQtZ3JhZGllbnQtbG92ZSI+U3Rvcmllczwvc3Bhbj4KICAgICAgICAgIDwvaDI+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtbGcgbWQ6dGV4dC14bCB0ZXh0LW11dGVkLWZvcmVncm91bmQgbWF4LXctM3hsIG14LWF1dG8gbGVhZGluZy1yZWxheGVkIj4KICAgICAgICAgICAgSm9pbiB0aG91c2FuZHMgb2Ygc2luZ2xlcyB3aG8gZm91bmQgdGhlaXIgcGVyZmVjdCBtYXRjaCBvbiBEYXRlTGluay4KICAgICAgICAgIDwvcD4KICAgICAgICA8L21vdGlvbi5kaXY+CgogICAgICAgIHsvKiBTdG9yaWVzIENhcm91c2VsICovfQogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYXgtdy01eGwgbXgtYXV0byI+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icmVsYXRpdmUiPgogICAgICAgICAgICB7LyogTmF2aWdhdGlvbiBCdXR0b25zICovfQogICAgICAgICAgICA8bW90aW9uLmJ1dHRvbgogICAgICAgICAgICAgIG9uQ2xpY2s9e3ByZXZTdG9yeX0KICAgICAgICAgICAgICB3aGlsZUhvdmVyPXt7IHNjYWxlOiAxLjEsIHg6IC01IH19CiAgICAgICAgICAgICAgd2hpbGVUYXA9e3sgc2NhbGU6IDAuOSB9fQogICAgICAgICAgICAgIGNsYXNzTmFtZT0iYWJzb2x1dGUgbGVmdC0wIHRvcC0xLzIgLXRyYW5zbGF0ZS15LTEvMiAtdHJhbnNsYXRlLXgtNCBtZDotdHJhbnNsYXRlLXgtMTYgdy0xNCBoLTE0IHJvdW5kZWQtZnVsbCBiZy13aGl0ZS84MCBib3JkZXItMiBib3JkZXItd2hpdGUvNjAgc2hhZG93LXhsIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHRleHQtcHJpbWFyeSBob3Zlcjpib3JkZXItcHJpbWFyeSB0cmFuc2l0aW9uLWNvbG9ycyB6LTEwIgogICAgICAgICAgICA+CiAgICAgICAgICAgICAgPENoZXZyb25MZWZ0IGNsYXNzTmFtZT0idy03IGgtNyIgLz4KICAgICAgICAgICAgPC9tb3Rpb24uYnV0dG9uPgogICAgICAgICAgICAKICAgICAgICAgICAgPG1vdGlvbi5idXR0b24KICAgICAgICAgICAgICBvbkNsaWNrPXtuZXh0U3Rvcnl9CiAgICAgICAgICAgICAgd2hpbGVIb3Zlcj17eyBzY2FsZTogMS4xLCB4OiA1IH19CiAgICAgICAgICAgICAgd2hpbGVUYXA9e3sgc2NhbGU6IDAuOSB9fQogICAgICAgICAgICAgIGNsYXNzTmFtZT0iYWJzb2x1dGUgcmlnaHQtMCB0b3AtMS8yIC10cmFuc2xhdGUteS0xLzIgdHJhbnNsYXRlLXgtNCBtZDp0cmFuc2xhdGUteC0xNiB3LTE0IGgtMTQgcm91bmRlZC1mdWxsIGJnLXdoaXRlLzgwIGJvcmRlci0yIGJvcmRlci13aGl0ZS82MCBzaGFkb3cteGwgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgdGV4dC1wcmltYXJ5IGhvdmVyOmJvcmRlci1wcmltYXJ5IHRyYW5zaXRpb24tY29sb3JzIHotMTAiCiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8Q2hldnJvblJpZ2h0IGNsYXNzTmFtZT0idy03IGgtNyIgLz4KICAgICAgICAgICAgPC9tb3Rpb24uYnV0dG9uPgoKICAgICAgICAgICAgey8qIFN0b3J5IENhcmQgKi99CiAgICAgICAgICAgIDxBbmltYXRlUHJlc2VuY2UgbW9kZT0id2FpdCI+CiAgICAgICAgICAgICAgPG1vdGlvbi5kaXYKICAgICAgICAgICAgICAgIGtleT17Y3VycmVudEluZGV4fQogICAgICAgICAgICAgICAgaW5pdGlhbD17eyBvcGFjaXR5OiAwLCBzY2FsZTogMC45NSB9fQogICAgICAgICAgICAgICAgYW5pbWF0ZT17eyBvcGFjaXR5OiAxLCBzY2FsZTogMSB9fQogICAgICAgICAgICAgICAgZXhpdD17eyBvcGFjaXR5OiAwLCBzY2FsZTogMC45NSB9fQogICAgICAgICAgICAgICAgdHJhbnNpdGlvbj17eyBkdXJhdGlvbjogMC41IH19CiAgICAgICAgICAgICAgICBjbGFzc05hbWU9InJlbGF0aXZlIgogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIHsvKiBHbG93IEVmZmVjdCAqL30KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBpbnNldC0wIGJnLWdyYWRpZW50LXRvLWJyIGZyb20tcHJpbWFyeS8yMCB0by1zZWNvbmRhcnkvMjAgcm91bmRlZC0zeGwgYmx1ci0yeGwiIC8+CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIHsvKiBDYXJkICovfQogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InJlbGF0aXZlIGJnLXdoaXRlLzgwIGRhcms6YmctYmxhY2svNjAgYmFja2Ryb3AtYmx1ci14bCByb3VuZGVkLTN4bCBwLTggbWQ6cC0xMiBzaGFkb3ctMnhsIGJvcmRlciBib3JkZXItd2hpdGUvNDAgZGFyazpib3JkZXItd2hpdGUvMTAgb3ZlcmZsb3ctaGlkZGVuIj4KICAgICAgICAgICAgICAgICAgey8qIFNoaW5lIEVmZmVjdCAqL30KICAgICAgICAgICAgICAgICAgPG1vdGlvbi5kaXYKICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgYmctZ3JhZGllbnQtdG8tciBmcm9tLXRyYW5zcGFyZW50IHZpYS13aGl0ZS81IHRvLXRyYW5zcGFyZW50IgogICAgICAgICAgICAgICAgICAgIGFuaW1hdGU9e3sgeDogWyItMTAwJSIsICIxMDAlIl0gfX0KICAgICAgICAgICAgICAgICAgICB0cmFuc2l0aW9uPXt7IGR1cmF0aW9uOiAzLCByZXBlYXQ6IEluZmluaXR5LCBlYXNlOiAibGluZWFyIiB9fQogICAgICAgICAgICAgICAgICAvPgoKICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InJlbGF0aXZlIGZsZXggZmxleC1jb2wgbWQ6ZmxleC1yb3cgaXRlbXMtY2VudGVyIGdhcC04Ij4KICAgICAgICAgICAgICAgICAgICB7LyogSW1hZ2UgKi99CiAgICAgICAgICAgICAgICAgICAgPG1vdGlvbi5kaXYgCiAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InJlbGF0aXZlIGZsZXgtc2hyaW5rLTAiCiAgICAgICAgICAgICAgICAgICAgICB3aGlsZUhvdmVyPXt7IHNjYWxlOiAxLjA1LCByb3RhdGU6IDIgfX0KICAgICAgICAgICAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuMyB9fQogICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LTMyIGgtMzIgbWQ6dy00MCBtZDpoLTQwIHJvdW5kZWQtM3hsIG92ZXJmbG93LWhpZGRlbiBzaGFkb3ctMnhsIHJpbmctNCByaW5nLXByaW1hcnkvMjAiPgogICAgICAgICAgICAgICAgICAgICAgICA8aW1nCiAgICAgICAgICAgICAgICAgICAgICAgICAgc3JjPXtzdG9yaWVzW2N1cnJlbnRJbmRleF0uaW1hZ2V9CiAgICAgICAgICAgICAgICAgICAgICAgICAgYWx0PXtzdG9yaWVzW2N1cnJlbnRJbmRleF0ubmFtZXN9CiAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ3LWZ1bGwgaC1mdWxsIG9iamVjdC1jb3ZlciIKICAgICAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgPG1vdGlvbi5kaXYgCiAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iYWJzb2x1dGUgLWJvdHRvbS00IC1yaWdodC00IHctMTQgaC0xNCByb3VuZGVkLTJ4bCBiZy1ncmFkaWVudC10by1iciBmcm9tLXByaW1hcnkgdG8tc2Vjb25kYXJ5IGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHNoYWRvdy14bCIKICAgICAgICAgICAgICAgICAgICAgICAgYW5pbWF0ZT17eyByb3RhdGU6IFswLCAzNjBdIH19CiAgICAgICAgICAgICAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDIwLCByZXBlYXQ6IEluZmluaXR5LCBlYXNlOiAibGluZWFyIiB9fQogICAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgICA8SGVhcnQgY2xhc3NOYW1lPSJ3LTcgaC03IHRleHQtd2hpdGUgZmlsbC13aGl0ZSIgLz4KICAgICAgICAgICAgICAgICAgICAgIDwvbW90aW9uLmRpdj4KICAgICAgICAgICAgICAgICAgICA8L21vdGlvbi5kaXY+CgogICAgICAgICAgICAgICAgICAgIHsvKiBDb250ZW50ICovfQogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4LTEgdGV4dC1jZW50ZXIgbWQ6dGV4dC1sZWZ0Ij4KICAgICAgICAgICAgICAgICAgICAgIDxRdW90ZSBjbGFzc05hbWU9InctMTIgaC0xMiB0ZXh0LXByaW1hcnkvMzAgbWItNiBteC1hdXRvIG1kOm14LTAiIC8+CiAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14bCBtZDp0ZXh0LTJ4bCB0ZXh0LWZvcmVncm91bmQgbWItOCBsZWFkaW5nLXJlbGF4ZWQgZm9udC1tZWRpdW0gaXRhbGljIj4KICAgICAgICAgICAgICAgICAgICAgICAgIntzdG9yaWVzW2N1cnJlbnRJbmRleF0ucXVvdGV9IgogICAgICAgICAgICAgICAgICAgICAgPC9wPgoKICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtY29sIG1kOmZsZXgtcm93IG1kOml0ZW1zLWNlbnRlciBtZDpqdXN0aWZ5LWJldHdlZW4gZ2FwLTQiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgIDxoNCBjbGFzc05hbWU9InRleHQtMnhsIGZvbnQtYmxhY2sgdGV4dC1mb3JlZ3JvdW5kIG1iLTIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAge3N0b3JpZXNbY3VycmVudEluZGV4XS5uYW1lc30KICAgICAgICAgICAgICAgICAgICAgICAgICA8L2g0PgogICAgICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1iYXNlIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBtZDpqdXN0aWZ5LXN0YXJ0IGdhcC0yIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idy0yIGgtMiByb3VuZGVkLWZ1bGwgYmctcHJpbWFyeSBhbmltYXRlLXB1bHNlIiAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAge3N0b3JpZXNbY3VycmVudEluZGV4XS5sb2NhdGlvbn0g4oCiIHtzdG9yaWVzW2N1cnJlbnRJbmRleF0uZHVyYXRpb259CiAgICAgICAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAge1suLi5BcnJheSg1KV0ubWFwKChfLCBpKSA9PiAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8U3RhciBrZXk9e2l9IGNsYXNzTmFtZT0idy02IGgtNiB0ZXh0LWFjY2VudCBmaWxsLWFjY2VudCIgLz4KICAgICAgICAgICAgICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgICB7LyogQm90dG9tIEFjY2VudCAqL30KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGJvdHRvbS0wIGxlZnQtMCByaWdodC0wIGgtMS41IGdyYWRpZW50LWxvdmUiIC8+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L21vdGlvbi5kaXY+CiAgICAgICAgICAgIDwvQW5pbWF0ZVByZXNlbmNlPgoKICAgICAgICAgICAgey8qIERvdHMgKi99CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBnYXAtMyBtdC0xMCI+CiAgICAgICAgICAgICAge3N0b3JpZXMubWFwKChfLCBpbmRleCkgPT4gKAogICAgICAgICAgICAgICAgPG1vdGlvbi5idXR0b24KICAgICAgICAgICAgICAgICAga2V5PXtpbmRleH0KICAgICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gc2V0Q3VycmVudEluZGV4KGluZGV4KX0KICAgICAgICAgICAgICAgICAgd2hpbGVIb3Zlcj17eyBzY2FsZTogMS4yIH19CiAgICAgICAgICAgICAgICAgIHdoaWxlVGFwPXt7IHNjYWxlOiAwLjkgfX0KICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtgcm91bmRlZC1mdWxsIHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTMwMCAkewogICAgICAgICAgICAgICAgICAgIGluZGV4ID09PSBjdXJyZW50SW5kZXgKICAgICAgICAgICAgICAgICAgICAgID8gInctMTIgaC0zIGdyYWRpZW50LWxvdmUiCiAgICAgICAgICAgICAgICAgICAgICA6ICJ3LTMgaC0zIGJnLW11dGVkIGhvdmVyOmJnLW11dGVkLzgwIgogICAgICAgICAgICAgICAgICB9YH0KICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CgogICAgICAgIHsvKiBCb3R0b20gU3RhdHMgKi99CiAgICAgICAgPG1vdGlvbi5kaXYKICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogMjAgfX0KICAgICAgICAgIHdoaWxlSW5WaWV3PXt7IG9wYWNpdHk6IDEsIHk6IDAgfX0KICAgICAgICAgIHZpZXdwb3J0PXt7IG9uY2U6IHRydWUgfX0KICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuNiwgZGVsYXk6IDAuMyB9fQogICAgICAgICAgY2xhc3NOYW1lPSJtdC0yMCBncmlkIGdyaWQtY29scy0yIG1kOmdyaWQtY29scy00IGdhcC02IG1heC13LTR4bCBteC1hdXRvIgogICAgICAgID4KICAgICAgICAgIHtbCiAgICAgICAgICAgIHsgbnVtYmVyOiAiMSwwMDArIiwgbGFiZWw6ICJTdWNjZXNzIFN0b3JpZXMiIH0sCiAgICAgICAgICAgIHsgbnVtYmVyOiAiNTAsMDAwKyIsIGxhYmVsOiAiSGFwcHkgTWVtYmVycyIgfSwKICAgICAgICAgICAgeyBudW1iZXI6ICIxMDAlIiwgbGFiZWw6ICJWZXJpZmllZCBQcm9maWxlcyIgfSwKICAgICAgICAgICAgeyBudW1iZXI6ICI0LjkvNSIsIGxhYmVsOiAiVXNlciBSYXRpbmciIH0sCiAgICAgICAgICBdLm1hcCgoc3RhdCwgaW5kZXgpID0+ICgKICAgICAgICAgICAgPG1vdGlvbi5kaXYKICAgICAgICAgICAgICBrZXk9e3N0YXQubGFiZWx9CiAgICAgICAgICAgICAgaW5pdGlhbD17eyBvcGFjaXR5OiAwLCB5OiAyMCB9fQogICAgICAgICAgICAgIHdoaWxlSW5WaWV3PXt7IG9wYWNpdHk6IDEsIHk6IDAgfX0KICAgICAgICAgICAgICB2aWV3cG9ydD17eyBvbmNlOiB0cnVlIH19CiAgICAgICAgICAgICAgdHJhbnNpdGlvbj17eyBkZWxheTogaW5kZXggKiAwLjEgfX0KICAgICAgICAgICAgICBjbGFzc05hbWU9InRleHQtY2VudGVyIgogICAgICAgICAgICA+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LTR4bCBtZDp0ZXh0LTV4bCBmb250LWJsYWNrIHRleHQtZm9yZWdyb3VuZCBtYi0yIj57c3RhdC5udW1iZXJ9PC9wPgogICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSBtZDp0ZXh0LWJhc2UgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIGZvbnQtc2VtaWJvbGQiPntzdGF0LmxhYmVsfTwvcD4KICAgICAgICAgICAgPC9tb3Rpb24uZGl2PgogICAgICAgICAgKSl9CiAgICAgICAgPC9tb3Rpb24uZGl2PgogICAgICA8L2Rpdj4KICAgIDwvc2VjdGlvbj4KICApOwp9OwoKZXhwb3J0IGRlZmF1bHQgU3VjY2Vzc1N0b3JpZXM7Cg=="}
+import { useState } from "react";
+import { motion, AnimatePresence } from "framer-motion";
+import { ChevronLeft, ChevronRight, Heart, Quote } from "lucide-react";
+
+const SuccessStories = () => {
+  const [currentIndex, setCurrentIndex] = useState(0);
+
+  const stories = [
+    {
+      names: "Brian & Akinyi",
+      location: "Nairobi",
+      duration: "Together 2 years",
+      quote: "We met on DateLink and now we are planning our wedding. The community made it easy to find someone serious about love.",
+      image: "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400&h=400&fit=crop&crop=faces",
+    },
+    {
+      names: "Peter & Wanjiku",
+      location: "Mombasa",
+      duration: "Engaged",
+      quote: "The verified profiles gave us confidence. We connected over shared goals and now we are engaged.",
+      image: "https://images.unsplash.com/photo-1524503033411-c9566986fc8f?w=400&h=400&fit=crop&crop=faces",
+    },
+    {
+      names: "David & Esther",
+      location: "Kisumu",
+      duration: "Married",
+      quote: "The pricing was perfect for us. We met, dated, and now we are married. Thank you for bringing us together.",
+      image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop&crop=faces",
+    },
+    {
+      names: "Kevin & Wambui",
+      location: "Nakuru",
+      duration: "Together 1 year",
+      quote: "Everyone is serious about real love here. We found each other quickly and the experience felt safe and respectful.",
+      image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop&crop=faces",
+    },
+  ];
+
+  const nextStory = () => {
+    setCurrentIndex((prev) => (prev + 1) % stories.length);
+  };
+
+  const prevStory = () => {
+    setCurrentIndex((prev) => (prev - 1 + stories.length) % stories.length);
+  };
+
+  return (
+    <section id="success-stories" className="py-20 md:py-28 bg-background relative overflow-hidden">
+      {/* Enhanced Background */}
+      <div className="absolute inset-0">
+        <div className="absolute inset-0 bg-hero-pattern opacity-50" />
+        <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-primary/10 rounded-full blur-3xl animate-pulse-soft" />
+        <div className="absolute bottom-1/4 right-1/4 w-96 h-96 bg-secondary/10 rounded-full blur-3xl animate-pulse-soft" />
+      </div>
+
+      <div className="container max-w-7xl mx-auto px-4 sm:px-6 relative z-10">
+        {/* Header */}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.6 }}
+          className="text-center mb-16"
+        >
+          <motion.span 
+            initial={{ opacity: 0, scale: 0.9 }}
+            whileInView={{ opacity: 1, scale: 1 }}
+            viewport={{ once: true }}
+            className="inline-flex items-center gap-2 px-5 py-2.5 bg-white/70 text-foreground rounded-full text-sm font-bold mb-6 border border-primary/15"
+          >
+            <Heart className="w-5 h-5 fill-primary text-primary" />
+            Success Stories
+          </motion.span>
+          <h2 className="text-4xl md:text-5xl lg:text-6xl font-black mb-6 text-foreground leading-tight">
+            Real Love, Real <span className="text-gradient-love">Stories</span>
+          </h2>
+          <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
+            Join thousands of singles who found their perfect match on DateLink.
+          </p>
+        </motion.div>
+
+        {/* Stories Carousel */}
+        <div className="max-w-5xl mx-auto">
+          <div className="relative">
+            {/* Navigation Buttons */}
+            <motion.button
+              onClick={prevStory}
+              whileHover={{ scale: 1.1, x: -5 }}
+              whileTap={{ scale: 0.9 }}
+              className="absolute left-0 top-1/2 -translate-y-1/2 -translate-x-4 md:-translate-x-16 w-14 h-14 rounded-full bg-white/80 border-2 border-white/60 shadow-xl flex items-center justify-center text-primary hover:border-primary transition-colors z-10"
+            >
+              <ChevronLeft className="w-7 h-7" />
+            </motion.button>
+            
+            <motion.button
+              onClick={nextStory}
+              whileHover={{ scale: 1.1, x: 5 }}
+              whileTap={{ scale: 0.9 }}
+              className="absolute right-0 top-1/2 -translate-y-1/2 translate-x-4 md:translate-x-16 w-14 h-14 rounded-full bg-white/80 border-2 border-white/60 shadow-xl flex items-center justify-center text-primary hover:border-primary transition-colors z-10"
+            >
+              <ChevronRight className="w-7 h-7" />
+            </motion.button>
+
+            {/* Story Card */}
+            <AnimatePresence mode="wait">
+              <motion.div
+                key={currentIndex}
+                initial={{ opacity: 0, scale: 0.95 }}
+                animate={{ opacity: 1, scale: 1 }}
+                exit={{ opacity: 0, scale: 0.95 }}
+                transition={{ duration: 0.5 }}
+                className="relative"
+              >
+                {/* Glow Effect */}
+                <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-secondary/20 rounded-3xl blur-2xl" />
+                
+                {/* Card */}
+                <div className="relative bg-white/80 dark:bg-black/60 backdrop-blur-xl rounded-3xl p-8 md:p-12 shadow-2xl border border-white/40 dark:border-white/10 overflow-hidden">
+                  {/* Shine Effect */}
+                  <motion.div
+                    className="absolute inset-0 bg-gradient-to-r from-transparent via-white/5 to-transparent"
+                    animate={{ x: ["-100%", "100%"] }}
+                    transition={{ duration: 3, repeat: Infinity, ease: "linear" }}
+                  />
+
+                  <div className="relative flex flex-col md:flex-row items-center gap-8">
+                    {/* Image */}
+                    <motion.div 
+                      className="relative flex-shrink-0"
+                      whileHover={{ scale: 1.05, rotate: 2 }}
+                      transition={{ duration: 0.3 }}
+                    >
+                      <div className="w-32 h-32 md:w-40 md:h-40 rounded-3xl overflow-hidden shadow-2xl ring-4 ring-primary/20">
+                        <img
+                          src={stories[currentIndex].image}
+                          alt={stories[currentIndex].names}
+                          className="w-full h-full object-cover"
+                        />
+                      </div>
+                      <motion.div 
+                        className="absolute -bottom-4 -right-4 w-14 h-14 rounded-2xl bg-gradient-to-br from-primary to-secondary flex items-center justify-center shadow-xl"
+                        animate={{ rotate: [0, 360] }}
+                        transition={{ duration: 20, repeat: Infinity, ease: "linear" }}
+                      >
+                        <Heart className="w-7 h-7 text-white fill-white" />
+                      </motion.div>
+                    </motion.div>
+
+                    {/* Content */}
+                    <div className="flex-1 text-center md:text-left">
+                      <Quote className="w-12 h-12 text-primary/30 mb-6 mx-auto md:mx-0" />
+                      
+                      <p className="text-xl md:text-2xl text-foreground mb-8 leading-relaxed font-medium italic">
+                        "{stories[currentIndex].quote}"
+                      </p>
+
+                      <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+                        <div>
+                          <h4 className="text-2xl font-black text-foreground mb-2">
+                            {stories[currentIndex].names}
+                          </h4>
+                          <p className="text-base text-muted-foreground flex items-center justify-center md:justify-start gap-2">
+                            <span className="w-2 h-2 rounded-full bg-primary animate-pulse" />
+                            {stories[currentIndex].location} • {stories[currentIndex].duration}
+                          </p>
+                        </div>
+                        
+                        <div className="flex items-center gap-1">
+                          {[...Array(5)].map((_, i) => (
+                            <Star key={i} className="w-6 h-6 text-accent fill-accent" />
+                          ))}
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  {/* Bottom Accent */}
+                  <div className="absolute bottom-0 left-0 right-0 h-1.5 gradient-love" />
+                </div>
+              </motion.div>
+            </AnimatePresence>
+
+            {/* Dots */}
+            <div className="flex items-center justify-center gap-3 mt-10">
+              {stories.map((_, index) => (
+                <motion.button
+                  key={index}
+                  onClick={() => setCurrentIndex(index)}
+                  whileHover={{ scale: 1.2 }}
+                  whileTap={{ scale: 0.9 }}
+                  className={`rounded-full transition-all duration-300 ${
+                    index === currentIndex
+                      ? "w-12 h-3 gradient-love"
+                      : "w-3 h-3 bg-muted hover:bg-muted/80"
+                  }`}
+                />
+              ))}
+            </div>
+          </div>
+        </div>
+
+        {/* Bottom Stats */}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.6, delay: 0.3 }}
+          className="mt-20 grid grid-cols-2 md:grid-cols-4 gap-6 max-w-4xl mx-auto"
+        >
+          {[
+            { number: "1,000+", label: "Success Stories" },
+            { number: "50,000+", label: "Happy Members" },
+            { number: "100%", label: "Verified Profiles" },
+            { number: "4.9/5", label: "User Rating" },
+          ].map((stat, index) => (
+            <motion.div
+              key={stat.label}
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ delay: index * 0.1 }}
+              className="text-center"
+            >
+              <p className="text-4xl md:text-5xl font-black text-foreground mb-2">{stat.number}</p>
+              <p className="text-sm md:text-base text-muted-foreground font-semibold">{stat.label}</p>
+            </motion.div>
+          ))}
+        </motion.div>
+      </div>
+    </section>
+  );
+};
+
+export default SuccessStories;

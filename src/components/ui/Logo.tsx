@@ -1,1 +1,23 @@
-{"data":"aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKCmludGVyZmFjZSBMb2dvUHJvcHMgewogICAgY2xhc3NOYW1lPzogc3RyaW5nOwogICAgdmFyaWFudD86ICdmdWxsJyB8ICdpY29uJzsKfQoKZXhwb3J0IGNvbnN0IExvZ28gPSAoeyBjbGFzc05hbWUgPSAnJywgdmFyaWFudCA9ICdmdWxsJyB9OiBMb2dvUHJvcHMpID0+IHsKICAgIHJldHVybiAoCiAgICAgICAgPGRpdiBjbGFzc05hbWU9e2BmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiAke2NsYXNzTmFtZX1gfT4KICAgICAgICAgICAgPGltZwogICAgICAgICAgICAgICAgc3JjPSIvbG9nby5wbmciCiAgICAgICAgICAgICAgICBhbHQ9IkRhdGVMaW5rIgogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJoLTggdy1hdXRvIG9iamVjdC1jb250YWluIgogICAgICAgICAgICAvPgogICAgICAgICAgICB7dmFyaWFudCA9PT0gJ2Z1bGwnICYmICgKICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZm9udC1oZWFkaW5nIGZvbnQtYm9sZCB0ZXh0LXhsIHRyYWNraW5nLXRpZ2h0IHRleHQtZm9yZWdyb3VuZCI+CiAgICAgICAgICAgICAgICAgICAgRGF0ZUxpbmsKICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgKX0KICAgICAgICA8L2Rpdj4KICAgICk7Cn07Cg=="}
+import React from 'react';
+
+interface LogoProps {
+    className?: string;
+    variant?: 'full' | 'icon';
+}
+
+export const Logo = ({ className = '', variant = 'full' }: LogoProps) => {
+    return (
+        <div className={`flex items-center gap-2 ${className}`}>
+            <img
+                src="/logo.png"
+                alt="DateLink"
+                className="h-8 w-auto object-contain"
+            />
+            {variant === 'full' && (
+                <span className="font-heading font-bold text-xl tracking-tight text-foreground">
+                    DateLink
+                </span>
+            )}
+        </div>
+    );
+};

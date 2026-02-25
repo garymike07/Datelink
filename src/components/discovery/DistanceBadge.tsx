@@ -1,1 +1,22 @@
-{"data":"aW50ZXJmYWNlIERpc3RhbmNlQmFkZ2VQcm9wcyB7CiAgZGlzdGFuY2VLbTogbnVtYmVyIHwgbnVsbCB8IHVuZGVmaW5lZDsKICBjaXR5Pzogc3RyaW5nIHwgbnVsbDsKICBpc0hpZGRlbj86IGJvb2xlYW47CiAgcGFzc3BvcnRNb2RlPzogYm9vbGVhbjsKfQoKZnVuY3Rpb24gZm9ybWF0RGlzdGFuY2UoZGlzdGFuY2VLbTogbnVtYmVyLCBjaXR5Pzogc3RyaW5nIHwgbnVsbCwgcGFzc3BvcnRNb2RlPzogYm9vbGVhbikgewogIGlmIChwYXNzcG9ydE1vZGUgJiYgZGlzdGFuY2VLbSA+PSA1MDApIHJldHVybiAiVmVyeSBmYXIgYXdheSI7CiAgaWYgKGRpc3RhbmNlS20gPCAxKSByZXR1cm4gIkxlc3MgdGhhbiAxIGttIGF3YXkiOwogIGlmIChkaXN0YW5jZUttIDw9IDEwKSByZXR1cm4gYCR7TWF0aC5yb3VuZChkaXN0YW5jZUttKX0ga20gYXdheWA7CiAgaWYgKGRpc3RhbmNlS20gPD0gNTApIHJldHVybiBgJHtNYXRoLnJvdW5kKGRpc3RhbmNlS20pfSBrbSBhd2F5JHtjaXR5ID8gYCBpbiAke2NpdHl9YCA6ICIifWA7CiAgcmV0dXJuIGAke01hdGgucm91bmQoZGlzdGFuY2VLbSl9IGttIGF3YXkke2NpdHkgPyBgIGluICR7Y2l0eX1gIDogIiJ9YDsKfQoKZXhwb3J0IGZ1bmN0aW9uIERpc3RhbmNlQmFkZ2UoeyBkaXN0YW5jZUttLCBjaXR5LCBpc0hpZGRlbiwgcGFzc3BvcnRNb2RlIH06IERpc3RhbmNlQmFkZ2VQcm9wcykgewogIGlmIChpc0hpZGRlbikgcmV0dXJuICJIaWRkZW4iOwogIGlmIChkaXN0YW5jZUttID09PSBudWxsIHx8IGRpc3RhbmNlS20gPT09IHVuZGVmaW5lZCB8fCBOdW1iZXIuaXNOYU4oZGlzdGFuY2VLbSkpIHsKICAgIHJldHVybiBjaXR5IHx8ICIiOwogIH0KICByZXR1cm4gZm9ybWF0RGlzdGFuY2UoZGlzdGFuY2VLbSwgY2l0eSwgcGFzc3BvcnRNb2RlKTsKfQo="}
+interface DistanceBadgeProps {
+  distanceKm: number | null | undefined;
+  city?: string | null;
+  isHidden?: boolean;
+  passportMode?: boolean;
+}
+
+function formatDistance(distanceKm: number, city?: string | null, passportMode?: boolean) {
+  if (passportMode && distanceKm >= 500) return "Very far away";
+  if (distanceKm < 1) return "Less than 1 km away";
+  if (distanceKm <= 10) return `${Math.round(distanceKm)} km away`;
+  if (distanceKm <= 50) return `${Math.round(distanceKm)} km away${city ? ` in ${city}` : ""}`;
+  return `${Math.round(distanceKm)} km away${city ? ` in ${city}` : ""}`;
+}
+
+export function DistanceBadge({ distanceKm, city, isHidden, passportMode }: DistanceBadgeProps) {
+  if (isHidden) return "Hidden";
+  if (distanceKm === null || distanceKm === undefined || Number.isNaN(distanceKm)) {
+    return city || "";
+  }
+  return formatDistance(distanceKm, city, passportMode);
+}

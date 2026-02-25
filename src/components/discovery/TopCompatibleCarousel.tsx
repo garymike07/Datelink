@@ -1,1 +1,232 @@
-{"data":"aW1wb3J0IFJlYWN0IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgdXNlUXVlcnksIHVzZU11dGF0aW9uIH0gZnJvbSAiY29udmV4L3JlYWN0IjsKaW1wb3J0IHsgYXBpIH0gZnJvbSAiLi4vLi4vLi4vY29udmV4L19nZW5lcmF0ZWQvYXBpIjsKaW1wb3J0IHsgQ2FyZCwgQ2FyZENvbnRlbnQgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvY2FyZCI7CmltcG9ydCB7IEJ1dHRvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS9idXR0b24iOwppbXBvcnQgeyBCYWRnZSB9IGZyb20gIkAvY29tcG9uZW50cy91aS9iYWRnZSI7CmltcG9ydCB7IFByb2dyZXNzIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL3Byb2dyZXNzIjsKaW1wb3J0IHsgSGVhcnQsIE1hcFBpbiwgQ2hldnJvbkxlZnQsIENoZXZyb25SaWdodCwgU3BhcmtsZXMgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyB1c2VOYXZpZ2F0ZSB9IGZyb20gInJlYWN0LXJvdXRlci1kb20iOwppbXBvcnQgeyB1c2VUb2FzdCB9IGZyb20gIkAvaG9va3MvdXNlLXRvYXN0IjsKCmludGVyZmFjZSBUb3BDb21wYXRpYmxlQ2Fyb3VzZWxQcm9wcyB7CiAgdXNlcklkOiBzdHJpbmc7CiAgbGltaXQ/OiBudW1iZXI7Cn0KCmNvbnN0IFRvcENvbXBhdGlibGVDYXJvdXNlbDogUmVhY3QuRkM8VG9wQ29tcGF0aWJsZUNhcm91c2VsUHJvcHM+ID0gKHsKICB1c2VySWQsCiAgbGltaXQgPSAxMCwKfSkgPT4gewogIGNvbnN0IG5hdmlnYXRlID0gdXNlTmF2aWdhdGUoKTsKICBjb25zdCB7IHRvYXN0IH0gPSB1c2VUb2FzdCgpOwogIGNvbnN0IFtzY3JvbGxQb3NpdGlvbiwgc2V0U2Nyb2xsUG9zaXRpb25dID0gUmVhY3QudXNlU3RhdGUoMCk7CiAgY29uc3QgW2lzQ2FsY3VsYXRpbmcsIHNldElzQ2FsY3VsYXRpbmddID0gUmVhY3QudXNlU3RhdGUoZmFsc2UpOwogIGNvbnN0IHNjcm9sbFJlZiA9IFJlYWN0LnVzZVJlZjxIVE1MRGl2RWxlbWVudD4obnVsbCk7CgogIGNvbnN0IGNvbXBhdGlibGVQcm9maWxlcyA9IHVzZVF1ZXJ5KGFwaS5jb21wYXRpYmlsaXR5LmdldFRvcENvbXBhdGlibGVUaGlzV2VlaywgewogICAgdXNlcklkLAogICAgbGltaXQsCiAgfSk7CgogIGNvbnN0IHJlY2FsY3VsYXRlU2NvcmVzID0gdXNlTXV0YXRpb24oYXBpLmNvbXBhdGliaWxpdHkucmVjYWxjdWxhdGVXZWVrbHlTY29yZXMpOwoKICBjb25zdCBoYW5kbGVSZWNhbGN1bGF0ZSA9IGFzeW5jICgpID0+IHsKICAgIHNldElzQ2FsY3VsYXRpbmcodHJ1ZSk7CiAgICB0cnkgewogICAgICBjb25zdCByZXN1bHQgPSBhd2FpdCByZWNhbGN1bGF0ZVNjb3Jlcyh7IHVzZXJJZCB9KTsKICAgICAgdG9hc3QoewogICAgICAgIHRpdGxlOiAiQ29tcGF0aWJpbGl0eSBzY29yZXMgdXBkYXRlZCIsCiAgICAgICAgZGVzY3JpcHRpb246IGBDYWxjdWxhdGVkICR7cmVzdWx0LmNhbGN1bGF0ZWR9IG5ldyBjb21wYXRpYmlsaXR5IHNjb3Jlc2AsCiAgICAgIH0pOwogICAgfSBjYXRjaCAoZXJyb3I6IGFueSkgewogICAgICB0b2FzdCh7CiAgICAgICAgdGl0bGU6ICJFcnJvciIsCiAgICAgICAgZGVzY3JpcHRpb246IGVycm9yLm1lc3NhZ2UsCiAgICAgICAgdmFyaWFudDogImRlc3RydWN0aXZlIiwKICAgICAgfSk7CiAgICB9IGZpbmFsbHkgewogICAgICBzZXRJc0NhbGN1bGF0aW5nKGZhbHNlKTsKICAgIH0KICB9OwoKICBjb25zdCBzY3JvbGwgPSAoZGlyZWN0aW9uOiAibGVmdCIgfCAicmlnaHQiKSA9PiB7CiAgICBpZiAoIXNjcm9sbFJlZi5jdXJyZW50KSByZXR1cm47CiAgICBjb25zdCBzY3JvbGxBbW91bnQgPSAzMDA7CiAgICBjb25zdCBuZXdQb3NpdGlvbiA9CiAgICAgIGRpcmVjdGlvbiA9PT0gImxlZnQiCiAgICAgICAgPyBzY3JvbGxQb3NpdGlvbiAtIHNjcm9sbEFtb3VudAogICAgICAgIDogc2Nyb2xsUG9zaXRpb24gKyBzY3JvbGxBbW91bnQ7CiAgICBzY3JvbGxSZWYuY3VycmVudC5zY3JvbGxUbyh7IGxlZnQ6IG5ld1Bvc2l0aW9uLCBiZWhhdmlvcjogInNtb290aCIgfSk7CiAgICBzZXRTY3JvbGxQb3NpdGlvbihuZXdQb3NpdGlvbik7CiAgfTsKCiAgY29uc3QgZ2V0U2NvcmVDb2xvciA9IChzY29yZTogbnVtYmVyKSA9PiB7CiAgICBpZiAoc2NvcmUgPj0gODApIHJldHVybiAiYmctZ3JlZW4tNTAwIjsKICAgIGlmIChzY29yZSA+PSA2MCkgcmV0dXJuICJiZy1ibHVlLTUwMCI7CiAgICBpZiAoc2NvcmUgPj0gNDApIHJldHVybiAiYmcteWVsbG93LTUwMCI7CiAgICByZXR1cm4gImJnLWdyYXktNTAwIjsKICB9OwoKICBpZiAoIWNvbXBhdGlibGVQcm9maWxlcykgewogICAgcmV0dXJuICgKICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktNCI+CiAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC0yeGwgZm9udC1ib2xkIj5Nb3N0IENvbXBhdGlibGUgVGhpcyBXZWVrPC9oMj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBnYXAtNCBvdmVyZmxvdy1oaWRkZW4iPgogICAgICAgICAge1sxLCAyLCAzLCA0XS5tYXAoKGkpID0+ICgKICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgIGtleT17aX0KICAgICAgICAgICAgICBjbGFzc05hbWU9InctNjQgaC04MCBiZy1ncmF5LTEwMCBkYXJrOmJnLWdyYXktODAwIHJvdW5kZWQtbGcgYW5pbWF0ZS1wdWxzZSBmbGV4LXNocmluay0wIgogICAgICAgICAgICAvPgogICAgICAgICAgKSl9CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgKTsKICB9CgogIGlmIChjb21wYXRpYmxlUHJvZmlsZXMubGVuZ3RoID09PSAwKSB7CiAgICByZXR1cm4gKAogICAgICA8Q2FyZD4KICAgICAgICA8Q2FyZENvbnRlbnQgY2xhc3NOYW1lPSJweS04IHRleHQtY2VudGVyIj4KICAgICAgICAgIDxTcGFya2xlcyBjbGFzc05hbWU9ImgtMTIgdy0xMiBteC1hdXRvIG1iLTQgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIiAvPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LW11dGVkLWZvcmVncm91bmQgbWItNCI+CiAgICAgICAgICAgIE5vIGNvbXBhdGliaWxpdHkgc2NvcmVzIGNhbGN1bGF0ZWQgeWV0LgogICAgICAgICAgPC9wPgogICAgICAgICAgPEJ1dHRvbiBvbkNsaWNrPXtoYW5kbGVSZWNhbGN1bGF0ZX0gZGlzYWJsZWQ9e2lzQ2FsY3VsYXRpbmd9PgogICAgICAgICAgICB7aXNDYWxjdWxhdGluZyA/ICJDYWxjdWxhdGluZy4uLiIgOiAiQ2FsY3VsYXRlIENvbXBhdGliaWxpdHkgU2NvcmVzIn0KICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgIDwvQ2FyZENvbnRlbnQ+CiAgICAgIDwvQ2FyZD4KICAgICk7CiAgfQoKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktNCI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4iPgogICAgICAgIDxkaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIiPgogICAgICAgICAgICA8U3BhcmtsZXMgY2xhc3NOYW1lPSJoLTYgdy02IHRleHQtcHJpbWFyeSIgLz4KICAgICAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC0yeGwgZm9udC1ib2xkIj5Nb3N0IENvbXBhdGlibGUgVGhpcyBXZWVrPC9oMj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+CiAgICAgICAgICAgIFlvdXIgYmVzdCBtYXRjaGVzIGJhc2VkIG9uIHNoYXJlZCBpbnRlcmVzdHMgYW5kIHZhbHVlcwogICAgICAgICAgPC9wPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGdhcC0yIj4KICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgdmFyaWFudD0ib3V0bGluZSIKICAgICAgICAgICAgb25DbGljaz17aGFuZGxlUmVjYWxjdWxhdGV9CiAgICAgICAgICAgIGRpc2FibGVkPXtpc0NhbGN1bGF0aW5nfQogICAgICAgICAgPgogICAgICAgICAgICB7aXNDYWxjdWxhdGluZyA/ICJDYWxjdWxhdGluZy4uLiIgOiAiUmVmcmVzaCJ9CiAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgdmFyaWFudD0ib3V0bGluZSIKICAgICAgICAgICAgc2l6ZT0iaWNvbiIKICAgICAgICAgICAgb25DbGljaz17KCkgPT4gc2Nyb2xsKCJsZWZ0Iil9CiAgICAgICAgICAgIGRpc2FibGVkPXtzY3JvbGxQb3NpdGlvbiA8PSAwfQogICAgICAgICAgPgogICAgICAgICAgICA8Q2hldnJvbkxlZnQgY2xhc3NOYW1lPSJoLTQgdy00IiAvPgogICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgIHZhcmlhbnQ9Im91dGxpbmUiCiAgICAgICAgICAgIHNpemU9Imljb24iCiAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNjcm9sbCgicmlnaHQiKX0KICAgICAgICAgID4KICAgICAgICAgICAgPENoZXZyb25SaWdodCBjbGFzc05hbWU9ImgtNCB3LTQiIC8+CiAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CgogICAgICA8ZGl2CiAgICAgICAgcmVmPXtzY3JvbGxSZWZ9CiAgICAgICAgY2xhc3NOYW1lPSJmbGV4IGdhcC00IG92ZXJmbG93LXgtYXV0byBzY3JvbGxiYXItaGlkZSBwYi00IgogICAgICAgIHN0eWxlPXt7IHNjcm9sbGJhcldpZHRoOiAibm9uZSIsIG1zT3ZlcmZsb3dTdHlsZTogIm5vbmUiIH19CiAgICAgID4KICAgICAgICB7Y29tcGF0aWJsZVByb2ZpbGVzLm1hcCgocHJvZmlsZTogYW55KSA9PiB7CiAgICAgICAgICBjb25zdCBwcmltYXJ5UGhvdG8gPSBwcm9maWxlLnBob3Rvcy5maW5kKChwOiBhbnkpID0+IHAuaXNQcmltYXJ5KSB8fCBwcm9maWxlLnBob3Rvc1swXTsKICAgICAgICAgIGNvbnN0IHNjb3JlQ29sb3IgPSBnZXRTY29yZUNvbG9yKHByb2ZpbGUuY29tcGF0aWJpbGl0eVNjb3JlKTsKICAgICAgICAgIAogICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgPENhcmQKICAgICAgICAgICAgICBrZXk9e3Byb2ZpbGUuX2lkfQogICAgICAgICAgICAgIGNsYXNzTmFtZT0idy02NCBmbGV4LXNocmluay0wIGN1cnNvci1wb2ludGVyIGhvdmVyOnNoYWRvdy1sZyB0cmFuc2l0aW9uLXNoYWRvdyIKICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBuYXZpZ2F0ZShgL3Byb2ZpbGUvJHtwcm9maWxlLnVzZXJJZH1gKX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIDxDYXJkQ29udGVudCBjbGFzc05hbWU9InAtMCI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icmVsYXRpdmUiPgogICAgICAgICAgICAgICAgICA8aW1nCiAgICAgICAgICAgICAgICAgICAgc3JjPXtwcmltYXJ5UGhvdG8/LnVybCB8fCAiL3BsYWNlaG9sZGVyLnN2ZyJ9CiAgICAgICAgICAgICAgICAgICAgYWx0PXtwcm9maWxlLm5hbWV9CiAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ3LWZ1bGwgaC04MCBvYmplY3QtY292ZXIgcm91bmRlZC10LWxnIgogICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJzb2x1dGUgdG9wLTIgcmlnaHQtMiBiZy13aGl0ZSBkYXJrOmJnLWdyYXktOTAwIHJvdW5kZWQtZnVsbCBwLTIiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LWNlbnRlciI+CiAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17YHRleHQtMnhsIGZvbnQtYm9sZCAke3Njb3JlQ29sb3IucmVwbGFjZSgnYmctJywgJ3RleHQtJyl9YH0+CiAgICAgICAgICAgICAgICAgICAgICAgIHtwcm9maWxlLmNvbXBhdGliaWxpdHlTY29yZX0lCiAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+TWF0Y2g8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwLTQgc3BhY2UteS0zIj4KICAgICAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJmb250LXNlbWlib2xkIHRleHQtbGciPgogICAgICAgICAgICAgICAgICAgICAge3Byb2ZpbGUubmFtZX0sIHtwcm9maWxlLmFnZX0KICAgICAgICAgICAgICAgICAgICA8L2gzPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciB0ZXh0LXNtIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+CiAgICAgICAgICAgICAgICAgICAgICA8TWFwUGluIGNsYXNzTmFtZT0iaC0zIHctMyBtci0xIiAvPgogICAgICAgICAgICAgICAgICAgICAge3Byb2ZpbGUubG9jYXRpb259CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMiI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiB0ZXh0LXhzIj4KICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPkNvbXBhdGliaWxpdHk8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImZvbnQtc2VtaWJvbGQiPntwcm9maWxlLmNvbXBhdGliaWxpdHlTY29yZX0lPC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxQcm9ncmVzcyB2YWx1ZT17cHJvZmlsZS5jb21wYXRpYmlsaXR5U2NvcmV9IGNsYXNzTmFtZT17c2NvcmVDb2xvcn0gLz4KICAgICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0xIj4KICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgZm9udC1zZW1pYm9sZCB0ZXh0LXByaW1hcnkiPgogICAgICAgICAgICAgICAgICAgICAgPEhlYXJ0IGNsYXNzTmFtZT0iaC0zIHctMyBpbmxpbmUgbXItMSIgLz4KICAgICAgICAgICAgICAgICAgICAgIHtwcm9maWxlLm1hdGNoUmVhc29ufQogICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgICAgICB7cHJvZmlsZS5jb21wYXRpYmlsaXR5RmFjdG9ycyAmJiAoCiAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LXdyYXAgZ2FwLTEiPgogICAgICAgICAgICAgICAgICAgICAgICB7cHJvZmlsZS5jb21wYXRpYmlsaXR5RmFjdG9ycy5pbnRlcmVzdE92ZXJsYXAgPiAxNSAmJiAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgPEJhZGdlIHZhcmlhbnQ9InNlY29uZGFyeSIgY2xhc3NOYW1lPSJ0ZXh0LXhzIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNoYXJlZCBpbnRlcmVzdHMKICAgICAgICAgICAgICAgICAgICAgICAgICA8L0JhZGdlPgogICAgICAgICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgICAgICAgICB7cHJvZmlsZS5jb21wYXRpYmlsaXR5RmFjdG9ycy5nb2FsQWxpZ25tZW50ID4gMTUgJiYgKAogICAgICAgICAgICAgICAgICAgICAgICAgIDxCYWRnZSB2YXJpYW50PSJzZWNvbmRhcnkiIGNsYXNzTmFtZT0idGV4dC14cyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBTaW1pbGFyIGdvYWxzCiAgICAgICAgICAgICAgICAgICAgICAgICAgPC9CYWRnZT4KICAgICAgICAgICAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICAgICAgICAgICAge3Byb2ZpbGUuY29tcGF0aWJpbGl0eUZhY3RvcnMubGlmZXN0eWxlTWF0Y2ggPiAxMiAmJiAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgPEJhZGdlIHZhcmlhbnQ9InNlY29uZGFyeSIgY2xhc3NOYW1lPSJ0ZXh0LXhzIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIExpZmVzdHlsZSBtYXRjaAogICAgICAgICAgICAgICAgICAgICAgICAgIDwvQmFkZ2U+CiAgICAgICAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICAgIHtwcm9maWxlLmpvYlRpdGxlICYmICgKICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIHRydW5jYXRlIj4KICAgICAgICAgICAgICAgICAgICAgIHtwcm9maWxlLmpvYlRpdGxlfQogICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvQ2FyZENvbnRlbnQ+CiAgICAgICAgICAgIDwvQ2FyZD4KICAgICAgICAgICk7CiAgICAgICAgfSl9CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfTsKCmV4cG9ydCBkZWZhdWx0IFRvcENvbXBhdGlibGVDYXJvdXNlbDsK"}
+import React from "react";
+import { useQuery, useMutation } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import { Card, CardContent } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+import { Badge } from "@/components/ui/badge";
+import { Progress } from "@/components/ui/progress";
+import { Heart, MapPin, ChevronLeft, ChevronRight, Sparkles } from "lucide-react";
+import { useNavigate } from "react-router-dom";
+import { useToast } from "@/hooks/use-toast";
+
+interface TopCompatibleCarouselProps {
+  userId: string;
+  limit?: number;
+}
+
+const TopCompatibleCarousel: React.FC<TopCompatibleCarouselProps> = ({
+  userId,
+  limit = 10,
+}) => {
+  const navigate = useNavigate();
+  const { toast } = useToast();
+  const [scrollPosition, setScrollPosition] = React.useState(0);
+  const [isCalculating, setIsCalculating] = React.useState(false);
+  const scrollRef = React.useRef<HTMLDivElement>(null);
+
+  const compatibleProfiles = useQuery(api.compatibility.getTopCompatibleThisWeek, {
+    userId,
+    limit,
+  });
+
+  const recalculateScores = useMutation(api.compatibility.recalculateWeeklyScores);
+
+  const handleRecalculate = async () => {
+    setIsCalculating(true);
+    try {
+      const result = await recalculateScores({ userId });
+      toast({
+        title: "Compatibility scores updated",
+        description: `Calculated ${result.calculated} new compatibility scores`,
+      });
+    } catch (error: any) {
+      toast({
+        title: "Error",
+        description: error.message,
+        variant: "destructive",
+      });
+    } finally {
+      setIsCalculating(false);
+    }
+  };
+
+  const scroll = (direction: "left" | "right") => {
+    if (!scrollRef.current) return;
+    const scrollAmount = 300;
+    const newPosition =
+      direction === "left"
+        ? scrollPosition - scrollAmount
+        : scrollPosition + scrollAmount;
+    scrollRef.current.scrollTo({ left: newPosition, behavior: "smooth" });
+    setScrollPosition(newPosition);
+  };
+
+  const getScoreColor = (score: number) => {
+    if (score >= 80) return "bg-green-500";
+    if (score >= 60) return "bg-blue-500";
+    if (score >= 40) return "bg-yellow-500";
+    return "bg-gray-500";
+  };
+
+  if (!compatibleProfiles) {
+    return (
+      <div className="space-y-4">
+        <h2 className="text-2xl font-bold">Most Compatible This Week</h2>
+        <div className="flex gap-4 overflow-hidden">
+          {[1, 2, 3, 4].map((i) => (
+            <div
+              key={i}
+              className="w-64 h-80 bg-gray-100 dark:bg-gray-800 rounded-lg animate-pulse flex-shrink-0"
+            />
+          ))}
+        </div>
+      </div>
+    );
+  }
+
+  if (compatibleProfiles.length === 0) {
+    return (
+      <Card>
+        <CardContent className="py-8 text-center">
+          <Sparkles className="h-12 w-12 mx-auto mb-4 text-muted-foreground" />
+          <p className="text-muted-foreground mb-4">
+            No compatibility scores calculated yet.
+          </p>
+          <Button onClick={handleRecalculate} disabled={isCalculating}>
+            {isCalculating ? "Calculating..." : "Calculate Compatibility Scores"}
+          </Button>
+        </CardContent>
+      </Card>
+    );
+  }
+
+  return (
+    <div className="space-y-4">
+      <div className="flex items-center justify-between">
+        <div>
+          <div className="flex items-center gap-2">
+            <Sparkles className="h-6 w-6 text-primary" />
+            <h2 className="text-2xl font-bold">Most Compatible This Week</h2>
+          </div>
+          <p className="text-sm text-muted-foreground">
+            Your best matches based on shared interests and values
+          </p>
+        </div>
+        <div className="flex gap-2">
+          <Button
+            variant="outline"
+            onClick={handleRecalculate}
+            disabled={isCalculating}
+          >
+            {isCalculating ? "Calculating..." : "Refresh"}
+          </Button>
+          <Button
+            variant="outline"
+            size="icon"
+            onClick={() => scroll("left")}
+            disabled={scrollPosition <= 0}
+          >
+            <ChevronLeft className="h-4 w-4" />
+          </Button>
+          <Button
+            variant="outline"
+            size="icon"
+            onClick={() => scroll("right")}
+          >
+            <ChevronRight className="h-4 w-4" />
+          </Button>
+        </div>
+      </div>
+
+      <div
+        ref={scrollRef}
+        className="flex gap-4 overflow-x-auto scrollbar-hide pb-4"
+        style={{ scrollbarWidth: "none", msOverflowStyle: "none" }}
+      >
+        {compatibleProfiles.map((profile: any) => {
+          const primaryPhoto = profile.photos.find((p: any) => p.isPrimary) || profile.photos[0];
+          const scoreColor = getScoreColor(profile.compatibilityScore);
+          
+          return (
+            <Card
+              key={profile._id}
+              className="w-64 flex-shrink-0 cursor-pointer hover:shadow-lg transition-shadow"
+              onClick={() => navigate(`/profile/${profile.userId}`)}
+            >
+              <CardContent className="p-0">
+                <div className="relative">
+                  <img
+                    src={primaryPhoto?.url || "/placeholder.svg"}
+                    alt={profile.name}
+                    className="w-full h-80 object-cover rounded-t-lg"
+                  />
+                  <div className="absolute top-2 right-2 bg-white dark:bg-gray-900 rounded-full p-2">
+                    <div className="text-center">
+                      <div className={`text-2xl font-bold ${scoreColor.replace('bg-', 'text-')}`}>
+                        {profile.compatibilityScore}%
+                      </div>
+                      <div className="text-xs text-muted-foreground">Match</div>
+                    </div>
+                  </div>
+                </div>
+                <div className="p-4 space-y-3">
+                  <div>
+                    <h3 className="font-semibold text-lg">
+                      {profile.name}, {profile.age}
+                    </h3>
+                    <div className="flex items-center text-sm text-muted-foreground">
+                      <MapPin className="h-3 w-3 mr-1" />
+                      {profile.location}
+                    </div>
+                  </div>
+
+                  <div className="space-y-2">
+                    <div className="flex items-center justify-between text-xs">
+                      <span>Compatibility</span>
+                      <span className="font-semibold">{profile.compatibilityScore}%</span>
+                    </div>
+                    <Progress value={profile.compatibilityScore} className={scoreColor} />
+                  </div>
+
+                  <div className="space-y-1">
+                    <p className="text-xs font-semibold text-primary">
+                      <Heart className="h-3 w-3 inline mr-1" />
+                      {profile.matchReason}
+                    </p>
+                    {profile.compatibilityFactors && (
+                      <div className="flex flex-wrap gap-1">
+                        {profile.compatibilityFactors.interestOverlap > 15 && (
+                          <Badge variant="secondary" className="text-xs">
+                            Shared interests
+                          </Badge>
+                        )}
+                        {profile.compatibilityFactors.goalAlignment > 15 && (
+                          <Badge variant="secondary" className="text-xs">
+                            Similar goals
+                          </Badge>
+                        )}
+                        {profile.compatibilityFactors.lifestyleMatch > 12 && (
+                          <Badge variant="secondary" className="text-xs">
+                            Lifestyle match
+                          </Badge>
+                        )}
+                      </div>
+                    )}
+                  </div>
+
+                  {profile.jobTitle && (
+                    <p className="text-sm text-muted-foreground truncate">
+                      {profile.jobTitle}
+                    </p>
+                  )}
+                </div>
+              </CardContent>
+            </Card>
+          );
+        })}
+      </div>
+    </div>
+  );
+};
+
+export default TopCompatibleCarousel;

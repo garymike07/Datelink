@@ -1,1 +1,71 @@
-{"data":"aW1wb3J0IHsgVXNlclBsdXMsIFNlYXJjaCwgSGVhcnQsIE1lc3NhZ2VDaXJjbGUgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwoKY29uc3QgSG93SXRXb3JrcyA9ICgpID0+IHsKICBjb25zdCBzdGVwcyA9IFsKICAgIHsKICAgICAgaWNvbjogVXNlclBsdXMsCiAgICAgIHN0ZXA6ICIwMSIsCiAgICAgIHRpdGxlOiAiUmVnaXN0ZXIgRnJlZSIsCiAgICAgIGRlc2NyaXB0aW9uOiAiQ3JlYXRlIHlvdXIgcHJvZmlsZSB3aXRoIHBob3RvcyBhbmQgYmlvLiBJdCB0YWtlcyBsZXNzIHRoYW4gNSBtaW51dGVzIHRvIGdldCBzdGFydGVkLiIsCiAgICB9LAogICAgewogICAgICBpY29uOiBTZWFyY2gsCiAgICAgIHN0ZXA6ICIwMiIsIAogICAgICB0aXRsZTogIlN1YnNjcmliZSB0byBQcmVtaXVtIiwKICAgICAgZGVzY3JpcHRpb246ICJVbmxvY2sgZnVsbCBwbGF0Zm9ybSBhY2Nlc3Mgd2l0aCBhZHZhbmNlZCBzZWFyY2gsIHNlZSB3aG8gbGlrZWQgeW91LCBhbmQgYnJvd3NlIGFsbCBwcm9maWxlcy4iLAogICAgfSwKICAgIHsKICAgICAgaWNvbjogSGVhcnQsCiAgICAgIHN0ZXA6ICIwMyIsCiAgICAgIHRpdGxlOiAiVW5sb2NrIFByb2ZpbGVzIiwKICAgICAgZGVzY3JpcHRpb246ICJGb3VuZCBzb21lb25lIHNwZWNpYWw/IFVubG9jayB0aGVpciBmdWxsIHByb2ZpbGUgdG8gc2VlIHRoZWlyIHBob3RvcyBhbmQgc3RhcnQgYSBjb252ZXJzYXRpb24uIiwKICAgIH0sCiAgICB7CiAgICAgIGljb246IE1lc3NhZ2VDaXJjbGUsCiAgICAgIHN0ZXA6ICIwNCIsCiAgICAgIHRpdGxlOiAiRmluZCBMb3ZlIiwKICAgICAgZGVzY3JpcHRpb246ICJNZXNzYWdlIHlvdXIgbWF0Y2hlcywgcGxhbiBkYXRlcywgYW5kIGJ1aWxkIG1lYW5pbmdmdWwgY29ubmVjdGlvbnMgd2l0aCByZWFsIHBlb3BsZS4iLAogICAgfSwKICBdOwoKICByZXR1cm4gKAogICAgPHNlY3Rpb24gaWQ9Imhvdy1pdC13b3JrcyIgY2xhc3NOYW1lPSJweS0yMCBtZDpweS0zMiBiZy1iYWNrZ3JvdW5kIj4KICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbnRhaW5lciBtYXgtdy03eGwgbXgtYXV0byBweC00IHNtOnB4LTYiPgogICAgICAgIHsvKiBIZWFkZXIgKi99CiAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtY2VudGVyIG1iLTE2Ij4KICAgICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQtMnhsIG1kOnRleHQtM3hsIGZvbnQtaGVhZGluZyBmb250LWJvbGQgbWItMyB0ZXh0LWZvcmVncm91bmQiPgogICAgICAgICAgICBIb3cgRGF0ZUxpbmsgV29ya3MKICAgICAgICAgIDwvaDI+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gbWQ6dGV4dC1iYXNlIGZvbnQtYm9keSB0ZXh0LW11dGVkLWZvcmVncm91bmQgbWF4LXctM3hsIG14LWF1dG8iPgogICAgICAgICAgICBGaW5kaW5nIGxvdmUgaGFzIG5ldmVyIGJlZW4gdGhpcyBlYXN5IG9yIGFmZm9yZGFibGUKICAgICAgICAgIDwvcD4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgey8qIFN0ZXBzIEdyaWQgKi99CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgbWQ6Z3JpZC1jb2xzLTIgbGc6Z3JpZC1jb2xzLTQgZ2FwLTgiPgogICAgICAgICAge3N0ZXBzLm1hcCgoc3RlcCkgPT4gewogICAgICAgICAgICBjb25zdCBJY29uID0gc3RlcC5pY29uOwogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgIDxkaXYga2V5PXtzdGVwLnN0ZXB9IGNsYXNzTmFtZT0ic3BhY2UteS00IGdsYXNzLWNhcmQgcC02IHJvdW5kZWQtMnhsIGJvcmRlciBib3JkZXItd2hpdGUvNjAgZGFyazpib3JkZXItd2hpdGUvMTAiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtc3RhcnQgZ2FwLTQiPgogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idy0xMiBoLTEyIHJvdW5kZWQteGwgYmctcHJpbWFyeS8xMCBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBmbGV4LXNocmluay0wIj4KICAgICAgICAgICAgICAgICAgICA8SWNvbiBjbGFzc05hbWU9InctNiBoLTYgdGV4dC1wcmltYXJ5IiAvPgogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQteHMgZm9udC1ib2xkIHRleHQtcHJpbWFyeS82MCI+e3N0ZXAuc3RlcH08L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0idGV4dC1sZyBmb250LXNlbWlib2xkIHRleHQtZm9yZWdyb3VuZCI+CiAgICAgICAgICAgICAgICAgIHtzdGVwLnRpdGxlfQogICAgICAgICAgICAgICAgPC9oMz4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LW11dGVkLWZvcmVncm91bmQgbGVhZGluZy1yZWxheGVkIj4KICAgICAgICAgICAgICAgICAge3N0ZXAuZGVzY3JpcHRpb259CiAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICk7CiAgICAgICAgICB9KX0KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L3NlY3Rpb24+CiAgKTsKfTsKCmV4cG9ydCBkZWZhdWx0IEhvd0l0V29ya3M7Cg=="}
+import { UserPlus, Search, Heart, MessageCircle } from "lucide-react";
+
+const HowItWorks = () => {
+  const steps = [
+    {
+      icon: UserPlus,
+      step: "01",
+      title: "Register Free",
+      description: "Create your profile with photos and bio. It takes less than 5 minutes to get started.",
+    },
+    {
+      icon: Search,
+      step: "02", 
+      title: "Subscribe to Premium",
+      description: "Unlock full platform access with advanced search, see who liked you, and browse all profiles.",
+    },
+    {
+      icon: Heart,
+      step: "03",
+      title: "Unlock Profiles",
+      description: "Found someone special? Unlock their full profile to see their photos and start a conversation.",
+    },
+    {
+      icon: MessageCircle,
+      step: "04",
+      title: "Find Love",
+      description: "Message your matches, plan dates, and build meaningful connections with real people.",
+    },
+  ];
+
+  return (
+    <section id="how-it-works" className="py-20 md:py-32 bg-background">
+      <div className="container max-w-7xl mx-auto px-4 sm:px-6">
+        {/* Header */}
+        <div className="text-center mb-16">
+          <h2 className="text-2xl md:text-3xl font-heading font-bold mb-3 text-foreground">
+            How DateLink Works
+          </h2>
+          <p className="text-sm md:text-base font-body text-muted-foreground max-w-3xl mx-auto">
+            Finding love has never been this easy or affordable
+          </p>
+        </div>
+
+        {/* Steps Grid */}
+        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+          {steps.map((step) => {
+            const Icon = step.icon;
+            return (
+              <div key={step.step} className="space-y-4 glass-card p-6 rounded-2xl border border-white/60 dark:border-white/10">
+                <div className="flex items-start gap-4">
+                  <div className="w-12 h-12 rounded-xl bg-primary/10 flex items-center justify-center flex-shrink-0">
+                    <Icon className="w-6 h-6 text-primary" />
+                  </div>
+                  <div className="text-xs font-bold text-primary/60">{step.step}</div>
+                </div>
+                <h3 className="text-lg font-semibold text-foreground">
+                  {step.title}
+                </h3>
+                <p className="text-xs text-muted-foreground leading-relaxed">
+                  {step.description}
+                </p>
+              </div>
+            );
+          })}
+        </div>
+      </div>
+    </section>
+  );
+};
+
+export default HowItWorks;

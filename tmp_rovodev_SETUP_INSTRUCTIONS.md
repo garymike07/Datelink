@@ -1,1 +1,212 @@
-{"data":"IyBQdXNoIE5vdGlmaWNhdGlvbnMgU2V0dXAgSW5zdHJ1Y3Rpb25zCgojIyBXaGF0IEhhcyBCZWVuIEltcGxlbWVudGVkCgojIyMgMS4gRW5oYW5jZWQgU2VydmljZSBXb3JrZXIgKGBwdWJsaWMvc3cuanNgKQrinIUgSGFuZGxlcyBwdXNoIG5vdGlmaWNhdGlvbnMgd2l0aCBkaWZmZXJlbnQgdHlwZXM6Ci0gKipDYWxsIG5vdGlmaWNhdGlvbnMqKjogU2hvd3MgQW5zd2VyL0RlY2xpbmUgYnV0dG9ucyB3aXRoIHBlcnNpc3RlbnQgbm90aWZpY2F0aW9uCi0gKipNZXNzYWdlIG5vdGlmaWNhdGlvbnMqKjogU2hvd3MgUmVwbHkvVmlldyBidXR0b25zCi0gKipNYXRjaCBub3RpZmljYXRpb25zKio6IFNob3dzIFNheSBIaSBidXR0b24KLSBDdXN0b20gdmlicmF0aW9uIHBhdHRlcm5zIGZvciBlYWNoIHR5cGUKLSBBdXRvbWF0aWMgbm90aWZpY2F0aW9uIGNsaWNrIGhhbmRsaW5nCgojIyMgMi4gUHVzaCBOb3RpZmljYXRpb24gQmFja2VuZCAoYGNvbnZleC9gKQrinIUgKipwdXNoTm90aWZpY2F0aW9ucy50cyoqOiBDb3JlIG5vdGlmaWNhdGlvbiBsb2dpYwotIENoZWNrcyB1c2VyIHByZWZlcmVuY2VzIGJlZm9yZSBzZW5kaW5nCi0gUmVzcGVjdHMgcXVpZXQgaG91cnMgKGV4Y2VwdCBmb3IgY2FsbHMpCi0gTWFuYWdlcyBwdXNoIHN1YnNjcmlwdGlvbnMKLSBJbnRlZ3JhdGVzIHdpdGggZXhpc3Rpbmcgbm90aWZpY2F0aW9uIHN5c3RlbQoK4pyFICoqcHVzaE5vdGlmaWNhdGlvbnNBY3Rpb25zLnRzKio6IEV4dGVybmFsIEFQSSBpbnRlZ3JhdGlvbiAoc2NhZmZvbGQpCi0gUmVhZHkgZm9yIHdlYi1wdXNoIGxpYnJhcnkgaW50ZWdyYXRpb24KLSBIYW5kbGVzIHN1YnNjcmlwdGlvbiB2YWxpZGF0aW9uCi0gTWFuYWdlcyBmYWlsZWQgbm90aWZpY2F0aW9ucwoK4pyFICoqSW50ZWdyYXRpb24gd2l0aCBtZXNzYWdlcyBhbmQgY2FsbHMqKjoKLSBNZXNzYWdlcyBhdXRvbWF0aWNhbGx5IHRyaWdnZXIgcHVzaCBub3RpZmljYXRpb25zCi0gVmlkZW8vYXVkaW8gY2FsbHMgdHJpZ2dlciBoaWdoLXByaW9yaXR5IG5vdGlmaWNhdGlvbnMKLSBQcm9wZXIgbWV0YWRhdGEgcGFzc2VkIHRvIG5vdGlmaWNhdGlvbnMKCiMjIyAzLiBGcm9udGVuZCBDb21wb25lbnRzCuKchSAqKlB1c2hOb3RpZmljYXRpb25NYW5hZ2VyKio6IEF1dG8tcHJvbXB0IGFuZCBsaXN0ZW5lcgotIEF1dG9tYXRpY2FsbHkgcHJvbXB0cyBmb3IgcGVybWlzc2lvbiBhZnRlciAzIHNlY29uZHMgb2YgbG9naW4KLSBIYW5kbGVzIHNlcnZpY2Ugd29ya2VyIG1lc3NhZ2VzIChyaW5ndG9uZSwgY2FsbCBhY3Rpb25zKQotIFBsYXlzIHJpbmd0b25lIGZvciBpbmNvbWluZyBjYWxscwoK4pyFICoqdXNlUHVzaE5vdGlmaWNhdGlvbnMgaG9vayoqOiBBbHJlYWR5IGV4aXN0ZWQKLSBTdWJzY3JpYmUvdW5zdWJzY3JpYmUgZnVuY3Rpb25hbGl0eQotIFBlcm1pc3Npb24gbWFuYWdlbWVudAoKIyMjIDQuIFRlc3QgUGFnZQrinIUgKip0bXBfcm92b2Rldl90ZXN0X3B1c2hfbm90aWZpY2F0aW9ucy5odG1sKioKLSBUZXN0IGFsbCBub3RpZmljYXRpb24gdHlwZXMKLSBDaGVjayBicm93c2VyIHN1cHBvcnQKLSBEZWJ1ZyBzdWJzY3JpcHRpb24gc3RhdHVzCgojIyBTZXR1cCBTdGVwcwoKIyMjIFN0ZXAgMTogR2VuZXJhdGUgVkFQSUQgS2V5cyAoRm9yIFByb2R1Y3Rpb24pCgpUbyBzZW5kIGFjdHVhbCBwdXNoIG5vdGlmaWNhdGlvbnMsIHlvdSBuZWVkIFZBUElEIGtleXM6CgpgYGBiYXNoCiMgSW5zdGFsbCB3ZWItcHVzaCBnbG9iYWxseQpucG0gaW5zdGFsbCAtZyB3ZWItcHVzaAoKIyBHZW5lcmF0ZSBWQVBJRCBrZXlzCndlYi1wdXNoIGdlbmVyYXRlLXZhcGlkLWtleXMKYGBgCgpUaGlzIHdpbGwgb3V0cHV0OgpgYGAKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09ClB1YmxpYyBLZXk6CkJHeC4uLnlvdXItcHVibGljLWtleS4uLgpQcml2YXRlIEtleToKYWJjLi4ueW91ci1wcml2YXRlLWtleS4uLgo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KYGBgCgojIyMgU3RlcCAyOiBDb25maWd1cmUgRW52aXJvbm1lbnQgVmFyaWFibGVzCgpBZGQgdG8gYC5lbnYubG9jYWxgIChjcmVhdGUgaWYgbm90IGV4aXN0cyk6CgpgYGBlbnYKIyBWQVBJRCBLZXlzIGZvciBQdXNoIE5vdGlmaWNhdGlvbnMKVklURV9WQVBJRF9QVUJMSUNfS0VZPXlvdXItcHVibGljLWtleS1oZXJlClZBUElEX1BSSVZBVEVfS0VZPXlvdXItcHJpdmF0ZS1rZXktaGVyZQpWQVBJRF9FTUFJTD1tYWlsdG86eW91ci1lbWFpbEBleGFtcGxlLmNvbQpgYGAKCuKaoO+4jyAqKkltcG9ydGFudCoqOiAKLSBPbmx5IGBWSVRFX2AgcHJlZml4ZWQgdmFyaWFibGVzIGFyZSBleHBvc2VkIHRvIHRoZSBicm93c2VyCi0gUHJpdmF0ZSBrZXkgc2hvdWxkIE5FVkVSIGJlIGluIFZJVEVfIHZhcmlhYmxlcwotIFRoZSBwcml2YXRlIGtleSB3aWxsIGJlIHVzZWQgaW4gQ29udmV4IGFjdGlvbnMgKHNlcnZlci1zaWRlKQoKIyMjIFN0ZXAgMzogSW5zdGFsbCB3ZWItcHVzaCBpbiBDb252ZXggKEZvciBQcm9kdWN0aW9uKQoKQ3VycmVudGx5LCB0aGUgYWN0aW9uIGlzIGEgc2NhZmZvbGQuIFRvIG1ha2UgaXQgd29yazoKCjEuIEFkZCB0byB5b3VyIENvbnZleCBwcm9qZWN0OgpgYGBiYXNoCiMgSW4geW91ciBjb252ZXggZGlyZWN0b3J5Cm5wbSBpbnN0YWxsIHdlYi1wdXNoCmBgYAoKMi4gVXBkYXRlIGBjb252ZXgvcHVzaE5vdGlmaWNhdGlvbnNBY3Rpb25zLnRzYCB0byB1bmNvbW1lbnQgdGhlIHdlYi1wdXNoIGNvZGUKCiMjIyBTdGVwIDQ6IFRlc3QgdGhlIEltcGxlbWVudGF0aW9uCgoxLiAqKlN0YXJ0IHlvdXIgZGV2IHNlcnZlcioqOgpgYGBiYXNoCm5wbSBydW4gZGV2CmBgYAoKMi4gKipPcGVuIHRoZSB0ZXN0IHBhZ2UqKjoKYGBgCmh0dHA6Ly9sb2NhbGhvc3Q6NTE3My90bXBfcm92b2Rldl90ZXN0X3B1c2hfbm90aWZpY2F0aW9ucy5odG1sCmBgYAoKMy4gKipUZXN0IHN0ZXBzKio6CiAgIC0gQ2xpY2sgIlJlcXVlc3QgUGVybWlzc2lvbiIg4oaSIEFsbG93IG5vdGlmaWNhdGlvbnMKICAgLSBDbGljayAiUmVnaXN0ZXIgU2VydmljZSBXb3JrZXIiCiAgIC0gVGVzdCBlYWNoIG5vdGlmaWNhdGlvbiB0eXBlCiAgIC0gQ2hlY2sgbW9iaWxlIGJlaGF2aW9yCgojIyMgU3RlcCA1OiBUZXN0IG9uIE1vYmlsZQoKKipBbmRyb2lkIChDaHJvbWUpOioqCjEuIERlcGxveSB0byBWZXJjZWwgb3IgdXNlIG5ncm9rIGZvciBIVFRQUwoyLiBPcGVuIG9uIG1vYmlsZSBDaHJvbWUKMy4gQWRkIHRvIEhvbWUgU2NyZWVuIGZvciBQV0EgZXhwZXJpZW5jZQo0LiBMb2NrIHNjcmVlbiBhbmQgc2VuZCB0ZXN0IG5vdGlmaWNhdGlvbnMKCioqaU9TIChTYWZhcmkgMTYuNCspOioqCjEuIFJlcXVpcmVzIEhUVFBTCjIuIFJlcXVpcmVzIEFkZCB0byBIb21lIFNjcmVlbgozLiBXb3JrcyBpbiBzdGFuZGFsb25lIG1vZGUgb25seQoKIyMgSG93IEl0IFdvcmtzCgojIyMgTWVzc2FnZSBGbG93OgoxLiBVc2VyIEEgc2VuZHMgbWVzc2FnZSB0byBVc2VyIEIKMi4gQmFja2VuZDogYGNvbnZleC9tZXNzYWdlcy50c2AgY3JlYXRlcyBtZXNzYWdlCjMuIEJhY2tlbmQ6IENhbGxzIGBub3RpZnlOZXdNZXNzYWdlYCBtdXRhdGlvbgo0LiBCYWNrZW5kOiBTY2hlZHVsZXMgYHNlbmRXZWJQdXNoTm90aWZpY2F0aW9uYCBhY3Rpb24KNS4gQWN0aW9uIHNlbmRzIHRvIGFsbCBVc2VyIEIncyBkZXZpY2VzCjYuIFNlcnZpY2UgV29ya2VyIHJlY2VpdmVzIHB1c2ggZXZlbnQKNy4gU2hvd3Mgbm90aWZpY2F0aW9uIHdpdGggYWN0aW9ucwo4LiBVc2VyIGNsaWNrcyDihpIgbmF2aWdhdGVzIHRvIGNoYXQKCiMjIyBDYWxsIEZsb3c6CjEuIFVzZXIgQSBpbml0aWF0ZXMgY2FsbCB0byBVc2VyIEIKMi4gQmFja2VuZDogYGNvbnZleC92aWRlb0NhbGxzLnRzYCBjcmVhdGVzIGNhbGwKMy4gQmFja2VuZDogQ2FsbHMgYG5vdGlmeUluY29taW5nQ2FsbGAgbXV0YXRpb24KNC4gQmFja2VuZDogU2VuZHMgaGlnaC1wcmlvcml0eSBwdXNoIG5vdGlmaWNhdGlvbgo1LiBTZXJ2aWNlIFdvcmtlciBzaG93cyBwZXJzaXN0ZW50IG5vdGlmaWNhdGlvbgo2LiBTZXJ2aWNlIFdvcmtlciBzZW5kcyBQTEFZX1JJTkdUT05FIG1lc3NhZ2UgdG8gYXBwCjcuIEFwcCBwbGF5cyByaW5ndG9uZQo4LiBVc2VyIGNsaWNrcyBBbnN3ZXIvRGVjbGluZQo5LiBTZXJ2aWNlIHdvcmtlciBoYW5kbGVzIGFjdGlvbiBhbmQgbmF2aWdhdGVzCgojIyBUZXN0aW5nIFdpdGhvdXQgVkFQSUQgS2V5cwoKVGhlIGN1cnJlbnQgaW1wbGVtZW50YXRpb24gd2lsbDoKLSDinIUgU2hvdyBicm93c2VyIG5vdGlmaWNhdGlvbnMgd2hlbiBhcHAgaXMgb3BlbgotIOKchSBSZWdpc3RlciBzZXJ2aWNlIHdvcmtlcgotIOKchSBTaG93IHRlc3Qgbm90aWZpY2F0aW9ucwotIOKdjCBDYW5ub3Qgc2VuZCBwdXNoIHdoZW4gYXBwIGlzIGNsb3NlZCAobmVlZHMgVkFQSUQpCgojIyBNb2JpbGUgVGVzdGluZyBUaXBzCgojIyMgVGVzdCBTY2VuYXJpb3M6CjEuICoqQXBwIG9wZW4sIGZvY3VzZWQqKjogU2hvdWxkIHNlZSBpbi1hcHAgbm90aWZpY2F0aW9uICsgcHVzaAoyLiAqKkFwcCBvcGVuLCBiYWNrZ3JvdW5kIHRhYioqOiBTaG91bGQgc2VlIHB1c2ggbm90aWZpY2F0aW9uCjMuICoqQXBwIGNsb3NlZCoqOiBTaG91bGQgc2VlIHB1c2ggbm90aWZpY2F0aW9uICh3aXRoIFZBUElEIGtleXMpCjQuICoqTG9ja2VkIHNjcmVlbioqOiBTaG91bGQgc2VlIG5vdGlmaWNhdGlvbiBvbiBsb2NrIHNjcmVlbgo1LiAqKkRvIE5vdCBEaXN0dXJiKio6IGlPUyByZXNwZWN0cyBETkQsIEFuZHJvaWQgc2hvd3Mgc2lsZW50bHkKCiMjIyBOb3RpZmljYXRpb24gQmVoYXZpb3I6Ci0gKipNZXNzYWdlcyoqOiBSZWd1bGFyIHByaW9yaXR5LCBjYW4gYmUgYmF0Y2hlZAotICoqQ2FsbHMqKjogSGlnaCBwcmlvcml0eSwgcGVyc2lzdGVudCwgYnlwYXNzZXMgcXVpZXQgaG91cnMKLSAqKk1hdGNoZXMqKjogUmVndWxhciBwcmlvcml0eSB3aXRoIGNlbGVicmF0aW9uIHZpYnJhdGlvbgoKIyMgUHJvZHVjdGlvbiBDaGVja2xpc3QKCi0gWyBdIEdlbmVyYXRlIFZBUElEIGtleXMKLSBbIF0gQWRkIGVudmlyb25tZW50IHZhcmlhYmxlcwotIFsgXSBJbnN0YWxsIHdlYi1wdXNoIGluIENvbnZleAotIFsgXSBVcGRhdGUgcHVzaE5vdGlmaWNhdGlvbnNBY3Rpb25zLnRzCi0gWyBdIFRlc3Qgb24gc3RhZ2luZyB3aXRoIEhUVFBTCi0gWyBdIFRlc3Qgb24gcmVhbCBtb2JpbGUgZGV2aWNlcwotIFsgXSBTZXQgdXAgZXJyb3IgbW9uaXRvcmluZyBmb3IgZmFpbGVkIG5vdGlmaWNhdGlvbnMKLSBbIF0gQ29uZmlndXJlIG5vdGlmaWNhdGlvbiBpY29ucyAoaGlnaC1yZXMgZm9yIEFuZHJvaWQpCi0gWyBdIEFkZCBhbmFseXRpY3MgZm9yIG5vdGlmaWNhdGlvbiBlbmdhZ2VtZW50CgojIyBUcm91Ymxlc2hvb3RpbmcKCiMjIyBOb3RpZmljYXRpb25zIG5vdCBzaG93aW5nOgoxLiBDaGVjayBwZXJtaXNzaW9uOiBTaG91bGQgYmUgImdyYW50ZWQiCjIuIENoZWNrIHNlcnZpY2Ugd29ya2VyOiBTaG91bGQgYmUgImFjdGl2YXRlZCIKMy4gQ2hlY2sgY29uc29sZSBmb3IgZXJyb3JzCjQuIFRyeSB0ZXN0IHBhZ2UgdG8gaXNvbGF0ZSBpc3N1ZQoKIyMjIFJpbmd0b25lIG5vdCBwbGF5aW5nOgoxLiBDaGVjayBicm93c2VyIGF1dG9wbGF5IHBvbGljeQoyLiBFbnN1cmUgdXNlciBoYXMgaW50ZXJhY3RlZCB3aXRoIHBhZ2UgZmlyc3QKMy4gQ2hlY2sgYXVkaW8gZmlsZSBleGlzdHMgYXQgYC9ub3RpZmljYXRpb24ubXAzYAoKIyMjIE1vYmlsZSBub3Qgd29ya2luZzoKMS4gRW5zdXJlIEhUVFBTIChyZXF1aXJlZCBmb3Igc2VydmljZSB3b3JrZXJzKQoyLiBDaGVjayBtb2JpbGUgYnJvd3NlciBzdXBwb3J0CjMuIGlPUzogTXVzdCBiZSBhZGRlZCB0byBob21lIHNjcmVlbgo0LiBBbmRyb2lkOiBTaG91bGQgd29yayBpbiBicm93c2VyCgojIyBOZXh0IFN0ZXBzCgoxLiAqKkF1ZGlvIEZpbGVzKio6IFJlcGxhY2UgYC9ub3RpZmljYXRpb24ubXAzYCBhbmQgYC9yaW5ndG9uZS5tcDNgIHdpdGggYWN0dWFsIGF1ZGlvCjIuICoqSWNvbnMqKjogQ3JlYXRlIGhpZ2gtcmVzb2x1dGlvbiBub3RpZmljYXRpb24gaWNvbnMKMy4gKipBbmFseXRpY3MqKjogVHJhY2sgbm90aWZpY2F0aW9uIG9wZW4gcmF0ZXMKNC4gKipSaWNoIE5vdGlmaWNhdGlvbnMqKjogQWRkIGltYWdlcyBmb3IgcHJvZmlsZSBwaWN0dXJlcwo1LiAqKk5vdGlmaWNhdGlvbiBHcm91cGluZyoqOiBCYXRjaCBtdWx0aXBsZSBtZXNzYWdlcyBmcm9tIHNhbWUgcGVyc29uCgo="}
+# Push Notifications Setup Instructions
+
+## What Has Been Implemented
+
+### 1. Enhanced Service Worker (`public/sw.js`)
+✅ Handles push notifications with different types:
+- **Call notifications**: Shows Answer/Decline buttons with persistent notification
+- **Message notifications**: Shows Reply/View buttons
+- **Match notifications**: Shows Say Hi button
+- Custom vibration patterns for each type
+- Automatic notification click handling
+
+### 2. Push Notification Backend (`convex/`)
+✅ **pushNotifications.ts**: Core notification logic
+- Checks user preferences before sending
+- Respects quiet hours (except for calls)
+- Manages push subscriptions
+- Integrates with existing notification system
+
+✅ **pushNotificationsActions.ts**: External API integration (scaffold)
+- Ready for web-push library integration
+- Handles subscription validation
+- Manages failed notifications
+
+✅ **Integration with messages and calls**:
+- Messages automatically trigger push notifications
+- Video/audio calls trigger high-priority notifications
+- Proper metadata passed to notifications
+
+### 3. Frontend Components
+✅ **PushNotificationManager**: Auto-prompt and listener
+- Automatically prompts for permission after 3 seconds of login
+- Handles service worker messages (ringtone, call actions)
+- Plays ringtone for incoming calls
+
+✅ **usePushNotifications hook**: Already existed
+- Subscribe/unsubscribe functionality
+- Permission management
+
+### 4. Test Page
+✅ **tmp_rovodev_test_push_notifications.html**
+- Test all notification types
+- Check browser support
+- Debug subscription status
+
+## Setup Steps
+
+### Step 1: Generate VAPID Keys (For Production)
+
+To send actual push notifications, you need VAPID keys:
+
+```bash
+# Install web-push globally
+npm install -g web-push
+
+# Generate VAPID keys
+web-push generate-vapid-keys
+```
+
+This will output:
+```
+=======================================
+Public Key:
+BGx...your-public-key...
+Private Key:
+abc...your-private-key...
+=======================================
+```
+
+### Step 2: Configure Environment Variables
+
+Add to `.env.local` (create if not exists):
+
+```env
+# VAPID Keys for Push Notifications
+VITE_VAPID_PUBLIC_KEY=your-public-key-here
+VAPID_PRIVATE_KEY=your-private-key-here
+VAPID_EMAIL=mailto:your-email@example.com
+```
+
+⚠️ **Important**: 
+- Only `VITE_` prefixed variables are exposed to the browser
+- Private key should NEVER be in VITE_ variables
+- The private key will be used in Convex actions (server-side)
+
+### Step 3: Install web-push in Convex (For Production)
+
+Currently, the action is a scaffold. To make it work:
+
+1. Add to your Convex project:
+```bash
+# In your convex directory
+npm install web-push
+```
+
+2. Update `convex/pushNotificationsActions.ts` to uncomment the web-push code
+
+### Step 4: Test the Implementation
+
+1. **Start your dev server**:
+```bash
+npm run dev
+```
+
+2. **Open the test page**:
+```
+http://localhost:5173/tmp_rovodev_test_push_notifications.html
+```
+
+3. **Test steps**:
+   - Click "Request Permission" → Allow notifications
+   - Click "Register Service Worker"
+   - Test each notification type
+   - Check mobile behavior
+
+### Step 5: Test on Mobile
+
+**Android (Chrome):**
+1. Deploy to Vercel or use ngrok for HTTPS
+2. Open on mobile Chrome
+3. Add to Home Screen for PWA experience
+4. Lock screen and send test notifications
+
+**iOS (Safari 16.4+):**
+1. Requires HTTPS
+2. Requires Add to Home Screen
+3. Works in standalone mode only
+
+## How It Works
+
+### Message Flow:
+1. User A sends message to User B
+2. Backend: `convex/messages.ts` creates message
+3. Backend: Calls `notifyNewMessage` mutation
+4. Backend: Schedules `sendWebPushNotification` action
+5. Action sends to all User B's devices
+6. Service Worker receives push event
+7. Shows notification with actions
+8. User clicks → navigates to chat
+
+### Call Flow:
+1. User A initiates call to User B
+2. Backend: `convex/videoCalls.ts` creates call
+3. Backend: Calls `notifyIncomingCall` mutation
+4. Backend: Sends high-priority push notification
+5. Service Worker shows persistent notification
+6. Service Worker sends PLAY_RINGTONE message to app
+7. App plays ringtone
+8. User clicks Answer/Decline
+9. Service worker handles action and navigates
+
+## Testing Without VAPID Keys
+
+The current implementation will:
+- ✅ Show browser notifications when app is open
+- ✅ Register service worker
+- ✅ Show test notifications
+- ❌ Cannot send push when app is closed (needs VAPID)
+
+## Mobile Testing Tips
+
+### Test Scenarios:
+1. **App open, focused**: Should see in-app notification + push
+2. **App open, background tab**: Should see push notification
+3. **App closed**: Should see push notification (with VAPID keys)
+4. **Locked screen**: Should see notification on lock screen
+5. **Do Not Disturb**: iOS respects DND, Android shows silently
+
+### Notification Behavior:
+- **Messages**: Regular priority, can be batched
+- **Calls**: High priority, persistent, bypasses quiet hours
+- **Matches**: Regular priority with celebration vibration
+
+## Production Checklist
+
+- [ ] Generate VAPID keys
+- [ ] Add environment variables
+- [ ] Install web-push in Convex
+- [ ] Update pushNotificationsActions.ts
+- [ ] Test on staging with HTTPS
+- [ ] Test on real mobile devices
+- [ ] Set up error monitoring for failed notifications
+- [ ] Configure notification icons (high-res for Android)
+- [ ] Add analytics for notification engagement
+
+## Troubleshooting
+
+### Notifications not showing:
+1. Check permission: Should be "granted"
+2. Check service worker: Should be "activated"
+3. Check console for errors
+4. Try test page to isolate issue
+
+### Ringtone not playing:
+1. Check browser autoplay policy
+2. Ensure user has interacted with page first
+3. Check audio file exists at `/notification.mp3`
+
+### Mobile not working:
+1. Ensure HTTPS (required for service workers)
+2. Check mobile browser support
+3. iOS: Must be added to home screen
+4. Android: Should work in browser
+
+## Next Steps
+
+1. **Audio Files**: Replace `/notification.mp3` and `/ringtone.mp3` with actual audio
+2. **Icons**: Create high-resolution notification icons
+3. **Analytics**: Track notification open rates
+4. **Rich Notifications**: Add images for profile pictures
+5. **Notification Grouping**: Batch multiple messages from same person
+

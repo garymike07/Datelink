@@ -1,1 +1,118 @@
-{"data":"ZXhwb3J0IHR5cGUgRmVhdHVyZVR5cGUgPSAKICB8ICdtZXNzYWdpbmcnICB8ICdzdXBlcl9saWtlJwogIHwgJ3Jld2luZCcKICB8ICdzZWVfbGlrZXMnCiAgfCAnYm9vc3QnCiAgfCAnYWR2YW5jZWRfZmlsdGVycycKICB8ICdyZWFkX3JlY2VpcHRzJwogIHwgJ3NjaGVkdWxlZF9tZXNzYWdlcyc7CgpleHBvcnQgaW50ZXJmYWNlIEZlYXR1cmVMaW1pdCB7CiAgZmVhdHVyZTogRmVhdHVyZVR5cGU7CiAgZnJlZUxpbWl0OiBudW1iZXIgfCBib29sZWFuOwogIHByZW1pdW1MaW1pdDogbnVtYmVyIHwgYm9vbGVhbjsKICByZXNldFBlcmlvZDogJ2RhaWx5JyB8ICd3ZWVrbHknIHwgJ21vbnRobHknIHwgJ25ldmVyJzsKICBlcnJvck1lc3NhZ2U6IHN0cmluZzsKICBwYXl3YWxsTWVzc2FnZTogc3RyaW5nOwp9CgpleHBvcnQgY29uc3QgRkVBVFVSRV9MSU1JVFM6IFJlY29yZDxGZWF0dXJlVHlwZSwgRmVhdHVyZUxpbWl0PiA9IHsKICBtZXNzYWdpbmc6IHsKICAgIGZlYXR1cmU6ICdtZXNzYWdpbmcnLAogICAgZnJlZUxpbWl0OiB0cnVlLCAvLyB1bmxpbWl0ZWQgZm9yIGFsbCB1c2VycwogICAgcHJlbWl1bUxpbWl0OiB0cnVlLAogICAgcmVzZXRQZXJpb2Q6ICduZXZlcicsCiAgICBlcnJvck1lc3NhZ2U6ICdNZXNzYWdpbmcgaXMgY3VycmVudGx5IHVuYXZhaWxhYmxlJywKICAgIHBheXdhbGxNZXNzYWdlOiAnTWVzc2FnaW5nIGlzIGF2YWlsYWJsZSBmb3IgYWxsIHVzZXJzJwogIH0sCiAgc3VwZXJfbGlrZTogewogICAgZmVhdHVyZTogJ3N1cGVyX2xpa2UnLAogICAgZnJlZUxpbWl0OiAwLAogICAgcHJlbWl1bUxpbWl0OiA1LAogICAgcmVzZXRQZXJpb2Q6ICdkYWlseScsCiAgICBlcnJvck1lc3NhZ2U6ICdTdXBlciBMaWtlcyBhcmUgYSBQcmVtaXVtIGZlYXR1cmUnLAogICAgcGF5d2FsbE1lc3NhZ2U6ICdTdGFuZCBvdXQgd2l0aCBTdXBlciBMaWtlcyAtIEtFUyAxMDAvd2VlayBvciBLRVMgMzUwL21vbnRoLiBBZGQtb246IEtFUyAxMC9kYXkgZm9yIFByZW1pdW0gUGx1cyBmZWF0dXJlcycKICB9LAogIHJld2luZDogewogICAgZmVhdHVyZTogJ3Jld2luZCcsCiAgICBmcmVlTGltaXQ6IDEsCiAgICBwcmVtaXVtTGltaXQ6IHRydWUsCiAgICByZXNldFBlcmlvZDogJ2RhaWx5JywKICAgIGVycm9yTWVzc2FnZTogJ0RhaWx5IHJld2luZCBsaW1pdCByZWFjaGVkJywKICAgIHBheXdhbGxNZXNzYWdlOiAnR2V0IHVubGltaXRlZCByZXdpbmRzIHdpdGggUHJlbWl1bSAtIEtFUyAxMDAvd2VlayBvciBLRVMgMzUwL21vbnRoJwogIH0sCiAgc2VlX2xpa2VzOiB7CiAgICBmZWF0dXJlOiAnc2VlX2xpa2VzJywKICAgIGZyZWVMaW1pdDogZmFsc2UsCiAgICBwcmVtaXVtTGltaXQ6IHRydWUsCiAgICByZXNldFBlcmlvZDogJ25ldmVyJywKICAgIGVycm9yTWVzc2FnZTogJ1NlZSB3aG8gbGlrZXMgeW91IHdpdGggUHJlbWl1bScsCiAgICBwYXl3YWxsTWVzc2FnZTogJ1NlZSBhbGwgeW91ciBsaWtlcyBpbnN0YW50bHkgd2l0aCBQcmVtaXVtIC0gS0VTIDEwMC93ZWVrIG9yIEtFUyAzNTAvbW9udGgnCiAgfSwKICBib29zdDogewogICAgZmVhdHVyZTogJ2Jvb3N0JywKICAgIGZyZWVMaW1pdDogZmFsc2UsCiAgICBwcmVtaXVtTGltaXQ6IDEsCiAgICByZXNldFBlcmlvZDogJ21vbnRobHknLAogICAgZXJyb3JNZXNzYWdlOiAnQm9vc3QgaXMgYSBQcmVtaXVtIGZlYXR1cmUnLAogICAgcGF5d2FsbE1lc3NhZ2U6ICdCb29zdCB5b3VyIHByb2ZpbGUgd2l0aCBQcmVtaXVtIC0gS0VTIDEwMC93ZWVrIG9yIEtFUyAzNTAvbW9udGggKFByZW1pdW0gUGx1cyBhZGQtb246IEtFUyAxMC9kYXkpJwogIH0sCiAgYWR2YW5jZWRfZmlsdGVyczogewogICAgZmVhdHVyZTogJ2FkdmFuY2VkX2ZpbHRlcnMnLAogICAgZnJlZUxpbWl0OiBmYWxzZSwKICAgIHByZW1pdW1MaW1pdDogdHJ1ZSwKICAgIHJlc2V0UGVyaW9kOiAnbmV2ZXInLAogICAgZXJyb3JNZXNzYWdlOiAnQWR2YW5jZWQgZmlsdGVycyBhcmUgYSBQcmVtaXVtIGZlYXR1cmUnLAogICAgcGF5d2FsbE1lc3NhZ2U6ICdGaW5kIGV4YWN0bHkgd2hvIHlvdVwncmUgbG9va2luZyBmb3Igd2l0aCBQcmVtaXVtIGZpbHRlcnMgLSBLRVMgMTAwL3dlZWsgb3IgS0VTIDM1MC9tb250aCcKICB9LAogIHJlYWRfcmVjZWlwdHM6IHsKICAgIGZlYXR1cmU6ICdyZWFkX3JlY2VpcHRzJywKICAgIGZyZWVMaW1pdDogZmFsc2UsCiAgICBwcmVtaXVtTGltaXQ6IHRydWUsCiAgICByZXNldFBlcmlvZDogJ25ldmVyJywKICAgIGVycm9yTWVzc2FnZTogJ1JlYWQgcmVjZWlwdHMgYXJlIGEgUHJlbWl1bSBmZWF0dXJlJywKICAgIHBheXdhbGxNZXNzYWdlOiAnU2VlIHdoZW4gbWVzc2FnZXMgYXJlIHJlYWQgd2l0aCBQcmVtaXVtIC0gS0VTIDEwMC93ZWVrIG9yIEtFUyAzNTAvbW9udGgnCiAgfSwKICBzY2hlZHVsZWRfbWVzc2FnZXM6IHsKICAgIGZlYXR1cmU6ICdzY2hlZHVsZWRfbWVzc2FnZXMnLAogICAgZnJlZUxpbWl0OiBmYWxzZSwKICAgIHByZW1pdW1MaW1pdDogdHJ1ZSwKICAgIHJlc2V0UGVyaW9kOiAnbmV2ZXInLAogICAgZXJyb3JNZXNzYWdlOiAnU2NoZWR1bGVkIG1lc3NhZ2VzIGFyZSBhIFByZW1pdW0gZmVhdHVyZScsCiAgICBwYXl3YWxsTWVzc2FnZTogJ1NjaGVkdWxlIG1lc3NhZ2VzIHdpdGggUHJlbWl1bSAtIEtFUyAxMDAvd2VlayBvciBLRVMgMzUwL21vbnRoJwogIH0KfTsKCi8qKgogKiBHZXQgaHVtYW4tcmVhZGFibGUgbGltaXQgZGVzY3JpcHRpb24KICovCmV4cG9ydCBmdW5jdGlvbiBnZXRGZWF0dXJlTGltaXREZXNjcmlwdGlvbihmZWF0dXJlOiBGZWF0dXJlVHlwZSwgaXNQcmVtaXVtOiBib29sZWFuKTogc3RyaW5nIHsKICBjb25zdCBsaW1pdCA9IEZFQVRVUkVfTElNSVRTW2ZlYXR1cmVdOwogIGNvbnN0IGN1cnJlbnRMaW1pdCA9IGlzUHJlbWl1bSA/IGxpbWl0LnByZW1pdW1MaW1pdCA6IGxpbWl0LmZyZWVMaW1pdDsKICAKICBpZiAoY3VycmVudExpbWl0ID09PSB0cnVlKSByZXR1cm4gJ1VubGltaXRlZCc7CiAgaWYgKGN1cnJlbnRMaW1pdCA9PT0gZmFsc2UpIHJldHVybiAnTm90IGF2YWlsYWJsZSc7CiAgaWYgKHR5cGVvZiBjdXJyZW50TGltaXQgPT09ICdudW1iZXInKSByZXR1cm4gYCR7Y3VycmVudExpbWl0fSBwZXIgJHtsaW1pdC5yZXNldFBlcmlvZC5yZXBsYWNlKCdseScsICcnKX1gOwogIAogIHJldHVybiAnVW5rbm93bic7Cn0KCi8qKgogKiBDaGVjayBpZiB1c2VyIGhhcyBhY2Nlc3MgdG8gYSBmZWF0dXJlCiAqLwpleHBvcnQgZnVuY3Rpb24gaGFzRmVhdHVyZUFjY2VzcyhmZWF0dXJlOiBGZWF0dXJlVHlwZSwgaXNQcmVtaXVtOiBib29sZWFuKTogYm9vbGVhbiB7CiAgY29uc3QgbGltaXQgPSBGRUFUVVJFX0xJTUlUU1tmZWF0dXJlXTsKICBjb25zdCBjdXJyZW50TGltaXQgPSBpc1ByZW1pdW0gPyBsaW1pdC5wcmVtaXVtTGltaXQgOiBsaW1pdC5mcmVlTGltaXQ7CiAgCiAgcmV0dXJuIGN1cnJlbnRMaW1pdCAhPT0gZmFsc2UgJiYgY3VycmVudExpbWl0ICE9PSAwOwp9CgovKioKICogR2V0IHBheXdhbGwgbW9kYWwgY29uZmlnIGZvciBhIGZlYXR1cmUKICovCmV4cG9ydCBmdW5jdGlvbiBnZXRQYXl3YWxsQ29uZmlnKGZlYXR1cmU6IEZlYXR1cmVUeXBlKSB7CiAgcmV0dXJuIHsKICAgIGZlYXR1cmUsCiAgICAuLi5GRUFUVVJFX0xJTUlUU1tmZWF0dXJlXQogIH07Cn0K"}
+export type FeatureType = 
+  | 'messaging'  | 'super_like'
+  | 'rewind'
+  | 'see_likes'
+  | 'boost'
+  | 'advanced_filters'
+  | 'read_receipts'
+  | 'scheduled_messages';
+
+export interface FeatureLimit {
+  feature: FeatureType;
+  freeLimit: number | boolean;
+  premiumLimit: number | boolean;
+  resetPeriod: 'daily' | 'weekly' | 'monthly' | 'never';
+  errorMessage: string;
+  paywallMessage: string;
+}
+
+export const FEATURE_LIMITS: Record<FeatureType, FeatureLimit> = {
+  messaging: {
+    feature: 'messaging',
+    freeLimit: true, // unlimited for all users
+    premiumLimit: true,
+    resetPeriod: 'never',
+    errorMessage: 'Messaging is currently unavailable',
+    paywallMessage: 'Messaging is available for all users'
+  },
+  super_like: {
+    feature: 'super_like',
+    freeLimit: 0,
+    premiumLimit: 5,
+    resetPeriod: 'daily',
+    errorMessage: 'Super Likes are a Premium feature',
+    paywallMessage: 'Stand out with Super Likes - KES 100/week or KES 350/month. Add-on: KES 10/day for Premium Plus features'
+  },
+  rewind: {
+    feature: 'rewind',
+    freeLimit: 1,
+    premiumLimit: true,
+    resetPeriod: 'daily',
+    errorMessage: 'Daily rewind limit reached',
+    paywallMessage: 'Get unlimited rewinds with Premium - KES 100/week or KES 350/month'
+  },
+  see_likes: {
+    feature: 'see_likes',
+    freeLimit: false,
+    premiumLimit: true,
+    resetPeriod: 'never',
+    errorMessage: 'See who likes you with Premium',
+    paywallMessage: 'See all your likes instantly with Premium - KES 100/week or KES 350/month'
+  },
+  boost: {
+    feature: 'boost',
+    freeLimit: false,
+    premiumLimit: 1,
+    resetPeriod: 'monthly',
+    errorMessage: 'Boost is a Premium feature',
+    paywallMessage: 'Boost your profile with Premium - KES 100/week or KES 350/month (Premium Plus add-on: KES 10/day)'
+  },
+  advanced_filters: {
+    feature: 'advanced_filters',
+    freeLimit: false,
+    premiumLimit: true,
+    resetPeriod: 'never',
+    errorMessage: 'Advanced filters are a Premium feature',
+    paywallMessage: 'Find exactly who you\'re looking for with Premium filters - KES 100/week or KES 350/month'
+  },
+  read_receipts: {
+    feature: 'read_receipts',
+    freeLimit: false,
+    premiumLimit: true,
+    resetPeriod: 'never',
+    errorMessage: 'Read receipts are a Premium feature',
+    paywallMessage: 'See when messages are read with Premium - KES 100/week or KES 350/month'
+  },
+  scheduled_messages: {
+    feature: 'scheduled_messages',
+    freeLimit: false,
+    premiumLimit: true,
+    resetPeriod: 'never',
+    errorMessage: 'Scheduled messages are a Premium feature',
+    paywallMessage: 'Schedule messages with Premium - KES 100/week or KES 350/month'
+  }
+};
+
+/**
+ * Get human-readable limit description
+ */
+export function getFeatureLimitDescription(feature: FeatureType, isPremium: boolean): string {
+  const limit = FEATURE_LIMITS[feature];
+  const currentLimit = isPremium ? limit.premiumLimit : limit.freeLimit;
+  
+  if (currentLimit === true) return 'Unlimited';
+  if (currentLimit === false) return 'Not available';
+  if (typeof currentLimit === 'number') return `${currentLimit} per ${limit.resetPeriod.replace('ly', '')}`;
+  
+  return 'Unknown';
+}
+
+/**
+ * Check if user has access to a feature
+ */
+export function hasFeatureAccess(feature: FeatureType, isPremium: boolean): boolean {
+  const limit = FEATURE_LIMITS[feature];
+  const currentLimit = isPremium ? limit.premiumLimit : limit.freeLimit;
+  
+  return currentLimit !== false && currentLimit !== 0;
+}
+
+/**
+ * Get paywall modal config for a feature
+ */
+export function getPaywallConfig(feature: FeatureType) {
+  return {
+    feature,
+    ...FEATURE_LIMITS[feature]
+  };
+}

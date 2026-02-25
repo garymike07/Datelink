@@ -1,1 +1,140 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7CiAgRGlhbG9nLAogIERpYWxvZ0NvbnRlbnQsCiAgRGlhbG9nSGVhZGVyLAogIERpYWxvZ1RpdGxlLAogIERpYWxvZ0Rlc2NyaXB0aW9uLAp9IGZyb20gIkAvY29tcG9uZW50cy91aS9kaWFsb2ciOwppbXBvcnQgeyBBdmF0YXIsIEF2YXRhckZhbGxiYWNrLCBBdmF0YXJJbWFnZSB9IGZyb20gIkAvY29tcG9uZW50cy91aS9hdmF0YXIiOwppbXBvcnQgeyBUYWJzLCBUYWJzQ29udGVudCwgVGFic0xpc3QsIFRhYnNUcmlnZ2VyIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL3RhYnMiOwppbXBvcnQgeyBFeWUsIEhlYXJ0IH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKaW1wb3J0IHsgZm9ybWF0RGlzdGFuY2VUb05vdyB9IGZyb20gImRhdGUtZm5zIjsKaW1wb3J0IHsgU2Nyb2xsQXJlYSB9IGZyb20gIkAvY29tcG9uZW50cy91aS9zY3JvbGwtYXJlYSI7CgppbnRlcmZhY2UgVmlld2VyIHsKICB1c2VySWQ6IHN0cmluZzsKICB1c2VyTmFtZTogc3RyaW5nOwogIHVzZXJQaG90bz86IHN0cmluZzsKICB2aWV3ZWRBdDogbnVtYmVyOwp9CgppbnRlcmZhY2UgTGlrZXIgewogIHVzZXJJZDogc3RyaW5nOwogIHVzZXJOYW1lOiBzdHJpbmc7CiAgdXNlclBob3RvPzogc3RyaW5nOwogIGxpa2VkQXQ6IG51bWJlcjsKfQoKaW50ZXJmYWNlIFN0YXR1c1ZpZXdlcnNEaWFsb2dQcm9wcyB7CiAgb3BlbjogYm9vbGVhbjsKICBvbk9wZW5DaGFuZ2U6IChvcGVuOiBib29sZWFuKSA9PiB2b2lkOwogIHZpZXdlcnM6IFZpZXdlcltdOwogIGxpa2VyczogTGlrZXJbXTsKICB2aWV3Q291bnQ6IG51bWJlcjsKICBsaWtlQ291bnQ6IG51bWJlcjsKfQoKZXhwb3J0IGZ1bmN0aW9uIFN0YXR1c1ZpZXdlcnNEaWFsb2coewogIG9wZW4sCiAgb25PcGVuQ2hhbmdlLAogIHZpZXdlcnMsCiAgbGlrZXJzLAogIHZpZXdDb3VudCwKICBsaWtlQ291bnQsCn06IFN0YXR1c1ZpZXdlcnNEaWFsb2dQcm9wcykgewogIGNvbnN0IFthY3RpdmVUYWIsIHNldEFjdGl2ZVRhYl0gPSB1c2VTdGF0ZTwidmlld2VycyIgfCAibGlrZXJzIj4oInZpZXdlcnMiKTsKCiAgcmV0dXJuICgKICAgIDxEaWFsb2cgb3Blbj17b3Blbn0gb25PcGVuQ2hhbmdlPXtvbk9wZW5DaGFuZ2V9PgogICAgICA8RGlhbG9nQ29udGVudCBjbGFzc05hbWU9Im1heC13LW1kIj4KICAgICAgICA8RGlhbG9nSGVhZGVyPgogICAgICAgICAgPERpYWxvZ1RpdGxlPlN0YXR1cyBFbmdhZ2VtZW50PC9EaWFsb2dUaXRsZT4KICAgICAgICAgIDxEaWFsb2dEZXNjcmlwdGlvbj4KICAgICAgICAgICAgVmlldyB3aG8gaGFzIHNlZW4gYW5kIGxpa2VkIHlvdXIgc3RhdHVzCiAgICAgICAgICA8L0RpYWxvZ0Rlc2NyaXB0aW9uPgogICAgICAgIDwvRGlhbG9nSGVhZGVyPgoKICAgICAgICA8VGFicyB2YWx1ZT17YWN0aXZlVGFifSBvblZhbHVlQ2hhbmdlPXsodikgPT4gc2V0QWN0aXZlVGFiKHYgYXMgInZpZXdlcnMiIHwgImxpa2VycyIpfT4KICAgICAgICAgIDxUYWJzTGlzdCBjbGFzc05hbWU9ImdyaWQgdy1mdWxsIGdyaWQtY29scy0yIj4KICAgICAgICAgICAgPFRhYnNUcmlnZ2VyIHZhbHVlPSJ2aWV3ZXJzIiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIj4KICAgICAgICAgICAgICA8RXllIGNsYXNzTmFtZT0idy00IGgtNCIgLz4KICAgICAgICAgICAgICA8c3Bhbj5WaWV3cyAoe3ZpZXdDb3VudH0pPC9zcGFuPgogICAgICAgICAgICA8L1RhYnNUcmlnZ2VyPgogICAgICAgICAgICA8VGFic1RyaWdnZXIgdmFsdWU9Imxpa2VycyIgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiI+CiAgICAgICAgICAgICAgPEhlYXJ0IGNsYXNzTmFtZT0idy00IGgtNCIgLz4KICAgICAgICAgICAgICA8c3Bhbj5MaWtlcyAoe2xpa2VDb3VudH0pPC9zcGFuPgogICAgICAgICAgICA8L1RhYnNUcmlnZ2VyPgogICAgICAgICAgPC9UYWJzTGlzdD4KCiAgICAgICAgICA8VGFic0NvbnRlbnQgdmFsdWU9InZpZXdlcnMiIGNsYXNzTmFtZT0ibXQtNCI+CiAgICAgICAgICAgIDxTY3JvbGxBcmVhIGNsYXNzTmFtZT0iaC1bNDAwcHhdIHByLTQiPgogICAgICAgICAgICAgIHt2aWV3ZXJzLmxlbmd0aCA9PT0gMCA/ICgKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtY29sIGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBweS0xMiB0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgICAgICAgICA8RXllIGNsYXNzTmFtZT0idy0xMiBoLTEyIG1iLTMgb3BhY2l0eS0yMCIgLz4KICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIj5ObyB2aWV3cyB5ZXQ8L3A+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICApIDogKAogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMyI+CiAgICAgICAgICAgICAgICAgIHt2aWV3ZXJzLm1hcCgodmlld2VyKSA9PiAoCiAgICAgICAgICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgICAgICAgICAga2V5PXt2aWV3ZXIudXNlcklkfQogICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMyBwLTMgcm91bmRlZC1sZyBob3ZlcjpiZy1hY2NlbnQvNTAgdHJhbnNpdGlvbi1jb2xvcnMiCiAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgPEF2YXRhciBjbGFzc05hbWU9InctMTIgaC0xMiI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxBdmF0YXJJbWFnZSBzcmM9e3ZpZXdlci51c2VyUGhvdG99IC8+CiAgICAgICAgICAgICAgICAgICAgICAgIDxBdmF0YXJGYWxsYmFjaz57dmlld2VyLnVzZXJOYW1lWzBdfTwvQXZhdGFyRmFsbGJhY2s+CiAgICAgICAgICAgICAgICAgICAgICA8L0F2YXRhcj4KICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4LTEgbWluLXctMCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0iZm9udC1zZW1pYm9sZCB0ZXh0LXNtIHRydW5jYXRlIj4KICAgICAgICAgICAgICAgICAgICAgICAgICB7dmlld2VyLnVzZXJOYW1lfQogICAgICAgICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgICAgICAgICAgICAgICAgIHtmb3JtYXREaXN0YW5jZVRvTm93KHZpZXdlci52aWV3ZWRBdCwgeyBhZGRTdWZmaXg6IHRydWUgfSl9CiAgICAgICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICApKX0KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICl9CiAgICAgICAgICAgIDwvU2Nyb2xsQXJlYT4KICAgICAgICAgIDwvVGFic0NvbnRlbnQ+CgogICAgICAgICAgPFRhYnNDb250ZW50IHZhbHVlPSJsaWtlcnMiIGNsYXNzTmFtZT0ibXQtNCI+CiAgICAgICAgICAgIDxTY3JvbGxBcmVhIGNsYXNzTmFtZT0iaC1bNDAwcHhdIHByLTQiPgogICAgICAgICAgICAgIHtsaWtlcnMubGVuZ3RoID09PSAwID8gKAogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHB5LTEyIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+CiAgICAgICAgICAgICAgICAgIDxIZWFydCBjbGFzc05hbWU9InctMTIgaC0xMiBtYi0zIG9wYWNpdHktMjAiIC8+CiAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSI+Tm8gbGlrZXMgeWV0PC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgKSA6ICgKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTMiPgogICAgICAgICAgICAgICAgICB7bGlrZXJzLm1hcCgobGlrZXIpID0+ICgKICAgICAgICAgICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgICAgICAgICBrZXk9e2xpa2VyLnVzZXJJZH0KICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTMgcC0zIHJvdW5kZWQtbGcgaG92ZXI6YmctYWNjZW50LzUwIHRyYW5zaXRpb24tY29sb3JzIgogICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgIDxBdmF0YXIgY2xhc3NOYW1lPSJ3LTEyIGgtMTIiPgogICAgICAgICAgICAgICAgICAgICAgICA8QXZhdGFySW1hZ2Ugc3JjPXtsaWtlci51c2VyUGhvdG99IC8+CiAgICAgICAgICAgICAgICAgICAgICAgIDxBdmF0YXJGYWxsYmFjaz57bGlrZXIudXNlck5hbWVbMF19PC9BdmF0YXJGYWxsYmFjaz4KICAgICAgICAgICAgICAgICAgICAgIDwvQXZhdGFyPgogICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXgtMSBtaW4tdy0wIj4KICAgICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJmb250LXNlbWlib2xkIHRleHQtc20gdHJ1bmNhdGUiPgogICAgICAgICAgICAgICAgICAgICAgICAgIHtsaWtlci51c2VyTmFtZX0KICAgICAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgICAgICAgICAgICAgICB7Zm9ybWF0RGlzdGFuY2VUb05vdyhsaWtlci5saWtlZEF0LCB7IGFkZFN1ZmZpeDogdHJ1ZSB9KX0KICAgICAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICA8SGVhcnQgY2xhc3NOYW1lPSJ3LTUgaC01IHRleHQtcmVkLTUwMCBmaWxsLWN1cnJlbnQiIC8+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICkpfQogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgPC9TY3JvbGxBcmVhPgogICAgICAgICAgPC9UYWJzQ29udGVudD4KICAgICAgICA8L1RhYnM+CiAgICAgIDwvRGlhbG9nQ29udGVudD4KICAgIDwvRGlhbG9nPgogICk7Cn0K"}
+import { useState } from "react";
+import {
+  Dialog,
+  DialogContent,
+  DialogHeader,
+  DialogTitle,
+  DialogDescription,
+} from "@/components/ui/dialog";
+import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { Eye, Heart } from "lucide-react";
+import { formatDistanceToNow } from "date-fns";
+import { ScrollArea } from "@/components/ui/scroll-area";
+
+interface Viewer {
+  userId: string;
+  userName: string;
+  userPhoto?: string;
+  viewedAt: number;
+}
+
+interface Liker {
+  userId: string;
+  userName: string;
+  userPhoto?: string;
+  likedAt: number;
+}
+
+interface StatusViewersDialogProps {
+  open: boolean;
+  onOpenChange: (open: boolean) => void;
+  viewers: Viewer[];
+  likers: Liker[];
+  viewCount: number;
+  likeCount: number;
+}
+
+export function StatusViewersDialog({
+  open,
+  onOpenChange,
+  viewers,
+  likers,
+  viewCount,
+  likeCount,
+}: StatusViewersDialogProps) {
+  const [activeTab, setActiveTab] = useState<"viewers" | "likers">("viewers");
+
+  return (
+    <Dialog open={open} onOpenChange={onOpenChange}>
+      <DialogContent className="max-w-md">
+        <DialogHeader>
+          <DialogTitle>Status Engagement</DialogTitle>
+          <DialogDescription>
+            View who has seen and liked your status
+          </DialogDescription>
+        </DialogHeader>
+
+        <Tabs value={activeTab} onValueChange={(v) => setActiveTab(v as "viewers" | "likers")}>
+          <TabsList className="grid w-full grid-cols-2">
+            <TabsTrigger value="viewers" className="flex items-center gap-2">
+              <Eye className="w-4 h-4" />
+              <span>Views ({viewCount})</span>
+            </TabsTrigger>
+            <TabsTrigger value="likers" className="flex items-center gap-2">
+              <Heart className="w-4 h-4" />
+              <span>Likes ({likeCount})</span>
+            </TabsTrigger>
+          </TabsList>
+
+          <TabsContent value="viewers" className="mt-4">
+            <ScrollArea className="h-[400px] pr-4">
+              {viewers.length === 0 ? (
+                <div className="flex flex-col items-center justify-center py-12 text-muted-foreground">
+                  <Eye className="w-12 h-12 mb-3 opacity-20" />
+                  <p className="text-sm">No views yet</p>
+                </div>
+              ) : (
+                <div className="space-y-3">
+                  {viewers.map((viewer) => (
+                    <div
+                      key={viewer.userId}
+                      className="flex items-center gap-3 p-3 rounded-lg hover:bg-accent/50 transition-colors"
+                    >
+                      <Avatar className="w-12 h-12">
+                        <AvatarImage src={viewer.userPhoto} />
+                        <AvatarFallback>{viewer.userName[0]}</AvatarFallback>
+                      </Avatar>
+                      <div className="flex-1 min-w-0">
+                        <p className="font-semibold text-sm truncate">
+                          {viewer.userName}
+                        </p>
+                        <p className="text-xs text-muted-foreground">
+                          {formatDistanceToNow(viewer.viewedAt, { addSuffix: true })}
+                        </p>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </ScrollArea>
+          </TabsContent>
+
+          <TabsContent value="likers" className="mt-4">
+            <ScrollArea className="h-[400px] pr-4">
+              {likers.length === 0 ? (
+                <div className="flex flex-col items-center justify-center py-12 text-muted-foreground">
+                  <Heart className="w-12 h-12 mb-3 opacity-20" />
+                  <p className="text-sm">No likes yet</p>
+                </div>
+              ) : (
+                <div className="space-y-3">
+                  {likers.map((liker) => (
+                    <div
+                      key={liker.userId}
+                      className="flex items-center gap-3 p-3 rounded-lg hover:bg-accent/50 transition-colors"
+                    >
+                      <Avatar className="w-12 h-12">
+                        <AvatarImage src={liker.userPhoto} />
+                        <AvatarFallback>{liker.userName[0]}</AvatarFallback>
+                      </Avatar>
+                      <div className="flex-1 min-w-0">
+                        <p className="font-semibold text-sm truncate">
+                          {liker.userName}
+                        </p>
+                        <p className="text-xs text-muted-foreground">
+                          {formatDistanceToNow(liker.likedAt, { addSuffix: true })}
+                        </p>
+                      </div>
+                      <Heart className="w-5 h-5 text-red-500 fill-current" />
+                    </div>
+                  ))}
+                </div>
+              )}
+            </ScrollArea>
+          </TabsContent>
+        </Tabs>
+      </DialogContent>
+    </Dialog>
+  );
+}

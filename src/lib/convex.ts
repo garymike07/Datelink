@@ -1,1 +1,26 @@
-{"data":"aW1wb3J0IHsgQ29udmV4UmVhY3RDbGllbnQgfSBmcm9tICJjb252ZXgvcmVhY3QiOwoKZnVuY3Rpb24gbm9ybWFsaXplQ29udmV4VXJsKHJhdzogc3RyaW5nIHwgdW5kZWZpbmVkKTogc3RyaW5nIHwgbnVsbCB7CiAgaWYgKCFyYXcpIHJldHVybiBudWxsOwogIGNvbnN0IHRyaW1tZWQgPSBTdHJpbmcocmF3KS50cmltKCk7CiAgaWYgKCF0cmltbWVkKSByZXR1cm4gbnVsbDsKCiAgLy8gQ29tbW9uIG1pc2NvbmZpZzogIm15LWRlcGxveW1lbnQuY29udmV4LmNsb3VkIiAobWlzc2luZyBwcm90b2NvbCkKICBjb25zdCB3aXRoUHJvdG9jb2wgPSAvXmh0dHBzPzpcL1wvL2kudGVzdCh0cmltbWVkKSA/IHRyaW1tZWQgOiBgaHR0cHM6Ly8ke3RyaW1tZWR9YDsKCiAgdHJ5IHsKICAgIGNvbnN0IHUgPSBuZXcgVVJMKHdpdGhQcm90b2NvbCk7CiAgICBpZiAodS5wcm90b2NvbCAhPT0gImh0dHBzOiIgJiYgdS5wcm90b2NvbCAhPT0gImh0dHA6IikgcmV0dXJuIG51bGw7CiAgICByZXR1cm4gdS50b1N0cmluZygpLnJlcGxhY2UoL1wvJC8sICIiKTsKICB9IGNhdGNoIHsKICAgIHJldHVybiBudWxsOwogIH0KfQoKZXhwb3J0IGNvbnN0IHJhd0NvbnZleFVybCA9IGltcG9ydC5tZXRhLmVudi5WSVRFX0NPTlZFWF9VUkwgYXMgc3RyaW5nIHwgdW5kZWZpbmVkOwpleHBvcnQgY29uc3QgY29udmV4VXJsID0gbm9ybWFsaXplQ29udmV4VXJsKHJhd0NvbnZleFVybCk7CgovLyBJTVBPUlRBTlQ6Ci8vIERvIG5vdCB0aHJvdyBhdCBtb2R1bGUgbG9hZCB0aW1lLiBJZiB0aGUgVVJMIGlzIG1pc3NpbmcvaW52YWxpZCBpbiBwcm9kdWN0aW9uLAovLyB0aGUgd2hvbGUgYXBwIGJlY29tZXMgYSB3aGl0ZSBzY3JlZW4uIFdlIGhhbmRsZSBpdCBpbiBgbWFpbi50c3hgIGluc3RlYWQuCmV4cG9ydCBjb25zdCBjb252ZXggPSBjb252ZXhVcmwgPyBuZXcgQ29udmV4UmVhY3RDbGllbnQoY29udmV4VXJsKSA6IG51bGw7Cg=="}
+import { ConvexReactClient } from "convex/react";
+
+function normalizeConvexUrl(raw: string | undefined): string | null {
+  if (!raw) return null;
+  const trimmed = String(raw).trim();
+  if (!trimmed) return null;
+
+  // Common misconfig: "my-deployment.convex.cloud" (missing protocol)
+  const withProtocol = /^https?:\/\//i.test(trimmed) ? trimmed : `https://${trimmed}`;
+
+  try {
+    const u = new URL(withProtocol);
+    if (u.protocol !== "https:" && u.protocol !== "http:") return null;
+    return u.toString().replace(/\/$/, "");
+  } catch {
+    return null;
+  }
+}
+
+export const rawConvexUrl = import.meta.env.VITE_CONVEX_URL as string | undefined;
+export const convexUrl = normalizeConvexUrl(rawConvexUrl);
+
+// IMPORTANT:
+// Do not throw at module load time. If the URL is missing/invalid in production,
+// the whole app becomes a white screen. We handle it in `main.tsx` instead.
+export const convex = convexUrl ? new ConvexReactClient(convexUrl) : null;

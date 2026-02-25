@@ -1,1 +1,197 @@
-{"data":"aW1wb3J0IFJlYWN0LCB7IHVzZVN0YXRlIH0gZnJvbSAicmVhY3QiOwppbXBvcnQgeyB1c2VRdWVyeSwgdXNlTXV0YXRpb24gfSBmcm9tICJjb252ZXgvcmVhY3QiOwppbXBvcnQgeyBhcGkgfSBmcm9tICIuLi8uLi8uLi9jb252ZXgvX2dlbmVyYXRlZC9hcGkiOwppbXBvcnQgeyBDYXJkLCBDYXJkQ29udGVudCwgQ2FyZERlc2NyaXB0aW9uLCBDYXJkSGVhZGVyLCBDYXJkVGl0bGUgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvY2FyZCI7CmltcG9ydCB7IEJ1dHRvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS9idXR0b24iOwppbXBvcnQgeyBCYWRnZSB9IGZyb20gIkAvY29tcG9uZW50cy91aS9iYWRnZSI7CmltcG9ydCB7IFRyYXNoMiwgUGxheSwgQmVsbCwgQmVsbE9mZiwgRWRpdCB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IHVzZVRvYXN0IH0gZnJvbSAiQC9ob29rcy91c2UtdG9hc3QiOwppbXBvcnQgU2F2ZVNlYXJjaE1vZGFsIGZyb20gIi4vU2F2ZVNlYXJjaE1vZGFsIjsKaW1wb3J0IHsgdXNlTmF2aWdhdGUgfSBmcm9tICJyZWFjdC1yb3V0ZXItZG9tIjsKCmludGVyZmFjZSBTYXZlZFNlYXJjaGVzUHJvcHMgewogIHVzZXJJZDogc3RyaW5nOwp9Cgpjb25zdCBTYXZlZFNlYXJjaGVzOiBSZWFjdC5GQzxTYXZlZFNlYXJjaGVzUHJvcHM+ID0gKHsgdXNlcklkIH0pID0+IHsKICBjb25zdCB7IHRvYXN0IH0gPSB1c2VUb2FzdCgpOwogIGNvbnN0IG5hdmlnYXRlID0gdXNlTmF2aWdhdGUoKTsKICBjb25zdCBbZWRpdGluZ1NlYXJjaCwgc2V0RWRpdGluZ1NlYXJjaF0gPSB1c2VTdGF0ZTxhbnk+KG51bGwpOwogIGNvbnN0IFtpc01vZGFsT3Blbiwgc2V0SXNNb2RhbE9wZW5dID0gdXNlU3RhdGUoZmFsc2UpOwoKICBjb25zdCBzYXZlZFNlYXJjaGVzID0gdXNlUXVlcnkoYXBpLmRpc2NvdmVyeS5nZXRTYXZlZFNlYXJjaGVzLCB7IHVzZXJJZCB9KTsKICBjb25zdCBkZWxldGVTZWFyY2ggPSB1c2VNdXRhdGlvbihhcGkuZGlzY292ZXJ5LmRlbGV0ZVNhdmVkU2VhcmNoKTsKICBjb25zdCB1cGRhdGVTZWFyY2ggPSB1c2VNdXRhdGlvbihhcGkuZGlzY292ZXJ5LnVwZGF0ZVNhdmVkU2VhcmNoKTsKCiAgY29uc3QgaGFuZGxlRGVsZXRlU2VhcmNoID0gYXN5bmMgKHNlYXJjaElkOiBzdHJpbmcpID0+IHsKICAgIHRyeSB7CiAgICAgIGF3YWl0IGRlbGV0ZVNlYXJjaCh7IHVzZXJJZCwgc2VhcmNoSWQgfSk7CiAgICAgIHRvYXN0KHsKICAgICAgICB0aXRsZTogIlNlYXJjaCBkZWxldGVkIiwKICAgICAgICBkZXNjcmlwdGlvbjogIllvdXIgc2F2ZWQgc2VhcmNoIGhhcyBiZWVuIHJlbW92ZWQuIiwKICAgICAgfSk7CiAgICB9IGNhdGNoIChlcnJvcjogYW55KSB7CiAgICAgIHRvYXN0KHsKICAgICAgICB0aXRsZTogIkVycm9yIiwKICAgICAgICBkZXNjcmlwdGlvbjogZXJyb3IubWVzc2FnZSwKICAgICAgICB2YXJpYW50OiAiZGVzdHJ1Y3RpdmUiLAogICAgICB9KTsKICAgIH0KICB9OwoKICBjb25zdCBoYW5kbGVUb2dnbGVOb3RpZmljYXRpb25zID0gYXN5bmMgKHNlYXJjaDogYW55KSA9PiB7CiAgICB0cnkgewogICAgICBhd2FpdCB1cGRhdGVTZWFyY2goewogICAgICAgIHVzZXJJZCwKICAgICAgICBzZWFyY2hJZDogc2VhcmNoLl9pZCwKICAgICAgICBub3RpZmljYXRpb25zRW5hYmxlZDogIXNlYXJjaC5ub3RpZmljYXRpb25zRW5hYmxlZCwKICAgICAgfSk7CiAgICAgIHRvYXN0KHsKICAgICAgICB0aXRsZTogc2VhcmNoLm5vdGlmaWNhdGlvbnNFbmFibGVkID8gIk5vdGlmaWNhdGlvbnMgZGlzYWJsZWQiIDogIk5vdGlmaWNhdGlvbnMgZW5hYmxlZCIsCiAgICAgICAgZGVzY3JpcHRpb246IHNlYXJjaC5ub3RpZmljYXRpb25zRW5hYmxlZAogICAgICAgICAgPyAiWW91IHdvbid0IHJlY2VpdmUgYWxlcnRzIGZvciBuZXcgbWF0Y2hlcyIKICAgICAgICAgIDogIllvdSdsbCByZWNlaXZlIGFsZXJ0cyB3aGVuIG5ldyBwcm9maWxlcyBtYXRjaCB0aGlzIHNlYXJjaCIsCiAgICAgIH0pOwogICAgfSBjYXRjaCAoZXJyb3I6IGFueSkgewogICAgICB0b2FzdCh7CiAgICAgICAgdGl0bGU6ICJFcnJvciIsCiAgICAgICAgZGVzY3JpcHRpb246IGVycm9yLm1lc3NhZ2UsCiAgICAgICAgdmFyaWFudDogImRlc3RydWN0aXZlIiwKICAgICAgfSk7CiAgICB9CiAgfTsKCiAgY29uc3QgaGFuZGxlUnVuU2VhcmNoID0gKHNlYXJjaElkOiBzdHJpbmcpID0+IHsKICAgIG5hdmlnYXRlKGAvZGlzY292ZXI/c2F2ZWRTZWFyY2hJZD0ke3NlYXJjaElkfWApOwogIH07CgogIGNvbnN0IGhhbmRsZUVkaXRTZWFyY2ggPSAoc2VhcmNoOiBhbnkpID0+IHsKICAgIHNldEVkaXRpbmdTZWFyY2goc2VhcmNoKTsKICAgIHNldElzTW9kYWxPcGVuKHRydWUpOwogIH07CgogIGlmICghc2F2ZWRTZWFyY2hlcykgewogICAgcmV0dXJuICgKICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktNCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImgtMzIgYmctZ3JheS0xMDAgZGFyazpiZy1ncmF5LTgwMCBhbmltYXRlLXB1bHNlIHJvdW5kZWQtbGciIC8+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImgtMzIgYmctZ3JheS0xMDAgZGFyazpiZy1ncmF5LTgwMCBhbmltYXRlLXB1bHNlIHJvdW5kZWQtbGciIC8+CiAgICAgIDwvZGl2PgogICAgKTsKICB9CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS00Ij4KICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiI+CiAgICAgICAgPGRpdj4KICAgICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQtMnhsIGZvbnQtYm9sZCI+U2F2ZWQgU2VhcmNoZXM8L2gyPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+CiAgICAgICAgICAgIFF1aWNrIGFjY2VzcyB0byB5b3VyIGZhdm9yaXRlIHNlYXJjaCBmaWx0ZXJzCiAgICAgICAgICA8L3A+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPEJ1dHRvbiBvbkNsaWNrPXsoKSA9PiB7CiAgICAgICAgICBzZXRFZGl0aW5nU2VhcmNoKG51bGwpOwogICAgICAgICAgc2V0SXNNb2RhbE9wZW4odHJ1ZSk7CiAgICAgICAgfX0+CiAgICAgICAgICBTYXZlIEN1cnJlbnQgU2VhcmNoCiAgICAgICAgPC9CdXR0b24+CiAgICAgIDwvZGl2PgoKICAgICAge3NhdmVkU2VhcmNoZXMubGVuZ3RoID09PSAwID8gKAogICAgICAgIDxDYXJkPgogICAgICAgICAgPENhcmRDb250ZW50IGNsYXNzTmFtZT0icHktOCB0ZXh0LWNlbnRlciI+CiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1tdXRlZC1mb3JlZ3JvdW5kIG1iLTQiPgogICAgICAgICAgICAgIFlvdSBoYXZlbid0IHNhdmVkIGFueSBzZWFyY2hlcyB5ZXQuCiAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBtYi02Ij4KICAgICAgICAgICAgICBTYXZlIHlvdXIgZmF2b3JpdGUgc2VhcmNoIGZpbHRlcnMgZm9yIHF1aWNrIGFjY2VzcyBsYXRlciEKICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9eygpID0+IHNldElzTW9kYWxPcGVuKHRydWUpfT4KICAgICAgICAgICAgICBDcmVhdGUgWW91ciBGaXJzdCBTZWFyY2gKICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICA8L0NhcmRDb250ZW50PgogICAgICAgIDwvQ2FyZD4KICAgICAgKSA6ICgKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBnYXAtNCBtZDpncmlkLWNvbHMtMiBsZzpncmlkLWNvbHMtMyI+CiAgICAgICAgICB7c2F2ZWRTZWFyY2hlcy5tYXAoKHNlYXJjaCkgPT4gKAogICAgICAgICAgICA8Q2FyZCBrZXk9e3NlYXJjaC5faWR9IGNsYXNzTmFtZT0iaG92ZXI6c2hhZG93LWxnIHRyYW5zaXRpb24tc2hhZG93Ij4KICAgICAgICAgICAgICA8Q2FyZEhlYWRlcj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLXN0YXJ0IGp1c3RpZnktYmV0d2VlbiI+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4LTEiPgogICAgICAgICAgICAgICAgICAgIDxDYXJkVGl0bGUgY2xhc3NOYW1lPSJ0ZXh0LWxnIj57c2VhcmNoLm5hbWV9PC9DYXJkVGl0bGU+CiAgICAgICAgICAgICAgICAgICAgPENhcmREZXNjcmlwdGlvbiBjbGFzc05hbWU9Im10LTIgc3BhY2UteS0xIj4KICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtd3JhcCBnYXAtMiBtdC0yIj4KICAgICAgICAgICAgICAgICAgICAgICAgPEJhZGdlIHZhcmlhbnQ9InNlY29uZGFyeSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgQWdlIHtzZWFyY2guZmlsdGVycy5taW5BZ2V9LXtzZWFyY2guZmlsdGVycy5tYXhBZ2V9CiAgICAgICAgICAgICAgICAgICAgICAgIDwvQmFkZ2U+CiAgICAgICAgICAgICAgICAgICAgICAgIDxCYWRnZSB2YXJpYW50PSJzZWNvbmRhcnkiPgogICAgICAgICAgICAgICAgICAgICAgICAgIHtzZWFyY2guZmlsdGVycy5tYXhEaXN0YW5jZX1rbQogICAgICAgICAgICAgICAgICAgICAgICA8L0JhZGdlPgogICAgICAgICAgICAgICAgICAgICAgICA8QmFkZ2UgdmFyaWFudD0ic2Vjb25kYXJ5Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICB7c2VhcmNoLmZpbHRlcnMuZ2VuZGVyUHJlZmVyZW5jZS5qb2luKCIsICIpfQogICAgICAgICAgICAgICAgICAgICAgICA8L0JhZGdlPgogICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICB7c2VhcmNoLm5ld01hdGNoZXNDb3VudCA+IDAgJiYgKAogICAgICAgICAgICAgICAgICAgICAgICA8QmFkZ2UgdmFyaWFudD0iZGVmYXVsdCIgY2xhc3NOYW1lPSJtdC0yIj4KICAgICAgICAgICAgICAgICAgICAgICAgICB7c2VhcmNoLm5ld01hdGNoZXNDb3VudH0gbmV3IG1hdGNoZXMKICAgICAgICAgICAgICAgICAgICAgICAgPC9CYWRnZT4KICAgICAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICAgICAgPC9DYXJkRGVzY3JpcHRpb24+CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICAgICAgdmFyaWFudD0iZ2hvc3QiCiAgICAgICAgICAgICAgICAgICAgc2l6ZT0iaWNvbiIKICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBoYW5kbGVUb2dnbGVOb3RpZmljYXRpb25zKHNlYXJjaCl9CiAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJtbC0yIgogICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAge3NlYXJjaC5ub3RpZmljYXRpb25zRW5hYmxlZCA/ICgKICAgICAgICAgICAgICAgICAgICAgIDxCZWxsIGNsYXNzTmFtZT0iaC00IHctNCIgLz4KICAgICAgICAgICAgICAgICAgICApIDogKAogICAgICAgICAgICAgICAgICAgICAgPEJlbGxPZmYgY2xhc3NOYW1lPSJoLTQgdy00IHRleHQtbXV0ZWQtZm9yZWdyb3VuZCIgLz4KICAgICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvQ2FyZEhlYWRlcj4KICAgICAgICAgICAgICA8Q2FyZENvbnRlbnQgY2xhc3NOYW1lPSJzcGFjZS15LTIiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZ2FwLTIiPgogICAgICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJmbGV4LTEiCiAgICAgICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gaGFuZGxlUnVuU2VhcmNoKHNlYXJjaC5faWQpfQogICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgPFBsYXkgY2xhc3NOYW1lPSJoLTQgdy00IG1yLTIiIC8+CiAgICAgICAgICAgICAgICAgICAgUnVuIFNlYXJjaAogICAgICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICAgICAgICAgIHZhcmlhbnQ9Im91dGxpbmUiCiAgICAgICAgICAgICAgICAgICAgc2l6ZT0iaWNvbiIKICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBoYW5kbGVFZGl0U2VhcmNoKHNlYXJjaCl9CiAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICA8RWRpdCBjbGFzc05hbWU9ImgtNCB3LTQiIC8+CiAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICAgICAgdmFyaWFudD0ib3V0bGluZSIKICAgICAgICAgICAgICAgICAgICBzaXplPSJpY29uIgogICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IGhhbmRsZURlbGV0ZVNlYXJjaChzZWFyY2guX2lkKX0KICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIDxUcmFzaDIgY2xhc3NOYW1lPSJoLTQgdy00IiAvPgogICAgICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvQ2FyZENvbnRlbnQ+CiAgICAgICAgICAgIDwvQ2FyZD4KICAgICAgICAgICkpfQogICAgICAgIDwvZGl2PgogICAgICApfQoKICAgICAgPFNhdmVTZWFyY2hNb2RhbAogICAgICAgIGlzT3Blbj17aXNNb2RhbE9wZW59CiAgICAgICAgb25DbG9zZT17KCkgPT4gewogICAgICAgICAgc2V0SXNNb2RhbE9wZW4oZmFsc2UpOwogICAgICAgICAgc2V0RWRpdGluZ1NlYXJjaChudWxsKTsKICAgICAgICB9fQogICAgICAgIHVzZXJJZD17dXNlcklkfQogICAgICAgIGV4aXN0aW5nU2VhcmNoPXtlZGl0aW5nU2VhcmNofQogICAgICAvPgogICAgPC9kaXY+CiAgKTsKfTsKCmV4cG9ydCBkZWZhdWx0IFNhdmVkU2VhcmNoZXM7Cg=="}
+import React, { useState } from "react";
+import { useQuery, useMutation } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+import { Badge } from "@/components/ui/badge";
+import { Trash2, Play, Bell, BellOff, Edit } from "lucide-react";
+import { useToast } from "@/hooks/use-toast";
+import SaveSearchModal from "./SaveSearchModal";
+import { useNavigate } from "react-router-dom";
+
+interface SavedSearchesProps {
+  userId: string;
+}
+
+const SavedSearches: React.FC<SavedSearchesProps> = ({ userId }) => {
+  const { toast } = useToast();
+  const navigate = useNavigate();
+  const [editingSearch, setEditingSearch] = useState<any>(null);
+  const [isModalOpen, setIsModalOpen] = useState(false);
+
+  const savedSearches = useQuery(api.discovery.getSavedSearches, { userId });
+  const deleteSearch = useMutation(api.discovery.deleteSavedSearch);
+  const updateSearch = useMutation(api.discovery.updateSavedSearch);
+
+  const handleDeleteSearch = async (searchId: string) => {
+    try {
+      await deleteSearch({ userId, searchId });
+      toast({
+        title: "Search deleted",
+        description: "Your saved search has been removed.",
+      });
+    } catch (error: any) {
+      toast({
+        title: "Error",
+        description: error.message,
+        variant: "destructive",
+      });
+    }
+  };
+
+  const handleToggleNotifications = async (search: any) => {
+    try {
+      await updateSearch({
+        userId,
+        searchId: search._id,
+        notificationsEnabled: !search.notificationsEnabled,
+      });
+      toast({
+        title: search.notificationsEnabled ? "Notifications disabled" : "Notifications enabled",
+        description: search.notificationsEnabled
+          ? "You won't receive alerts for new matches"
+          : "You'll receive alerts when new profiles match this search",
+      });
+    } catch (error: any) {
+      toast({
+        title: "Error",
+        description: error.message,
+        variant: "destructive",
+      });
+    }
+  };
+
+  const handleRunSearch = (searchId: string) => {
+    navigate(`/discover?savedSearchId=${searchId}`);
+  };
+
+  const handleEditSearch = (search: any) => {
+    setEditingSearch(search);
+    setIsModalOpen(true);
+  };
+
+  if (!savedSearches) {
+    return (
+      <div className="space-y-4">
+        <div className="h-32 bg-gray-100 dark:bg-gray-800 animate-pulse rounded-lg" />
+        <div className="h-32 bg-gray-100 dark:bg-gray-800 animate-pulse rounded-lg" />
+      </div>
+    );
+  }
+
+  return (
+    <div className="space-y-4">
+      <div className="flex items-center justify-between">
+        <div>
+          <h2 className="text-2xl font-bold">Saved Searches</h2>
+          <p className="text-sm text-muted-foreground">
+            Quick access to your favorite search filters
+          </p>
+        </div>
+        <Button onClick={() => {
+          setEditingSearch(null);
+          setIsModalOpen(true);
+        }}>
+          Save Current Search
+        </Button>
+      </div>
+
+      {savedSearches.length === 0 ? (
+        <Card>
+          <CardContent className="py-8 text-center">
+            <p className="text-muted-foreground mb-4">
+              You haven't saved any searches yet.
+            </p>
+            <p className="text-sm text-muted-foreground mb-6">
+              Save your favorite search filters for quick access later!
+            </p>
+            <Button onClick={() => setIsModalOpen(true)}>
+              Create Your First Search
+            </Button>
+          </CardContent>
+        </Card>
+      ) : (
+        <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+          {savedSearches.map((search) => (
+            <Card key={search._id} className="hover:shadow-lg transition-shadow">
+              <CardHeader>
+                <div className="flex items-start justify-between">
+                  <div className="flex-1">
+                    <CardTitle className="text-lg">{search.name}</CardTitle>
+                    <CardDescription className="mt-2 space-y-1">
+                      <div className="flex flex-wrap gap-2 mt-2">
+                        <Badge variant="secondary">
+                          Age {search.filters.minAge}-{search.filters.maxAge}
+                        </Badge>
+                        <Badge variant="secondary">
+                          {search.filters.maxDistance}km
+                        </Badge>
+                        <Badge variant="secondary">
+                          {search.filters.genderPreference.join(", ")}
+                        </Badge>
+                      </div>
+                      {search.newMatchesCount > 0 && (
+                        <Badge variant="default" className="mt-2">
+                          {search.newMatchesCount} new matches
+                        </Badge>
+                      )}
+                    </CardDescription>
+                  </div>
+                  <Button
+                    variant="ghost"
+                    size="icon"
+                    onClick={() => handleToggleNotifications(search)}
+                    className="ml-2"
+                  >
+                    {search.notificationsEnabled ? (
+                      <Bell className="h-4 w-4" />
+                    ) : (
+                      <BellOff className="h-4 w-4 text-muted-foreground" />
+                    )}
+                  </Button>
+                </div>
+              </CardHeader>
+              <CardContent className="space-y-2">
+                <div className="flex gap-2">
+                  <Button
+                    className="flex-1"
+                    onClick={() => handleRunSearch(search._id)}
+                  >
+                    <Play className="h-4 w-4 mr-2" />
+                    Run Search
+                  </Button>
+                  <Button
+                    variant="outline"
+                    size="icon"
+                    onClick={() => handleEditSearch(search)}
+                  >
+                    <Edit className="h-4 w-4" />
+                  </Button>
+                  <Button
+                    variant="outline"
+                    size="icon"
+                    onClick={() => handleDeleteSearch(search._id)}
+                  >
+                    <Trash2 className="h-4 w-4" />
+                  </Button>
+                </div>
+              </CardContent>
+            </Card>
+          ))}
+        </div>
+      )}
+
+      <SaveSearchModal
+        isOpen={isModalOpen}
+        onClose={() => {
+          setIsModalOpen(false);
+          setEditingSearch(null);
+        }}
+        userId={userId}
+        existingSearch={editingSearch}
+      />
+    </div>
+  );
+};
+
+export default SavedSearches;

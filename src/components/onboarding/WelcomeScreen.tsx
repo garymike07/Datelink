@@ -1,1 +1,88 @@
-{"data":"aW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2J1dHRvbiI7CmltcG9ydCB7IENhcmQsIENhcmRDb250ZW50IH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2NhcmQiOwppbXBvcnQgeyBIZWFydCwgVXNlcnMsIE1lc3NhZ2VDaXJjbGUsIFNoaWVsZCB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CgppbnRlcmZhY2UgV2VsY29tZVNjcmVlblByb3BzIHsKICBvblN0YXJ0OiAoKSA9PiB2b2lkOwp9CgpleHBvcnQgY29uc3QgV2VsY29tZVNjcmVlbiA9ICh7IG9uU3RhcnQgfTogV2VsY29tZVNjcmVlblByb3BzKSA9PiB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJtaW4taC1zY3JlZW4gZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgYmctZ3JhZGllbnQtdG8tYnIgZnJvbS1yb3NlLTUwIHRvLXBpbmstNTAgZGFyazpmcm9tLWdyYXktOTAwIGRhcms6dG8tZ3JheS04MDAgcC00Ij4KICAgICAgPENhcmQgY2xhc3NOYW1lPSJtYXgtdy0yeGwgdy1mdWxsIHNoYWRvdy14bCI+CiAgICAgICAgPENhcmRDb250ZW50IGNsYXNzTmFtZT0icC04Ij4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LWNlbnRlciBtYi04Ij4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImlubGluZS1mbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciB3LTIwIGgtMjAgYmctZ3JhZGllbnQtdG8tYnIgZnJvbS1yb3NlLTUwMCB0by1waW5rLTYwMCByb3VuZGVkLWZ1bGwgbWItNCI+CiAgICAgICAgICAgICAgPEhlYXJ0IGNsYXNzTmFtZT0idy0xMCBoLTEwIHRleHQtd2hpdGUgZmlsbC13aGl0ZSIgLz4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxoMSBjbGFzc05hbWU9InRleHQtNHhsIGZvbnQtYm9sZCBtYi0yIGJnLWdyYWRpZW50LXRvLXIgZnJvbS1yb3NlLTYwMCB0by1waW5rLTYwMCBiZy1jbGlwLXRleHQgdGV4dC10cmFuc3BhcmVudCI+CiAgICAgICAgICAgICAgV2VsY29tZSB0byBEYXRlTGluayEKICAgICAgICAgICAgPC9oMT4KICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LWxnIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+CiAgICAgICAgICAgICAgTGV0J3MgY3JlYXRlIHlvdXIgcHJvZmlsZSBhbmQgc3RhcnQgeW91ciBqb3VybmV5IHRvIGZpbmRpbmcgbWVhbmluZ2Z1bCBjb25uZWN0aW9ucwogICAgICAgICAgICA8L3A+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBtZDpncmlkLWNvbHMtMiBnYXAtNiBtYi04Ij4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtc3RhcnQgc3BhY2UteC0zIj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleC1zaHJpbmstMCB3LTEwIGgtMTAgYmctcm9zZS0xMDAgZGFyazpiZy1yb3NlLTkwMC8zMCByb3VuZGVkLWxnIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIj4KICAgICAgICAgICAgICAgIDxVc2VycyBjbGFzc05hbWU9InctNSBoLTUgdGV4dC1yb3NlLTYwMCBkYXJrOnRleHQtcm9zZS00MDAiIC8+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgIDxoMyBjbGFzc05hbWU9ImZvbnQtc2VtaWJvbGQgbWItMSI+RGlzY292ZXIgTWF0Y2hlczwvaDM+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgICAgICAgRmluZCBwZW9wbGUgd2hvIHNoYXJlIHlvdXIgaW50ZXJlc3RzIGFuZCB2YWx1ZXMKICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1zdGFydCBzcGFjZS14LTMiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4LXNocmluay0wIHctMTAgaC0xMCBiZy1ibHVlLTEwMCBkYXJrOmJnLWJsdWUtOTAwLzMwIHJvdW5kZWQtbGcgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIiPgogICAgICAgICAgICAgICAgPE1lc3NhZ2VDaXJjbGUgY2xhc3NOYW1lPSJ3LTUgaC01IHRleHQtYmx1ZS02MDAgZGFyazp0ZXh0LWJsdWUtNDAwIiAvPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJmb250LXNlbWlib2xkIG1iLTEiPkNvbm5lY3QgSW5zdGFudGx5PC9oMz4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgICAgICAgICBDaGF0LCBjYWxsLCBhbmQgYnVpbGQgcmVhbCBjb25uZWN0aW9ucwogICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLXN0YXJ0IHNwYWNlLXgtMyI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXgtc2hyaW5rLTAgdy0xMCBoLTEwIGJnLWdyZWVuLTEwMCBkYXJrOmJnLWdyZWVuLTkwMC8zMCByb3VuZGVkLWxnIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIj4KICAgICAgICAgICAgICAgIDxTaGllbGQgY2xhc3NOYW1lPSJ3LTUgaC01IHRleHQtZ3JlZW4tNjAwIGRhcms6dGV4dC1ncmVlbi00MDAiIC8+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgIDxoMyBjbGFzc05hbWU9ImZvbnQtc2VtaWJvbGQgbWItMSI+U2FmZSAmIFNlY3VyZTwvaDM+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgICAgICAgWW91ciBwcml2YWN5IGFuZCBzYWZldHkgYXJlIG91ciB0b3AgcHJpb3JpdHkKICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1zdGFydCBzcGFjZS14LTMiPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4LXNocmluay0wIHctMTAgaC0xMCBiZy1wdXJwbGUtMTAwIGRhcms6YmctcHVycGxlLTkwMC8zMCByb3VuZGVkLWxnIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIj4KICAgICAgICAgICAgICAgIDxIZWFydCBjbGFzc05hbWU9InctNSBoLTUgdGV4dC1wdXJwbGUtNjAwIGRhcms6dGV4dC1wdXJwbGUtNDAwIiAvPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJmb250LXNlbWlib2xkIG1iLTEiPkF1dGhlbnRpYyBQcm9maWxlczwvaDM+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgICAgICAgVmVyaWZpZWQgdXNlcnMgbG9va2luZyBmb3IgZ2VudWluZSByZWxhdGlvbnNoaXBzCiAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktNCI+CiAgICAgICAgICAgIDxCdXR0b24gb25DbGljaz17b25TdGFydH0gc2l6ZT0ibGciIGNsYXNzTmFtZT0idy1mdWxsIHRleHQtbGcgaC0xMiI+CiAgICAgICAgICAgICAgTGV0J3MgR2V0IFN0YXJ0ZWQKICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LWNlbnRlciB0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgICAgIFRha2VzIGFib3V0IDUgbWludXRlcyB0byBjb21wbGV0ZSDigKIgWW91IGNhbiBzYXZlIGFuZCBjb250aW51ZSBsYXRlcgogICAgICAgICAgICA8L3A+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L0NhcmRDb250ZW50PgogICAgICA8L0NhcmQ+CiAgICA8L2Rpdj4KICApOwp9Owo="}
+import { Button } from "@/components/ui/button";
+import { Card, CardContent } from "@/components/ui/card";
+import { Heart, Users, MessageCircle, Shield } from "lucide-react";
+
+interface WelcomeScreenProps {
+  onStart: () => void;
+}
+
+export const WelcomeScreen = ({ onStart }: WelcomeScreenProps) => {
+  return (
+    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-rose-50 to-pink-50 dark:from-gray-900 dark:to-gray-800 p-4">
+      <Card className="max-w-2xl w-full shadow-xl">
+        <CardContent className="p-8">
+          <div className="text-center mb-8">
+            <div className="inline-flex items-center justify-center w-20 h-20 bg-gradient-to-br from-rose-500 to-pink-600 rounded-full mb-4">
+              <Heart className="w-10 h-10 text-white fill-white" />
+            </div>
+            <h1 className="text-4xl font-bold mb-2 bg-gradient-to-r from-rose-600 to-pink-600 bg-clip-text text-transparent">
+              Welcome to DateLink!
+            </h1>
+            <p className="text-lg text-muted-foreground">
+              Let's create your profile and start your journey to finding meaningful connections
+            </p>
+          </div>
+
+          <div className="grid md:grid-cols-2 gap-6 mb-8">
+            <div className="flex items-start space-x-3">
+              <div className="flex-shrink-0 w-10 h-10 bg-rose-100 dark:bg-rose-900/30 rounded-lg flex items-center justify-center">
+                <Users className="w-5 h-5 text-rose-600 dark:text-rose-400" />
+              </div>
+              <div>
+                <h3 className="font-semibold mb-1">Discover Matches</h3>
+                <p className="text-sm text-muted-foreground">
+                  Find people who share your interests and values
+                </p>
+              </div>
+            </div>
+
+            <div className="flex items-start space-x-3">
+              <div className="flex-shrink-0 w-10 h-10 bg-blue-100 dark:bg-blue-900/30 rounded-lg flex items-center justify-center">
+                <MessageCircle className="w-5 h-5 text-blue-600 dark:text-blue-400" />
+              </div>
+              <div>
+                <h3 className="font-semibold mb-1">Connect Instantly</h3>
+                <p className="text-sm text-muted-foreground">
+                  Chat, call, and build real connections
+                </p>
+              </div>
+            </div>
+
+            <div className="flex items-start space-x-3">
+              <div className="flex-shrink-0 w-10 h-10 bg-green-100 dark:bg-green-900/30 rounded-lg flex items-center justify-center">
+                <Shield className="w-5 h-5 text-green-600 dark:text-green-400" />
+              </div>
+              <div>
+                <h3 className="font-semibold mb-1">Safe & Secure</h3>
+                <p className="text-sm text-muted-foreground">
+                  Your privacy and safety are our top priority
+                </p>
+              </div>
+            </div>
+
+            <div className="flex items-start space-x-3">
+              <div className="flex-shrink-0 w-10 h-10 bg-purple-100 dark:bg-purple-900/30 rounded-lg flex items-center justify-center">
+                <Heart className="w-5 h-5 text-purple-600 dark:text-purple-400" />
+              </div>
+              <div>
+                <h3 className="font-semibold mb-1">Authentic Profiles</h3>
+                <p className="text-sm text-muted-foreground">
+                  Verified users looking for genuine relationships
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div className="space-y-4">
+            <Button onClick={onStart} size="lg" className="w-full text-lg h-12">
+              Let's Get Started
+            </Button>
+            <p className="text-xs text-center text-muted-foreground">
+              Takes about 5 minutes to complete • You can save and continue later
+            </p>
+          </div>
+        </CardContent>
+      </Card>
+    </div>
+  );
+};

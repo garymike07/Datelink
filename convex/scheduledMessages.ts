@@ -1,1 +1,125 @@
-{"data":"aW1wb3J0IHsgbXV0YXRpb24sIHF1ZXJ5IH0gZnJvbSAiLi9fZ2VuZXJhdGVkL3NlcnZlciI7CmltcG9ydCB7IHYgfSBmcm9tICJjb252ZXgvdmFsdWVzIjsKaW1wb3J0IHsgaXNVc2VyUHJlbWl1bSB9IGZyb20gIi4vc3Vic2NyaXB0aW9ucyI7CgpleHBvcnQgY29uc3Qgc2NoZWR1bGVNZXNzYWdlID0gbXV0YXRpb24oewogIGFyZ3M6IHsKICAgIG1hdGNoSWQ6IHYuaWQoIm1hdGNoZXMiKSwKICAgIHNlbmRlcklkOiB2LmlkKCJ1c2VycyIpLAogICAgYm9keTogdi5zdHJpbmcoKSwKICAgIHNjaGVkdWxlZEZvcjogdi5udW1iZXIoKSwKICAgIHR5cGU6IHYub3B0aW9uYWwodi51bmlvbih2LmxpdGVyYWwoInRleHQiKSwgdi5saXRlcmFsKCJnaWYiKSwgdi5saXRlcmFsKCJ2b2ljZSIpLCB2LmxpdGVyYWwoInBob3RvIikpKSwKICAgIG1ldGFkYXRhOiB2Lm9wdGlvbmFsKAogICAgICB2Lm9iamVjdCh7CiAgICAgICAgZ2lmVXJsOiB2Lm9wdGlvbmFsKHYuc3RyaW5nKCkpLAogICAgICAgIHZvaWNlVXJsOiB2Lm9wdGlvbmFsKHYuc3RyaW5nKCkpLAogICAgICAgIHZvaWNlRHVyYXRpb246IHYub3B0aW9uYWwodi5udW1iZXIoKSksCiAgICAgICAgcGhvdG9Vcmw6IHYub3B0aW9uYWwodi5zdHJpbmcoKSksCiAgICAgIH0pCiAgICApLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3QgcHJlbWl1bSA9IGF3YWl0IGlzVXNlclByZW1pdW0oY3R4LCBhcmdzLnNlbmRlcklkKTsKICAgIGlmICghcHJlbWl1bSkgdGhyb3cgbmV3IEVycm9yKCJQcmVtaXVtIHJlcXVpcmVkIHRvIHNjaGVkdWxlIG1lc3NhZ2VzIik7CgogICAgY29uc3QgbWF0Y2ggPSBhd2FpdCBjdHguZGIuZ2V0KGFyZ3MubWF0Y2hJZCk7CiAgICBpZiAoIW1hdGNoKSB0aHJvdyBuZXcgRXJyb3IoIk1hdGNoIG5vdCBmb3VuZCIpOwogICAgaWYgKG1hdGNoLnVzZXIxSWQgIT09IGFyZ3Muc2VuZGVySWQgJiYgbWF0Y2gudXNlcjJJZCAhPT0gYXJncy5zZW5kZXJJZCkgewogICAgICB0aHJvdyBuZXcgRXJyb3IoIlVuYXV0aG9yaXplZDogbm90IHBhcnQgb2YgdGhpcyBtYXRjaCIpOwogICAgfQoKICAgIGNvbnN0IG5vdyA9IERhdGUubm93KCk7CiAgICBpZiAoYXJncy5zY2hlZHVsZWRGb3IgPD0gbm93KSB0aHJvdyBuZXcgRXJyb3IoInNjaGVkdWxlZEZvciBtdXN0IGJlIGluIHRoZSBmdXR1cmUiKTsKCiAgICBjb25zdCBpZCA9IGF3YWl0IGN0eC5kYi5pbnNlcnQoInNjaGVkdWxlZE1lc3NhZ2VzIiwgewogICAgICBtYXRjaElkOiBhcmdzLm1hdGNoSWQsCiAgICAgIHNlbmRlcklkOiBhcmdzLnNlbmRlcklkLAogICAgICBib2R5OiBhcmdzLmJvZHksCiAgICAgIHR5cGU6IGFyZ3MudHlwZSA/PyAidGV4dCIsCiAgICAgIG1ldGFkYXRhOiBhcmdzLm1ldGFkYXRhLAogICAgICBzY2hlZHVsZWRGb3I6IGFyZ3Muc2NoZWR1bGVkRm9yLAogICAgICBzZW50OiBmYWxzZSwKICAgICAgc2VudEF0OiB1bmRlZmluZWQsCiAgICAgIGNyZWF0ZWRBdDogbm93LAogICAgfSk7CgogICAgcmV0dXJuIHsgc2NoZWR1bGVkTWVzc2FnZUlkOiBpZCB9OwogIH0sCn0pOwoKLy8gQmVzdC1lZmZvcnQgc2VuZGVyLXNpZGUgZGVsaXZlcnk6IGNsaWVudCBjYW4gY2FsbCBwZXJpb2RpY2FsbHkgdG8gZGVsaXZlciBkdWUgbWVzc2FnZXMuCmV4cG9ydCBjb25zdCBzZW5kRHVlU2NoZWR1bGVkTWVzc2FnZXMgPSBtdXRhdGlvbih7CiAgYXJnczogeyB1c2VySWQ6IHYuaWQoInVzZXJzIiksIGxpbWl0OiB2Lm9wdGlvbmFsKHYubnVtYmVyKCkpIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3QgcHJlbWl1bSA9IGF3YWl0IGlzVXNlclByZW1pdW0oY3R4LCBhcmdzLnVzZXJJZCk7CiAgICBpZiAoIXByZW1pdW0pIHRocm93IG5ldyBFcnJvcigiUHJlbWl1bSByZXF1aXJlZCIpOwoKICAgIGNvbnN0IG5vdyA9IERhdGUubm93KCk7CiAgICBjb25zdCBsaW1pdCA9IGFyZ3MubGltaXQgPz8gMjU7CgogICAgY29uc3QgZHVlID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgic2NoZWR1bGVkTWVzc2FnZXMiKQogICAgICAud2l0aEluZGV4KCJkdWUiLCAocSkgPT4gcS5lcSgic2VudCIsIGZhbHNlKS5sdCgic2NoZWR1bGVkRm9yIiwgbm93KSkKICAgICAgLnRha2UobGltaXQpOwoKICAgIGxldCBzZW50Q291bnQgPSAwOwogICAgZm9yIChjb25zdCBpdGVtIG9mIGR1ZSkgewogICAgICBpZiAoaXRlbS5zZW5kZXJJZCAhPT0gYXJncy51c2VySWQpIGNvbnRpbnVlOwoKICAgICAgY29uc3QgbWF0Y2ggPSBhd2FpdCBjdHguZGIuZ2V0KGl0ZW0ubWF0Y2hJZCk7CiAgICAgIGlmICghbWF0Y2gpIGNvbnRpbnVlOwogICAgICBpZiAobWF0Y2gudXNlcjFJZCAhPT0gYXJncy51c2VySWQgJiYgbWF0Y2gudXNlcjJJZCAhPT0gYXJncy51c2VySWQpIGNvbnRpbnVlOwoKICAgICAgY29uc3QgcmVjZWl2ZXJJZCA9IG1hdGNoLnVzZXIxSWQgPT09IGFyZ3MudXNlcklkID8gbWF0Y2gudXNlcjJJZCA6IG1hdGNoLnVzZXIxSWQ7CiAgICAgIGNvbnN0IGNyZWF0ZWRBdCA9IGl0ZW0uc2NoZWR1bGVkRm9yOwoKICAgICAgYXdhaXQgY3R4LmRiLmluc2VydCgibWVzc2FnZXMiLCB7CiAgICAgICAgbWF0Y2hJZDogaXRlbS5tYXRjaElkLAogICAgICAgIHNlbmRlcklkOiBhcmdzLnVzZXJJZCwKICAgICAgICByZWNlaXZlcklkLAogICAgICAgIGJvZHk6IGl0ZW0uYm9keSwKICAgICAgICB0eXBlOiBpdGVtLnR5cGUgPz8gInRleHQiLAogICAgICAgIG1ldGFkYXRhOiBpdGVtLm1ldGFkYXRhLAogICAgICAgIGRlbGl2ZXJlZEF0OiBjcmVhdGVkQXQsCiAgICAgICAgaXNSZWFkOiBmYWxzZSwKICAgICAgICByZWFkQXQ6IHVuZGVmaW5lZCwKICAgICAgICBpc0RlbGV0ZWQ6IGZhbHNlLAogICAgICAgIGNyZWF0ZWRBdCwKICAgICAgfSBhcyBhbnkpOwoKICAgICAgYXdhaXQgY3R4LmRiLnBhdGNoKG1hdGNoLl9pZCwgewogICAgICAgIGxhc3RNZXNzYWdlQXQ6IGNyZWF0ZWRBdCwKICAgICAgICB1c2VyMVVucmVhZDogbWF0Y2gudXNlcjFJZCA9PT0gYXJncy51c2VySWQgPyBtYXRjaC51c2VyMVVucmVhZCA6IG1hdGNoLnVzZXIxVW5yZWFkICsgMSwKICAgICAgICB1c2VyMlVucmVhZDogbWF0Y2gudXNlcjFJZCA9PT0gYXJncy51c2VySWQgPyBtYXRjaC51c2VyMlVucmVhZCArIDEgOiBtYXRjaC51c2VyMlVucmVhZCwKICAgICAgfSk7CgogICAgICBhd2FpdCBjdHguZGIucGF0Y2goaXRlbS5faWQsIHsgc2VudDogdHJ1ZSwgc2VudEF0OiBub3cgfSk7CiAgICAgIHNlbnRDb3VudCsrOwogICAgfQoKICAgIHJldHVybiB7IHNlbnRDb3VudCB9OwogIH0sCn0pOwoKZXhwb3J0IGNvbnN0IGdldFNjaGVkdWxlZE1lc3NhZ2VzRm9yTWF0Y2ggPSBxdWVyeSh7CiAgYXJnczogeyBtYXRjaElkOiB2LmlkKCJtYXRjaGVzIiksIHVzZXJJZDogdi5pZCgidXNlcnMiKSB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGNvbnN0IHByZW1pdW0gPSBhd2FpdCBpc1VzZXJQcmVtaXVtKGN0eCwgYXJncy51c2VySWQpOwogICAgaWYgKCFwcmVtaXVtKSB0aHJvdyBuZXcgRXJyb3IoIlByZW1pdW0gcmVxdWlyZWQiKTsKCiAgICBjb25zdCBtYXRjaCA9IGF3YWl0IGN0eC5kYi5nZXQoYXJncy5tYXRjaElkKTsKICAgIGlmICghbWF0Y2gpIHRocm93IG5ldyBFcnJvcigiTWF0Y2ggbm90IGZvdW5kIik7CiAgICBpZiAobWF0Y2gudXNlcjFJZCAhPT0gYXJncy51c2VySWQgJiYgbWF0Y2gudXNlcjJJZCAhPT0gYXJncy51c2VySWQpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCJVbmF1dGhvcml6ZWQ6IG5vdCBwYXJ0IG9mIHRoaXMgbWF0Y2giKTsKICAgIH0KCiAgICBjb25zdCBpdGVtcyA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoInNjaGVkdWxlZE1lc3NhZ2VzIikKICAgICAgLndpdGhJbmRleCgibWF0Y2hJZCIsIChxKSA9PiBxLmVxKCJtYXRjaElkIiwgYXJncy5tYXRjaElkKSkKICAgICAgLmNvbGxlY3QoKTsKCiAgICByZXR1cm4gaXRlbXMKICAgICAgLmZpbHRlcigoaSkgPT4gaS5zZW5kZXJJZCA9PT0gYXJncy51c2VySWQpCiAgICAgIC5zb3J0KChhLCBiKSA9PiBhLnNjaGVkdWxlZEZvciAtIGIuc2NoZWR1bGVkRm9yKTsKICB9LAp9KTsK"}
+import { mutation, query } from "./_generated/server";
+import { v } from "convex/values";
+import { isUserPremium } from "./subscriptions";
+
+export const scheduleMessage = mutation({
+  args: {
+    matchId: v.id("matches"),
+    senderId: v.id("users"),
+    body: v.string(),
+    scheduledFor: v.number(),
+    type: v.optional(v.union(v.literal("text"), v.literal("gif"), v.literal("voice"), v.literal("photo"))),
+    metadata: v.optional(
+      v.object({
+        gifUrl: v.optional(v.string()),
+        voiceUrl: v.optional(v.string()),
+        voiceDuration: v.optional(v.number()),
+        photoUrl: v.optional(v.string()),
+      })
+    ),
+  },
+  handler: async (ctx, args) => {
+    const premium = await isUserPremium(ctx, args.senderId);
+    if (!premium) throw new Error("Premium required to schedule messages");
+
+    const match = await ctx.db.get(args.matchId);
+    if (!match) throw new Error("Match not found");
+    if (match.user1Id !== args.senderId && match.user2Id !== args.senderId) {
+      throw new Error("Unauthorized: not part of this match");
+    }
+
+    const now = Date.now();
+    if (args.scheduledFor <= now) throw new Error("scheduledFor must be in the future");
+
+    const id = await ctx.db.insert("scheduledMessages", {
+      matchId: args.matchId,
+      senderId: args.senderId,
+      body: args.body,
+      type: args.type ?? "text",
+      metadata: args.metadata,
+      scheduledFor: args.scheduledFor,
+      sent: false,
+      sentAt: undefined,
+      createdAt: now,
+    });
+
+    return { scheduledMessageId: id };
+  },
+});
+
+// Best-effort sender-side delivery: client can call periodically to deliver due messages.
+export const sendDueScheduledMessages = mutation({
+  args: { userId: v.id("users"), limit: v.optional(v.number()) },
+  handler: async (ctx, args) => {
+    const premium = await isUserPremium(ctx, args.userId);
+    if (!premium) throw new Error("Premium required");
+
+    const now = Date.now();
+    const limit = args.limit ?? 25;
+
+    const due = await ctx.db
+      .query("scheduledMessages")
+      .withIndex("due", (q) => q.eq("sent", false).lt("scheduledFor", now))
+      .take(limit);
+
+    let sentCount = 0;
+    for (const item of due) {
+      if (item.senderId !== args.userId) continue;
+
+      const match = await ctx.db.get(item.matchId);
+      if (!match) continue;
+      if (match.user1Id !== args.userId && match.user2Id !== args.userId) continue;
+
+      const receiverId = match.user1Id === args.userId ? match.user2Id : match.user1Id;
+      const createdAt = item.scheduledFor;
+
+      await ctx.db.insert("messages", {
+        matchId: item.matchId,
+        senderId: args.userId,
+        receiverId,
+        body: item.body,
+        type: item.type ?? "text",
+        metadata: item.metadata,
+        deliveredAt: createdAt,
+        isRead: false,
+        readAt: undefined,
+        isDeleted: false,
+        createdAt,
+      } as any);
+
+      await ctx.db.patch(match._id, {
+        lastMessageAt: createdAt,
+        user1Unread: match.user1Id === args.userId ? match.user1Unread : match.user1Unread + 1,
+        user2Unread: match.user1Id === args.userId ? match.user2Unread + 1 : match.user2Unread,
+      });
+
+      await ctx.db.patch(item._id, { sent: true, sentAt: now });
+      sentCount++;
+    }
+
+    return { sentCount };
+  },
+});
+
+export const getScheduledMessagesForMatch = query({
+  args: { matchId: v.id("matches"), userId: v.id("users") },
+  handler: async (ctx, args) => {
+    const premium = await isUserPremium(ctx, args.userId);
+    if (!premium) throw new Error("Premium required");
+
+    const match = await ctx.db.get(args.matchId);
+    if (!match) throw new Error("Match not found");
+    if (match.user1Id !== args.userId && match.user2Id !== args.userId) {
+      throw new Error("Unauthorized: not part of this match");
+    }
+
+    const items = await ctx.db
+      .query("scheduledMessages")
+      .withIndex("matchId", (q) => q.eq("matchId", args.matchId))
+      .collect();
+
+    return items
+      .filter((i) => i.senderId === args.userId)
+      .sort((a, b) => a.scheduledFor - b.scheduledFor);
+  },
+});

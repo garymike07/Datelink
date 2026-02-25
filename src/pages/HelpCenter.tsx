@@ -1,1 +1,71 @@
-{"data":"aW1wb3J0IHsgTGluayB9IGZyb20gInJlYWN0LXJvdXRlci1kb20iOwppbXBvcnQgeyBDYXJkIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2NhcmQiOwppbXBvcnQgeyBCdXR0b24gfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvYnV0dG9uIjsKCmNvbnN0IEhlbHBDZW50ZXIgPSAoKSA9PiB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJtaW4taC1zY3JlZW4gYmctYmFja2dyb3VuZCI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb250YWluZXIgbXgtYXV0byBweC0zIHNtOnB4LTQgcHktNiBzbTpweS04IG1heC13LTV4bCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiBnYXAtMyBtYi02Ij4KICAgICAgICAgIDxMaW5rIHRvPSIvIj4KICAgICAgICAgICAgPEJ1dHRvbiB2YXJpYW50PSJnaG9zdCI+QmFjayB0byBIb21lPC9CdXR0b24+CiAgICAgICAgICA8L0xpbms+CiAgICAgICAgICA8TGluayB0bz0iL2NvbnRhY3QiPgogICAgICAgICAgICA8QnV0dG9uPkNvbnRhY3QgU3VwcG9ydDwvQnV0dG9uPgogICAgICAgICAgPC9MaW5rPgogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWItOCI+CiAgICAgICAgICA8aDEgY2xhc3NOYW1lPSJ0ZXh0LTN4bCBzbTp0ZXh0LTR4bCBmb250LWhlYWRpbmcgZm9udC1leHRyYWJvbGQgdHJhY2tpbmctdGlnaHQiPkhlbHAgQ2VudGVyPC9oMT4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1tdXRlZC1mb3JlZ3JvdW5kIG10LTIgbWF4LXctMnhsIj4KICAgICAgICAgICAgUXVpY2sgYW5zd2VycyB0byBjb21tb24gcXVlc3Rpb25zLCBwbHVzIGxpbmtzIHRvIHNhZmV0eSwgcG9saWNpZXMsIGFuZCBzdXBwb3J0LgogICAgICAgICAgPC9wPgogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBnYXAtNCBtZDpncmlkLWNvbHMtMiI+CiAgICAgICAgICA8Q2FyZCBjbGFzc05hbWU9InAtNiI+CiAgICAgICAgICAgIDxoMiBjbGFzc05hbWU9ImZvbnQtc2VtaWJvbGQiPkdldHRpbmcgc3RhcnRlZDwvaDI+CiAgICAgICAgICAgIDx1bCBjbGFzc05hbWU9Im10LTMgbGlzdC1kaXNjIHBsLTYgc3BhY2UteS0yIHRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgICA8bGk+Q3JlYXRlIGFuIGFjY291bnQgYW5kIGNvbXBsZXRlIHlvdXIgcHJvZmlsZTwvbGk+CiAgICAgICAgICAgICAgPGxpPkFkZCBjbGVhciwgcmVjZW50IHBob3RvczwvbGk+CiAgICAgICAgICAgICAgPGxpPlVzZSBEaXNjb3ZlciB0byBzdGFydCBtYXRjaGluZzwvbGk+CiAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICA8L0NhcmQ+CiAgICAgICAgICA8Q2FyZCBjbGFzc05hbWU9InAtNiI+CiAgICAgICAgICAgIDxoMiBjbGFzc05hbWU9ImZvbnQtc2VtaWJvbGQiPkFjY291bnQgJiBwcml2YWN5PC9oMj4KICAgICAgICAgICAgPHVsIGNsYXNzTmFtZT0ibXQtMyBsaXN0LWRpc2MgcGwtNiBzcGFjZS15LTIgdGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgICAgIDxsaT5SZXZpZXcgd2hhdCB3ZSBjb2xsZWN0IGFuZCBob3cgd2UgdXNlIGl0PC9saT4KICAgICAgICAgICAgICA8bGk+TGVhcm4gaG93IHRvIGV4cG9ydCBvciBkZWxldGUgeW91ciBkYXRhPC9saT4KICAgICAgICAgICAgICA8bGk+VW5kZXJzdGFuZCBjb29raWVzIGFuZCBwcmVmZXJlbmNlczwvbGk+CiAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC00IGZsZXggZmxleC13cmFwIGdhcC0yIj4KICAgICAgICAgICAgICA8TGluayB0bz0iL3ByaXZhY3kiPjxCdXR0b24gc2l6ZT0ic20iIHZhcmlhbnQ9Im91dGxpbmUiPlByaXZhY3kgUG9saWN5PC9CdXR0b24+PC9MaW5rPgogICAgICAgICAgICAgIDxMaW5rIHRvPSIvY29va2llcyI+PEJ1dHRvbiBzaXplPSJzbSIgdmFyaWFudD0ib3V0bGluZSI+Q29va2llIFBvbGljeTwvQnV0dG9uPjwvTGluaz4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L0NhcmQ+CiAgICAgICAgICA8Q2FyZCBjbGFzc05hbWU9InAtNiI+CiAgICAgICAgICAgIDxoMiBjbGFzc05hbWU9ImZvbnQtc2VtaWJvbGQiPlNhZmV0eSAmIHJlcG9ydGluZzwvaDI+CiAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQgbXQtMiI+CiAgICAgICAgICAgICAgSWYgc29tZW9uZSBtYWtlcyB5b3UgdW5jb21mb3J0YWJsZSwgdHJ1c3QgeW91ciBpbnN0aW5jdHMgYW5kIHJlcG9ydCB0aGVtLgogICAgICAgICAgICA8L3A+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC00IGZsZXggZmxleC13cmFwIGdhcC0yIj4KICAgICAgICAgICAgICA8TGluayB0bz0iL3NhZmV0eS1jZW50ZXIiPjxCdXR0b24gc2l6ZT0ic20iIHZhcmlhbnQ9Im91dGxpbmUiPlNhZmV0eSBDZW50ZXI8L0J1dHRvbj48L0xpbms+CiAgICAgICAgICAgICAgPExpbmsgdG89Ii9ndWlkZWxpbmVzIj48QnV0dG9uIHNpemU9InNtIiB2YXJpYW50PSJvdXRsaW5lIj5Db21tdW5pdHkgR3VpZGVsaW5lczwvQnV0dG9uPjwvTGluaz4KICAgICAgICAgICAgICA8TGluayB0bz0iL3JlcG9ydCI+PEJ1dHRvbiBzaXplPSJzbSI+UmVwb3J0IGEgUHJvYmxlbTwvQnV0dG9uPjwvTGluaz4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L0NhcmQ+CiAgICAgICAgICA8Q2FyZCBjbGFzc05hbWU9InAtNiI+CiAgICAgICAgICAgIDxoMiBjbGFzc05hbWU9ImZvbnQtc2VtaWJvbGQiPkJpbGxpbmc8L2gyPgogICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIG10LTIiPlF1ZXN0aW9ucyBhYm91dCBwYXltZW50cywgcmVmdW5kcywgb3Igc3Vic2NyaXB0aW9ucz88L3A+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC00IGZsZXggZmxleC13cmFwIGdhcC0yIj4KICAgICAgICAgICAgICA8TGluayB0bz0iL3JlZnVuZHMiPjxCdXR0b24gc2l6ZT0ic20iIHZhcmlhbnQ9Im91dGxpbmUiPlJlZnVuZCBQb2xpY3k8L0J1dHRvbj48L0xpbms+CiAgICAgICAgICAgICAgPExpbmsgdG89Ii9jb250YWN0Ij48QnV0dG9uIHNpemU9InNtIj5Db250YWN0IFN1cHBvcnQ8L0J1dHRvbj48L0xpbms+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9DYXJkPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn07CgpleHBvcnQgZGVmYXVsdCBIZWxwQ2VudGVyOwo="}
+import { Link } from "react-router-dom";
+import { Card } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+
+const HelpCenter = () => {
+  return (
+    <div className="min-h-screen bg-background">
+      <div className="container mx-auto px-3 sm:px-4 py-6 sm:py-8 max-w-5xl">
+        <div className="flex items-center justify-between gap-3 mb-6">
+          <Link to="/">
+            <Button variant="ghost">Back to Home</Button>
+          </Link>
+          <Link to="/contact">
+            <Button>Contact Support</Button>
+          </Link>
+        </div>
+
+        <div className="mb-8">
+          <h1 className="text-3xl sm:text-4xl font-heading font-extrabold tracking-tight">Help Center</h1>
+          <p className="text-muted-foreground mt-2 max-w-2xl">
+            Quick answers to common questions, plus links to safety, policies, and support.
+          </p>
+        </div>
+
+        <div className="grid gap-4 md:grid-cols-2">
+          <Card className="p-6">
+            <h2 className="font-semibold">Getting started</h2>
+            <ul className="mt-3 list-disc pl-6 space-y-2 text-sm text-muted-foreground">
+              <li>Create an account and complete your profile</li>
+              <li>Add clear, recent photos</li>
+              <li>Use Discover to start matching</li>
+            </ul>
+          </Card>
+          <Card className="p-6">
+            <h2 className="font-semibold">Account & privacy</h2>
+            <ul className="mt-3 list-disc pl-6 space-y-2 text-sm text-muted-foreground">
+              <li>Review what we collect and how we use it</li>
+              <li>Learn how to export or delete your data</li>
+              <li>Understand cookies and preferences</li>
+            </ul>
+            <div className="mt-4 flex flex-wrap gap-2">
+              <Link to="/privacy"><Button size="sm" variant="outline">Privacy Policy</Button></Link>
+              <Link to="/cookies"><Button size="sm" variant="outline">Cookie Policy</Button></Link>
+            </div>
+          </Card>
+          <Card className="p-6">
+            <h2 className="font-semibold">Safety & reporting</h2>
+            <p className="text-sm text-muted-foreground mt-2">
+              If someone makes you uncomfortable, trust your instincts and report them.
+            </p>
+            <div className="mt-4 flex flex-wrap gap-2">
+              <Link to="/safety-center"><Button size="sm" variant="outline">Safety Center</Button></Link>
+              <Link to="/guidelines"><Button size="sm" variant="outline">Community Guidelines</Button></Link>
+              <Link to="/report"><Button size="sm">Report a Problem</Button></Link>
+            </div>
+          </Card>
+          <Card className="p-6">
+            <h2 className="font-semibold">Billing</h2>
+            <p className="text-sm text-muted-foreground mt-2">Questions about payments, refunds, or subscriptions?</p>
+            <div className="mt-4 flex flex-wrap gap-2">
+              <Link to="/refunds"><Button size="sm" variant="outline">Refund Policy</Button></Link>
+              <Link to="/contact"><Button size="sm">Contact Support</Button></Link>
+            </div>
+          </Card>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default HelpCenter;

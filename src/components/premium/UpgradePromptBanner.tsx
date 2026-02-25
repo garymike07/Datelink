@@ -1,1 +1,68 @@
-{"data":"aW1wb3J0IHsgdXNlUXVlcnkgfSBmcm9tICJjb252ZXgvcmVhY3QiOwppbXBvcnQgeyBhcGkgfSBmcm9tICIuLi8uLi8uLi9jb252ZXgvX2dlbmVyYXRlZC9hcGkiOwppbXBvcnQgeyBBbGVydCwgQWxlcnREZXNjcmlwdGlvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS9hbGVydCI7CmltcG9ydCB7IEJ1dHRvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS9idXR0b24iOwppbXBvcnQgeyBTcGFya2xlcywgVXNlcnMsIEhlYXJ0LCBUcmVuZGluZ1VwLCBaYXAgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyB1c2VOYXZpZ2F0ZSB9IGZyb20gInJlYWN0LXJvdXRlci1kb20iOwppbXBvcnQgeyBJZCB9IGZyb20gIi4uLy4uLy4uL2NvbnZleC9fZ2VuZXJhdGVkL2RhdGFNb2RlbCI7CgppbnRlcmZhY2UgVXBncmFkZVByb21wdEJhbm5lclByb3BzIHsKICB1c2VySWQ6IElkPCJ1c2VycyI+Owp9CgpleHBvcnQgZnVuY3Rpb24gVXBncmFkZVByb21wdEJhbm5lcih7IHVzZXJJZCB9OiBVcGdyYWRlUHJvbXB0QmFubmVyUHJvcHMpIHsKICBjb25zdCBuYXZpZ2F0ZSA9IHVzZU5hdmlnYXRlKCk7CiAgY29uc3QgcmVjb21tZW5kYXRpb24gPSB1c2VRdWVyeSgKICAgIGFwaS5wcm9ncmVzc2l2ZURpc2Nsb3N1cmUuZ2V0VXBncmFkZVJlY29tbWVuZGF0aW9uLAogICAgeyB1c2VySWQgfQogICk7CgogIGlmICghcmVjb21tZW5kYXRpb24pIHJldHVybiBudWxsOwoKICBjb25zdCBnZXRJY29uID0gKCkgPT4gewogICAgc3dpdGNoIChyZWNvbW1lbmRhdGlvbi50eXBlKSB7CiAgICAgIGNhc2UgImxpa2VzX3dhaXRpbmciOgogICAgICAgIHJldHVybiA8SGVhcnQgY2xhc3NOYW1lPSJ3LTUgaC01IiAvPjsKICAgICAgY2FzZSAidHJpYWxfYWxtb3N0X2RvbmUiOgogICAgICAgIHJldHVybiA8U3BhcmtsZXMgY2xhc3NOYW1lPSJ3LTUgaC01IiAvPjsKICAgICAgY2FzZSAiZnJlcXVlbnRfYnV5ZXIiOgogICAgICAgIHJldHVybiA8VHJlbmRpbmdVcCBjbGFzc05hbWU9InctNSBoLTUiIC8+OwogICAgICBjYXNlICJib29zdF92aXNpYmlsaXR5IjoKICAgICAgICByZXR1cm4gPFphcCBjbGFzc05hbWU9InctNSBoLTUiIC8+OwogICAgICBkZWZhdWx0OgogICAgICAgIHJldHVybiA8VXNlcnMgY2xhc3NOYW1lPSJ3LTUgaC01IiAvPjsKICAgIH0KICB9OwoKICBjb25zdCBnZXRDb2xvciA9ICgpID0+IHsKICAgIHN3aXRjaCAocmVjb21tZW5kYXRpb24udXJnZW5jeSkgewogICAgICBjYXNlICJoaWdoIjoKICAgICAgICByZXR1cm4gImJvcmRlci1yZWQtNTAwIGJnLXJlZC01MCB0ZXh0LXJlZC05MDAiOwogICAgICBjYXNlICJtZWRpdW0iOgogICAgICAgIHJldHVybiAiYm9yZGVyLWFtYmVyLTUwMCBiZy1hbWJlci01MCB0ZXh0LWFtYmVyLTkwMCI7CiAgICAgIGRlZmF1bHQ6CiAgICAgICAgcmV0dXJuICJib3JkZXItYmx1ZS01MDAgYmctYmx1ZS01MCB0ZXh0LWJsdWUtOTAwIjsKICAgIH0KICB9OwoKICByZXR1cm4gKAogICAgPEFsZXJ0IGNsYXNzTmFtZT17YCR7Z2V0Q29sb3IoKX0gYm9yZGVyLTIgbWItNGB9PgogICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1zdGFydCBnYXAtMyI+CiAgICAgICAge2dldEljb24oKX0KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleC0xIj4KICAgICAgICAgIDxoNCBjbGFzc05hbWU9ImZvbnQtc2VtaWJvbGQgbWItMSI+e3JlY29tbWVuZGF0aW9uLnRpdGxlfTwvaDQ+CiAgICAgICAgICA8QWxlcnREZXNjcmlwdGlvbiBjbGFzc05hbWU9InRleHQtc20gbWItMyI+CiAgICAgICAgICAgIHtyZWNvbW1lbmRhdGlvbi5tZXNzYWdlfQogICAgICAgICAgPC9BbGVydERlc2NyaXB0aW9uPgogICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICBzaXplPSJzbSIKICAgICAgICAgICAgb25DbGljaz17KCkgPT4gbmF2aWdhdGUoIi91cGdyYWRlIil9CiAgICAgICAgICAgIGNsYXNzTmFtZT0iYmctZ3JhZGllbnQtdG8tciBmcm9tLXByaW1hcnkgdG8tcGluay01MDAgaG92ZXI6ZnJvbS1wcmltYXJ5LzkwIGhvdmVyOnRvLXBpbmstNTAwLzkwIgogICAgICAgICAgPgogICAgICAgICAgICB7cmVjb21tZW5kYXRpb24uY3RhfQogICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9BbGVydD4KICApOwp9Cg=="}
+import { useQuery } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import { Alert, AlertDescription } from "@/components/ui/alert";
+import { Button } from "@/components/ui/button";
+import { Sparkles, Users, Heart, TrendingUp, Zap } from "lucide-react";
+import { useNavigate } from "react-router-dom";
+import { Id } from "../../../convex/_generated/dataModel";
+
+interface UpgradePromptBannerProps {
+  userId: Id<"users">;
+}
+
+export function UpgradePromptBanner({ userId }: UpgradePromptBannerProps) {
+  const navigate = useNavigate();
+  const recommendation = useQuery(
+    api.progressiveDisclosure.getUpgradeRecommendation,
+    { userId }
+  );
+
+  if (!recommendation) return null;
+
+  const getIcon = () => {
+    switch (recommendation.type) {
+      case "likes_waiting":
+        return <Heart className="w-5 h-5" />;
+      case "trial_almost_done":
+        return <Sparkles className="w-5 h-5" />;
+      case "frequent_buyer":
+        return <TrendingUp className="w-5 h-5" />;
+      case "boost_visibility":
+        return <Zap className="w-5 h-5" />;
+      default:
+        return <Users className="w-5 h-5" />;
+    }
+  };
+
+  const getColor = () => {
+    switch (recommendation.urgency) {
+      case "high":
+        return "border-red-500 bg-red-50 text-red-900";
+      case "medium":
+        return "border-amber-500 bg-amber-50 text-amber-900";
+      default:
+        return "border-blue-500 bg-blue-50 text-blue-900";
+    }
+  };
+
+  return (
+    <Alert className={`${getColor()} border-2 mb-4`}>
+      <div className="flex items-start gap-3">
+        {getIcon()}
+        <div className="flex-1">
+          <h4 className="font-semibold mb-1">{recommendation.title}</h4>
+          <AlertDescription className="text-sm mb-3">
+            {recommendation.message}
+          </AlertDescription>
+          <Button
+            size="sm"
+            onClick={() => navigate("/upgrade")}
+            className="bg-gradient-to-r from-primary to-pink-500 hover:from-primary/90 hover:to-pink-500/90"
+          >
+            {recommendation.cta}
+          </Button>
+        </div>
+      </div>
+    </Alert>
+  );
+}

@@ -1,1 +1,19 @@
-{"data":"Ly8gVGVzdCBzY3JpcHQgdG8gY2hlY2sgbm90aWZpY2F0aW9ucwppbXBvcnQgeyBDb252ZXhIdHRwQ2xpZW50IH0gZnJvbSAiY29udmV4L2Jyb3dzZXIiOwoKY29uc3QgY2xpZW50ID0gbmV3IENvbnZleEh0dHBDbGllbnQocHJvY2Vzcy5lbnYuVklURV9DT05WRVhfVVJMIHx8ICIiKTsKCmFzeW5jIGZ1bmN0aW9uIHRlc3ROb3RpZmljYXRpb25zKCkgewogIHRyeSB7CiAgICAvLyBUaGlzIHdvdWxkIG5lZWQgYSByZWFsIHVzZXIgSUQgdG8gdGVzdAogICAgY29uc29sZS5sb2coIlRlc3Rpbmcgbm90aWZpY2F0aW9uIHF1ZXJ5IHN0cnVjdHVyZS4uLiIpOwogICAgY29uc29sZS5sb2coIkNoZWNrIHRoZSBmb2xsb3dpbmc6Iik7CiAgICBjb25zb2xlLmxvZygiMS4gQXJlIG5vdGlmaWNhdGlvbnMgYmVpbmcgY3JlYXRlZCBwcm9wZXJseT8iKTsKICAgIGNvbnNvbGUubG9nKCIyLiBJcyB0aGUgcXVlcnkgcmV0dXJuaW5nIGFsbCBub3RpZmljYXRpb25zPyIpOwogICAgY29uc29sZS5sb2coIjMuIEFyZSB0aGVyZSBhbnkgZmlsdGVycyBibG9ja2luZyBub3RpZmljYXRpb25zPyIpOwogIH0gY2F0Y2ggKGVycm9yKSB7CiAgICBjb25zb2xlLmVycm9yKCJFcnJvcjoiLCBlcnJvcik7CiAgfQp9Cgp0ZXN0Tm90aWZpY2F0aW9ucygpOwo="}
+// Test script to check notifications
+import { ConvexHttpClient } from "convex/browser";
+
+const client = new ConvexHttpClient(process.env.VITE_CONVEX_URL || "");
+
+async function testNotifications() {
+  try {
+    // This would need a real user ID to test
+    console.log("Testing notification query structure...");
+    console.log("Check the following:");
+    console.log("1. Are notifications being created properly?");
+    console.log("2. Is the query returning all notifications?");
+    console.log("3. Are there any filters blocking notifications?");
+  } catch (error) {
+    console.error("Error:", error);
+  }
+}
+
+testNotifications();

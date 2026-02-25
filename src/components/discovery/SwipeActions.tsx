@@ -1,1 +1,120 @@
-{"data":"aW1wb3J0IHsgWCwgSGVhcnQsIFN0YXIsIFJvdGF0ZUNjdywgSW5mbyB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IEJ1dHRvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS9idXR0b24iOwppbXBvcnQgeyBUb29sdGlwLCBUb29sdGlwQ29udGVudCwgVG9vbHRpcFByb3ZpZGVyLCBUb29sdGlwVHJpZ2dlciB9IGZyb20gIkAvY29tcG9uZW50cy91aS90b29sdGlwIjsKCmludGVyZmFjZSBTd2lwZUFjdGlvbnNQcm9wcyB7CiAgb25QYXNzOiAoKSA9PiB2b2lkOwogIG9uTGlrZTogKCkgPT4gdm9pZDsKICBvblN1cGVyTGlrZTogKCkgPT4gdm9pZDsKICBvbkluZm8/OiAoKSA9PiB2b2lkOwogIG9uUmV3aW5kPzogKCkgPT4gdm9pZDsgIGNhblJld2luZD86IGJvb2xlYW47CiAgaXNQcmVtaXVtPzogYm9vbGVhbjsKICBkaXNhYmxlZD86IGJvb2xlYW47fQoKZXhwb3J0IGNvbnN0IFN3aXBlQWN0aW9ucyA9ICh7CiAgb25QYXNzLAogIG9uTGlrZSwKICBvblN1cGVyTGlrZSwKICBvbkluZm8sCiAgb25SZXdpbmQsCiAgY2FuUmV3aW5kID0gZmFsc2UsCiAgaXNQcmVtaXVtID0gZmFsc2UsCiAgZGlzYWJsZWQgPSBmYWxzZSwKfTogU3dpcGVBY3Rpb25zUHJvcHMpID0+IHsKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIGdhcC0zIHctZnVsbCBweC00Ij4KICAgICAgPFRvb2x0aXBQcm92aWRlcj4KCiAgICAgICAgey8qIFJld2luZCBCdXR0b24gLSBQcmVtaXVtIG9ubHkgKi99CiAgICAgICAge29uUmV3aW5kICYmICgKICAgICAgICAgIDxUb29sdGlwPgogICAgICAgICAgICA8VG9vbHRpcFRyaWdnZXIgYXNDaGlsZD4KICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICBzaXplPSJpY29uIgogICAgICAgICAgICAgICAgZGlzYWJsZWQ9eyFjYW5SZXdpbmQgfHwgZGlzYWJsZWR9CiAgICAgICAgICAgICAgICBjbGFzc05hbWU9InctMTIgaC0xMiByb3VuZGVkLWZ1bGwgYmctd2hpdGUgdGV4dC15ZWxsb3ctNTAwIHNoYWRvdy1lbGV2YXRlZCBib3JkZXItMiBib3JkZXItdHJhbnNwYXJlbnQgaG92ZXI6Ym9yZGVyLXllbGxvdy01MDAgaG92ZXI6Ymctd2hpdGUgdHJhbnNpdGlvbi1hbGwgaG92ZXI6c2NhbGUtMTEwIGRpc2FibGVkOm9wYWNpdHktNDAgZGlzYWJsZWQ6aG92ZXI6c2NhbGUtMTAwIgogICAgICAgICAgICAgICAgb25DbGljaz17b25SZXdpbmR9CiAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgPFJvdGF0ZUNjdyBjbGFzc05hbWU9InctNiBoLTYiIC8+CiAgICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgIDwvVG9vbHRpcFRyaWdnZXI+CiAgICAgICAgICAgIDxUb29sdGlwQ29udGVudD4KICAgICAgICAgICAgICA8cD57Y2FuUmV3aW5kID8gIlVuZG8gbGFzdCBzd2lwZSIgOiBpc1ByZW1pdW0gPyAiTm8gcmVjZW50IHN3aXBlcyIgOiAiUHJlbWl1bSBmZWF0dXJlIn08L3A+CiAgICAgICAgICAgIDwvVG9vbHRpcENvbnRlbnQ+CiAgICAgICAgICA8L1Rvb2x0aXA+CiAgICAgICAgKX0KCiAgICAgICAgey8qIFBhc3MgQnV0dG9uICovfQogICAgICAgIDxUb29sdGlwPgogICAgICAgICAgPFRvb2x0aXBUcmlnZ2VyIGFzQ2hpbGQ+CiAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICBzaXplPSJpY29uIgogICAgICAgICAgICAgIGRpc2FibGVkPXtkaXNhYmxlZH0KICAgICAgICAgICAgICBjbGFzc05hbWU9InctMTYgaC0xNiByb3VuZGVkLWZ1bGwgYmctd2hpdGUgdGV4dC1kZXN0cnVjdGl2ZSBzaGFkb3ctZWxldmF0ZWQgYm9yZGVyLTIgYm9yZGVyLXRyYW5zcGFyZW50IGhvdmVyOmJvcmRlci1kZXN0cnVjdGl2ZSBob3ZlcjpiZy13aGl0ZSB0cmFuc2l0aW9uLWFsbCBob3ZlcjpzY2FsZS0xMTAgYWN0aXZlOnNjYWxlLTk1IGRpc2FibGVkOm9wYWNpdHktNDAgZ3JvdXAiCiAgICAgICAgICAgICAgb25DbGljaz17b25QYXNzfQogICAgICAgICAgICA+CiAgICAgICAgICAgICAgPFggY2xhc3NOYW1lPSJ3LTggaC04IGdyb3VwLWhvdmVyOnJvdGF0ZS05MCB0cmFuc2l0aW9uLXRyYW5zZm9ybSBkdXJhdGlvbi0zMDAiIC8+CiAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgPC9Ub29sdGlwVHJpZ2dlcj4KICAgICAgICAgIDxUb29sdGlwQ29udGVudD4KICAgICAgICAgICAgPHA+UGFzczwvcD4KICAgICAgICAgIDwvVG9vbHRpcENvbnRlbnQ+CiAgICAgICAgPC9Ub29sdGlwPgoKICAgICAgICB7LyogTGlrZSBCdXR0b24gLSBNYWluIENUQSBFbmhhbmNlZCAqL30KICAgICAgICA8VG9vbHRpcD4KICAgICAgICAgIDxUb29sdGlwVHJpZ2dlciBhc0NoaWxkPgogICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgc2l6ZT0iaWNvbiIKICAgICAgICAgICAgICBkaXNhYmxlZD17ZGlzYWJsZWR9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ3LTIwIGgtMjAgcm91bmRlZC1mdWxsIGJnLWdyYWRpZW50LXRvLWJyIGZyb20tcHJpbWFyeSB2aWEtcm9zZS01MDAgdG8tcGluay02MDAgdGV4dC13aGl0ZSBzaGFkb3ctZ2xvdy1zdHJvbmcgaG92ZXI6c2hhZG93LWdsb3ctc3Ryb25nIHRyYW5zaXRpb24tYWxsIGhvdmVyOnNjYWxlLTExMCBob3ZlcjotdHJhbnNsYXRlLXktMSBhY3RpdmU6c2NhbGUtOTUgZGlzYWJsZWQ6b3BhY2l0eS00MCByZWxhdGl2ZSBvdmVyZmxvdy1oaWRkZW4gZ3JvdXAiCiAgICAgICAgICAgICAgb25DbGljaz17b25MaWtlfQogICAgICAgICAgICA+CiAgICAgICAgICAgICAgPEhlYXJ0IGNsYXNzTmFtZT0idy0xMCBoLTEwIGZpbGwtY3VycmVudCBhbmltYXRlLXB1bHNlLXNvZnQgZ3JvdXAtaG92ZXI6c2NhbGUtMTEwIHRyYW5zaXRpb24tdHJhbnNmb3JtIHJlbGF0aXZlIHotMTAiIC8+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgYmctZ3JhZGllbnQtdG8tciBmcm9tLXRyYW5zcGFyZW50IHZpYS13aGl0ZS8yMCB0by10cmFuc3BhcmVudCB0cmFuc2xhdGUteC1bLTIwMCVdIGdyb3VwLWhvdmVyOnRyYW5zbGF0ZS14LVsyMDAlXSB0cmFuc2l0aW9uLXRyYW5zZm9ybSBkdXJhdGlvbi0xMDAwIiAvPgogICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgIDwvVG9vbHRpcFRyaWdnZXI+CiAgICAgICAgICA8VG9vbHRpcENvbnRlbnQ+CiAgICAgICAgICAgIDxwPkxpa2U8L3A+CiAgICAgICAgICA8L1Rvb2x0aXBDb250ZW50PgogICAgICAgIDwvVG9vbHRpcD4KCiAgICAgICAgey8qIFN1cGVyIExpa2UgQnV0dG9uICovfQogICAgICAgIDxUb29sdGlwPgogICAgICAgICAgPFRvb2x0aXBUcmlnZ2VyIGFzQ2hpbGQ+CiAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICBzaXplPSJpY29uIgogICAgICAgICAgICAgIGRpc2FibGVkPXtkaXNhYmxlZH0KICAgICAgICAgICAgICBjbGFzc05hbWU9InctMTYgaC0xNiByb3VuZGVkLWZ1bGwgYmctZ3JhZGllbnQtdG8tYnIgZnJvbS1ibHVlLTUwMCB2aWEtY3lhbi01MDAgdG8tYmx1ZS02MDAgdGV4dC13aGl0ZSBzaGFkb3ctbGcgc2hhZG93LWJsdWUtNTAwLzMwIGhvdmVyOnNoYWRvdy14bCBob3ZlcjpzaGFkb3ctYmx1ZS01MDAvNTAgdHJhbnNpdGlvbi1hbGwgaG92ZXI6c2NhbGUtMTEwIGFjdGl2ZTpzY2FsZS05NSBkaXNhYmxlZDpvcGFjaXR5LTQwIGdyb3VwIgogICAgICAgICAgICAgIG9uQ2xpY2s9e29uU3VwZXJMaWtlfQogICAgICAgICAgICA+CiAgICAgICAgICAgICAgPFN0YXIgY2xhc3NOYW1lPSJ3LTggaC04IGZpbGwtY3VycmVudCBncm91cC1ob3Zlcjpyb3RhdGUtWzM2MGRlZ10gZ3JvdXAtaG92ZXI6c2NhbGUtMTEwIHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTUwMCIgLz4KICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICA8L1Rvb2x0aXBUcmlnZ2VyPgogICAgICAgICAgPFRvb2x0aXBDb250ZW50PgogICAgICAgICAgICA8cD57aXNQcmVtaXVtID8gIlN1cGVyIExpa2UgKHN0YW5kIG91dCEpIiA6ICJTdXBlciBMaWtlIChQcmVtaXVtKSJ9PC9wPgogICAgICAgICAgPC9Ub29sdGlwQ29udGVudD4KICAgICAgICA8L1Rvb2x0aXA+CgogICAgICAgIHsvKiBJbmZvIEJ1dHRvbiAqL30KICAgICAgICB7b25JbmZvICYmICgKICAgICAgICAgIDxUb29sdGlwPgogICAgICAgICAgICA8VG9vbHRpcFRyaWdnZXIgYXNDaGlsZD4KICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICBzaXplPSJpY29uIgogICAgICAgICAgICAgICAgZGlzYWJsZWQ9e2Rpc2FibGVkfQogICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ3LTEyIGgtMTIgcm91bmRlZC1mdWxsIGJnLXdoaXRlIHRleHQtcHJpbWFyeSBzaGFkb3ctZWxldmF0ZWQgYm9yZGVyLTIgYm9yZGVyLXRyYW5zcGFyZW50IGhvdmVyOmJvcmRlci1wcmltYXJ5IGhvdmVyOmJnLXdoaXRlIHRyYW5zaXRpb24tYWxsIGhvdmVyOnNjYWxlLTExMCBkaXNhYmxlZDpvcGFjaXR5LTQwIgogICAgICAgICAgICAgICAgb25DbGljaz17b25JbmZvfQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxJbmZvIGNsYXNzTmFtZT0idy02IGgtNiIgLz4KICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgPC9Ub29sdGlwVHJpZ2dlcj4KICAgICAgICAgICAgPFRvb2x0aXBDb250ZW50PgogICAgICAgICAgICAgIDxwPlZpZXcgZnVsbCBwcm9maWxlPC9wPgogICAgICAgICAgICA8L1Rvb2x0aXBDb250ZW50PgogICAgICAgICAgPC9Ub29sdGlwPgogICAgICAgICl9CiAgICAgIDwvVG9vbHRpcFByb3ZpZGVyPgogICAgPC9kaXY+CiAgKTsKfTsK"}
+import { X, Heart, Star, RotateCcw, Info } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip";
+
+interface SwipeActionsProps {
+  onPass: () => void;
+  onLike: () => void;
+  onSuperLike: () => void;
+  onInfo?: () => void;
+  onRewind?: () => void;  canRewind?: boolean;
+  isPremium?: boolean;
+  disabled?: boolean;}
+
+export const SwipeActions = ({
+  onPass,
+  onLike,
+  onSuperLike,
+  onInfo,
+  onRewind,
+  canRewind = false,
+  isPremium = false,
+  disabled = false,
+}: SwipeActionsProps) => {
+  return (
+    <div className="flex items-center justify-center gap-3 w-full px-4">
+      <TooltipProvider>
+
+        {/* Rewind Button - Premium only */}
+        {onRewind && (
+          <Tooltip>
+            <TooltipTrigger asChild>
+              <Button
+                size="icon"
+                disabled={!canRewind || disabled}
+                className="w-12 h-12 rounded-full bg-white text-yellow-500 shadow-elevated border-2 border-transparent hover:border-yellow-500 hover:bg-white transition-all hover:scale-110 disabled:opacity-40 disabled:hover:scale-100"
+                onClick={onRewind}
+              >
+                <RotateCcw className="w-6 h-6" />
+              </Button>
+            </TooltipTrigger>
+            <TooltipContent>
+              <p>{canRewind ? "Undo last swipe" : isPremium ? "No recent swipes" : "Premium feature"}</p>
+            </TooltipContent>
+          </Tooltip>
+        )}
+
+        {/* Pass Button */}
+        <Tooltip>
+          <TooltipTrigger asChild>
+            <Button
+              size="icon"
+              disabled={disabled}
+              className="w-16 h-16 rounded-full bg-white text-destructive shadow-elevated border-2 border-transparent hover:border-destructive hover:bg-white transition-all hover:scale-110 active:scale-95 disabled:opacity-40 group"
+              onClick={onPass}
+            >
+              <X className="w-8 h-8 group-hover:rotate-90 transition-transform duration-300" />
+            </Button>
+          </TooltipTrigger>
+          <TooltipContent>
+            <p>Pass</p>
+          </TooltipContent>
+        </Tooltip>
+
+        {/* Like Button - Main CTA Enhanced */}
+        <Tooltip>
+          <TooltipTrigger asChild>
+            <Button
+              size="icon"
+              disabled={disabled}
+              className="w-20 h-20 rounded-full bg-gradient-to-br from-primary via-rose-500 to-pink-600 text-white shadow-glow-strong hover:shadow-glow-strong transition-all hover:scale-110 hover:-translate-y-1 active:scale-95 disabled:opacity-40 relative overflow-hidden group"
+              onClick={onLike}
+            >
+              <Heart className="w-10 h-10 fill-current animate-pulse-soft group-hover:scale-110 transition-transform relative z-10" />
+              <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent translate-x-[-200%] group-hover:translate-x-[200%] transition-transform duration-1000" />
+            </Button>
+          </TooltipTrigger>
+          <TooltipContent>
+            <p>Like</p>
+          </TooltipContent>
+        </Tooltip>
+
+        {/* Super Like Button */}
+        <Tooltip>
+          <TooltipTrigger asChild>
+            <Button
+              size="icon"
+              disabled={disabled}
+              className="w-16 h-16 rounded-full bg-gradient-to-br from-blue-500 via-cyan-500 to-blue-600 text-white shadow-lg shadow-blue-500/30 hover:shadow-xl hover:shadow-blue-500/50 transition-all hover:scale-110 active:scale-95 disabled:opacity-40 group"
+              onClick={onSuperLike}
+            >
+              <Star className="w-8 h-8 fill-current group-hover:rotate-[360deg] group-hover:scale-110 transition-all duration-500" />
+            </Button>
+          </TooltipTrigger>
+          <TooltipContent>
+            <p>{isPremium ? "Super Like (stand out!)" : "Super Like (Premium)"}</p>
+          </TooltipContent>
+        </Tooltip>
+
+        {/* Info Button */}
+        {onInfo && (
+          <Tooltip>
+            <TooltipTrigger asChild>
+              <Button
+                size="icon"
+                disabled={disabled}
+                className="w-12 h-12 rounded-full bg-white text-primary shadow-elevated border-2 border-transparent hover:border-primary hover:bg-white transition-all hover:scale-110 disabled:opacity-40"
+                onClick={onInfo}
+              >
+                <Info className="w-6 h-6" />
+              </Button>
+            </TooltipTrigger>
+            <TooltipContent>
+              <p>View full profile</p>
+            </TooltipContent>
+          </Tooltip>
+        )}
+      </TooltipProvider>
+    </div>
+  );
+};

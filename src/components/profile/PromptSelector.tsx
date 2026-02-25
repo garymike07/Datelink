@@ -1,1 +1,211 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUsIHVzZUVmZmVjdCB9IGZyb20gInJlYWN0IjsNCmltcG9ydCB7IHVzZVF1ZXJ5LCB1c2VNdXRhdGlvbiB9IGZyb20gImNvbnZleC9yZWFjdCI7DQppbXBvcnQgeyBhcGkgfSBmcm9tICIuLi8uLi8uLi9jb252ZXgvX2dlbmVyYXRlZC9hcGkiOw0KaW1wb3J0IHsgQ2FyZCB9IGZyb20gIkAvY29tcG9uZW50cy91aS9jYXJkIjsNCmltcG9ydCB7IEJ1dHRvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS9idXR0b24iOw0KaW1wb3J0IHsgVGV4dGFyZWEgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvdGV4dGFyZWEiOw0KaW1wb3J0IHsgQmFkZ2UgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvYmFkZ2UiOw0KaW1wb3J0IHsgWCwgUGx1cyB9IGZyb20gImx1Y2lkZS1yZWFjdCI7DQppbXBvcnQgeyB0b2FzdCB9IGZyb20gInNvbm5lciI7DQppbXBvcnQgeyBJZCB9IGZyb20gIi4uLy4uLy4uL2NvbnZleC9fZ2VuZXJhdGVkL2RhdGFNb2RlbCI7DQoNCmludGVyZmFjZSBQcm9tcHRTZWxlY3RvclByb3BzIHsNCiAgICB1c2VySWQ6IElkPCJ1c2VycyI+Ow0KICAgIG9uVXBkYXRlPzogKCkgPT4gdm9pZDsNCn0NCg0KY29uc3QgUHJvbXB0U2VsZWN0b3IgPSAoeyB1c2VySWQsIG9uVXBkYXRlIH06IFByb21wdFNlbGVjdG9yUHJvcHMpID0+IHsNCiAgICBjb25zdCBbc2VsZWN0ZWRQcm9tcHRzLCBzZXRTZWxlY3RlZFByb21wdHNdID0gdXNlU3RhdGU8YW55W10+KFtdKTsNCiAgICBjb25zdCBbYW5zd2Vycywgc2V0QW5zd2Vyc10gPSB1c2VTdGF0ZTxSZWNvcmQ8c3RyaW5nLCBzdHJpbmc+Pih7fSk7DQogICAgY29uc3QgW3Nob3dQcm9tcHRMaWJyYXJ5LCBzZXRTaG93UHJvbXB0TGlicmFyeV0gPSB1c2VTdGF0ZShmYWxzZSk7DQoNCiAgICBjb25zdCBwcm9tcHRzID0gdXNlUXVlcnkoYXBpLnByb21wdHMuZ2V0QWN0aXZlUHJvbXB0cyk7DQogICAgY29uc3QgdXNlckFuc3dlcnMgPSB1c2VRdWVyeShhcGkucHJvbXB0cy5nZXRVc2VyUHJvbXB0QW5zd2VycywgeyB1c2VySWQgfSk7DQogICAgY29uc3QgYWRkQW5zd2VyID0gdXNlTXV0YXRpb24oYXBpLnByb21wdHMuYWRkUHJvbXB0QW5zd2VyKTsNCiAgICBjb25zdCB1cGRhdGVBbnN3ZXIgPSB1c2VNdXRhdGlvbihhcGkucHJvbXB0cy51cGRhdGVQcm9tcHRBbnN3ZXIpOw0KICAgIGNvbnN0IGRlbGV0ZUFuc3dlciA9IHVzZU11dGF0aW9uKGFwaS5wcm9tcHRzLmRlbGV0ZVByb21wdEFuc3dlcik7DQoNCiAgICB1c2VFZmZlY3QoKCkgPT4gew0KICAgICAgICBpZiAodXNlckFuc3dlcnMpIHsNCiAgICAgICAgICAgIGNvbnN0IHNlbGVjdGVkID0gdXNlckFuc3dlcnMubWFwKChhKSA9PiAoew0KICAgICAgICAgICAgICAgIF9pZDogYS5wcm9tcHRJZCwNCiAgICAgICAgICAgICAgICB0ZXh0OiBhLnByb21wdFRleHQsDQogICAgICAgICAgICAgICAgY2F0ZWdvcnk6IGEucHJvbXB0Q2F0ZWdvcnksDQogICAgICAgICAgICAgICAgYW5zd2VySWQ6IGEuX2lkLA0KICAgICAgICAgICAgfSkpOw0KICAgICAgICAgICAgc2V0U2VsZWN0ZWRQcm9tcHRzKHNlbGVjdGVkKTsNCg0KICAgICAgICAgICAgY29uc3QgYW5zd2VyTWFwOiBSZWNvcmQ8c3RyaW5nLCBzdHJpbmc+ID0ge307DQogICAgICAgICAgICB1c2VyQW5zd2Vycy5mb3JFYWNoKChhKSA9PiB7DQogICAgICAgICAgICAgICAgYW5zd2VyTWFwW2EucHJvbXB0SWRdID0gYS5hbnN3ZXI7DQogICAgICAgICAgICB9KTsNCiAgICAgICAgICAgIHNldEFuc3dlcnMoYW5zd2VyTWFwKTsNCiAgICAgICAgfQ0KICAgIH0sIFt1c2VyQW5zd2Vyc10pOw0KDQogICAgY29uc3QgaGFuZGxlU2VsZWN0UHJvbXB0ID0gKHByb21wdDogYW55KSA9PiB7DQogICAgICAgIGlmIChzZWxlY3RlZFByb21wdHMubGVuZ3RoID49IDUpIHsNCiAgICAgICAgICAgIHRvYXN0LmVycm9yKCJZb3UgY2FuIHNlbGVjdCB1cCB0byA1IHByb21wdHMiKTsNCiAgICAgICAgICAgIHJldHVybjsNCiAgICAgICAgfQ0KDQogICAgICAgIGlmIChzZWxlY3RlZFByb21wdHMuZmluZCgocCkgPT4gcC5faWQgPT09IHByb21wdC5faWQpKSB7DQogICAgICAgICAgICB0b2FzdC5lcnJvcigiWW91J3ZlIGFscmVhZHkgc2VsZWN0ZWQgdGhpcyBwcm9tcHQiKTsNCiAgICAgICAgICAgIHJldHVybjsNCiAgICAgICAgfQ0KDQogICAgICAgIHNldFNlbGVjdGVkUHJvbXB0cyhbLi4uc2VsZWN0ZWRQcm9tcHRzLCBwcm9tcHRdKTsNCiAgICAgICAgc2V0U2hvd1Byb21wdExpYnJhcnkoZmFsc2UpOw0KICAgIH07DQoNCiAgICBjb25zdCBoYW5kbGVSZW1vdmVQcm9tcHQgPSBhc3luYyAocHJvbXB0OiBhbnkpID0+IHsNCiAgICAgICAgaWYgKHByb21wdC5hbnN3ZXJJZCkgew0KICAgICAgICAgICAgdHJ5IHsNCiAgICAgICAgICAgICAgICBhd2FpdCBkZWxldGVBbnN3ZXIoeyBhbnN3ZXJJZDogcHJvbXB0LmFuc3dlcklkLCB1c2VySWQgfSk7DQogICAgICAgICAgICAgICAgdG9hc3Quc3VjY2VzcygiUHJvbXB0IHJlbW92ZWQiKTsNCiAgICAgICAgICAgIH0gY2F0Y2ggKGVycm9yKSB7DQogICAgICAgICAgICAgICAgdG9hc3QuZXJyb3IoIkZhaWxlZCB0byByZW1vdmUgcHJvbXB0Iik7DQogICAgICAgICAgICB9DQogICAgICAgIH0NCiAgICAgICAgc2V0U2VsZWN0ZWRQcm9tcHRzKHNlbGVjdGVkUHJvbXB0cy5maWx0ZXIoKHApID0+IHAuX2lkICE9PSBwcm9tcHQuX2lkKSk7DQogICAgICAgIGNvbnN0IG5ld0Fuc3dlcnMgPSB7IC4uLmFuc3dlcnMgfTsNCiAgICAgICAgZGVsZXRlIG5ld0Fuc3dlcnNbcHJvbXB0Ll9pZF07DQogICAgICAgIHNldEFuc3dlcnMobmV3QW5zd2Vycyk7DQogICAgfTsNCg0KICAgIGNvbnN0IGhhbmRsZVNhdmVBbnN3ZXIgPSBhc3luYyAocHJvbXB0SWQ6IHN0cmluZykgPT4gew0KICAgICAgICBjb25zdCBhbnN3ZXIgPSBhbnN3ZXJzW3Byb21wdElkXTsNCiAgICAgICAgaWYgKCFhbnN3ZXIgfHwgYW5zd2VyLnRyaW0oKS5sZW5ndGggPT09IDApIHsNCiAgICAgICAgICAgIHRvYXN0LmVycm9yKCJQbGVhc2Ugd3JpdGUgYW4gYW5zd2VyIik7DQogICAgICAgICAgICByZXR1cm47DQogICAgICAgIH0NCg0KICAgICAgICBpZiAoYW5zd2VyLmxlbmd0aCA+IDMwMCkgew0KICAgICAgICAgICAgdG9hc3QuZXJyb3IoIkFuc3dlciBtdXN0IGJlIDMwMCBjaGFyYWN0ZXJzIG9yIGxlc3MiKTsNCiAgICAgICAgICAgIHJldHVybjsNCiAgICAgICAgfQ0KDQogICAgICAgIHRyeSB7DQogICAgICAgICAgICBjb25zdCBwcm9tcHQgPSBzZWxlY3RlZFByb21wdHMuZmluZCgocCkgPT4gcC5faWQgPT09IHByb21wdElkKTsNCiAgICAgICAgICAgIGNvbnN0IG9yZGVyID0gc2VsZWN0ZWRQcm9tcHRzLmluZGV4T2YocHJvbXB0KTsNCg0KICAgICAgICAgICAgYXdhaXQgYWRkQW5zd2VyKHsNCiAgICAgICAgICAgICAgICB1c2VySWQsDQogICAgICAgICAgICAgICAgcHJvbXB0SWQ6IHByb21wdElkIGFzIElkPCJwcm9tcHRzIj4sDQogICAgICAgICAgICAgICAgYW5zd2VyLA0KICAgICAgICAgICAgICAgIG9yZGVyLA0KICAgICAgICAgICAgfSk7DQoNCiAgICAgICAgICAgIHRvYXN0LnN1Y2Nlc3MoIkFuc3dlciBzYXZlZCEiKTsNCiAgICAgICAgICAgIG9uVXBkYXRlPy4oKTsNCiAgICAgICAgfSBjYXRjaCAoZXJyb3I6IGFueSkgew0KICAgICAgICAgICAgdG9hc3QuZXJyb3IoZXJyb3IubWVzc2FnZSB8fCAiRmFpbGVkIHRvIHNhdmUgYW5zd2VyIik7DQogICAgICAgIH0NCiAgICB9Ow0KDQogICAgY29uc3QgcHJvbXB0c0J5Q2F0ZWdvcnkgPSBwcm9tcHRzPy5yZWR1Y2UoKGFjYzogYW55LCBwcm9tcHQ6IGFueSkgPT4gew0KICAgICAgICBpZiAoIWFjY1twcm9tcHQuY2F0ZWdvcnldKSB7DQogICAgICAgICAgICBhY2NbcHJvbXB0LmNhdGVnb3J5XSA9IFtdOw0KICAgICAgICB9DQogICAgICAgIGFjY1twcm9tcHQuY2F0ZWdvcnldLnB1c2gocHJvbXB0KTsNCiAgICAgICAgcmV0dXJuIGFjYzsNCiAgICB9LCB7fSk7DQoNCiAgICByZXR1cm4gKA0KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS02Ij4NCiAgICAgICAgICAgIDxkaXY+DQogICAgICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0idGV4dC1sZyBmb250LXNlbWlib2xkIG1iLTIiPlByb2ZpbGUgUHJvbXB0czwvaDM+DQogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBtYi00Ij4NCiAgICAgICAgICAgICAgICAgICAgQW5zd2VyIDMtNSBwcm9tcHRzIHRvIGhlbHAgb3RoZXJzIGdldCB0byBrbm93IHlvdSBiZXR0ZXINCiAgICAgICAgICAgICAgICA8L3A+DQogICAgICAgICAgICA8L2Rpdj4NCg0KICAgICAgICAgICAgey8qIFNlbGVjdGVkIFByb21wdHMgKi99DQogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS00Ij4NCiAgICAgICAgICAgICAgICB7c2VsZWN0ZWRQcm9tcHRzLm1hcCgocHJvbXB0LCBpbmRleCkgPT4gKA0KICAgICAgICAgICAgICAgICAgICA8Q2FyZCBrZXk9e3Byb21wdC5faWR9IGNsYXNzTmFtZT0icC00Ij4NCiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGp1c3RpZnktYmV0d2VlbiBpdGVtcy1zdGFydCBtYi0zIj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleC0xIj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPEJhZGdlIHZhcmlhbnQ9InNlY29uZGFyeSIgY2xhc3NOYW1lPSJtYi0yIj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtwcm9tcHQuY2F0ZWdvcnl9DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvQmFkZ2U+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoNCBjbGFzc05hbWU9ImZvbnQtbWVkaXVtIj57cHJvbXB0LnRleHR9PC9oND4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8QnV0dG9uDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhcmlhbnQ9Imdob3N0Ig0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaXplPSJzbSINCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gaGFuZGxlUmVtb3ZlUHJvbXB0KHByb21wdCl9DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8WCBjbGFzc05hbWU9InctNCBoLTQiIC8+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9CdXR0b24+DQogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4NCg0KICAgICAgICAgICAgICAgICAgICAgICAgPFRleHRhcmVhDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IllvdXIgYW5zd2VyLi4uIg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPXthbnN3ZXJzW3Byb21wdC5faWRdIHx8ICIifQ0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXsoZSkgPT4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2V0QW5zd2Vycyh7IC4uLmFuc3dlcnMsIFtwcm9tcHQuX2lkXTogZS50YXJnZXQudmFsdWUgfSkNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgb25CbHVyPXsoKSA9PiBoYW5kbGVTYXZlQW5zd2VyKHByb21wdC5faWQpfQ0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1heExlbmd0aD17MzAwfQ0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0ibWItMiINCiAgICAgICAgICAgICAgICAgICAgICAgIC8+DQogICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIHRleHQtcmlnaHQiPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsoYW5zd2Vyc1twcm9tcHQuX2lkXSB8fCAiIikubGVuZ3RofS8zMDANCiAgICAgICAgICAgICAgICAgICAgICAgIDwvcD4NCiAgICAgICAgICAgICAgICAgICAgPC9DYXJkPg0KICAgICAgICAgICAgICAgICkpfQ0KICAgICAgICAgICAgPC9kaXY+DQoNCiAgICAgICAgICAgIHsvKiBBZGQgUHJvbXB0IEJ1dHRvbiAqL30NCiAgICAgICAgICAgIHtzZWxlY3RlZFByb21wdHMubGVuZ3RoIDwgNSAmJiAoDQogICAgICAgICAgICAgICAgPEJ1dHRvbg0KICAgICAgICAgICAgICAgICAgICB2YXJpYW50PSJvdXRsaW5lIg0KICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InctZnVsbCINCiAgICAgICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gc2V0U2hvd1Byb21wdExpYnJhcnkoIXNob3dQcm9tcHRMaWJyYXJ5KX0NCiAgICAgICAgICAgICAgICA+DQogICAgICAgICAgICAgICAgICAgIDxQbHVzIGNsYXNzTmFtZT0idy00IGgtNCBtci0yIiAvPg0KICAgICAgICAgICAgICAgICAgICBBZGQgUHJvbXB0DQogICAgICAgICAgICAgICAgPC9CdXR0b24+DQogICAgICAgICAgICApfQ0KDQogICAgICAgICAgICB7LyogUHJvbXB0IExpYnJhcnkgKi99DQogICAgICAgICAgICB7c2hvd1Byb21wdExpYnJhcnkgJiYgKA0KICAgICAgICAgICAgICAgIDxDYXJkIGNsYXNzTmFtZT0icC00Ij4NCiAgICAgICAgICAgICAgICAgICAgPGg0IGNsYXNzTmFtZT0iZm9udC1zZW1pYm9sZCBtYi00Ij5DaG9vc2UgYSBQcm9tcHQ8L2g0Pg0KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS00Ij4NCiAgICAgICAgICAgICAgICAgICAgICAgIHtwcm9tcHRzQnlDYXRlZ29yeSAmJg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIE9iamVjdC5lbnRyaWVzKHByb21wdHNCeUNhdGVnb3J5KS5tYXAoKFtjYXRlZ29yeSwgY2F0ZWdvcnlQcm9tcHRzXTogW3N0cmluZywgYW55XSkgPT4gKA0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGtleT17Y2F0ZWdvcnl9Pg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGg1IGNsYXNzTmFtZT0idGV4dC1zbSBmb250LW1lZGl1bSB0ZXh0LW11dGVkLWZvcmVncm91bmQgbWItMiBjYXBpdGFsaXplIj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7Y2F0ZWdvcnl9DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2g1Pg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMiI+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge2NhdGVnb3J5UHJvbXB0cy5tYXAoKHByb21wdDogYW55KSA9PiAoDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxCdXR0b24NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleT17cHJvbXB0Ll9pZH0NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhcmlhbnQ9Imdob3N0Ig0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ3LWZ1bGwganVzdGlmeS1zdGFydCB0ZXh0LWxlZnQgaC1hdXRvIHB5LTMiDQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBoYW5kbGVTZWxlY3RQcm9tcHQocHJvbXB0KX0NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc2FibGVkPXtzZWxlY3RlZFByb21wdHMuZmluZCgocCkgPT4gcC5faWQgPT09IHByb21wdC5faWQpfQ0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7cHJvbXB0LnRleHR9DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkpfQ0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICkpfQ0KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgICAgICAgICA8L0NhcmQ+DQogICAgICAgICAgICApfQ0KDQogICAgICAgICAgICB7c2VsZWN0ZWRQcm9tcHRzLmxlbmd0aCA8IDMgJiYgKA0KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LWFtYmVyLTYwMCI+DQogICAgICAgICAgICAgICAgICAgIOKaoO+4jyBBZGQgYXQgbGVhc3QgMyBwcm9tcHRzIHRvIGluY3JlYXNlIHlvdXIgcHJvZmlsZSBjb21wbGV0ZW5lc3MNCiAgICAgICAgICAgICAgICA8L3A+DQogICAgICAgICAgICApfQ0KICAgICAgICA8L2Rpdj4NCiAgICApOw0KfTsNCg0KZXhwb3J0IGRlZmF1bHQgUHJvbXB0U2VsZWN0b3I7DQo="}
+import { useState, useEffect } from "react";
+import { useQuery, useMutation } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import { Card } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+import { Textarea } from "@/components/ui/textarea";
+import { Badge } from "@/components/ui/badge";
+import { X, Plus } from "lucide-react";
+import { toast } from "sonner";
+import { Id } from "../../../convex/_generated/dataModel";
+
+interface PromptSelectorProps {
+    userId: Id<"users">;
+    onUpdate?: () => void;
+}
+
+const PromptSelector = ({ userId, onUpdate }: PromptSelectorProps) => {
+    const [selectedPrompts, setSelectedPrompts] = useState<any[]>([]);
+    const [answers, setAnswers] = useState<Record<string, string>>({});
+    const [showPromptLibrary, setShowPromptLibrary] = useState(false);
+
+    const prompts = useQuery(api.prompts.getActivePrompts);
+    const userAnswers = useQuery(api.prompts.getUserPromptAnswers, { userId });
+    const addAnswer = useMutation(api.prompts.addPromptAnswer);
+    const updateAnswer = useMutation(api.prompts.updatePromptAnswer);
+    const deleteAnswer = useMutation(api.prompts.deletePromptAnswer);
+
+    useEffect(() => {
+        if (userAnswers) {
+            const selected = userAnswers.map((a) => ({
+                _id: a.promptId,
+                text: a.promptText,
+                category: a.promptCategory,
+                answerId: a._id,
+            }));
+            setSelectedPrompts(selected);
+
+            const answerMap: Record<string, string> = {};
+            userAnswers.forEach((a) => {
+                answerMap[a.promptId] = a.answer;
+            });
+            setAnswers(answerMap);
+        }
+    }, [userAnswers]);
+
+    const handleSelectPrompt = (prompt: any) => {
+        if (selectedPrompts.length >= 5) {
+            toast.error("You can select up to 5 prompts");
+            return;
+        }
+
+        if (selectedPrompts.find((p) => p._id === prompt._id)) {
+            toast.error("You've already selected this prompt");
+            return;
+        }
+
+        setSelectedPrompts([...selectedPrompts, prompt]);
+        setShowPromptLibrary(false);
+    };
+
+    const handleRemovePrompt = async (prompt: any) => {
+        if (prompt.answerId) {
+            try {
+                await deleteAnswer({ answerId: prompt.answerId, userId });
+                toast.success("Prompt removed");
+            } catch (error) {
+                toast.error("Failed to remove prompt");
+            }
+        }
+        setSelectedPrompts(selectedPrompts.filter((p) => p._id !== prompt._id));
+        const newAnswers = { ...answers };
+        delete newAnswers[prompt._id];
+        setAnswers(newAnswers);
+    };
+
+    const handleSaveAnswer = async (promptId: string) => {
+        const answer = answers[promptId];
+        if (!answer || answer.trim().length === 0) {
+            toast.error("Please write an answer");
+            return;
+        }
+
+        if (answer.length > 300) {
+            toast.error("Answer must be 300 characters or less");
+            return;
+        }
+
+        try {
+            const prompt = selectedPrompts.find((p) => p._id === promptId);
+            const order = selectedPrompts.indexOf(prompt);
+
+            await addAnswer({
+                userId,
+                promptId: promptId as Id<"prompts">,
+                answer,
+                order,
+            });
+
+            toast.success("Answer saved!");
+            onUpdate?.();
+        } catch (error: any) {
+            toast.error(error.message || "Failed to save answer");
+        }
+    };
+
+    const promptsByCategory = prompts?.reduce((acc: any, prompt: any) => {
+        if (!acc[prompt.category]) {
+            acc[prompt.category] = [];
+        }
+        acc[prompt.category].push(prompt);
+        return acc;
+    }, {});
+
+    return (
+        <div className="space-y-6">
+            <div>
+                <h3 className="text-lg font-semibold mb-2">Profile Prompts</h3>
+                <p className="text-sm text-muted-foreground mb-4">
+                    Answer 3-5 prompts to help others get to know you better
+                </p>
+            </div>
+
+            {/* Selected Prompts */}
+            <div className="space-y-4">
+                {selectedPrompts.map((prompt, index) => (
+                    <Card key={prompt._id} className="p-4">
+                        <div className="flex justify-between items-start mb-3">
+                            <div className="flex-1">
+                                <Badge variant="secondary" className="mb-2">
+                                    {prompt.category}
+                                </Badge>
+                                <h4 className="font-medium">{prompt.text}</h4>
+                            </div>
+                            <Button
+                                variant="ghost"
+                                size="sm"
+                                onClick={() => handleRemovePrompt(prompt)}
+                            >
+                                <X className="w-4 h-4" />
+                            </Button>
+                        </div>
+
+                        <Textarea
+                            placeholder="Your answer..."
+                            value={answers[prompt._id] || ""}
+                            onChange={(e) =>
+                                setAnswers({ ...answers, [prompt._id]: e.target.value })
+                            }
+                            onBlur={() => handleSaveAnswer(prompt._id)}
+                            maxLength={300}
+                            className="mb-2"
+                        />
+                        <p className="text-xs text-muted-foreground text-right">
+                            {(answers[prompt._id] || "").length}/300
+                        </p>
+                    </Card>
+                ))}
+            </div>
+
+            {/* Add Prompt Button */}
+            {selectedPrompts.length < 5 && (
+                <Button
+                    variant="outline"
+                    className="w-full"
+                    onClick={() => setShowPromptLibrary(!showPromptLibrary)}
+                >
+                    <Plus className="w-4 h-4 mr-2" />
+                    Add Prompt
+                </Button>
+            )}
+
+            {/* Prompt Library */}
+            {showPromptLibrary && (
+                <Card className="p-4">
+                    <h4 className="font-semibold mb-4">Choose a Prompt</h4>
+                    <div className="space-y-4">
+                        {promptsByCategory &&
+                            Object.entries(promptsByCategory).map(([category, categoryPrompts]: [string, any]) => (
+                                <div key={category}>
+                                    <h5 className="text-sm font-medium text-muted-foreground mb-2 capitalize">
+                                        {category}
+                                    </h5>
+                                    <div className="space-y-2">
+                                        {categoryPrompts.map((prompt: any) => (
+                                            <Button
+                                                key={prompt._id}
+                                                variant="ghost"
+                                                className="w-full justify-start text-left h-auto py-3"
+                                                onClick={() => handleSelectPrompt(prompt)}
+                                                disabled={selectedPrompts.find((p) => p._id === prompt._id)}
+                                            >
+                                                {prompt.text}
+                                            </Button>
+                                        ))}
+                                    </div>
+                                </div>
+                            ))}
+                    </div>
+                </Card>
+            )}
+
+            {selectedPrompts.length < 3 && (
+                <p className="text-sm text-amber-600">
+                    ⚠️ Add at least 3 prompts to increase your profile completeness
+                </p>
+            )}
+        </div>
+    );
+};
+
+export default PromptSelector;

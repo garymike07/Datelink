@@ -1,1 +1,331 @@
-{"data":"aW1wb3J0IHsgdiB9IGZyb20gImNvbnZleC92YWx1ZXMiOwppbXBvcnQgeyBtdXRhdGlvbiwgcXVlcnkgfSBmcm9tICIuL19nZW5lcmF0ZWQvc2VydmVyIjsKaW1wb3J0IHR5cGUgeyBNdXRhdGlvbkN0eCB9IGZyb20gIi4vX2dlbmVyYXRlZC9zZXJ2ZXIiOwppbXBvcnQgeyBJZCB9IGZyb20gIi4vX2dlbmVyYXRlZC9kYXRhTW9kZWwiOwoKLy8gWFAgbGV2ZWxzIGNvbmZpZ3VyYXRpb24KY29uc3QgWFBfUEVSX0xFVkVMID0gMTAwMDsgLy8gQmFzZSBYUCBuZWVkZWQgZm9yIGxldmVsIDIKY29uc3QgTEVWRUxfTVVMVElQTElFUiA9IDEuNTsgLy8gRWFjaCBsZXZlbCByZXF1aXJlcyAxLjV4IG1vcmUgWFAKCi8vIENhbGN1bGF0ZSBYUCBuZWVkZWQgZm9yIGEgc3BlY2lmaWMgbGV2ZWwKZnVuY3Rpb24gZ2V0WFBGb3JMZXZlbChsZXZlbDogbnVtYmVyKTogbnVtYmVyIHsKICBpZiAobGV2ZWwgPD0gMSkgcmV0dXJuIDA7CiAgbGV0IHRvdGFsWFAgPSAwOwogIGZvciAobGV0IGkgPSAyOyBpIDw9IGxldmVsOyBpKyspIHsKICAgIHRvdGFsWFAgKz0gTWF0aC5mbG9vcihYUF9QRVJfTEVWRUwgKiBNYXRoLnBvdyhMRVZFTF9NVUxUSVBMSUVSLCBpIC0gMikpOwogIH0KICByZXR1cm4gdG90YWxYUDsKfQoKLy8gQ2FsY3VsYXRlIGxldmVsIGZyb20gWFAKZnVuY3Rpb24gZ2V0TGV2ZWxGcm9tWFAoeHA6IG51bWJlcik6IG51bWJlciB7CiAgbGV0IGxldmVsID0gMTsKICB3aGlsZSAoeHAgPj0gZ2V0WFBGb3JMZXZlbChsZXZlbCArIDEpKSB7CiAgICBsZXZlbCsrOwogIH0KICByZXR1cm4gbGV2ZWw7Cn0KCmFzeW5jIGZ1bmN0aW9uIGF3YXJkWFAoCiAgY3R4OiBNdXRhdGlvbkN0eCwKICBhcmdzOiB7IHVzZXJJZDogSWQ8InVzZXJzIj47IGFtb3VudDogbnVtYmVyOyByZWFzb246IHN0cmluZyB9CikgewogIC8vIEdldCBvciBjcmVhdGUgdXNlciBwcm9ncmVzcwogIGxldCBwcm9ncmVzcyA9IGF3YWl0IGN0eC5kYgogICAgLnF1ZXJ5KCJ1c2VyUHJvZ3Jlc3MiKQogICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIGFyZ3MudXNlcklkKSkKICAgIC5maXJzdCgpOwoKICBpZiAoIXByb2dyZXNzKSB7CiAgICBjb25zdCBwcm9ncmVzc0lkID0gYXdhaXQgY3R4LmRiLmluc2VydCgidXNlclByb2dyZXNzIiwgewogICAgICB1c2VySWQ6IGFyZ3MudXNlcklkLAogICAgICBsZXZlbDogMSwKICAgICAgeHA6IDAsCiAgICAgIGJhZGdlczogW10sCiAgICAgIGNyZWF0ZWRBdDogRGF0ZS5ub3coKSwKICAgICAgdXBkYXRlZEF0OiBEYXRlLm5vdygpLAogICAgfSk7CiAgICBwcm9ncmVzcyA9IGF3YWl0IGN0eC5kYi5nZXQocHJvZ3Jlc3NJZCk7CiAgfQoKICBpZiAoIXByb2dyZXNzKSB0aHJvdyBuZXcgRXJyb3IoIkZhaWxlZCB0byBjcmVhdGUgdXNlciBwcm9ncmVzcyIpOwoKICBjb25zdCBvbGRMZXZlbCA9IHByb2dyZXNzLmxldmVsOwogIGNvbnN0IG5ld1hQID0gcHJvZ3Jlc3MueHAgKyBhcmdzLmFtb3VudDsKICBjb25zdCBuZXdMZXZlbCA9IGdldExldmVsRnJvbVhQKG5ld1hQKTsKICBjb25zdCBsZXZlbGVkVXAgPSBuZXdMZXZlbCA+IG9sZExldmVsOwoKICBhd2FpdCBjdHguZGIucGF0Y2gocHJvZ3Jlc3MuX2lkLCB7CiAgICB4cDogbmV3WFAsCiAgICBsZXZlbDogbmV3TGV2ZWwsCiAgICB1cGRhdGVkQXQ6IERhdGUubm93KCksCiAgfSk7CgogIC8vIExvZyBhY3Rpdml0eQogIGF3YWl0IGN0eC5kYi5pbnNlcnQoImFjdGl2aXR5TG9nIiwgewogICAgdXNlcklkOiBhcmdzLnVzZXJJZCwKICAgIGFjdGl2aXR5VHlwZTogInhwX2Vhcm5lZCIsCiAgICBtZXRhZGF0YTogeyBhbW91bnQ6IGFyZ3MuYW1vdW50LCByZWFzb246IGFyZ3MucmVhc29uIH0sCiAgICB0aW1lc3RhbXA6IERhdGUubm93KCksCiAgfSk7CgogIHJldHVybiB7CiAgICBuZXdYUCwKICAgIGxldmVsZWRVcCwKICAgIG5ld0xldmVsLAogICAgb2xkTGV2ZWwsCiAgICB4cEZvck5leHRMZXZlbDogZ2V0WFBGb3JMZXZlbChuZXdMZXZlbCArIDEpLAogIH07Cn0KCi8vIEluaXRpYWxpemUgdXNlciBwcm9ncmVzcwpleHBvcnQgY29uc3QgaW5pdGlhbGl6ZVVzZXJQcm9ncmVzcyA9IG11dGF0aW9uKHsKICBhcmdzOiB7IHVzZXJJZDogdi5pZCgidXNlcnMiKSB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGNvbnN0IGV4aXN0aW5nID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgidXNlclByb2dyZXNzIikKICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIGFyZ3MudXNlcklkKSkKICAgICAgLmZpcnN0KCk7CgogICAgaWYgKGV4aXN0aW5nKSByZXR1cm4gZXhpc3Rpbmc7CgogICAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKTsKICAgIHJldHVybiBhd2FpdCBjdHguZGIuaW5zZXJ0KCJ1c2VyUHJvZ3Jlc3MiLCB7CiAgICAgIHVzZXJJZDogYXJncy51c2VySWQsCiAgICAgIGxldmVsOiAxLAogICAgICB4cDogMCwKICAgICAgYmFkZ2VzOiBbXSwKICAgICAgY3JlYXRlZEF0OiBub3csCiAgICAgIHVwZGF0ZWRBdDogbm93LAogICAgfSk7CiAgfSwKfSk7CgovLyBBZGQgWFAgdG8gdXNlcgpleHBvcnQgY29uc3QgYWRkWFAgPSBtdXRhdGlvbih7CiAgYXJnczogewogICAgdXNlcklkOiB2LmlkKCJ1c2VycyIpLAogICAgYW1vdW50OiB2Lm51bWJlcigpLAogICAgcmVhc29uOiB2LnN0cmluZygpLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgcmV0dXJuIGF3YWl0IGF3YXJkWFAoY3R4LCBhcmdzKTsKICB9LAp9KTsKCi8vIEdldCB1c2VyIHByb2dyZXNzCmV4cG9ydCBjb25zdCBnZXRVc2VyUHJvZ3Jlc3MgPSBxdWVyeSh7CiAgYXJnczogeyB1c2VySWQ6IHYuaWQoInVzZXJzIikgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICBjb25zdCBwcm9ncmVzcyA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoInVzZXJQcm9ncmVzcyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCBhcmdzLnVzZXJJZCkpCiAgICAgIC5maXJzdCgpOwoKICAgIGlmICghcHJvZ3Jlc3MpIHsKICAgICAgcmV0dXJuIHsKICAgICAgICBsZXZlbDogMSwKICAgICAgICB4cDogMCwKICAgICAgICBiYWRnZXM6IFtdLAogICAgICAgIHhwRm9yTmV4dExldmVsOiBnZXRYUEZvckxldmVsKDIpLAogICAgICAgIHhwUHJvZ3Jlc3M6IDAsCiAgICAgIH07CiAgICB9CgogICAgY29uc3QgeHBGb3JOZXh0TGV2ZWwgPSBnZXRYUEZvckxldmVsKHByb2dyZXNzLmxldmVsICsgMSk7CiAgICBjb25zdCB4cEZvckN1cnJlbnRMZXZlbCA9IGdldFhQRm9yTGV2ZWwocHJvZ3Jlc3MubGV2ZWwpOwogICAgY29uc3QgeHBQcm9ncmVzcyA9IHByb2dyZXNzLnhwIC0geHBGb3JDdXJyZW50TGV2ZWw7CiAgICBjb25zdCB4cE5lZWRlZCA9IHhwRm9yTmV4dExldmVsIC0geHBGb3JDdXJyZW50TGV2ZWw7CiAgICBjb25zdCBwcm9ncmVzc1BlcmNlbnQgPSAoeHBQcm9ncmVzcyAvIHhwTmVlZGVkKSAqIDEwMDsKCiAgICByZXR1cm4gewogICAgICAuLi5wcm9ncmVzcywKICAgICAgeHBGb3JOZXh0TGV2ZWwsCiAgICAgIHhwUHJvZ3Jlc3MsCiAgICAgIHhwTmVlZGVkLAogICAgICBwcm9ncmVzc1BlcmNlbnQsCiAgICB9OwogIH0sCn0pOwoKLy8gUXVlc3QgdHlwZXMgYW5kIGNvbmZpZ3VyYXRpb25zCmNvbnN0IFFVRVNUX1RZUEVTID0gewogIGNvbXBsZXRlX3Byb2ZpbGU6IHsKICAgIG5hbWU6ICJDb21wbGV0ZSBZb3VyIFByb2ZpbGUiLAogICAgZGVzY3JpcHRpb246ICJBZGQgMyBtb3JlIHBob3RvcyB0byB5b3VyIHByb2ZpbGUiLAogICAgdGFyZ2V0OiAzLAogICAgeHBSZXdhcmQ6IDUwLAogIH0sCiAgc2VuZF9tZXNzYWdlczogewogICAgbmFtZTogIkJlIFNvY2lhYmxlIiwKICAgIGRlc2NyaXB0aW9uOiAiU2VuZCA1IG1lc3NhZ2VzIHRvZGF5IiwKICAgIHRhcmdldDogNSwKICAgIHhwUmV3YXJkOiAxMDAsCiAgfSwKICBzd2lwZV9wcm9maWxlczogewogICAgbmFtZTogIk1ha2UgQ29ubmVjdGlvbnMiLAogICAgZGVzY3JpcHRpb246ICJTd2lwZSBvbiA1MCBwcm9maWxlcyIsCiAgICB0YXJnZXQ6IDUwLAogICAgeHBSZXdhcmQ6IDc1LAogIH0sCiAgZ2V0X3JlcGxpZXM6IHsKICAgIG5hbWU6ICJDb252ZXJzYXRpb24gU3RhcnRlciIsCiAgICBkZXNjcmlwdGlvbjogIkdldCAzIHJlcGxpZXMgdG8geW91ciBtZXNzYWdlcyIsCiAgICB0YXJnZXQ6IDMsCiAgICB4cFJld2FyZDogMTUwLAogIH0sCiAgdXBkYXRlX3Bob3RvOiB7CiAgICBuYW1lOiAiRmlyc3QgSW1wcmVzc2lvbiIsCiAgICBkZXNjcmlwdGlvbjogIlVwZGF0ZSB5b3VyIHByb2ZpbGUgcGhvdG8iLAogICAgdGFyZ2V0OiAxLAogICAgeHBSZXdhcmQ6IDI1LAogIH0sCn07CgovLyBHZW5lcmF0ZSBkYWlseSBxdWVzdHMKZXhwb3J0IGNvbnN0IGdlbmVyYXRlRGFpbHlRdWVzdHMgPSBtdXRhdGlvbih7CiAgYXJnczogeyB1c2VySWQ6IHYuaWQoInVzZXJzIikgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICBjb25zdCBub3cgPSBEYXRlLm5vdygpOwogICAgY29uc3QgZW5kT2ZEYXkgPSBuZXcgRGF0ZSgpOwogICAgZW5kT2ZEYXkuc2V0SG91cnMoMjMsIDU5LCA1OSwgOTk5KTsKICAgIGNvbnN0IGV4cGlyZXNBdCA9IGVuZE9mRGF5LmdldFRpbWUoKTsKCiAgICAvLyBDaGVjayBpZiB1c2VyIGFscmVhZHkgaGFzIGFjdGl2ZSBxdWVzdHMgZm9yIHRvZGF5CiAgICBjb25zdCBleGlzdGluZ1F1ZXN0cyA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoInF1ZXN0cyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCBhcmdzLnVzZXJJZCkpCiAgICAgIC5maWx0ZXIoKHEpID0+IHEuZ3QocS5maWVsZCgiZXhwaXJlc0F0IiksIG5vdykpCiAgICAgIC5jb2xsZWN0KCk7CgogICAgaWYgKGV4aXN0aW5nUXVlc3RzLmxlbmd0aCA+IDApIHsKICAgICAgcmV0dXJuIGV4aXN0aW5nUXVlc3RzOwogICAgfQoKICAgIC8vIEdlbmVyYXRlIDMgcmFuZG9tIHF1ZXN0cwogICAgY29uc3QgcXVlc3RUeXBlS2V5cyA9IE9iamVjdC5rZXlzKFFVRVNUX1RZUEVTKSBhcyAoa2V5b2YgdHlwZW9mIFFVRVNUX1RZUEVTKVtdOwogICAgY29uc3Qgc2VsZWN0ZWRRdWVzdHMgPSBxdWVzdFR5cGVLZXlzCiAgICAgIC5zb3J0KCgpID0+IE1hdGgucmFuZG9tKCkgLSAwLjUpCiAgICAgIC5zbGljZSgwLCAzKTsKCiAgICBjb25zdCBxdWVzdHMgPSBbXTsKICAgIGZvciAoY29uc3QgcXVlc3RUeXBlIG9mIHNlbGVjdGVkUXVlc3RzKSB7CiAgICAgIGNvbnN0IGNvbmZpZyA9IFFVRVNUX1RZUEVTW3F1ZXN0VHlwZV07CiAgICAgIGNvbnN0IHF1ZXN0SWQgPSBhd2FpdCBjdHguZGIuaW5zZXJ0KCJxdWVzdHMiLCB7CiAgICAgICAgdXNlcklkOiBhcmdzLnVzZXJJZCwKICAgICAgICBxdWVzdFR5cGUsCiAgICAgICAgcHJvZ3Jlc3M6IDAsCiAgICAgICAgdGFyZ2V0OiBjb25maWcudGFyZ2V0LAogICAgICAgIHhwUmV3YXJkOiBjb25maWcueHBSZXdhcmQsCiAgICAgICAgZXhwaXJlc0F0LAogICAgICAgIGNyZWF0ZWRBdDogbm93LAogICAgICB9KTsKICAgICAgcXVlc3RzLnB1c2goewogICAgICAgIF9pZDogcXVlc3RJZCwKICAgICAgICBxdWVzdFR5cGUsCiAgICAgICAgLi4uY29uZmlnLAogICAgICAgIHByb2dyZXNzOiAwLAogICAgICAgIGV4cGlyZXNBdCwKICAgICAgfSk7CiAgICB9CgogICAgcmV0dXJuIHF1ZXN0czsKICB9LAp9KTsKCi8vIEdldCBhY3RpdmUgcXVlc3RzIGZvciB1c2VyCmV4cG9ydCBjb25zdCBnZXRBY3RpdmVRdWVzdHMgPSBxdWVyeSh7CiAgYXJnczogeyB1c2VySWQ6IHYuaWQoInVzZXJzIikgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICBjb25zdCBub3cgPSBEYXRlLm5vdygpOwogICAgY29uc3QgcXVlc3RzID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgicXVlc3RzIikKICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIGFyZ3MudXNlcklkKSkKICAgICAgLmZpbHRlcigocSkgPT4gcS5ndChxLmZpZWxkKCJleHBpcmVzQXQiKSwgbm93KSkKICAgICAgLmNvbGxlY3QoKTsKCiAgICByZXR1cm4gcXVlc3RzLm1hcCgocXVlc3QpID0+IHsKICAgICAgY29uc3QgY29uZmlnID0gUVVFU1RfVFlQRVNbcXVlc3QucXVlc3RUeXBlIGFzIGtleW9mIHR5cGVvZiBRVUVTVF9UWVBFU107CiAgICAgIHJldHVybiB7CiAgICAgICAgLi4ucXVlc3QsCiAgICAgICAgbmFtZTogY29uZmlnPy5uYW1lIHx8ICJRdWVzdCIsCiAgICAgICAgZGVzY3JpcHRpb246IGNvbmZpZz8uZGVzY3JpcHRpb24gfHwgIiIsCiAgICAgICAgcHJvZ3Jlc3NQZXJjZW50OiAocXVlc3QucHJvZ3Jlc3MgLyBxdWVzdC50YXJnZXQpICogMTAwLAogICAgICB9OwogICAgfSk7CiAgfSwKfSk7CgovLyBVcGRhdGUgcXVlc3QgcHJvZ3Jlc3MKZXhwb3J0IGNvbnN0IHVwZGF0ZVF1ZXN0UHJvZ3Jlc3MgPSBtdXRhdGlvbih7CiAgYXJnczogewogICAgdXNlcklkOiB2LmlkKCJ1c2VycyIpLAogICAgcXVlc3RUeXBlOiB2LnN0cmluZygpLAogICAgaW5jcmVtZW50OiB2Lm9wdGlvbmFsKHYubnVtYmVyKCkpLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKTsKICAgIGNvbnN0IHF1ZXN0ID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgicXVlc3RzIikKICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIGFyZ3MudXNlcklkKSkKICAgICAgLmZpbHRlcigocSkgPT4KICAgICAgICBxLmFuZCgKICAgICAgICAgIHEuZXEocS5maWVsZCgicXVlc3RUeXBlIiksIGFyZ3MucXVlc3RUeXBlKSwKICAgICAgICAgIHEuZ3QocS5maWVsZCgiZXhwaXJlc0F0IiksIG5vdyksCiAgICAgICAgICBxLmVxKHEuZmllbGQoImNvbXBsZXRlZEF0IiksIHVuZGVmaW5lZCkKICAgICAgICApCiAgICAgICkKICAgICAgLmZpcnN0KCk7CgogICAgaWYgKCFxdWVzdCkgcmV0dXJuIG51bGw7CgogICAgY29uc3QgbmV3UHJvZ3Jlc3MgPSBxdWVzdC5wcm9ncmVzcyArIChhcmdzLmluY3JlbWVudCB8fCAxKTsKICAgIGNvbnN0IGlzQ29tcGxldGVkID0gbmV3UHJvZ3Jlc3MgPj0gcXVlc3QudGFyZ2V0OwoKICAgIGF3YWl0IGN0eC5kYi5wYXRjaChxdWVzdC5faWQsIHsKICAgICAgcHJvZ3Jlc3M6IE1hdGgubWluKG5ld1Byb2dyZXNzLCBxdWVzdC50YXJnZXQpLAogICAgICAuLi4oaXNDb21wbGV0ZWQgPyB7IGNvbXBsZXRlZEF0OiBub3cgfSA6IHt9KSwKICAgIH0pOwoKICAgIC8vIEF3YXJkIFhQIGlmIGNvbXBsZXRlZAogICAgaWYgKGlzQ29tcGxldGVkKSB7CiAgICAgIGF3YWl0IGF3YXJkWFAoY3R4LCB7CiAgICAgICAgdXNlcklkOiBhcmdzLnVzZXJJZCwKICAgICAgICBhbW91bnQ6IHF1ZXN0LnhwUmV3YXJkLAogICAgICAgIHJlYXNvbjogYENvbXBsZXRlZCBxdWVzdDogJHthcmdzLnF1ZXN0VHlwZX1gLAogICAgICB9KTsKICAgIH0KCiAgICByZXR1cm4gewogICAgICBxdWVzdCwKICAgICAgY29tcGxldGVkOiBpc0NvbXBsZXRlZCwKICAgICAgcHJvZ3Jlc3M6IG5ld1Byb2dyZXNzLAogICAgfTsKICB9LAp9KTsKCi8vIENvbXBsZXRlIGEgcXVlc3QgbWFudWFsbHkKZXhwb3J0IGNvbnN0IGNvbXBsZXRlUXVlc3QgPSBtdXRhdGlvbih7CiAgYXJnczogewogICAgcXVlc3RJZDogdi5pZCgicXVlc3RzIiksCiAgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICBjb25zdCBxdWVzdCA9IGF3YWl0IGN0eC5kYi5nZXQoYXJncy5xdWVzdElkKTsKICAgIGlmICghcXVlc3QgfHwgcXVlc3QuY29tcGxldGVkQXQpIHJldHVybiBudWxsOwoKICAgIGNvbnN0IG5vdyA9IERhdGUubm93KCk7CiAgICBhd2FpdCBjdHguZGIucGF0Y2goYXJncy5xdWVzdElkLCB7CiAgICAgIGNvbXBsZXRlZEF0OiBub3csCiAgICAgIHByb2dyZXNzOiBxdWVzdC50YXJnZXQsCiAgICB9KTsKCiAgICAvLyBBd2FyZCBYUAogICAgYXdhaXQgYXdhcmRYUChjdHgsIHsKICAgICAgdXNlcklkOiBxdWVzdC51c2VySWQsCiAgICAgIGFtb3VudDogcXVlc3QueHBSZXdhcmQsCiAgICAgIHJlYXNvbjogYENvbXBsZXRlZCBxdWVzdDogJHtxdWVzdC5xdWVzdFR5cGV9YCwKICAgIH0pOwoKICAgIHJldHVybiBxdWVzdDsKICB9LAp9KTsK"}
+import { v } from "convex/values";
+import { mutation, query } from "./_generated/server";
+import type { MutationCtx } from "./_generated/server";
+import { Id } from "./_generated/dataModel";
+
+// XP levels configuration
+const XP_PER_LEVEL = 1000; // Base XP needed for level 2
+const LEVEL_MULTIPLIER = 1.5; // Each level requires 1.5x more XP
+
+// Calculate XP needed for a specific level
+function getXPForLevel(level: number): number {
+  if (level <= 1) return 0;
+  let totalXP = 0;
+  for (let i = 2; i <= level; i++) {
+    totalXP += Math.floor(XP_PER_LEVEL * Math.pow(LEVEL_MULTIPLIER, i - 2));
+  }
+  return totalXP;
+}
+
+// Calculate level from XP
+function getLevelFromXP(xp: number): number {
+  let level = 1;
+  while (xp >= getXPForLevel(level + 1)) {
+    level++;
+  }
+  return level;
+}
+
+async function awardXP(
+  ctx: MutationCtx,
+  args: { userId: Id<"users">; amount: number; reason: string }
+) {
+  // Get or create user progress
+  let progress = await ctx.db
+    .query("userProgress")
+    .withIndex("userId", (q) => q.eq("userId", args.userId))
+    .first();
+
+  if (!progress) {
+    const progressId = await ctx.db.insert("userProgress", {
+      userId: args.userId,
+      level: 1,
+      xp: 0,
+      badges: [],
+      createdAt: Date.now(),
+      updatedAt: Date.now(),
+    });
+    progress = await ctx.db.get(progressId);
+  }
+
+  if (!progress) throw new Error("Failed to create user progress");
+
+  const oldLevel = progress.level;
+  const newXP = progress.xp + args.amount;
+  const newLevel = getLevelFromXP(newXP);
+  const leveledUp = newLevel > oldLevel;
+
+  await ctx.db.patch(progress._id, {
+    xp: newXP,
+    level: newLevel,
+    updatedAt: Date.now(),
+  });
+
+  // Log activity
+  await ctx.db.insert("activityLog", {
+    userId: args.userId,
+    activityType: "xp_earned",
+    metadata: { amount: args.amount, reason: args.reason },
+    timestamp: Date.now(),
+  });
+
+  return {
+    newXP,
+    leveledUp,
+    newLevel,
+    oldLevel,
+    xpForNextLevel: getXPForLevel(newLevel + 1),
+  };
+}
+
+// Initialize user progress
+export const initializeUserProgress = mutation({
+  args: { userId: v.id("users") },
+  handler: async (ctx, args) => {
+    const existing = await ctx.db
+      .query("userProgress")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .first();
+
+    if (existing) return existing;
+
+    const now = Date.now();
+    return await ctx.db.insert("userProgress", {
+      userId: args.userId,
+      level: 1,
+      xp: 0,
+      badges: [],
+      createdAt: now,
+      updatedAt: now,
+    });
+  },
+});
+
+// Add XP to user
+export const addXP = mutation({
+  args: {
+    userId: v.id("users"),
+    amount: v.number(),
+    reason: v.string(),
+  },
+  handler: async (ctx, args) => {
+    return await awardXP(ctx, args);
+  },
+});
+
+// Get user progress
+export const getUserProgress = query({
+  args: { userId: v.id("users") },
+  handler: async (ctx, args) => {
+    const progress = await ctx.db
+      .query("userProgress")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .first();
+
+    if (!progress) {
+      return {
+        level: 1,
+        xp: 0,
+        badges: [],
+        xpForNextLevel: getXPForLevel(2),
+        xpProgress: 0,
+      };
+    }
+
+    const xpForNextLevel = getXPForLevel(progress.level + 1);
+    const xpForCurrentLevel = getXPForLevel(progress.level);
+    const xpProgress = progress.xp - xpForCurrentLevel;
+    const xpNeeded = xpForNextLevel - xpForCurrentLevel;
+    const progressPercent = (xpProgress / xpNeeded) * 100;
+
+    return {
+      ...progress,
+      xpForNextLevel,
+      xpProgress,
+      xpNeeded,
+      progressPercent,
+    };
+  },
+});
+
+// Quest types and configurations
+const QUEST_TYPES = {
+  complete_profile: {
+    name: "Complete Your Profile",
+    description: "Add 3 more photos to your profile",
+    target: 3,
+    xpReward: 50,
+  },
+  send_messages: {
+    name: "Be Sociable",
+    description: "Send 5 messages today",
+    target: 5,
+    xpReward: 100,
+  },
+  swipe_profiles: {
+    name: "Make Connections",
+    description: "Swipe on 50 profiles",
+    target: 50,
+    xpReward: 75,
+  },
+  get_replies: {
+    name: "Conversation Starter",
+    description: "Get 3 replies to your messages",
+    target: 3,
+    xpReward: 150,
+  },
+  update_photo: {
+    name: "First Impression",
+    description: "Update your profile photo",
+    target: 1,
+    xpReward: 25,
+  },
+};
+
+// Generate daily quests
+export const generateDailyQuests = mutation({
+  args: { userId: v.id("users") },
+  handler: async (ctx, args) => {
+    const now = Date.now();
+    const endOfDay = new Date();
+    endOfDay.setHours(23, 59, 59, 999);
+    const expiresAt = endOfDay.getTime();
+
+    // Check if user already has active quests for today
+    const existingQuests = await ctx.db
+      .query("quests")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .filter((q) => q.gt(q.field("expiresAt"), now))
+      .collect();
+
+    if (existingQuests.length > 0) {
+      return existingQuests;
+    }
+
+    // Generate 3 random quests
+    const questTypeKeys = Object.keys(QUEST_TYPES) as (keyof typeof QUEST_TYPES)[];
+    const selectedQuests = questTypeKeys
+      .sort(() => Math.random() - 0.5)
+      .slice(0, 3);
+
+    const quests = [];
+    for (const questType of selectedQuests) {
+      const config = QUEST_TYPES[questType];
+      const questId = await ctx.db.insert("quests", {
+        userId: args.userId,
+        questType,
+        progress: 0,
+        target: config.target,
+        xpReward: config.xpReward,
+        expiresAt,
+        createdAt: now,
+      });
+      quests.push({
+        _id: questId,
+        questType,
+        ...config,
+        progress: 0,
+        expiresAt,
+      });
+    }
+
+    return quests;
+  },
+});
+
+// Get active quests for user
+export const getActiveQuests = query({
+  args: { userId: v.id("users") },
+  handler: async (ctx, args) => {
+    const now = Date.now();
+    const quests = await ctx.db
+      .query("quests")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .filter((q) => q.gt(q.field("expiresAt"), now))
+      .collect();
+
+    return quests.map((quest) => {
+      const config = QUEST_TYPES[quest.questType as keyof typeof QUEST_TYPES];
+      return {
+        ...quest,
+        name: config?.name || "Quest",
+        description: config?.description || "",
+        progressPercent: (quest.progress / quest.target) * 100,
+      };
+    });
+  },
+});
+
+// Update quest progress
+export const updateQuestProgress = mutation({
+  args: {
+    userId: v.id("users"),
+    questType: v.string(),
+    increment: v.optional(v.number()),
+  },
+  handler: async (ctx, args) => {
+    const now = Date.now();
+    const quest = await ctx.db
+      .query("quests")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .filter((q) =>
+        q.and(
+          q.eq(q.field("questType"), args.questType),
+          q.gt(q.field("expiresAt"), now),
+          q.eq(q.field("completedAt"), undefined)
+        )
+      )
+      .first();
+
+    if (!quest) return null;
+
+    const newProgress = quest.progress + (args.increment || 1);
+    const isCompleted = newProgress >= quest.target;
+
+    await ctx.db.patch(quest._id, {
+      progress: Math.min(newProgress, quest.target),
+      ...(isCompleted ? { completedAt: now } : {}),
+    });
+
+    // Award XP if completed
+    if (isCompleted) {
+      await awardXP(ctx, {
+        userId: args.userId,
+        amount: quest.xpReward,
+        reason: `Completed quest: ${args.questType}`,
+      });
+    }
+
+    return {
+      quest,
+      completed: isCompleted,
+      progress: newProgress,
+    };
+  },
+});
+
+// Complete a quest manually
+export const completeQuest = mutation({
+  args: {
+    questId: v.id("quests"),
+  },
+  handler: async (ctx, args) => {
+    const quest = await ctx.db.get(args.questId);
+    if (!quest || quest.completedAt) return null;
+
+    const now = Date.now();
+    await ctx.db.patch(args.questId, {
+      completedAt: now,
+      progress: quest.target,
+    });
+
+    // Award XP
+    await awardXP(ctx, {
+      userId: quest.userId,
+      amount: quest.xpReward,
+      reason: `Completed quest: ${quest.questType}`,
+    });
+
+    return quest;
+  },
+});

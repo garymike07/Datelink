@@ -1,1 +1,488 @@
-{"data":"aW1wb3J0IHsgdiB9IGZyb20gImNvbnZleC92YWx1ZXMiOwppbXBvcnQgeyBtdXRhdGlvbiwgcXVlcnkgfSBmcm9tICIuL19nZW5lcmF0ZWQvc2VydmVyIjsKCi8vIFRyYWNrIG5vdGlmaWNhdGlvbiBldmVudHMKZXhwb3J0IGNvbnN0IHRyYWNrTm90aWZpY2F0aW9uRXZlbnQgPSBtdXRhdGlvbih7CiAgYXJnczogewogICAgdXNlcklkOiB2LmlkKCJ1c2VycyIpLAogICAgbm90aWZpY2F0aW9uSWQ6IHYuaWQoIm5vdGlmaWNhdGlvbnMiKSwKICAgIGV2ZW50VHlwZTogdi51bmlvbigKICAgICAgdi5saXRlcmFsKCJkZWxpdmVyZWQiKSwKICAgICAgdi5saXRlcmFsKCJ2aWV3ZWQiKSwKICAgICAgdi5saXRlcmFsKCJjbGlja2VkIiksCiAgICAgIHYubGl0ZXJhbCgiZGlzbWlzc2VkIikKICAgICksCiAgICBtZXRhZGF0YTogdi5vcHRpb25hbCh2LmFueSgpKSwKICB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGNvbnN0IG5vdyA9IERhdGUubm93KCk7CiAgICAKICAgIGF3YWl0IGN0eC5kYi5pbnNlcnQoImFjdGl2aXR5TG9nIiwgewogICAgICB1c2VySWQ6IGFyZ3MudXNlcklkLAogICAgICBhY3Rpdml0eVR5cGU6IGBub3RpZmljYXRpb25fJHthcmdzLmV2ZW50VHlwZX1gLAogICAgICBtZXRhZGF0YTogewogICAgICAgIG5vdGlmaWNhdGlvbklkOiBhcmdzLm5vdGlmaWNhdGlvbklkLAogICAgICAgIC4uLmFyZ3MubWV0YWRhdGEsCiAgICAgIH0sCiAgICAgIHRpbWVzdGFtcDogbm93LAogICAgfSk7CiAgICAKICAgIHJldHVybiB7IHN1Y2Nlc3M6IHRydWUgfTsKICB9LAp9KTsKCi8vIEdldCBub3RpZmljYXRpb24gcGVyZm9ybWFuY2UgbWV0cmljcwpleHBvcnQgY29uc3QgZ2V0Tm90aWZpY2F0aW9uTWV0cmljcyA9IHF1ZXJ5KHsKICBhcmdzOiB7CiAgICB1c2VySWQ6IHYub3B0aW9uYWwodi5pZCgidXNlcnMiKSksCiAgICBzdGFydERhdGU6IHYub3B0aW9uYWwodi5udW1iZXIoKSksCiAgICBlbmREYXRlOiB2Lm9wdGlvbmFsKHYubnVtYmVyKCkpLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3Qgc3RhcnREYXRlID0gYXJncy5zdGFydERhdGUgfHwgRGF0ZS5ub3coKSAtIDMwICogMjQgKiA2MCAqIDYwICogMTAwMDsgLy8gMzAgZGF5cwogICAgY29uc3QgZW5kRGF0ZSA9IGFyZ3MuZW5kRGF0ZSB8fCBEYXRlLm5vdygpOwogICAgCiAgICAvLyBRdWVyeSBub3RpZmljYXRpb25zIGluIGRhdGUgcmFuZ2UKICAgIGxldCBub3RpZmljYXRpb25zOwogICAgCiAgICBpZiAoYXJncy51c2VySWQpIHsKICAgICAgbm90aWZpY2F0aW9ucyA9IGF3YWl0IGN0eC5kYgogICAgICAgIC5xdWVyeSgibm90aWZpY2F0aW9ucyIpCiAgICAgICAgLndpdGhJbmRleCgidXNlckNyZWF0ZWRBdCIsIChxOiBhbnkpID0+IAogICAgICAgICAgcS5lcSgidXNlcklkIiwgYXJncy51c2VySWQpCiAgICAgICAgKQogICAgICAgIC5jb2xsZWN0KCk7CiAgICB9IGVsc2UgewogICAgICBub3RpZmljYXRpb25zID0gYXdhaXQgY3R4LmRiLnF1ZXJ5KCJub3RpZmljYXRpb25zIikuY29sbGVjdCgpOwogICAgfQogICAgCiAgICBjb25zdCBmaWx0ZXJlZCA9IG5vdGlmaWNhdGlvbnMuZmlsdGVyKChuOiBhbnkpID0+IAogICAgICBuLmNyZWF0ZWRBdCA+PSBzdGFydERhdGUgJiYgbi5jcmVhdGVkQXQgPD0gZW5kRGF0ZQogICAgKTsKICAgIAogICAgLy8gQ2FsY3VsYXRlIG1ldHJpY3MKICAgIGNvbnN0IHRvdGFsID0gZmlsdGVyZWQubGVuZ3RoOwogICAgY29uc3QgZGVsaXZlcmVkID0gZmlsdGVyZWQuZmlsdGVyKChuOiBhbnkpID0+IG4uZGVsaXZlcmVkQXQpLmxlbmd0aDsKICAgIGNvbnN0IHJlYWQgPSBmaWx0ZXJlZC5maWx0ZXIoKG46IGFueSkgPT4gbi5pc1JlYWQpLmxlbmd0aDsKICAgIGNvbnN0IGNsaWNrZWQgPSBmaWx0ZXJlZC5maWx0ZXIoKG46IGFueSkgPT4gbi5jbGlja2VkQXQpLmxlbmd0aDsKICAgIAogICAgY29uc3QgYnlUeXBlID0gZmlsdGVyZWQucmVkdWNlKChhY2M6IGFueSwgbjogYW55KSA9PiB7CiAgICAgIGFjY1tuLnR5cGVdID0gKGFjY1tuLnR5cGVdIHx8IDApICsgMTsKICAgICAgcmV0dXJuIGFjYzsKICAgIH0sIHt9KTsKICAgIAogICAgY29uc3QgYnlQcmlvcml0eSA9IGZpbHRlcmVkLnJlZHVjZSgoYWNjOiBhbnksIG46IGFueSkgPT4gewogICAgICBhY2Nbbi5wcmlvcml0eV0gPSAoYWNjW24ucHJpb3JpdHldIHx8IDApICsgMTsKICAgICAgcmV0dXJuIGFjYzsKICAgIH0sIHt9KTsKICAgIAogICAgY29uc3QgYnlDYXRlZ29yeSA9IGZpbHRlcmVkLnJlZHVjZSgoYWNjOiBhbnksIG46IGFueSkgPT4gewogICAgICBhY2Nbbi5jYXRlZ29yeV0gPSAoYWNjW24uY2F0ZWdvcnldIHx8IDApICsgMTsKICAgICAgcmV0dXJuIGFjYzsKICAgIH0sIHt9KTsKICAgIAogICAgcmV0dXJuIHsKICAgICAgdG90YWwsCiAgICAgIGRlbGl2ZXJlZCwKICAgICAgcmVhZCwKICAgICAgY2xpY2tlZCwKICAgICAgZGVsaXZlcnlSYXRlOiB0b3RhbCA+IDAgPyAoZGVsaXZlcmVkIC8gdG90YWwpICogMTAwIDogMCwKICAgICAgcmVhZFJhdGU6IGRlbGl2ZXJlZCA+IDAgPyAocmVhZCAvIGRlbGl2ZXJlZCkgKiAxMDAgOiAwLAogICAgICBjbGlja1JhdGU6IHJlYWQgPiAwID8gKGNsaWNrZWQgLyByZWFkKSAqIDEwMCA6IDAsCiAgICAgIGJ5VHlwZSwKICAgICAgYnlQcmlvcml0eSwKICAgICAgYnlDYXRlZ29yeSwKICAgIH07CiAgfSwKfSk7CgovLyBMb2cgdXNlciBhY3Rpdml0eQpleHBvcnQgY29uc3QgbG9nQWN0aXZpdHkgPSBtdXRhdGlvbih7CiAgYXJnczogewogICAgdXNlcklkOiB2LmlkKCJ1c2VycyIpLAogICAgYWN0aXZpdHlUeXBlOiB2LnN0cmluZygpLAogICAgbWV0YWRhdGE6IHYub3B0aW9uYWwodi5hbnkoKSksCiAgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICBjb25zdCB0aW1lc3RhbXAgPSBEYXRlLm5vdygpOwogICAgCiAgICBhd2FpdCBjdHguZGIuaW5zZXJ0KCJhY3Rpdml0eUxvZyIsIHsKICAgICAgdXNlcklkOiBhcmdzLnVzZXJJZCwKICAgICAgYWN0aXZpdHlUeXBlOiBhcmdzLmFjdGl2aXR5VHlwZSwKICAgICAgbWV0YWRhdGE6IGFyZ3MubWV0YWRhdGEsCiAgICAgIHRpbWVzdGFtcCwKICAgIH0pOwoKICAgIC8vIFVwZGF0ZSBsYXN0IGFjdGl2ZSB0aW1lc3RhbXAgb24gcHJvZmlsZQogICAgY29uc3QgcHJvZmlsZSA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoInByb2ZpbGVzIikKICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIGFyZ3MudXNlcklkKSkKICAgICAgLmZpcnN0KCk7CgogICAgaWYgKHByb2ZpbGUpIHsKICAgICAgYXdhaXQgY3R4LmRiLnBhdGNoKHByb2ZpbGUuX2lkLCB7CiAgICAgICAgbGFzdEFjdGl2ZUF0OiB0aW1lc3RhbXAsCiAgICAgIH0pOwogICAgfQoKICAgIHJldHVybiB7IHN1Y2Nlc3M6IHRydWUsIHRpbWVzdGFtcCB9OwogIH0sCn0pOwoKLy8gR2V0IHByb2ZpbGUgc3RhdHMgZm9yIGRhc2hib2FyZApleHBvcnQgY29uc3QgZ2V0UHJvZmlsZVN0YXRzID0gcXVlcnkoewogIGFyZ3M6IHsgdXNlcklkOiB2LmlkKCJ1c2VycyIpIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKTsKICAgIGNvbnN0IG9uZURheUFnbyA9IG5vdyAtIDI0ICogNjAgKiA2MCAqIDEwMDA7CiAgICBjb25zdCBvbmVXZWVrQWdvID0gbm93IC0gNyAqIDI0ICogNjAgKiA2MCAqIDEwMDA7CgogICAgLy8gR2V0IHByb2ZpbGUgdmlld3MgKHRvZGF5IGFuZCB0aGlzIHdlZWspCiAgICBjb25zdCBhbGxWaWV3cyA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoImFjdGl2aXR5TG9nIikKICAgICAgLndpdGhJbmRleCgidXNlclRpbWVzdGFtcCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCBhcmdzLnVzZXJJZCkpCiAgICAgIC5maWx0ZXIoKHEpID0+IHEuZXEocS5maWVsZCgiYWN0aXZpdHlUeXBlIiksICJwcm9maWxlX3ZpZXdlZCIpKQogICAgICAuY29sbGVjdCgpOwoKICAgIGNvbnN0IHZpZXdzVG9kYXkgPSBhbGxWaWV3cy5maWx0ZXIoKHYpID0+IHYudGltZXN0YW1wID49IG9uZURheUFnbykubGVuZ3RoOwogICAgY29uc3Qgdmlld3NXZWVrID0gYWxsVmlld3MuZmlsdGVyKCh2KSA9PiB2LnRpbWVzdGFtcCA+PSBvbmVXZWVrQWdvKS5sZW5ndGg7CgogICAgLy8gR2V0IGxpa2VzIHJlY2VpdmVkCiAgICBjb25zdCBsaWtlc1JlY2VpdmVkID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgibGlrZXMiKQogICAgICAud2l0aEluZGV4KCJsaWtlZFVzZXJJZCIsIChxKSA9PiBxLmVxKCJsaWtlZFVzZXJJZCIsIGFyZ3MudXNlcklkKSkKICAgICAgLmNvbGxlY3QoKTsKCiAgICBjb25zdCBsaWtlc1JlY2VpdmVkVG9kYXkgPSBsaWtlc1JlY2VpdmVkLmZpbHRlcigKICAgICAgKGwpID0+IGwuY3JlYXRlZEF0ID49IG9uZURheUFnbwogICAgKS5sZW5ndGg7CgogICAgLy8gR2V0IG1hdGNoZXMgdGhpcyB3ZWVrCiAgICBjb25zdCBtYXRjaGVzID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgibWF0Y2hlcyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXIxSWQiLCAocSkgPT4gcS5lcSgidXNlcjFJZCIsIGFyZ3MudXNlcklkKSkKICAgICAgLmNvbGxlY3QoKTsKCiAgICBjb25zdCBtYXRjaGVzVXNlcjIgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJtYXRjaGVzIikKICAgICAgLndpdGhJbmRleCgidXNlcjJJZCIsIChxKSA9PiBxLmVxKCJ1c2VyMklkIiwgYXJncy51c2VySWQpKQogICAgICAuY29sbGVjdCgpOwoKICAgIGNvbnN0IGFsbE1hdGNoZXMgPSBbLi4ubWF0Y2hlcywgLi4ubWF0Y2hlc1VzZXIyXTsKICAgIGNvbnN0IG1hdGNoZXNUaGlzV2VlayA9IGFsbE1hdGNoZXMuZmlsdGVyKAogICAgICAobSkgPT4gbS5tYXRjaGVkQXQgPj0gb25lV2Vla0FnbwogICAgKS5sZW5ndGg7CgogICAgLy8gR2V0IHJlc3BvbnNlIHJhdGUgKG1lc3NhZ2VzIHNlbnQgdnMgcmVjZWl2ZWQgaW4gbGFzdCAxMCBjb252ZXJzYXRpb25zKQogICAgY29uc3QgbWVzc2FnZXNTZW50ID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgibWVzc2FnZXMiKQogICAgICAud2l0aEluZGV4KCJzZW5kZXJJZCIsIChxKSA9PiBxLmVxKCJzZW5kZXJJZCIsIGFyZ3MudXNlcklkKSkKICAgICAgLmNvbGxlY3QoKTsKCiAgICBjb25zdCBtZXNzYWdlc1JlY2VpdmVkID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgibWVzc2FnZXMiKQogICAgICAud2l0aEluZGV4KCJyZWNlaXZlcklkIiwgKHEpID0+IHEuZXEoInJlY2VpdmVySWQiLCBhcmdzLnVzZXJJZCkpCiAgICAgIC5jb2xsZWN0KCk7CgogICAgY29uc3QgcmVjZW50U2VudCA9IG1lc3NhZ2VzU2VudC5maWx0ZXIoKG0pID0+IG0uY3JlYXRlZEF0ID49IG9uZVdlZWtBZ28pOwogICAgY29uc3QgcmVjZW50UmVjZWl2ZWQgPSBtZXNzYWdlc1JlY2VpdmVkLmZpbHRlcigKICAgICAgKG0pID0+IG0uY3JlYXRlZEF0ID49IG9uZVdlZWtBZ28KICAgICk7CgogICAgY29uc3QgcmVzcG9uc2VSYXRlID0KICAgICAgcmVjZW50UmVjZWl2ZWQubGVuZ3RoID4gMAogICAgICAgID8gTWF0aC5yb3VuZCgocmVjZW50U2VudC5sZW5ndGggLyByZWNlbnRSZWNlaXZlZC5sZW5ndGgpICogMTAwKQogICAgICAgIDogMTAwOwoKICAgIC8vIEdldCBwcm9maWxlIGNvbXBsZXRlbmVzcwogICAgY29uc3QgcHJvZmlsZSA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoInByb2ZpbGVzIikKICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIGFyZ3MudXNlcklkKSkKICAgICAgLmZpcnN0KCk7CgogICAgcmV0dXJuIHsKICAgICAgdmlld3NUb2RheSwKICAgICAgdmlld3NXZWVrLAogICAgICBsaWtlc1JlY2VpdmVkVG9kYXksCiAgICAgIGxpa2VzUmVjZWl2ZWRUb3RhbDogbGlrZXNSZWNlaXZlZC5sZW5ndGgsCiAgICAgIG1hdGNoZXNUaGlzV2VlaywKICAgICAgbWF0Y2hlc1RvdGFsOiBhbGxNYXRjaGVzLmxlbmd0aCwKICAgICAgcmVzcG9uc2VSYXRlOiBNYXRoLm1pbihyZXNwb25zZVJhdGUsIDEwMCksCiAgICAgIHByb2ZpbGVDb21wbGV0ZW5lc3M6IHByb2ZpbGU/LmNvbXBsZXRlbmVzcyB8fCAwLAogICAgfTsKICB9LAp9KTsKCi8vIEdldCBhY3Rpdml0eSBmZWVkIGZvciBkYXNoYm9hcmQKZXhwb3J0IGNvbnN0IGdldEFjdGl2aXR5RmVlZCA9IHF1ZXJ5KHsKICBhcmdzOiB7IHVzZXJJZDogdi5pZCgidXNlcnMiKSwgbGltaXQ6IHYub3B0aW9uYWwodi5udW1iZXIoKSkgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICBjb25zdCBsaW1pdCA9IGFyZ3MubGltaXQgfHwgMTA7CiAgICBjb25zdCBvbmVEYXlBZ28gPSBEYXRlLm5vdygpIC0gMjQgKiA2MCAqIDYwICogMTAwMDsKCiAgICAvLyBHZXQgcmVjZW50IG1hdGNoZXMKICAgIGNvbnN0IG1hdGNoZXMgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJtYXRjaGVzIikKICAgICAgLndpdGhJbmRleCgidXNlcjFJZCIsIChxKSA9PiBxLmVxKCJ1c2VyMUlkIiwgYXJncy51c2VySWQpKQogICAgICAub3JkZXIoImRlc2MiKQogICAgICAudGFrZSg1KTsKCiAgICBjb25zdCBtYXRjaGVzVXNlcjIgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJtYXRjaGVzIikKICAgICAgLndpdGhJbmRleCgidXNlcjJJZCIsIChxKSA9PiBxLmVxKCJ1c2VyMklkIiwgYXJncy51c2VySWQpKQogICAgICAub3JkZXIoImRlc2MiKQogICAgICAudGFrZSg1KTsKCiAgICBjb25zdCBhbGxNYXRjaGVzID0gWy4uLm1hdGNoZXMsIC4uLm1hdGNoZXNVc2VyMl0KICAgICAgLnNvcnQoKGEsIGIpID0+IGIubWF0Y2hlZEF0IC0gYS5tYXRjaGVkQXQpCiAgICAgIC5zbGljZSgwLCAzKTsKCiAgICAvLyBHZXQgbmV3IGxpa2VzIGNvdW50CiAgICBjb25zdCBuZXdMaWtlcyA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoImxpa2VzIikKICAgICAgLndpdGhJbmRleCgibGlrZWRVc2VySWQiLCAocSkgPT4gcS5lcSgibGlrZWRVc2VySWQiLCBhcmdzLnVzZXJJZCkpCiAgICAgIC5maWx0ZXIoKHEpID0+IHEuZ3QocS5maWVsZCgiY3JlYXRlZEF0IiksIG9uZURheUFnbykpCiAgICAgIC5jb2xsZWN0KCk7CgogICAgLy8gR2V0IGJvb3N0IHJlc3VsdHMgaWYgYW55CiAgICBjb25zdCBhY3RpdmVCb29zdCA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoImJvb3N0cyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCBhcmdzLnVzZXJJZCkpCiAgICAgIC5maWx0ZXIoKHEpID0+IHEuZXEocS5maWVsZCgic3RhdHVzIiksICJleHBpcmVkIikpCiAgICAgIC5vcmRlcigiZGVzYyIpCiAgICAgIC5maXJzdCgpOwoKICAgIGNvbnN0IGZlZWQgPSBbXTsKCiAgICAvLyBBZGQgbWF0Y2hlcyB0byBmZWVkCiAgICBmb3IgKGNvbnN0IG1hdGNoIG9mIGFsbE1hdGNoZXMpIHsKICAgICAgY29uc3Qgb3RoZXJVc2VySWQgPQogICAgICAgIG1hdGNoLnVzZXIxSWQgPT09IGFyZ3MudXNlcklkID8gbWF0Y2gudXNlcjJJZCA6IG1hdGNoLnVzZXIxSWQ7CiAgICAgIGNvbnN0IG90aGVyVXNlciA9IGF3YWl0IGN0eC5kYi5nZXQob3RoZXJVc2VySWQpOwogICAgICAKICAgICAgZmVlZC5wdXNoKHsKICAgICAgICB0eXBlOiAibWF0Y2giLAogICAgICAgIG1lc3NhZ2U6IGAke290aGVyVXNlcj8ubmFtZX0gbGlrZWQgeW91IGJhY2shIPCfkppgLAogICAgICAgIHRpbWVzdGFtcDogbWF0Y2gubWF0Y2hlZEF0LAogICAgICAgIHVzZXJJZDogb3RoZXJVc2VySWQsCiAgICAgIH0pOwogICAgfQoKICAgIC8vIEFkZCBuZXcgbGlrZXMKICAgIGlmIChuZXdMaWtlcy5sZW5ndGggPiAwKSB7CiAgICAgIGZlZWQucHVzaCh7CiAgICAgICAgdHlwZTogImxpa2VzIiwKICAgICAgICBtZXNzYWdlOiBgWW91IGhhdmUgJHtuZXdMaWtlcy5sZW5ndGh9IG5ldyAkewogICAgICAgICAgbmV3TGlrZXMubGVuZ3RoID09PSAxID8gImxpa2UiIDogImxpa2VzIgogICAgICAgIH1gLAogICAgICAgIHRpbWVzdGFtcDogbmV3TGlrZXNbMF0uY3JlYXRlZEF0LAogICAgICB9KTsKICAgIH0KCiAgICAvLyBBZGQgYm9vc3QgcmVzdWx0cwogICAgaWYgKGFjdGl2ZUJvb3N0ICYmIGFjdGl2ZUJvb3N0LmltcHJlc3Npb25zID4gMCkgewogICAgICBmZWVkLnB1c2goewogICAgICAgIHR5cGU6ICJib29zdCIsCiAgICAgICAgbWVzc2FnZTogYFlvdXIgYm9vc3QgZ290ICR7YWN0aXZlQm9vc3QuaW1wcmVzc2lvbnN9IHZpZXdzIWAsCiAgICAgICAgdGltZXN0YW1wOiBhY3RpdmVCb29zdC5leHBpcmVzQXQsCiAgICAgIH0pOwogICAgfQoKICAgIC8vIFNvcnQgYnkgdGltZXN0YW1wCiAgICBmZWVkLnNvcnQoKGEsIGIpID0+IGIudGltZXN0YW1wIC0gYS50aW1lc3RhbXApOwoKICAgIHJldHVybiBmZWVkLnNsaWNlKDAsIGxpbWl0KTsKICB9LAp9KTsKCi8vIEdldCBwcm9maWxlIHN0cmVuZ3RoIG1ldGVyIGRhdGEKZXhwb3J0IGNvbnN0IGdldFByb2ZpbGVTdHJlbmd0aCA9IHF1ZXJ5KHsKICBhcmdzOiB7IHVzZXJJZDogdi5pZCgidXNlcnMiKSB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGNvbnN0IHByb2ZpbGUgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJwcm9maWxlcyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCBhcmdzLnVzZXJJZCkpCiAgICAgIC5maXJzdCgpOwoKICAgIGlmICghcHJvZmlsZSkgewogICAgICByZXR1cm4gewogICAgICAgIHNjb3JlOiAwLAogICAgICAgIGJyZWFrZG93bjoge30sCiAgICAgICAgdGlwczogWyJDcmVhdGUgeW91ciBwcm9maWxlIHRvIGdldCBzdGFydGVkIl0sCiAgICAgIH07CiAgICB9CgogICAgY29uc3QgYnJlYWtkb3duOiBSZWNvcmQ8c3RyaW5nLCBib29sZWFuPiA9IHsKICAgICAgaGFzUGhvdG9zOiBmYWxzZSwKICAgICAgaGFzQmlvOiBmYWxzZSwKICAgICAgaGFzSm9iRWR1Y2F0aW9uOiBmYWxzZSwKICAgICAgaGFzSW50ZXJlc3RzOiBmYWxzZSwKICAgICAgaGFzUHJvbXB0czogZmFsc2UsCiAgICAgIGlzVmVyaWZpZWQ6IGZhbHNlLAogICAgfTsKCiAgICBjb25zdCB0aXBzOiBzdHJpbmdbXSA9IFtdOwoKICAgIC8vIENoZWNrIHBob3RvcyAoMjUlKQogICAgY29uc3QgcGhvdG9zID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgicGhvdG9zIikKICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIGFyZ3MudXNlcklkKSkKICAgICAgLmNvbGxlY3QoKTsKICAgIGJyZWFrZG93bi5oYXNQaG90b3MgPSBwaG90b3MubGVuZ3RoID49IDQ7CiAgICBpZiAoIWJyZWFrZG93bi5oYXNQaG90b3MpIHsKICAgICAgdGlwcy5wdXNoKGBBZGQgJHs0IC0gcGhvdG9zLmxlbmd0aH0gbW9yZSBwaG90byR7NCAtIHBob3Rvcy5sZW5ndGggPiAxID8gJ3MnIDogJyd9YCk7CiAgICB9CgogICAgLy8gQ2hlY2sgYmlvICgxNSUpCiAgICBicmVha2Rvd24uaGFzQmlvID0gKHByb2ZpbGUuYmlvPy5sZW5ndGggfHwgMCkgPj0gNTA7CiAgICBpZiAoIWJyZWFrZG93bi5oYXNCaW8pIHsKICAgICAgdGlwcy5wdXNoKCJXcml0ZSBhIGxvbmdlciBiaW8gKGF0IGxlYXN0IDUwIGNoYXJhY3RlcnMpIik7CiAgICB9CgogICAgLy8gQ2hlY2sgam9iL2VkdWNhdGlvbiAoMTUlKQogICAgYnJlYWtkb3duLmhhc0pvYkVkdWNhdGlvbiA9ICEhKHByb2ZpbGUuam9iVGl0bGUgfHwgcHJvZmlsZS5lZHVjYXRpb24pOwogICAgaWYgKCFicmVha2Rvd24uaGFzSm9iRWR1Y2F0aW9uKSB7CiAgICAgIHRpcHMucHVzaCgiQWRkIHlvdXIgam9iIHRpdGxlIG9yIGVkdWNhdGlvbiIpOwogICAgfQoKICAgIC8vIENoZWNrIGludGVyZXN0cyAoMTUlKQogICAgY29uc3QgaW50ZXJlc3RzID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgiaW50ZXJlc3RzIikKICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIGFyZ3MudXNlcklkKSkKICAgICAgLmNvbGxlY3QoKTsKICAgIGJyZWFrZG93bi5oYXNJbnRlcmVzdHMgPSBpbnRlcmVzdHMubGVuZ3RoID49IDU7CiAgICBpZiAoIWJyZWFrZG93bi5oYXNJbnRlcmVzdHMpIHsKICAgICAgdGlwcy5wdXNoKGBTZWxlY3QgJHs1IC0gaW50ZXJlc3RzLmxlbmd0aH0gbW9yZSBpbnRlcmVzdCR7NSAtIGludGVyZXN0cy5sZW5ndGggPiAxID8gJ3MnIDogJyd9YCk7CiAgICB9CgogICAgLy8gQ2hlY2sgcHJvbXB0cyAoMTUlKQogICAgY29uc3QgcHJvbXB0cyA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoInByb21wdEFuc3dlcnMiKQogICAgICAud2l0aEluZGV4KCJ1c2VySWQiLCAocSkgPT4gcS5lcSgidXNlcklkIiwgYXJncy51c2VySWQpKQogICAgICAuY29sbGVjdCgpOwogICAgYnJlYWtkb3duLmhhc1Byb21wdHMgPSBwcm9tcHRzLmxlbmd0aCA+PSAzOwogICAgaWYgKCFicmVha2Rvd24uaGFzUHJvbXB0cykgewogICAgICB0aXBzLnB1c2goYEFuc3dlciAkezMgLSBwcm9tcHRzLmxlbmd0aH0gbW9yZSBwcm9tcHQkezMgLSBwcm9tcHRzLmxlbmd0aCA+IDEgPyAncycgOiAnJ31gKTsKICAgIH0KCiAgICAvLyBDaGVjayB2ZXJpZmljYXRpb24gKDE1JSkKICAgIGNvbnN0IHZlcmlmaWNhdGlvbiA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoInZlcmlmaWNhdGlvbnMiKQogICAgICAud2l0aEluZGV4KCJ1c2VySWQiLCAocSkgPT4gcS5lcSgidXNlcklkIiwgYXJncy51c2VySWQpKQogICAgICAuZmlsdGVyKChxKSA9PiBxLmVxKHEuZmllbGQoInN0YXR1cyIpLCAiYXBwcm92ZWQiKSkKICAgICAgLmZpcnN0KCk7CiAgICBicmVha2Rvd24uaXNWZXJpZmllZCA9ICEhdmVyaWZpY2F0aW9uOwogICAgaWYgKCFicmVha2Rvd24uaXNWZXJpZmllZCkgewogICAgICB0aXBzLnB1c2goIlZlcmlmeSB5b3VyIHByb2ZpbGUgd2l0aCBhIHNlbGZpZSIpOwogICAgfQoKICAgIC8vIENhbGN1bGF0ZSBzY29yZQogICAgY29uc3Qgd2VpZ2h0cyA9IHsKICAgICAgaGFzUGhvdG9zOiAyNSwKICAgICAgaGFzQmlvOiAxNSwKICAgICAgaGFzSm9iRWR1Y2F0aW9uOiAxNSwKICAgICAgaGFzSW50ZXJlc3RzOiAxNSwKICAgICAgaGFzUHJvbXB0czogMTUsCiAgICAgIGlzVmVyaWZpZWQ6IDE1LAogICAgfTsKCiAgICBsZXQgc2NvcmUgPSAwOwogICAgZm9yIChjb25zdCBba2V5LCB2YWx1ZV0gb2YgT2JqZWN0LmVudHJpZXMoYnJlYWtkb3duKSkgewogICAgICBpZiAodmFsdWUpIHsKICAgICAgICBzY29yZSArPSB3ZWlnaHRzW2tleSBhcyBrZXlvZiB0eXBlb2Ygd2VpZ2h0c107CiAgICAgIH0KICAgIH0KCiAgICByZXR1cm4gewogICAgICBzY29yZSwKICAgICAgYnJlYWtkb3duLAogICAgICB0aXBzOiB0aXBzLnNsaWNlKDAsIDMpLCAvLyBTaG93IHRvcCAzIHRpcHMKICAgIH07CiAgfSwKfSk7CgovLyBQaGFzZSA0OiBQaG90byBwZXJmb3JtYW5jZSB0cmFja2luZwpleHBvcnQgY29uc3QgcmVjb3JkUGhvdG9JbXByZXNzaW9uID0gbXV0YXRpb24oewogIGFyZ3M6IHsKICAgIHBob3RvSWQ6IHYuaWQoInBob3RvcyIpLAogICAgb3duZXJVc2VySWQ6IHYuaWQoInVzZXJzIiksCiAgICBhY3Rpb246IHYub3B0aW9uYWwodi51bmlvbih2LmxpdGVyYWwoImltcHJlc3Npb24iKSwgdi5saXRlcmFsKCJsaWtlIiksIHYubGl0ZXJhbCgicGFzcyIpKSksCiAgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICBjb25zdCBub3cgPSBEYXRlLm5vdygpOwogICAgY29uc3QgZXhpc3RpbmcgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJwaG90b0FuYWx5dGljcyIpCiAgICAgIC53aXRoSW5kZXgoInBob3RvSWQiLCAocSkgPT4gcS5lcSgicGhvdG9JZCIsIGFyZ3MucGhvdG9JZCkpCiAgICAgIC5maXJzdCgpOwoKICAgIGNvbnN0IGFjdGlvbiA9IGFyZ3MuYWN0aW9uID8/ICJpbXByZXNzaW9uIjsKCiAgICBjb25zdCBpbmMgPSB7CiAgICAgIGltcHJlc3Npb25zOiBhY3Rpb24gPT09ICJpbXByZXNzaW9uIiA/IDEgOiAwLAogICAgICBsaWtlczogYWN0aW9uID09PSAibGlrZSIgPyAxIDogMCwKICAgICAgcGFzc2VzOiBhY3Rpb24gPT09ICJwYXNzIiA/IDEgOiAwLAogICAgfTsKCiAgICBpZiAoIWV4aXN0aW5nKSB7CiAgICAgIGNvbnN0IGltcHJlc3Npb25zID0gaW5jLmltcHJlc3Npb25zOwogICAgICBjb25zdCBsaWtlcyA9IGluYy5saWtlczsKICAgICAgY29uc3QgcGFzc2VzID0gaW5jLnBhc3NlczsKICAgICAgY29uc3QgbGlrZVJhdGUgPSBpbXByZXNzaW9ucyA+IDAgPyBsaWtlcyAvIGltcHJlc3Npb25zIDogMDsKICAgICAgYXdhaXQgY3R4LmRiLmluc2VydCgicGhvdG9BbmFseXRpY3MiLCB7CiAgICAgICAgcGhvdG9JZDogYXJncy5waG90b0lkLAogICAgICAgIHVzZXJJZDogYXJncy5vd25lclVzZXJJZCwKICAgICAgICBpbXByZXNzaW9ucywKICAgICAgICBsaWtlcywKICAgICAgICBwYXNzZXMsCiAgICAgICAgbGlrZVJhdGUsCiAgICAgICAgY3JlYXRlZEF0OiBub3csCiAgICAgICAgdXBkYXRlZEF0OiBub3csCiAgICAgIH0pOwogICAgICByZXR1cm4geyBzdWNjZXNzOiB0cnVlIH07CiAgICB9CgogICAgY29uc3QgaW1wcmVzc2lvbnMgPSBleGlzdGluZy5pbXByZXNzaW9ucyArIGluYy5pbXByZXNzaW9uczsKICAgIGNvbnN0IGxpa2VzID0gZXhpc3RpbmcubGlrZXMgKyBpbmMubGlrZXM7CiAgICBjb25zdCBwYXNzZXMgPSBleGlzdGluZy5wYXNzZXMgKyBpbmMucGFzc2VzOwogICAgY29uc3QgbGlrZVJhdGUgPSBpbXByZXNzaW9ucyA+IDAgPyBsaWtlcyAvIGltcHJlc3Npb25zIDogMDsKCiAgICBhd2FpdCBjdHguZGIucGF0Y2goZXhpc3RpbmcuX2lkLCB7CiAgICAgIGltcHJlc3Npb25zLAogICAgICBsaWtlcywKICAgICAgcGFzc2VzLAogICAgICBsaWtlUmF0ZSwKICAgICAgdXBkYXRlZEF0OiBub3csCiAgICB9KTsKCiAgICByZXR1cm4geyBzdWNjZXNzOiB0cnVlIH07CiAgfSwKfSk7CgpleHBvcnQgY29uc3QgZ2V0UGhvdG9BbmFseXRpY3NGb3JVc2VyID0gcXVlcnkoewogIGFyZ3M6IHsgdXNlcklkOiB2LmlkKCJ1c2VycyIpIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3QgcGhvdG9zID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgicGhvdG9zIikKICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIGFyZ3MudXNlcklkKSkKICAgICAgLmNvbGxlY3QoKTsKCiAgICBjb25zdCBhbmFseXRpY3MgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJwaG90b0FuYWx5dGljcyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCBhcmdzLnVzZXJJZCkpCiAgICAgIC5jb2xsZWN0KCk7CgogICAgY29uc3QgYnlQaG90b0lkID0gbmV3IE1hcChhbmFseXRpY3MubWFwKChhKSA9PiBbYS5waG90b0lkLCBhXSkpOwoKICAgIHJldHVybiBwaG90b3MKICAgICAgLnNvcnQoKGEsIGIpID0+IGEub3JkZXIgLSBiLm9yZGVyKQogICAgICAubWFwKChwKSA9PiAoewogICAgICAgIHBob3RvOiBwLAogICAgICAgIGFuYWx5dGljczogYnlQaG90b0lkLmdldChwLl9pZCkgfHwgewogICAgICAgICAgaW1wcmVzc2lvbnM6IDAsCiAgICAgICAgICBsaWtlczogMCwKICAgICAgICAgIHBhc3NlczogMCwKICAgICAgICAgIGxpa2VSYXRlOiAwLAogICAgICAgIH0sCiAgICAgIH0pKTsKICB9LAp9KTsK"}
+import { v } from "convex/values";
+import { mutation, query } from "./_generated/server";
+
+// Track notification events
+export const trackNotificationEvent = mutation({
+  args: {
+    userId: v.id("users"),
+    notificationId: v.id("notifications"),
+    eventType: v.union(
+      v.literal("delivered"),
+      v.literal("viewed"),
+      v.literal("clicked"),
+      v.literal("dismissed")
+    ),
+    metadata: v.optional(v.any()),
+  },
+  handler: async (ctx, args) => {
+    const now = Date.now();
+    
+    await ctx.db.insert("activityLog", {
+      userId: args.userId,
+      activityType: `notification_${args.eventType}`,
+      metadata: {
+        notificationId: args.notificationId,
+        ...args.metadata,
+      },
+      timestamp: now,
+    });
+    
+    return { success: true };
+  },
+});
+
+// Get notification performance metrics
+export const getNotificationMetrics = query({
+  args: {
+    userId: v.optional(v.id("users")),
+    startDate: v.optional(v.number()),
+    endDate: v.optional(v.number()),
+  },
+  handler: async (ctx, args) => {
+    const startDate = args.startDate || Date.now() - 30 * 24 * 60 * 60 * 1000; // 30 days
+    const endDate = args.endDate || Date.now();
+    
+    // Query notifications in date range
+    let notifications;
+    
+    if (args.userId) {
+      notifications = await ctx.db
+        .query("notifications")
+        .withIndex("userCreatedAt", (q: any) => 
+          q.eq("userId", args.userId)
+        )
+        .collect();
+    } else {
+      notifications = await ctx.db.query("notifications").collect();
+    }
+    
+    const filtered = notifications.filter((n: any) => 
+      n.createdAt >= startDate && n.createdAt <= endDate
+    );
+    
+    // Calculate metrics
+    const total = filtered.length;
+    const delivered = filtered.filter((n: any) => n.deliveredAt).length;
+    const read = filtered.filter((n: any) => n.isRead).length;
+    const clicked = filtered.filter((n: any) => n.clickedAt).length;
+    
+    const byType = filtered.reduce((acc: any, n: any) => {
+      acc[n.type] = (acc[n.type] || 0) + 1;
+      return acc;
+    }, {});
+    
+    const byPriority = filtered.reduce((acc: any, n: any) => {
+      acc[n.priority] = (acc[n.priority] || 0) + 1;
+      return acc;
+    }, {});
+    
+    const byCategory = filtered.reduce((acc: any, n: any) => {
+      acc[n.category] = (acc[n.category] || 0) + 1;
+      return acc;
+    }, {});
+    
+    return {
+      total,
+      delivered,
+      read,
+      clicked,
+      deliveryRate: total > 0 ? (delivered / total) * 100 : 0,
+      readRate: delivered > 0 ? (read / delivered) * 100 : 0,
+      clickRate: read > 0 ? (clicked / read) * 100 : 0,
+      byType,
+      byPriority,
+      byCategory,
+    };
+  },
+});
+
+// Log user activity
+export const logActivity = mutation({
+  args: {
+    userId: v.id("users"),
+    activityType: v.string(),
+    metadata: v.optional(v.any()),
+  },
+  handler: async (ctx, args) => {
+    const timestamp = Date.now();
+    
+    await ctx.db.insert("activityLog", {
+      userId: args.userId,
+      activityType: args.activityType,
+      metadata: args.metadata,
+      timestamp,
+    });
+
+    // Update last active timestamp on profile
+    const profile = await ctx.db
+      .query("profiles")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .first();
+
+    if (profile) {
+      await ctx.db.patch(profile._id, {
+        lastActiveAt: timestamp,
+      });
+    }
+
+    return { success: true, timestamp };
+  },
+});
+
+// Get profile stats for dashboard
+export const getProfileStats = query({
+  args: { userId: v.id("users") },
+  handler: async (ctx, args) => {
+    const now = Date.now();
+    const oneDayAgo = now - 24 * 60 * 60 * 1000;
+    const oneWeekAgo = now - 7 * 24 * 60 * 60 * 1000;
+
+    // Get profile views (today and this week)
+    const allViews = await ctx.db
+      .query("activityLog")
+      .withIndex("userTimestamp", (q) => q.eq("userId", args.userId))
+      .filter((q) => q.eq(q.field("activityType"), "profile_viewed"))
+      .collect();
+
+    const viewsToday = allViews.filter((v) => v.timestamp >= oneDayAgo).length;
+    const viewsWeek = allViews.filter((v) => v.timestamp >= oneWeekAgo).length;
+
+    // Get likes received
+    const likesReceived = await ctx.db
+      .query("likes")
+      .withIndex("likedUserId", (q) => q.eq("likedUserId", args.userId))
+      .collect();
+
+    const likesReceivedToday = likesReceived.filter(
+      (l) => l.createdAt >= oneDayAgo
+    ).length;
+
+    // Get matches this week
+    const matches = await ctx.db
+      .query("matches")
+      .withIndex("user1Id", (q) => q.eq("user1Id", args.userId))
+      .collect();
+
+    const matchesUser2 = await ctx.db
+      .query("matches")
+      .withIndex("user2Id", (q) => q.eq("user2Id", args.userId))
+      .collect();
+
+    const allMatches = [...matches, ...matchesUser2];
+    const matchesThisWeek = allMatches.filter(
+      (m) => m.matchedAt >= oneWeekAgo
+    ).length;
+
+    // Get response rate (messages sent vs received in last 10 conversations)
+    const messagesSent = await ctx.db
+      .query("messages")
+      .withIndex("senderId", (q) => q.eq("senderId", args.userId))
+      .collect();
+
+    const messagesReceived = await ctx.db
+      .query("messages")
+      .withIndex("receiverId", (q) => q.eq("receiverId", args.userId))
+      .collect();
+
+    const recentSent = messagesSent.filter((m) => m.createdAt >= oneWeekAgo);
+    const recentReceived = messagesReceived.filter(
+      (m) => m.createdAt >= oneWeekAgo
+    );
+
+    const responseRate =
+      recentReceived.length > 0
+        ? Math.round((recentSent.length / recentReceived.length) * 100)
+        : 100;
+
+    // Get profile completeness
+    const profile = await ctx.db
+      .query("profiles")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .first();
+
+    return {
+      viewsToday,
+      viewsWeek,
+      likesReceivedToday,
+      likesReceivedTotal: likesReceived.length,
+      matchesThisWeek,
+      matchesTotal: allMatches.length,
+      responseRate: Math.min(responseRate, 100),
+      profileCompleteness: profile?.completeness || 0,
+    };
+  },
+});
+
+// Get activity feed for dashboard
+export const getActivityFeed = query({
+  args: { userId: v.id("users"), limit: v.optional(v.number()) },
+  handler: async (ctx, args) => {
+    const limit = args.limit || 10;
+    const oneDayAgo = Date.now() - 24 * 60 * 60 * 1000;
+
+    // Get recent matches
+    const matches = await ctx.db
+      .query("matches")
+      .withIndex("user1Id", (q) => q.eq("user1Id", args.userId))
+      .order("desc")
+      .take(5);
+
+    const matchesUser2 = await ctx.db
+      .query("matches")
+      .withIndex("user2Id", (q) => q.eq("user2Id", args.userId))
+      .order("desc")
+      .take(5);
+
+    const allMatches = [...matches, ...matchesUser2]
+      .sort((a, b) => b.matchedAt - a.matchedAt)
+      .slice(0, 3);
+
+    // Get new likes count
+    const newLikes = await ctx.db
+      .query("likes")
+      .withIndex("likedUserId", (q) => q.eq("likedUserId", args.userId))
+      .filter((q) => q.gt(q.field("createdAt"), oneDayAgo))
+      .collect();
+
+    // Get boost results if any
+    const activeBoost = await ctx.db
+      .query("boosts")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .filter((q) => q.eq(q.field("status"), "expired"))
+      .order("desc")
+      .first();
+
+    const feed = [];
+
+    // Add matches to feed
+    for (const match of allMatches) {
+      const otherUserId =
+        match.user1Id === args.userId ? match.user2Id : match.user1Id;
+      const otherUser = await ctx.db.get(otherUserId);
+      
+      feed.push({
+        type: "match",
+        message: `${otherUser?.name} liked you back! 💚`,
+        timestamp: match.matchedAt,
+        userId: otherUserId,
+      });
+    }
+
+    // Add new likes
+    if (newLikes.length > 0) {
+      feed.push({
+        type: "likes",
+        message: `You have ${newLikes.length} new ${
+          newLikes.length === 1 ? "like" : "likes"
+        }`,
+        timestamp: newLikes[0].createdAt,
+      });
+    }
+
+    // Add boost results
+    if (activeBoost && activeBoost.impressions > 0) {
+      feed.push({
+        type: "boost",
+        message: `Your boost got ${activeBoost.impressions} views!`,
+        timestamp: activeBoost.expiresAt,
+      });
+    }
+
+    // Sort by timestamp
+    feed.sort((a, b) => b.timestamp - a.timestamp);
+
+    return feed.slice(0, limit);
+  },
+});
+
+// Get profile strength meter data
+export const getProfileStrength = query({
+  args: { userId: v.id("users") },
+  handler: async (ctx, args) => {
+    const profile = await ctx.db
+      .query("profiles")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .first();
+
+    if (!profile) {
+      return {
+        score: 0,
+        breakdown: {},
+        tips: ["Create your profile to get started"],
+      };
+    }
+
+    const breakdown: Record<string, boolean> = {
+      hasPhotos: false,
+      hasBio: false,
+      hasJobEducation: false,
+      hasInterests: false,
+      hasPrompts: false,
+      isVerified: false,
+    };
+
+    const tips: string[] = [];
+
+    // Check photos (25%)
+    const photos = await ctx.db
+      .query("photos")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .collect();
+    breakdown.hasPhotos = photos.length >= 4;
+    if (!breakdown.hasPhotos) {
+      tips.push(`Add ${4 - photos.length} more photo${4 - photos.length > 1 ? 's' : ''}`);
+    }
+
+    // Check bio (15%)
+    breakdown.hasBio = (profile.bio?.length || 0) >= 50;
+    if (!breakdown.hasBio) {
+      tips.push("Write a longer bio (at least 50 characters)");
+    }
+
+    // Check job/education (15%)
+    breakdown.hasJobEducation = !!(profile.jobTitle || profile.education);
+    if (!breakdown.hasJobEducation) {
+      tips.push("Add your job title or education");
+    }
+
+    // Check interests (15%)
+    const interests = await ctx.db
+      .query("interests")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .collect();
+    breakdown.hasInterests = interests.length >= 5;
+    if (!breakdown.hasInterests) {
+      tips.push(`Select ${5 - interests.length} more interest${5 - interests.length > 1 ? 's' : ''}`);
+    }
+
+    // Check prompts (15%)
+    const prompts = await ctx.db
+      .query("promptAnswers")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .collect();
+    breakdown.hasPrompts = prompts.length >= 3;
+    if (!breakdown.hasPrompts) {
+      tips.push(`Answer ${3 - prompts.length} more prompt${3 - prompts.length > 1 ? 's' : ''}`);
+    }
+
+    // Check verification (15%)
+    const verification = await ctx.db
+      .query("verifications")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .filter((q) => q.eq(q.field("status"), "approved"))
+      .first();
+    breakdown.isVerified = !!verification;
+    if (!breakdown.isVerified) {
+      tips.push("Verify your profile with a selfie");
+    }
+
+    // Calculate score
+    const weights = {
+      hasPhotos: 25,
+      hasBio: 15,
+      hasJobEducation: 15,
+      hasInterests: 15,
+      hasPrompts: 15,
+      isVerified: 15,
+    };
+
+    let score = 0;
+    for (const [key, value] of Object.entries(breakdown)) {
+      if (value) {
+        score += weights[key as keyof typeof weights];
+      }
+    }
+
+    return {
+      score,
+      breakdown,
+      tips: tips.slice(0, 3), // Show top 3 tips
+    };
+  },
+});
+
+// Phase 4: Photo performance tracking
+export const recordPhotoImpression = mutation({
+  args: {
+    photoId: v.id("photos"),
+    ownerUserId: v.id("users"),
+    action: v.optional(v.union(v.literal("impression"), v.literal("like"), v.literal("pass"))),
+  },
+  handler: async (ctx, args) => {
+    const now = Date.now();
+    const existing = await ctx.db
+      .query("photoAnalytics")
+      .withIndex("photoId", (q) => q.eq("photoId", args.photoId))
+      .first();
+
+    const action = args.action ?? "impression";
+
+    const inc = {
+      impressions: action === "impression" ? 1 : 0,
+      likes: action === "like" ? 1 : 0,
+      passes: action === "pass" ? 1 : 0,
+    };
+
+    if (!existing) {
+      const impressions = inc.impressions;
+      const likes = inc.likes;
+      const passes = inc.passes;
+      const likeRate = impressions > 0 ? likes / impressions : 0;
+      await ctx.db.insert("photoAnalytics", {
+        photoId: args.photoId,
+        userId: args.ownerUserId,
+        impressions,
+        likes,
+        passes,
+        likeRate,
+        createdAt: now,
+        updatedAt: now,
+      });
+      return { success: true };
+    }
+
+    const impressions = existing.impressions + inc.impressions;
+    const likes = existing.likes + inc.likes;
+    const passes = existing.passes + inc.passes;
+    const likeRate = impressions > 0 ? likes / impressions : 0;
+
+    await ctx.db.patch(existing._id, {
+      impressions,
+      likes,
+      passes,
+      likeRate,
+      updatedAt: now,
+    });
+
+    return { success: true };
+  },
+});
+
+export const getPhotoAnalyticsForUser = query({
+  args: { userId: v.id("users") },
+  handler: async (ctx, args) => {
+    const photos = await ctx.db
+      .query("photos")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .collect();
+
+    const analytics = await ctx.db
+      .query("photoAnalytics")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .collect();
+
+    const byPhotoId = new Map(analytics.map((a) => [a.photoId, a]));
+
+    return photos
+      .sort((a, b) => a.order - b.order)
+      .map((p) => ({
+        photo: p,
+        analytics: byPhotoId.get(p._id) || {
+          impressions: 0,
+          likes: 0,
+          passes: 0,
+          likeRate: 0,
+        },
+      }));
+  },
+});

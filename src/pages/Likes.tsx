@@ -1,1 +1,255 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IHVzZUF1dGggfSBmcm9tICJAL2NvbnRleHRzL0F1dGhDb250ZXh0IjsKaW1wb3J0IHsgdXNlUXVlcnksIHVzZU11dGF0aW9uIH0gZnJvbSAiY29udmV4L3JlYWN0IjsKaW1wb3J0IHsgYXBpIH0gZnJvbSAiLi4vLi4vY29udmV4L19nZW5lcmF0ZWQvYXBpIjsKaW1wb3J0IHsgSGVhcnQsIFNwYXJrbGVzLCBMb2NrLCBBcnJvd1VwUmlnaHQsIEZpbHRlciB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IEJ1dHRvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS9idXR0b24iOwppbXBvcnQgeyBCYWRnZSB9IGZyb20gIkAvY29tcG9uZW50cy91aS9iYWRnZSI7CmltcG9ydCB7IENhcmQsIENhcmRDb250ZW50IH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2NhcmQiOwppbXBvcnQgeyBTa2VsZXRvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS9za2VsZXRvbiI7CmltcG9ydCB7IHVzZU5hdmlnYXRlIH0gZnJvbSAicmVhY3Qtcm91dGVyLWRvbSI7CmltcG9ydCB7IHRvYXN0IH0gZnJvbSAic29ubmVyIjsKaW1wb3J0IHsKICBTZWxlY3QsCiAgU2VsZWN0Q29udGVudCwKICBTZWxlY3RJdGVtLAogIFNlbGVjdFRyaWdnZXIsCiAgU2VsZWN0VmFsdWUsCn0gZnJvbSAiQC9jb21wb25lbnRzL3VpL3NlbGVjdCI7CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBMaWtlcygpIHsKICBjb25zdCBuYXZpZ2F0ZSA9IHVzZU5hdmlnYXRlKCk7CiAgY29uc3QgW3NvcnRCeSwgc2V0U29ydEJ5XSA9IHVzZVN0YXRlPCJyZWNlbnQiIHwgImRpc3RhbmNlIiB8ICJzY29yZSI+KCJyZWNlbnQiKTsKCiAgY29uc3QgeyB1c2VyIH0gPSB1c2VBdXRoKCk7CiAgY29uc3QgdXNlcklkID0gdXNlci5faWQ7CgogIC8vIEdldCB3aG8gbGlrZWQgeW91IGRhdGEKICBjb25zdCBsaWtlc0RhdGEgPSB1c2VRdWVyeSgKICAgIGFwaS5tYXRjaGluZy5nZXRXaG9MaWtlZFlvdSwKICAgIHVzZXJJZCA/IHsgdXNlcklkLCBzb3J0QnkgfSA6ICJza2lwIgogICk7CgogIGNvbnN0IGxpa2VVc2VyID0gdXNlTXV0YXRpb24oYXBpLm1hdGNoaW5nLmxpa2VQcm9maWxlKTsKCiAgY29uc3QgaXNQcmVtaXVtID0gbGlrZXNEYXRhPy5pc1ByZW1pdW0gfHwgZmFsc2U7CiAgY29uc3QgY291bnQgPSBsaWtlc0RhdGE/LmNvdW50IHx8IDA7CiAgY29uc3QgcHJvZmlsZXMgPSBsaWtlc0RhdGE/LnByb2ZpbGVzIHx8IFtdOwoKICBjb25zdCBoYW5kbGVMaWtlQmFjayA9IGFzeW5jICh0YXJnZXRVc2VySWQ6IHN0cmluZykgPT4gewogICAgaWYgKCF1c2VySWQpIHJldHVybjsKICAgIHRyeSB7CiAgICAgIGF3YWl0IGxpa2VVc2VyKHsgdXNlcklkLCBsaWtlZFVzZXJJZDogdGFyZ2V0VXNlcklkIH0pOwogICAgICB0b2FzdC5zdWNjZXNzKCJMaWtlZCEgWW91J3ZlIG1hdGNoZWQhIik7CiAgICB9IGNhdGNoIChlcnJvcjogYW55KSB7CiAgICAgIGNvbnNvbGUuZXJyb3IoIkVycm9yIGxpa2luZyBwcm9maWxlOiIsIGVycm9yKTsKICAgICAgdG9hc3QuZXJyb3IoZXJyb3IubWVzc2FnZSB8fCAiRmFpbGVkIHRvIGxpa2UgcHJvZmlsZSIpOwogICAgfQogIH07CgogIGlmICghdXNlcklkKSB7CiAgICByZXR1cm4gKAogICAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGFpbmVyIG1heC13LTZ4bCBteC1hdXRvIHB5LTMgc206cHktNCBtZDpweS02IGxnOnB5LTggcHgtMiBzbTpweC0zIG1kOnB4LTQiPgogICAgICAgIDxwPlBsZWFzZSBzaWduIGluIHRvIHZpZXcgd2hvIGxpa2VzIHlvdS48L3A+CiAgICAgIDwvZGl2PgogICAgKTsKICB9CgogIGlmICghbGlrZXNEYXRhKSB7CiAgICByZXR1cm4gKAogICAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGFpbmVyIG1heC13LTZ4bCBteC1hdXRvIHB5LTMgc206cHktNCBtZDpweS02IGxnOnB5LTggcHgtMiBzbTpweC0zIG1kOnB4LTQiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTYiPgogICAgICAgICAgPFNrZWxldG9uIGNsYXNzTmFtZT0iaC0xMiB3LTY0IiAvPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTEgc206Z3JpZC1jb2xzLTIgbGc6Z3JpZC1jb2xzLTMgZ2FwLTQiPgogICAgICAgICAgICB7WzEsIDIsIDMsIDQsIDUsIDZdLm1hcCgoaSkgPT4gKAogICAgICAgICAgICAgIDxTa2VsZXRvbiBrZXk9e2l9IGNsYXNzTmFtZT0iaC05NiB3LWZ1bGwiIC8+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgKTsKICB9CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGFpbmVyIG1heC13LTZ4bCBteC1hdXRvIHB5LTggcHgtNCI+CiAgICAgIHsvKiBIZWFkZXIgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtY29sIHNtOmZsZXgtcm93IGl0ZW1zLXN0YXJ0IHNtOml0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4gZ2FwLTQgbWItNiI+CiAgICAgICAgPGRpdj4KICAgICAgICAgIDxoMSBjbGFzc05hbWU9InRleHQtM3hsIGZvbnQtYm9sZCBmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiI+CiAgICAgICAgICAgIDxIZWFydCBjbGFzc05hbWU9ImgtOCB3LTggdGV4dC1yZWQtNTAwIiBmaWxsPSJjdXJyZW50Q29sb3IiIC8+CiAgICAgICAgICAgIFdobyBMaWtlcyBZb3UKICAgICAgICAgIDwvaDE+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtbXV0ZWQtZm9yZWdyb3VuZCBtdC0xIj4KICAgICAgICAgICAge2NvdW50ID09PSAwCiAgICAgICAgICAgICAgPyAiTm8gb25lIGhhcyBsaWtlZCB5b3UgeWV0IgogICAgICAgICAgICAgIDogY291bnQgPT09IDEKICAgICAgICAgICAgICA/ICIxIHBlcnNvbiBsaWtlcyB5b3UiCiAgICAgICAgICAgICAgOiBgJHtjb3VudH0gcGVvcGxlIGxpa2UgeW91YH0KICAgICAgICAgIDwvcD4KICAgICAgICA8L2Rpdj4KCiAgICAgICAge2lzUHJlbWl1bSAmJiBjb3VudCA+IDAgJiYgKAogICAgICAgICAgPFNlbGVjdCB2YWx1ZT17c29ydEJ5fSBvblZhbHVlQ2hhbmdlPXsodmFsdWU6IGFueSkgPT4gc2V0U29ydEJ5KHZhbHVlKX0+CiAgICAgICAgICAgIDxTZWxlY3RUcmlnZ2VyIGNsYXNzTmFtZT0idy1bMTgwcHhdIj4KICAgICAgICAgICAgICA8RmlsdGVyIGNsYXNzTmFtZT0iaC00IHctNCBtci0yIiAvPgogICAgICAgICAgICAgIDxTZWxlY3RWYWx1ZSBwbGFjZWhvbGRlcj0iU29ydCBieSIgLz4KICAgICAgICAgICAgPC9TZWxlY3RUcmlnZ2VyPgogICAgICAgICAgICA8U2VsZWN0Q29udGVudD4KICAgICAgICAgICAgICA8U2VsZWN0SXRlbSB2YWx1ZT0icmVjZW50Ij5Nb3N0IFJlY2VudDwvU2VsZWN0SXRlbT4KICAgICAgICAgICAgICA8U2VsZWN0SXRlbSB2YWx1ZT0iZGlzdGFuY2UiPkNsb3Nlc3Q8L1NlbGVjdEl0ZW0+CiAgICAgICAgICAgICAgPFNlbGVjdEl0ZW0gdmFsdWU9InNjb3JlIj5CZXN0IE1hdGNoPC9TZWxlY3RJdGVtPgogICAgICAgICAgICA8L1NlbGVjdENvbnRlbnQ+CiAgICAgICAgICA8L1NlbGVjdD4KICAgICAgICApfQogICAgICA8L2Rpdj4KCiAgICAgIHsvKiBGcmVlIFVzZXIgVmlldyAtIEJsdXJyZWQgR3JpZCAqL30KICAgICAgeyFpc1ByZW1pdW0gJiYgY291bnQgPiAwICYmICgKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS02Ij4KICAgICAgICAgIHsvKiBUZWFzZXIgLSBTaG93IGZpcnN0IHByb2ZpbGUgKi99CiAgICAgICAgICB7Y291bnQgPiAwICYmICgKICAgICAgICAgICAgPENhcmQgY2xhc3NOYW1lPSJib3JkZXItMiBib3JkZXIteWVsbG93LTUwMCBzaGFkb3ctbGciPgogICAgICAgICAgICAgIDxDYXJkQ29udGVudCBjbGFzc05hbWU9InAtNiI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTQgbWItNCI+CiAgICAgICAgICAgICAgICAgIDxTcGFya2xlcyBjbGFzc05hbWU9ImgtNiB3LTYgdGV4dC15ZWxsb3ctNTAwIiAvPgogICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgIDxoMyBjbGFzc05hbWU9ImZvbnQtc2VtaWJvbGQgdGV4dC1sZyI+U29tZW9uZSBTcGVjaWFsIExpa2VzIFlvdSE8L2gzPgogICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgICAgICAgICAgICAgVXBncmFkZSB0byBQcmVtaXVtIHRvIHNlZSB3aG8gaXQgaXMKICAgICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IG5hdmlnYXRlKCIvdXBncmFkZSIpfQogICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InctZnVsbCBiZy1ncmFkaWVudC10by1yIGZyb20teWVsbG93LTUwMCB0by1vcmFuZ2UtNTAwIGhvdmVyOm9wYWNpdHktOTAiCiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgIFVwZ3JhZGUgdG8gUHJlbWl1bQogICAgICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgICAgPC9DYXJkQ29udGVudD4KICAgICAgICAgICAgPC9DYXJkPgogICAgICAgICAgKX0KCiAgICAgICAgICB7LyogQmx1cnJlZCBHcmlkICovfQogICAgICAgICAgPGRpdiBjbGFzc05hbWU9InJlbGF0aXZlIj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTMgZ2FwLTQiPgogICAgICAgICAgICAgIHtBcnJheS5mcm9tKHsgbGVuZ3RoOiBNYXRoLm1pbihjb3VudCwgOSkgfSkubWFwKChfLCBpKSA9PiAoCiAgICAgICAgICAgICAgICA8ZGl2IGtleT17aX0gY2xhc3NOYW1lPSJhc3BlY3QtWzMvNF0gYmctZ3JhZGllbnQtdG8tYnIgZnJvbS1ncmF5LTIwMCB0by1ncmF5LTMwMCBkYXJrOmZyb20tZ3JheS03MDAgZGFyazp0by1ncmF5LTgwMCByb3VuZGVkLWxnIGJsdXItbGciIC8+CiAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgey8qIE92ZXJsYXkgd2l0aCBDVEEgKi99CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBpbnNldC0wIGZsZXggZmxleC1jb2wgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIGJnLWJsYWNrLzQwIGJhY2tkcm9wLWJsdXItc20gcm91bmRlZC1sZyI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtY2VudGVyIHNwYWNlLXktNCBwLTYiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImJnLWdyYWRpZW50LXRvLXIgZnJvbS15ZWxsb3ctNTAwIHRvLW9yYW5nZS01MDAgcC00IHJvdW5kZWQtZnVsbCB3LTIwIGgtMjAgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgbXgtYXV0byI+CiAgICAgICAgICAgICAgICAgIDxMb2NrIGNsYXNzTmFtZT0iaC0xMCB3LTEwIHRleHQtd2hpdGUiIC8+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQtMnhsIGZvbnQtYm9sZCB0ZXh0LXdoaXRlIG1iLTIiPgogICAgICAgICAgICAgICAgICAgIHtjb3VudH0ge2NvdW50ID09PSAxID8gIlBlcnNvbiBMaWtlcyIgOiAiUGVvcGxlIExpa2UifSBZb3UhCiAgICAgICAgICAgICAgICAgIDwvaDI+CiAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC13aGl0ZS85MCBtYi00Ij4KICAgICAgICAgICAgICAgICAgICBNYXRjaCBpbnN0YW50bHkgd2l0aCBwZW9wbGUgd2hvIGFscmVhZHkgbGlrZSB5b3UKICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IG5hdmlnYXRlKCIvdXBncmFkZSIpfQogICAgICAgICAgICAgICAgICBzaXplPSJsZyIKICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJiZy1ncmFkaWVudC10by1yIGZyb20teWVsbG93LTUwMCB0by1vcmFuZ2UtNTAwIGhvdmVyOm9wYWNpdHktOTAgdGV4dC13aGl0ZSBmb250LXNlbWlib2xkIgogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICBTZWUgV2hvIExpa2VzIFlvdQogICAgICAgICAgICAgICAgICA8QXJyb3dVcFJpZ2h0IGNsYXNzTmFtZT0iaC01IHctNSBtbC0yIiAvPgogICAgICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtd2hpdGUvODAgdGV4dC1zbSI+CiAgICAgICAgICAgICAgICAgIEpvaW4gNSwwMDArIFByZW1pdW0gbWVtYmVycwogICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICApfQoKICAgICAgey8qIFByZW1pdW0gVXNlciBWaWV3IC0gRnVsbCBHcmlkICovfQogICAgICB7aXNQcmVtaXVtICYmIGNvdW50ID4gMCAmJiAoCiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTEgc206Z3JpZC1jb2xzLTIgbGc6Z3JpZC1jb2xzLTMgZ2FwLTQiPgogICAgICAgICAge3Byb2ZpbGVzLm1hcCgocHJvZmlsZTogYW55KSA9PiAoCiAgICAgICAgICAgIDxDYXJkIGtleT17cHJvZmlsZS51c2VySWR9IGNsYXNzTmFtZT0ib3ZlcmZsb3ctaGlkZGVuIGhvdmVyOnNoYWRvdy1sZyB0cmFuc2l0aW9uLXNoYWRvdyI+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InJlbGF0aXZlIGFzcGVjdC1bMy80XSI+CiAgICAgICAgICAgICAgICA8aW1nCiAgICAgICAgICAgICAgICAgIHNyYz17cHJvZmlsZS5waG90b3NbMF0gfHwgIi9wbGFjZWhvbGRlci5zdmcifQogICAgICAgICAgICAgICAgICBhbHQ9e3Byb2ZpbGUubmFtZX0KICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ3LWZ1bGwgaC1mdWxsIG9iamVjdC1jb3ZlciIKICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICB7LyogTWF0Y2ggU2NvcmUgQmFkZ2UgKi99CiAgICAgICAgICAgICAgICB7cHJvZmlsZS5tYXRjaFNjb3JlID49IDcwICYmICgKICAgICAgICAgICAgICAgICAgPEJhZGdlIGNsYXNzTmFtZT0iYWJzb2x1dGUgdG9wLTIgcmlnaHQtMiBiZy1ncmFkaWVudC10by1yIGZyb20tZ3JlZW4tNTAwIHRvLWVtZXJhbGQtNTAwIHRleHQtd2hpdGUgYm9yZGVyLTAiPgogICAgICAgICAgICAgICAgICAgIHtwcm9maWxlLm1hdGNoU2NvcmV9JSBNYXRjaAogICAgICAgICAgICAgICAgICA8L0JhZGdlPgogICAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8Q2FyZENvbnRlbnQgY2xhc3NOYW1lPSJwLTQgc3BhY2UteS0zIj4KICAgICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICAgIDxoMyBjbGFzc05hbWU9ImZvbnQtc2VtaWJvbGQgdGV4dC1sZyI+CiAgICAgICAgICAgICAgICAgICAge3Byb2ZpbGUubmFtZX0sIHtwcm9maWxlLmFnZX0KICAgICAgICAgICAgICAgICAgPC9oMz4KICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+e3Byb2ZpbGUubG9jYXRpb259PC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAge3Byb2ZpbGUuYmlvICYmICgKICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIGxpbmUtY2xhbXAtMiI+e3Byb2ZpbGUuYmlvfTwvcD4KICAgICAgICAgICAgICAgICl9CgogICAgICAgICAgICAgICAge3Byb2ZpbGUubXV0dWFsSW50ZXJlc3RzLmxlbmd0aCA+IDAgJiYgKAogICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBmbGV4LXdyYXAgZ2FwLTEiPgogICAgICAgICAgICAgICAgICAgIHtwcm9maWxlLm11dHVhbEludGVyZXN0cy5zbGljZSgwLCAzKS5tYXAoKGludGVyZXN0OiBzdHJpbmcpID0+ICgKICAgICAgICAgICAgICAgICAgICAgIDxCYWRnZSBrZXk9e2ludGVyZXN0fSB2YXJpYW50PSJzZWNvbmRhcnkiIGNsYXNzTmFtZT0idGV4dC14cyI+CiAgICAgICAgICAgICAgICAgICAgICAgIHtpbnRlcmVzdH0KICAgICAgICAgICAgICAgICAgICAgIDwvQmFkZ2U+CiAgICAgICAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgICAgICAgICAge3Byb2ZpbGUubXV0dWFsSW50ZXJlc3RzLmxlbmd0aCA+IDMgJiYgKAogICAgICAgICAgICAgICAgICAgICAgPEJhZGdlIHZhcmlhbnQ9InNlY29uZGFyeSIgY2xhc3NOYW1lPSJ0ZXh0LXhzIj4KICAgICAgICAgICAgICAgICAgICAgICAgK3twcm9maWxlLm11dHVhbEludGVyZXN0cy5sZW5ndGggLSAzfQogICAgICAgICAgICAgICAgICAgICAgPC9CYWRnZT4KICAgICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICl9CgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZ2FwLTIiPgogICAgICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gaGFuZGxlTGlrZUJhY2socHJvZmlsZS51c2VySWQpfQogICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iZmxleC0xIGJnLWdyYWRpZW50LXRvLXIgZnJvbS1waW5rLTUwMCB0by1yZWQtNTAwIGhvdmVyOm9wYWNpdHktOTAiCiAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICA8SGVhcnQgY2xhc3NOYW1lPSJoLTQgdy00IG1yLTIiIGZpbGw9ImN1cnJlbnRDb2xvciIgLz4KICAgICAgICAgICAgICAgICAgICBMaWtlIEJhY2sKICAgICAgICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgICAgICB2YXJpYW50PSJvdXRsaW5lIgogICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IG5hdmlnYXRlKGAvcHJvZmlsZS8ke3Byb2ZpbGUudXNlcklkfWApfQogICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgVmlldwogICAgICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvQ2FyZENvbnRlbnQ+CiAgICAgICAgICAgIDwvQ2FyZD4KICAgICAgICAgICkpfQogICAgICAgIDwvZGl2PgogICAgICApfQoKICAgICAgey8qIEVtcHR5IFN0YXRlICovfQogICAgICB7Y291bnQgPT09IDAgJiYgKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0ZXh0LWNlbnRlciBweS0xMiI+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYmctbXV0ZWQgcC02IHJvdW5kZWQtZnVsbCB3LTI0IGgtMjQgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgbXgtYXV0byBtYi00Ij4KICAgICAgICAgICAgPEhlYXJ0IGNsYXNzTmFtZT0iaC0xMiB3LTEyIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCIgLz4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC0yeGwgZm9udC1zZW1pYm9sZCBtYi0yIj5ObyBMaWtlcyBZZXQ8L2gyPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LW11dGVkLWZvcmVncm91bmQgbWItNiI+CiAgICAgICAgICAgIEtlZXAgc3dpcGluZyEgWW91ciBwZXJmZWN0IG1hdGNoIG1pZ2h0IGJlIGp1c3QgYXJvdW5kIHRoZSBjb3JuZXIuCiAgICAgICAgICA8L3A+CiAgICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9eygpID0+IG5hdmlnYXRlKCIvZGlzY292ZXIiKX0+CiAgICAgICAgICAgIFN0YXJ0IFN3aXBpbmcKICAgICAgICAgICAgPEFycm93VXBSaWdodCBjbGFzc05hbWU9ImgtNCB3LTQgbWwtMiIgLz4KICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgIDwvZGl2PgogICAgICApfQogICAgPC9kaXY+CiAgKTsKfQo="}
+import { useState } from "react";
+import { useAuth } from "@/contexts/AuthContext";
+import { useQuery, useMutation } from "convex/react";
+import { api } from "../../convex/_generated/api";
+import { Heart, Sparkles, Lock, ArrowUpRight, Filter } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import { Badge } from "@/components/ui/badge";
+import { Card, CardContent } from "@/components/ui/card";
+import { Skeleton } from "@/components/ui/skeleton";
+import { useNavigate } from "react-router-dom";
+import { toast } from "sonner";
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@/components/ui/select";
+
+export default function Likes() {
+  const navigate = useNavigate();
+  const [sortBy, setSortBy] = useState<"recent" | "distance" | "score">("recent");
+
+  const { user } = useAuth();
+  const userId = user._id;
+
+  // Get who liked you data
+  const likesData = useQuery(
+    api.matching.getWhoLikedYou,
+    userId ? { userId, sortBy } : "skip"
+  );
+
+  const likeUser = useMutation(api.matching.likeProfile);
+
+  const isPremium = likesData?.isPremium || false;
+  const count = likesData?.count || 0;
+  const profiles = likesData?.profiles || [];
+
+  const handleLikeBack = async (targetUserId: string) => {
+    if (!userId) return;
+    try {
+      await likeUser({ userId, likedUserId: targetUserId });
+      toast.success("Liked! You've matched!");
+    } catch (error: any) {
+      console.error("Error liking profile:", error);
+      toast.error(error.message || "Failed to like profile");
+    }
+  };
+
+  if (!userId) {
+    return (
+      <div className="container max-w-6xl mx-auto py-3 sm:py-4 md:py-6 lg:py-8 px-2 sm:px-3 md:px-4">
+        <p>Please sign in to view who likes you.</p>
+      </div>
+    );
+  }
+
+  if (!likesData) {
+    return (
+      <div className="container max-w-6xl mx-auto py-3 sm:py-4 md:py-6 lg:py-8 px-2 sm:px-3 md:px-4">
+        <div className="space-y-6">
+          <Skeleton className="h-12 w-64" />
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            {[1, 2, 3, 4, 5, 6].map((i) => (
+              <Skeleton key={i} className="h-96 w-full" />
+            ))}
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  return (
+    <div className="container max-w-6xl mx-auto py-8 px-4">
+      {/* Header */}
+      <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 mb-6">
+        <div>
+          <h1 className="text-3xl font-bold flex items-center gap-2">
+            <Heart className="h-8 w-8 text-red-500" fill="currentColor" />
+            Who Likes You
+          </h1>
+          <p className="text-muted-foreground mt-1">
+            {count === 0
+              ? "No one has liked you yet"
+              : count === 1
+              ? "1 person likes you"
+              : `${count} people like you`}
+          </p>
+        </div>
+
+        {isPremium && count > 0 && (
+          <Select value={sortBy} onValueChange={(value: any) => setSortBy(value)}>
+            <SelectTrigger className="w-[180px]">
+              <Filter className="h-4 w-4 mr-2" />
+              <SelectValue placeholder="Sort by" />
+            </SelectTrigger>
+            <SelectContent>
+              <SelectItem value="recent">Most Recent</SelectItem>
+              <SelectItem value="distance">Closest</SelectItem>
+              <SelectItem value="score">Best Match</SelectItem>
+            </SelectContent>
+          </Select>
+        )}
+      </div>
+
+      {/* Free User View - Blurred Grid */}
+      {!isPremium && count > 0 && (
+        <div className="space-y-6">
+          {/* Teaser - Show first profile */}
+          {count > 0 && (
+            <Card className="border-2 border-yellow-500 shadow-lg">
+              <CardContent className="p-6">
+                <div className="flex items-center gap-4 mb-4">
+                  <Sparkles className="h-6 w-6 text-yellow-500" />
+                  <div>
+                    <h3 className="font-semibold text-lg">Someone Special Likes You!</h3>
+                    <p className="text-sm text-muted-foreground">
+                      Upgrade to Premium to see who it is
+                    </p>
+                  </div>
+                </div>
+                <Button
+                  onClick={() => navigate("/upgrade")}
+                  className="w-full bg-gradient-to-r from-yellow-500 to-orange-500 hover:opacity-90"
+                >
+                  Upgrade to Premium
+                </Button>
+              </CardContent>
+            </Card>
+          )}
+
+          {/* Blurred Grid */}
+          <div className="relative">
+            <div className="grid grid-cols-3 gap-4">
+              {Array.from({ length: Math.min(count, 9) }).map((_, i) => (
+                <div key={i} className="aspect-[3/4] bg-gradient-to-br from-gray-200 to-gray-300 dark:from-gray-700 dark:to-gray-800 rounded-lg blur-lg" />
+              ))}
+            </div>
+
+            {/* Overlay with CTA */}
+            <div className="absolute inset-0 flex flex-col items-center justify-center bg-black/40 backdrop-blur-sm rounded-lg">
+              <div className="text-center space-y-4 p-6">
+                <div className="bg-gradient-to-r from-yellow-500 to-orange-500 p-4 rounded-full w-20 h-20 flex items-center justify-center mx-auto">
+                  <Lock className="h-10 w-10 text-white" />
+                </div>
+                <div>
+                  <h2 className="text-2xl font-bold text-white mb-2">
+                    {count} {count === 1 ? "Person Likes" : "People Like"} You!
+                  </h2>
+                  <p className="text-white/90 mb-4">
+                    Match instantly with people who already like you
+                  </p>
+                </div>
+                <Button
+                  onClick={() => navigate("/upgrade")}
+                  size="lg"
+                  className="bg-gradient-to-r from-yellow-500 to-orange-500 hover:opacity-90 text-white font-semibold"
+                >
+                  See Who Likes You
+                  <ArrowUpRight className="h-5 w-5 ml-2" />
+                </Button>
+                <p className="text-white/80 text-sm">
+                  Join 5,000+ Premium members
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Premium User View - Full Grid */}
+      {isPremium && count > 0 && (
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          {profiles.map((profile: any) => (
+            <Card key={profile.userId} className="overflow-hidden hover:shadow-lg transition-shadow">
+              <div className="relative aspect-[3/4]">
+                <img
+                  src={profile.photos[0] || "/placeholder.svg"}
+                  alt={profile.name}
+                  className="w-full h-full object-cover"
+                />
+                {/* Match Score Badge */}
+                {profile.matchScore >= 70 && (
+                  <Badge className="absolute top-2 right-2 bg-gradient-to-r from-green-500 to-emerald-500 text-white border-0">
+                    {profile.matchScore}% Match
+                  </Badge>
+                )}
+              </div>
+              <CardContent className="p-4 space-y-3">
+                <div>
+                  <h3 className="font-semibold text-lg">
+                    {profile.name}, {profile.age}
+                  </h3>
+                  <p className="text-sm text-muted-foreground">{profile.location}</p>
+                </div>
+
+                {profile.bio && (
+                  <p className="text-sm line-clamp-2">{profile.bio}</p>
+                )}
+
+                {profile.mutualInterests.length > 0 && (
+                  <div className="flex flex-wrap gap-1">
+                    {profile.mutualInterests.slice(0, 3).map((interest: string) => (
+                      <Badge key={interest} variant="secondary" className="text-xs">
+                        {interest}
+                      </Badge>
+                    ))}
+                    {profile.mutualInterests.length > 3 && (
+                      <Badge variant="secondary" className="text-xs">
+                        +{profile.mutualInterests.length - 3}
+                      </Badge>
+                    )}
+                  </div>
+                )}
+
+                <div className="flex gap-2">
+                  <Button
+                    onClick={() => handleLikeBack(profile.userId)}
+                    className="flex-1 bg-gradient-to-r from-pink-500 to-red-500 hover:opacity-90"
+                  >
+                    <Heart className="h-4 w-4 mr-2" fill="currentColor" />
+                    Like Back
+                  </Button>
+                  <Button
+                    variant="outline"
+                    onClick={() => navigate(`/profile/${profile.userId}`)}
+                  >
+                    View
+                  </Button>
+                </div>
+              </CardContent>
+            </Card>
+          ))}
+        </div>
+      )}
+
+      {/* Empty State */}
+      {count === 0 && (
+        <div className="text-center py-12">
+          <div className="bg-muted p-6 rounded-full w-24 h-24 flex items-center justify-center mx-auto mb-4">
+            <Heart className="h-12 w-12 text-muted-foreground" />
+          </div>
+          <h2 className="text-2xl font-semibold mb-2">No Likes Yet</h2>
+          <p className="text-muted-foreground mb-6">
+            Keep swiping! Your perfect match might be just around the corner.
+          </p>
+          <Button onClick={() => navigate("/discover")}>
+            Start Swiping
+            <ArrowUpRight className="h-4 w-4 ml-2" />
+          </Button>
+        </div>
+      )}
+    </div>
+  );
+}

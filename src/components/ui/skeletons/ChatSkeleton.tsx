@@ -1,1 +1,56 @@
-{"data":"aW1wb3J0IHsgU2tlbGV0b24gfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvc2tlbGV0b24iOwoKZXhwb3J0IGZ1bmN0aW9uIENoYXRTa2VsZXRvbigpIHsKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9Im1pbi1oLXNjcmVlbiBiZy1iYWNrZ3JvdW5kIGZsZXggZmxleC1jb2wiPgogICAgICA8aGVhZGVyIGNsYXNzTmFtZT0iYmctY2FyZCBib3JkZXItYiBib3JkZXItYm9yZGVyIHN0aWNreSB0b3AtMCB6LTEwIj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGFpbmVyIG14LWF1dG8gcHgtNCBweS0zIj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4iPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTMiPgogICAgICAgICAgICAgIDxTa2VsZXRvbiBjbGFzc05hbWU9ImgtOSB3LTkgcm91bmRlZC1tZCIgLz4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTMiPgogICAgICAgICAgICAgICAgPFNrZWxldG9uIGNsYXNzTmFtZT0idy0xMCBoLTEwIHJvdW5kZWQtZnVsbCIgLz4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTIiPgogICAgICAgICAgICAgICAgICA8U2tlbGV0b24gY2xhc3NOYW1lPSJoLTUgdy0zNiIgLz4KICAgICAgICAgICAgICAgICAgPFNrZWxldG9uIGNsYXNzTmFtZT0iaC00IHctMjgiIC8+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxTa2VsZXRvbiBjbGFzc05hbWU9ImgtOSB3LTkgcm91bmRlZC1tZCIgLz4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICA8L2hlYWRlcj4KCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4LTEgb3ZlcmZsb3cteS1hdXRvIj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGFpbmVyIG14LWF1dG8gcHgtNCBweS02IG1heC13LTJ4bCBzcGFjZS15LTQiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXgganVzdGlmeS1zdGFydCI+CiAgICAgICAgICAgIDxTa2VsZXRvbiBjbGFzc05hbWU9ImgtMTYgdy1bNjUlXSByb3VuZGVkLTJ4bCIgLz4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXgganVzdGlmeS1lbmQiPgogICAgICAgICAgICA8U2tlbGV0b24gY2xhc3NOYW1lPSJoLTEyIHctWzU1JV0gcm91bmRlZC0yeGwiIC8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGp1c3RpZnktc3RhcnQiPgogICAgICAgICAgICA8U2tlbGV0b24gY2xhc3NOYW1lPSJoLTIwIHctWzcwJV0gcm91bmRlZC0yeGwiIC8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGp1c3RpZnktZW5kIj4KICAgICAgICAgICAgPFNrZWxldG9uIGNsYXNzTmFtZT0iaC0xNCB3LVs1MCVdIHJvdW5kZWQtMnhsIiAvPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBqdXN0aWZ5LXN0YXJ0Ij4KICAgICAgICAgICAgPFNrZWxldG9uIGNsYXNzTmFtZT0iaC0xMiB3LVs0MCVdIHJvdW5kZWQtMnhsIiAvPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgoKICAgICAgPGRpdiBjbGFzc05hbWU9ImJnLWNhcmQgYm9yZGVyLXQgYm9yZGVyLWJvcmRlciBzdGlja3kgYm90dG9tLTAiPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb250YWluZXIgbXgtYXV0byBweC00IHB5LTQgbWF4LXctMnhsIj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiI+CiAgICAgICAgICAgIDxTa2VsZXRvbiBjbGFzc05hbWU9ImgtMTAgdy0xMCByb3VuZGVkLW1kIiAvPgogICAgICAgICAgICA8U2tlbGV0b24gY2xhc3NOYW1lPSJoLTEwIHctMjAgcm91bmRlZC1tZCIgLz4KICAgICAgICAgICAgPFNrZWxldG9uIGNsYXNzTmFtZT0iaC0xMCBmbGV4LTEgcm91bmRlZC1tZCIgLz4KICAgICAgICAgICAgPFNrZWxldG9uIGNsYXNzTmFtZT0iaC0xMCB3LTEwIHJvdW5kZWQtbWQiIC8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cg=="}
+import { Skeleton } from "@/components/ui/skeleton";
+
+export function ChatSkeleton() {
+  return (
+    <div className="min-h-screen bg-background flex flex-col">
+      <header className="bg-card border-b border-border sticky top-0 z-10">
+        <div className="container mx-auto px-4 py-3">
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-3">
+              <Skeleton className="h-9 w-9 rounded-md" />
+              <div className="flex items-center gap-3">
+                <Skeleton className="w-10 h-10 rounded-full" />
+                <div className="space-y-2">
+                  <Skeleton className="h-5 w-36" />
+                  <Skeleton className="h-4 w-28" />
+                </div>
+              </div>
+            </div>
+            <Skeleton className="h-9 w-9 rounded-md" />
+          </div>
+        </div>
+      </header>
+
+      <div className="flex-1 overflow-y-auto">
+        <div className="container mx-auto px-4 py-6 max-w-2xl space-y-4">
+          <div className="flex justify-start">
+            <Skeleton className="h-16 w-[65%] rounded-2xl" />
+          </div>
+          <div className="flex justify-end">
+            <Skeleton className="h-12 w-[55%] rounded-2xl" />
+          </div>
+          <div className="flex justify-start">
+            <Skeleton className="h-20 w-[70%] rounded-2xl" />
+          </div>
+          <div className="flex justify-end">
+            <Skeleton className="h-14 w-[50%] rounded-2xl" />
+          </div>
+          <div className="flex justify-start">
+            <Skeleton className="h-12 w-[40%] rounded-2xl" />
+          </div>
+        </div>
+      </div>
+
+      <div className="bg-card border-t border-border sticky bottom-0">
+        <div className="container mx-auto px-4 py-4 max-w-2xl">
+          <div className="flex items-center gap-2">
+            <Skeleton className="h-10 w-10 rounded-md" />
+            <Skeleton className="h-10 w-20 rounded-md" />
+            <Skeleton className="h-10 flex-1 rounded-md" />
+            <Skeleton className="h-10 w-10 rounded-md" />
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}

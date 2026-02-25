@@ -1,1 +1,33 @@
-{"data":"aW1wb3J0IHsgU2tlbGV0b24gfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvc2tlbGV0b24iOwoKZnVuY3Rpb24gQ29udmVyc2F0aW9uUm93U2tlbGV0b24oKSB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJib3JkZXIgYm9yZGVyLWJvcmRlci82MCBiZy1jYXJkLzUwIGJhY2tkcm9wLWJsdXItc20gc2hhZG93LXNtIHJvdW5kZWQteGwiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0icC00Ij4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTQiPgogICAgICAgICAgPFNrZWxldG9uIGNsYXNzTmFtZT0idy0xNCBoLTE0IHJvdW5kZWQtZnVsbCBmbGV4LXNocmluay0wIiAvPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXgtMSBtaW4tdy0wIHNwYWNlLXktMiI+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4gZ2FwLTIiPgogICAgICAgICAgICAgIDxTa2VsZXRvbiBjbGFzc05hbWU9ImgtNSB3LTMyIiAvPgogICAgICAgICAgICAgIDxTa2VsZXRvbiBjbGFzc05hbWU9ImgtNCB3LTE2IiAvPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiBnYXAtMiI+CiAgICAgICAgICAgICAgPFNrZWxldG9uIGNsYXNzTmFtZT0iaC00IHctNTYiIC8+CiAgICAgICAgICAgICAgPFNrZWxldG9uIGNsYXNzTmFtZT0iaC01IHctNSByb3VuZGVkLWZ1bGwiIC8+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQoKZXhwb3J0IGZ1bmN0aW9uIE1lc3NhZ2VMaXN0U2tlbGV0b24oeyBjb3VudCA9IDYgfTogeyBjb3VudD86IG51bWJlciB9KSB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTIgcHgtMiBwYi0yMCI+CiAgICAgIHtBcnJheS5mcm9tKHsgbGVuZ3RoOiBjb3VudCB9KS5tYXAoKF8sIGkpID0+ICgKICAgICAgICA8Q29udmVyc2F0aW9uUm93U2tlbGV0b24ga2V5PXtpfSAvPgogICAgICApKX0KICAgIDwvZGl2PgogICk7Cn0K"}
+import { Skeleton } from "@/components/ui/skeleton";
+
+function ConversationRowSkeleton() {
+  return (
+    <div className="border border-border/60 bg-card/50 backdrop-blur-sm shadow-sm rounded-xl">
+      <div className="p-4">
+        <div className="flex items-center gap-4">
+          <Skeleton className="w-14 h-14 rounded-full flex-shrink-0" />
+          <div className="flex-1 min-w-0 space-y-2">
+            <div className="flex items-center justify-between gap-2">
+              <Skeleton className="h-5 w-32" />
+              <Skeleton className="h-4 w-16" />
+            </div>
+            <div className="flex items-center justify-between gap-2">
+              <Skeleton className="h-4 w-56" />
+              <Skeleton className="h-5 w-5 rounded-full" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export function MessageListSkeleton({ count = 6 }: { count?: number }) {
+  return (
+    <div className="space-y-2 px-2 pb-20">
+      {Array.from({ length: count }).map((_, i) => (
+        <ConversationRowSkeleton key={i} />
+      ))}
+    </div>
+  );
+}

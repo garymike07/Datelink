@@ -1,1 +1,446 @@
-{"data":"aW1wb3J0IHsgdiB9IGZyb20gImNvbnZleC92YWx1ZXMiOwppbXBvcnQgeyBtdXRhdGlvbiwgcXVlcnksIGludGVybmFsTXV0YXRpb24gfSBmcm9tICIuL19nZW5lcmF0ZWQvc2VydmVyIjsKCi8qKgogKiBBY3Rpdml0eSBUcmFja2luZyBTeXN0ZW0KICogVHJhY2tzIHVzZXIgYWN0aXZpdHksIHJlc3BvbnNlIHJhdGVzLCBhbmQgZ2VuZXJhdGVzIGFjdGl2aXR5IGJhZGdlcwogKi8KCi8vIFVwZGF0ZSB1c2VyJ3MgbGFzdCBhY3RpdmUgdGltZXN0YW1wCmV4cG9ydCBjb25zdCB1cGRhdGVMYXN0QWN0aXZlID0gbXV0YXRpb24oewogIGFyZ3M6IHsKICAgIHVzZXJJZDogdi5pZCgidXNlcnMiKSwKICB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGNvbnN0IHVzZXIgPSBhd2FpdCBjdHguZGIuZ2V0KGFyZ3MudXNlcklkKTsKICAgIGlmICghdXNlcikgcmV0dXJuOwoKICAgIC8vIFVwZGF0ZSB1c2VyJ3MgbGFzdEFjdGl2ZSB0aW1lc3RhbXAKICAgIGF3YWl0IGN0eC5kYi5wYXRjaChhcmdzLnVzZXJJZCwgewogICAgICBsYXN0QWN0aXZlOiBEYXRlLm5vdygpLAogICAgfSk7CgogICAgLy8gVXBkYXRlIG9yIGNyZWF0ZSBhY3Rpdml0eSBzdGF0cwogICAgY29uc3Qgc3RhdHMgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJhY3Rpdml0eVN0YXRzIikKICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIGFyZ3MudXNlcklkKSkKICAgICAgLmZpcnN0KCk7CgogICAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKTsKICAgIGNvbnN0IHRvZGF5ID0gbmV3IERhdGUobm93KS50b0RhdGVTdHJpbmcoKTsKCiAgICBpZiAoc3RhdHMpIHsKICAgICAgY29uc3QgbGFzdEFjdGl2ZURhdGUgPSBuZXcgRGF0ZShzdGF0cy5sYXN0QWN0aXZlQXQpLnRvRGF0ZVN0cmluZygpOwogICAgICAKICAgICAgLy8gSWYgaXQncyBhIG5ldyBkYXksIGluY3JlbWVudCBkYWlseSBhY3RpdmUgY291bnQKICAgICAgaWYgKGxhc3RBY3RpdmVEYXRlICE9PSB0b2RheSkgewogICAgICAgIGF3YWl0IGN0eC5kYi5wYXRjaChzdGF0cy5faWQsIHsKICAgICAgICAgIGxhc3RBY3RpdmVBdDogbm93LAogICAgICAgICAgdG90YWxBY3RpdmVEYXlzOiBzdGF0cy50b3RhbEFjdGl2ZURheXMgKyAxLAogICAgICAgIH0pOwogICAgICB9IGVsc2UgewogICAgICAgIGF3YWl0IGN0eC5kYi5wYXRjaChzdGF0cy5faWQsIHsKICAgICAgICAgIGxhc3RBY3RpdmVBdDogbm93LAogICAgICAgIH0pOwogICAgICB9CiAgICB9IGVsc2UgewogICAgICAvLyBDcmVhdGUgbmV3IGFjdGl2aXR5IHN0YXRzCiAgICAgIGF3YWl0IGN0eC5kYi5pbnNlcnQoImFjdGl2aXR5U3RhdHMiLCB7CiAgICAgICAgdXNlcklkOiBhcmdzLnVzZXJJZCwKICAgICAgICBsYXN0QWN0aXZlQXQ6IG5vdywKICAgICAgICB0b3RhbEFjdGl2ZURheXM6IDEsCiAgICAgICAgdG90YWxNZXNzYWdlc1JlY2VpdmVkOiAwLAogICAgICAgIHRvdGFsTWVzc2FnZXNSZXNwb25kZWQ6IDAsCiAgICAgICAgYXZlcmFnZVJlc3BvbnNlVGltZU1pbnV0ZXM6IDAsCiAgICAgIH0pOwogICAgfQogIH0sCn0pOwoKLy8gVHJhY2sgbWVzc2FnZSByZXNwb25zZSBmb3IgcmVzcG9uc2UgcmF0ZSBjYWxjdWxhdGlvbgpleHBvcnQgY29uc3QgdHJhY2tNZXNzYWdlUmVzcG9uc2UgPSBtdXRhdGlvbih7CiAgYXJnczogewogICAgdXNlcklkOiB2LmlkKCJ1c2VycyIpLAogICAgd2FzUmVzcG9uZGVkOiB2LmJvb2xlYW4oKSwKICAgIHJlc3BvbnNlVGltZU1pbnV0ZXM6IHYub3B0aW9uYWwodi5udW1iZXIoKSksCiAgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICBjb25zdCBzdGF0cyA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoImFjdGl2aXR5U3RhdHMiKQogICAgICAud2l0aEluZGV4KCJ1c2VySWQiLCAocSkgPT4gcS5lcSgidXNlcklkIiwgYXJncy51c2VySWQpKQogICAgICAuZmlyc3QoKTsKCiAgICBpZiAoIXN0YXRzKSB7CiAgICAgIC8vIENyZWF0ZSBuZXcgc3RhdHMgaWYgZG9lc24ndCBleGlzdAogICAgICBhd2FpdCBjdHguZGIuaW5zZXJ0KCJhY3Rpdml0eVN0YXRzIiwgewogICAgICAgIHVzZXJJZDogYXJncy51c2VySWQsCiAgICAgICAgbGFzdEFjdGl2ZUF0OiBEYXRlLm5vdygpLAogICAgICAgIHRvdGFsQWN0aXZlRGF5czogMSwKICAgICAgICB0b3RhbE1lc3NhZ2VzUmVjZWl2ZWQ6IDEsCiAgICAgICAgdG90YWxNZXNzYWdlc1Jlc3BvbmRlZDogYXJncy53YXNSZXNwb25kZWQgPyAxIDogMCwKICAgICAgICBhdmVyYWdlUmVzcG9uc2VUaW1lTWludXRlczogYXJncy5yZXNwb25zZVRpbWVNaW51dGVzIHx8IDAsCiAgICAgIH0pOwogICAgICByZXR1cm47CiAgICB9CgogICAgY29uc3QgbmV3VG90YWxSZWNlaXZlZCA9IHN0YXRzLnRvdGFsTWVzc2FnZXNSZWNlaXZlZCArIDE7CiAgICBjb25zdCBuZXdUb3RhbFJlc3BvbmRlZCA9IHN0YXRzLnRvdGFsTWVzc2FnZXNSZXNwb25kZWQgKyAoYXJncy53YXNSZXNwb25kZWQgPyAxIDogMCk7CgogICAgLy8gQ2FsY3VsYXRlIG5ldyBhdmVyYWdlIHJlc3BvbnNlIHRpbWUKICAgIGxldCBuZXdBdmVyYWdlUmVzcG9uc2VUaW1lID0gc3RhdHMuYXZlcmFnZVJlc3BvbnNlVGltZU1pbnV0ZXM7CiAgICBpZiAoYXJncy53YXNSZXNwb25kZWQgJiYgYXJncy5yZXNwb25zZVRpbWVNaW51dGVzICE9PSB1bmRlZmluZWQpIHsKICAgICAgY29uc3QgdG90YWxSZXNwb25zZVRpbWUgPSBzdGF0cy5hdmVyYWdlUmVzcG9uc2VUaW1lTWludXRlcyAqIHN0YXRzLnRvdGFsTWVzc2FnZXNSZXNwb25kZWQ7CiAgICAgIG5ld0F2ZXJhZ2VSZXNwb25zZVRpbWUgPSAodG90YWxSZXNwb25zZVRpbWUgKyBhcmdzLnJlc3BvbnNlVGltZU1pbnV0ZXMpIC8gbmV3VG90YWxSZXNwb25kZWQ7CiAgICB9CgogICAgYXdhaXQgY3R4LmRiLnBhdGNoKHN0YXRzLl9pZCwgewogICAgICB0b3RhbE1lc3NhZ2VzUmVjZWl2ZWQ6IG5ld1RvdGFsUmVjZWl2ZWQsCiAgICAgIHRvdGFsTWVzc2FnZXNSZXNwb25kZWQ6IG5ld1RvdGFsUmVzcG9uZGVkLAogICAgICBhdmVyYWdlUmVzcG9uc2VUaW1lTWludXRlczogbmV3QXZlcmFnZVJlc3BvbnNlVGltZSwKICAgIH0pOwogIH0sCn0pOwoKLy8gR2V0IGFjdGl2aXR5IGJhZGdlIGZvciBhIHVzZXIKZXhwb3J0IGNvbnN0IGdldEFjdGl2aXR5QmFkZ2UgPSBxdWVyeSh7CiAgYXJnczogewogICAgdXNlcklkOiB2LmlkKCJ1c2VycyIpLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3QgdXNlciA9IGF3YWl0IGN0eC5kYi5nZXQoYXJncy51c2VySWQpOwogICAgaWYgKCF1c2VyKSByZXR1cm4gbnVsbDsKCiAgICBjb25zdCBzdGF0cyA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoImFjdGl2aXR5U3RhdHMiKQogICAgICAud2l0aEluZGV4KCJ1c2VySWQiLCAocSkgPT4gcS5lcSgidXNlcklkIiwgYXJncy51c2VySWQpKQogICAgICAuZmlyc3QoKTsKCiAgICBjb25zdCBub3cgPSBEYXRlLm5vdygpOwogICAgY29uc3QgbGFzdEFjdGl2ZSA9IHVzZXIubGFzdEFjdGl2ZSB8fCAwOwogICAgY29uc3QgbWludXRlc1NpbmNlQWN0aXZlID0gKG5vdyAtIGxhc3RBY3RpdmUpIC8gKDEwMDAgKiA2MCk7CiAgICBjb25zdCBob3Vyc1NpbmNlQWN0aXZlID0gbWludXRlc1NpbmNlQWN0aXZlIC8gNjA7CgogICAgbGV0IGFjdGl2aXR5U3RhdHVzOiAiYWN0aXZlX25vdyIgfCAiYWN0aXZlX3RvZGF5IiB8ICJhY3RpdmVfd2VlayIgfCAiaW5hY3RpdmUiIHwgbnVsbCA9IG51bGw7CiAgICBsZXQgYWN0aXZpdHlMYWJlbCA9ICIiOwogICAgbGV0IGFjdGl2aXR5Q29sb3IgPSAiIjsKCiAgICAvLyBEZXRlcm1pbmUgYWN0aXZpdHkgc3RhdHVzCiAgICBpZiAobWludXRlc1NpbmNlQWN0aXZlIDwgNSkgewogICAgICBhY3Rpdml0eVN0YXR1cyA9ICJhY3RpdmVfbm93IjsKICAgICAgYWN0aXZpdHlMYWJlbCA9ICJBY3RpdmUgbm93IjsKICAgICAgYWN0aXZpdHlDb2xvciA9ICJiZy1ncmVlbi01MDAiOwogICAgfSBlbHNlIGlmIChob3Vyc1NpbmNlQWN0aXZlIDwgMjQpIHsKICAgICAgYWN0aXZpdHlTdGF0dXMgPSAiYWN0aXZlX3RvZGF5IjsKICAgICAgYWN0aXZpdHlMYWJlbCA9ICJBY3RpdmUgdG9kYXkiOwogICAgICBhY3Rpdml0eUNvbG9yID0gImJnLWJsdWUtNTAwIjsKICAgIH0gZWxzZSBpZiAoaG91cnNTaW5jZUFjdGl2ZSA8IDE2OCkgeyAvLyA3IGRheXMKICAgICAgYWN0aXZpdHlTdGF0dXMgPSAiYWN0aXZlX3dlZWsiOwogICAgICBhY3Rpdml0eUxhYmVsID0gIkFjdGl2ZSB0aGlzIHdlZWsiOwogICAgICBhY3Rpdml0eUNvbG9yID0gImJnLWdyYXktNTAwIjsKICAgIH0gZWxzZSB7CiAgICAgIGFjdGl2aXR5U3RhdHVzID0gImluYWN0aXZlIjsKICAgICAgYWN0aXZpdHlMYWJlbCA9ICIiOwogICAgICBhY3Rpdml0eUNvbG9yID0gIiI7CiAgICB9CgogICAgLy8gQ2FsY3VsYXRlIHJlc3BvbnNlIHJhdGUKICAgIGxldCByZXNwb25zZVJhdGUgPSAwOwogICAgbGV0IHJlc3BvbnNlTGFiZWwgPSAiIjsKICAgIGxldCByZXNwb25kc1F1aWNrbHkgPSBmYWxzZTsKCiAgICBpZiAoc3RhdHMgJiYgc3RhdHMudG90YWxNZXNzYWdlc1JlY2VpdmVkID4gMCkgewogICAgICByZXNwb25zZVJhdGUgPSBNYXRoLnJvdW5kKChzdGF0cy50b3RhbE1lc3NhZ2VzUmVzcG9uZGVkIC8gc3RhdHMudG90YWxNZXNzYWdlc1JlY2VpdmVkKSAqIDEwMCk7CiAgICAgIAogICAgICBpZiAocmVzcG9uc2VSYXRlID49IDgwKSB7CiAgICAgICAgcmVzcG9uc2VMYWJlbCA9ICJSZXBsaWVzIG9mdGVuIjsKICAgICAgfSBlbHNlIGlmIChyZXNwb25zZVJhdGUgPj0gNTApIHsKICAgICAgICByZXNwb25zZUxhYmVsID0gIlNvbWV0aW1lcyByZXBsaWVzIjsKICAgICAgfQoKICAgICAgLy8gQ2hlY2sgaWYgcmVzcG9uZHMgcXVpY2tseSAoYXZlcmFnZSA8IDYwIG1pbnV0ZXMpCiAgICAgIGlmIChzdGF0cy5hdmVyYWdlUmVzcG9uc2VUaW1lTWludXRlcyA8IDYwICYmIHN0YXRzLnRvdGFsTWVzc2FnZXNSZXNwb25kZWQgPj0gNSkgewogICAgICAgIHJlc3BvbmRzUXVpY2tseSA9IHRydWU7CiAgICAgIH0KICAgIH0KCiAgICByZXR1cm4gewogICAgICBhY3Rpdml0eVN0YXR1cywKICAgICAgYWN0aXZpdHlMYWJlbCwKICAgICAgYWN0aXZpdHlDb2xvciwKICAgICAgcmVzcG9uc2VSYXRlLAogICAgICByZXNwb25zZUxhYmVsLAogICAgICByZXNwb25kc1F1aWNrbHksCiAgICAgIGF2ZXJhZ2VSZXNwb25zZVRpbWVNaW51dGVzOiBzdGF0cz8uYXZlcmFnZVJlc3BvbnNlVGltZU1pbnV0ZXMgfHwgMCwKICAgICAgbGFzdEFjdGl2ZUF0OiBsYXN0QWN0aXZlLAogICAgICBtaW51dGVzU2luY2VBY3RpdmU6IE1hdGgucm91bmQobWludXRlc1NpbmNlQWN0aXZlKSwKICAgICAgaG91cnNTaW5jZUFjdGl2ZTogTWF0aC5yb3VuZChob3Vyc1NpbmNlQWN0aXZlKSwKICAgIH07CiAgfSwKfSk7CgovLyBHZXQgbXVsdGlwbGUgdXNlcnMnIGFjdGl2aXR5IGJhZGdlcyAoZm9yIGRpc2NvdmVyeS9tYXRjaGVzKQpleHBvcnQgY29uc3QgZ2V0QmF0Y2hBY3Rpdml0eUJhZGdlcyA9IHF1ZXJ5KHsKICBhcmdzOiB7CiAgICB1c2VySWRzOiB2LmFycmF5KHYuaWQoInVzZXJzIikpLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3QgYmFkZ2VzOiBSZWNvcmQ8c3RyaW5nLCBhbnk+ID0ge307CgogICAgZm9yIChjb25zdCB1c2VySWQgb2YgYXJncy51c2VySWRzKSB7CiAgICAgIC8vIElubGluZSB0aGUgYWN0aXZpdHkgYmFkZ2UgbG9naWMgaW5zdGVhZCBvZiBjYWxsaW5nIHRoZSBxdWVyeQogICAgICBjb25zdCB1c2VyID0gYXdhaXQgY3R4LmRiLmdldCh1c2VySWQpOwogICAgICBpZiAoIXVzZXIpIGNvbnRpbnVlOwoKICAgICAgY29uc3Qgc3RhdHMgPSBhd2FpdCBjdHguZGIKICAgICAgICAucXVlcnkoImFjdGl2aXR5U3RhdHMiKQogICAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCB1c2VySWQpKQogICAgICAgIC5maXJzdCgpOwoKICAgICAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKTsKICAgICAgY29uc3QgbGFzdEFjdGl2ZSA9IHVzZXIubGFzdEFjdGl2ZSB8fCAwOwogICAgICBjb25zdCBtaW51dGVzU2luY2VBY3RpdmUgPSAobm93IC0gbGFzdEFjdGl2ZSkgLyAoMTAwMCAqIDYwKTsKICAgICAgY29uc3QgaG91cnNTaW5jZUFjdGl2ZSA9IG1pbnV0ZXNTaW5jZUFjdGl2ZSAvIDYwOwoKICAgICAgbGV0IGFjdGl2aXR5U3RhdHVzOiAiYWN0aXZlX25vdyIgfCAiYWN0aXZlX3RvZGF5IiB8ICJhY3RpdmVfd2VlayIgfCAiaW5hY3RpdmUiIHwgbnVsbCA9IG51bGw7CiAgICAgIGxldCBhY3Rpdml0eUxhYmVsID0gIiI7CiAgICAgIGxldCBhY3Rpdml0eUNvbG9yID0gIiI7CgogICAgICBpZiAobWludXRlc1NpbmNlQWN0aXZlIDwgNSkgewogICAgICAgIGFjdGl2aXR5U3RhdHVzID0gImFjdGl2ZV9ub3ciOwogICAgICAgIGFjdGl2aXR5TGFiZWwgPSAiQWN0aXZlIG5vdyI7CiAgICAgICAgYWN0aXZpdHlDb2xvciA9ICJiZy1ncmVlbi01MDAiOwogICAgICB9IGVsc2UgaWYgKGhvdXJzU2luY2VBY3RpdmUgPCAyNCkgewogICAgICAgIGFjdGl2aXR5U3RhdHVzID0gImFjdGl2ZV90b2RheSI7CiAgICAgICAgYWN0aXZpdHlMYWJlbCA9ICJBY3RpdmUgdG9kYXkiOwogICAgICAgIGFjdGl2aXR5Q29sb3IgPSAiYmctYmx1ZS01MDAiOwogICAgICB9IGVsc2UgaWYgKGhvdXJzU2luY2VBY3RpdmUgPCAxNjgpIHsKICAgICAgICBhY3Rpdml0eVN0YXR1cyA9ICJhY3RpdmVfd2VlayI7CiAgICAgICAgYWN0aXZpdHlMYWJlbCA9ICJBY3RpdmUgdGhpcyB3ZWVrIjsKICAgICAgICBhY3Rpdml0eUNvbG9yID0gImJnLWdyYXktNTAwIjsKICAgICAgfSBlbHNlIHsKICAgICAgICBhY3Rpdml0eVN0YXR1cyA9ICJpbmFjdGl2ZSI7CiAgICAgICAgYWN0aXZpdHlMYWJlbCA9ICIiOwogICAgICAgIGFjdGl2aXR5Q29sb3IgPSAiIjsKICAgICAgfQoKICAgICAgbGV0IHJlc3BvbnNlUmF0ZSA9IDA7CiAgICAgIGxldCByZXNwb25zZUxhYmVsID0gIiI7CiAgICAgIGxldCByZXNwb25kc1F1aWNrbHkgPSBmYWxzZTsKCiAgICAgIGlmIChzdGF0cyAmJiBzdGF0cy50b3RhbE1lc3NhZ2VzUmVjZWl2ZWQgPiAwKSB7CiAgICAgICAgcmVzcG9uc2VSYXRlID0gTWF0aC5yb3VuZCgoc3RhdHMudG90YWxNZXNzYWdlc1Jlc3BvbmRlZCAvIHN0YXRzLnRvdGFsTWVzc2FnZXNSZWNlaXZlZCkgKiAxMDApOwogICAgICAgIAogICAgICAgIGlmIChyZXNwb25zZVJhdGUgPj0gODApIHsKICAgICAgICAgIHJlc3BvbnNlTGFiZWwgPSAiUmVwbGllcyBvZnRlbiI7CiAgICAgICAgfSBlbHNlIGlmIChyZXNwb25zZVJhdGUgPj0gNTApIHsKICAgICAgICAgIHJlc3BvbnNlTGFiZWwgPSAiU29tZXRpbWVzIHJlcGxpZXMiOwogICAgICAgIH0KCiAgICAgICAgaWYgKHN0YXRzLmF2ZXJhZ2VSZXNwb25zZVRpbWVNaW51dGVzIDwgNjAgJiYgc3RhdHMudG90YWxNZXNzYWdlc1Jlc3BvbmRlZCA+PSA1KSB7CiAgICAgICAgICByZXNwb25kc1F1aWNrbHkgPSB0cnVlOwogICAgICAgIH0KICAgICAgfQoKICAgICAgYmFkZ2VzW3VzZXJJZF0gPSB7CiAgICAgICAgYWN0aXZpdHlTdGF0dXMsCiAgICAgICAgYWN0aXZpdHlMYWJlbCwKICAgICAgICBhY3Rpdml0eUNvbG9yLAogICAgICAgIHJlc3BvbnNlUmF0ZSwKICAgICAgICByZXNwb25zZUxhYmVsLAogICAgICAgIHJlc3BvbmRzUXVpY2tseSwKICAgICAgICBhdmVyYWdlUmVzcG9uc2VUaW1lTWludXRlczogc3RhdHM/LmF2ZXJhZ2VSZXNwb25zZVRpbWVNaW51dGVzIHx8IDAsCiAgICAgICAgbGFzdEFjdGl2ZUF0OiBsYXN0QWN0aXZlLAogICAgICAgIG1pbnV0ZXNTaW5jZUFjdGl2ZTogTWF0aC5yb3VuZChtaW51dGVzU2luY2VBY3RpdmUpLAogICAgICAgIGhvdXJzU2luY2VBY3RpdmU6IE1hdGgucm91bmQoaG91cnNTaW5jZUFjdGl2ZSksCiAgICAgIH07CiAgICB9CgogICAgcmV0dXJuIGJhZGdlczsKICB9LAp9KTsKCi8vIFRyYWNrIHByb2ZpbGUgdmlldwpleHBvcnQgY29uc3QgdHJhY2tQcm9maWxlVmlldyA9IG11dGF0aW9uKHsKICBhcmdzOiB7CiAgICB2aWV3ZXJVc2VySWQ6IHYuaWQoInVzZXJzIiksCiAgICB2aWV3ZWRVc2VySWQ6IHYuaWQoInVzZXJzIiksCiAgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICAvLyBEb24ndCB0cmFjayBpZiB2aWV3aW5nIG93biBwcm9maWxlCiAgICBpZiAoYXJncy52aWV3ZXJVc2VySWQgPT09IGFyZ3Mudmlld2VkVXNlcklkKSByZXR1cm47CgogICAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKTsKICAgIGNvbnN0IHRvZGF5ID0gbmV3IERhdGUobm93KS50b0RhdGVTdHJpbmcoKTsKCiAgICAvLyBDaGVjayBpZiBhbHJlYWR5IHZpZXdlZCB0b2RheQogICAgY29uc3QgdG9kYXlTdGFydCA9IG5ldyBEYXRlKHRvZGF5KS5nZXRUaW1lKCk7CiAgICBjb25zdCBleGlzdGluZ1ZpZXcgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJwcm9maWxlVmlld3MiKQogICAgICAud2l0aEluZGV4KCJ2aWV3ZWRVc2VyX3ZpZXdlciIsIChxKSA9PiAKICAgICAgICBxLmVxKCJ2aWV3ZWRVc2VySWQiLCBhcmdzLnZpZXdlZFVzZXJJZCkuZXEoInZpZXdlclVzZXJJZCIsIGFyZ3Mudmlld2VyVXNlcklkKQogICAgICApCiAgICAgIC5maWx0ZXIoKHEpID0+IHEuZ3RlKHEuZmllbGQoInZpZXdlZEF0IiksIHRvZGF5U3RhcnQpKQogICAgICAuZmlyc3QoKTsKCiAgICBpZiAoZXhpc3RpbmdWaWV3KSB7CiAgICAgIC8vIFVwZGF0ZSB2aWV3IGNvdW50CiAgICAgIGF3YWl0IGN0eC5kYi5wYXRjaChleGlzdGluZ1ZpZXcuX2lkLCB7CiAgICAgICAgdmlld0NvdW50OiBleGlzdGluZ1ZpZXcudmlld0NvdW50ICsgMSwKICAgICAgICB2aWV3ZWRBdDogbm93LAogICAgICB9KTsKICAgIH0gZWxzZSB7CiAgICAgIC8vIENyZWF0ZSBuZXcgdmlldyByZWNvcmQKICAgICAgYXdhaXQgY3R4LmRiLmluc2VydCgicHJvZmlsZVZpZXdzIiwgewogICAgICAgIHZpZXdlclVzZXJJZDogYXJncy52aWV3ZXJVc2VySWQsCiAgICAgICAgdmlld2VkVXNlcklkOiBhcmdzLnZpZXdlZFVzZXJJZCwKICAgICAgICB2aWV3ZWRBdDogbm93LAogICAgICAgIHZpZXdDb3VudDogMSwKICAgICAgfSk7CiAgICB9CiAgfSwKfSk7CgovLyBHZXQgcHJvZmlsZSB2aWV3IHN0YXRzCmV4cG9ydCBjb25zdCBnZXRQcm9maWxlVmlld1N0YXRzID0gcXVlcnkoewogIGFyZ3M6IHsKICAgIHVzZXJJZDogdi5pZCgidXNlcnMiKSwKICAgIHRpbWVmcmFtZTogdi5vcHRpb25hbCh2LnVuaW9uKHYubGl0ZXJhbCgidG9kYXkiKSwgdi5saXRlcmFsKCJ3ZWVrIiksIHYubGl0ZXJhbCgibW9udGgiKSkpLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKTsKICAgIGNvbnN0IHRpbWVmcmFtZSA9IGFyZ3MudGltZWZyYW1lIHx8ICJ3ZWVrIjsKICAgIAogICAgbGV0IHN0YXJ0VGltZTogbnVtYmVyOwogICAgaWYgKHRpbWVmcmFtZSA9PT0gInRvZGF5IikgewogICAgICBjb25zdCB0b2RheSA9IG5ldyBEYXRlKCk7CiAgICAgIHRvZGF5LnNldEhvdXJzKDAsIDAsIDAsIDApOwogICAgICBzdGFydFRpbWUgPSB0b2RheS5nZXRUaW1lKCk7CiAgICB9IGVsc2UgaWYgKHRpbWVmcmFtZSA9PT0gIndlZWsiKSB7CiAgICAgIHN0YXJ0VGltZSA9IG5vdyAtIDcgKiAyNCAqIDYwICogNjAgKiAxMDAwOwogICAgfSBlbHNlIHsKICAgICAgc3RhcnRUaW1lID0gbm93IC0gMzAgKiAyNCAqIDYwICogNjAgKiAxMDAwOwogICAgfQoKICAgIGNvbnN0IHZpZXdzID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgicHJvZmlsZVZpZXdzIikKICAgICAgLndpdGhJbmRleCgidmlld2VkVXNlcl90aW1lIiwgKHEpID0+IAogICAgICAgIHEuZXEoInZpZXdlZFVzZXJJZCIsIGFyZ3MudXNlcklkKS5ndCgidmlld2VkQXQiLCBzdGFydFRpbWUpCiAgICAgICkKICAgICAgLmNvbGxlY3QoKTsKCiAgICBjb25zdCB0b3RhbFZpZXdzID0gdmlld3MucmVkdWNlKChzdW0sIHZpZXcpID0+IHN1bSArIHZpZXcudmlld0NvdW50LCAwKTsKICAgIGNvbnN0IHVuaXF1ZVZpZXdlcnMgPSBuZXcgU2V0KHZpZXdzLm1hcCh2ID0+IHYudmlld2VyVXNlcklkKSkuc2l6ZTsKCiAgICAvLyBHZXQgdG9kYXkncyB2aWV3cwogICAgY29uc3QgdG9kYXkgPSBuZXcgRGF0ZSgpOwogICAgdG9kYXkuc2V0SG91cnMoMCwgMCwgMCwgMCk7CiAgICBjb25zdCB0b2RheVN0YXJ0ID0gdG9kYXkuZ2V0VGltZSgpOwogICAgCiAgICBjb25zdCB0b2RheVZpZXdzID0gdmlld3MuZmlsdGVyKHYgPT4gdi52aWV3ZWRBdCA+PSB0b2RheVN0YXJ0KTsKICAgIGNvbnN0IHRvZGF5VG90YWwgPSB0b2RheVZpZXdzLnJlZHVjZSgoc3VtLCB2aWV3KSA9PiBzdW0gKyB2aWV3LnZpZXdDb3VudCwgMCk7CgogICAgcmV0dXJuIHsKICAgICAgdG90YWxWaWV3cywKICAgICAgdW5pcXVlVmlld2VycywKICAgICAgdG9kYXlWaWV3czogdG9kYXlUb3RhbCwKICAgICAgdGltZWZyYW1lLAogICAgICByZWNlbnRWaWV3ZXJzOiB2aWV3cy5zbGljZSgtNSkucmV2ZXJzZSgpLCAvLyBMYXN0IDUgdmlld2VycwogICAgfTsKICB9LAp9KTsKCi8vIEludGVybmFsIG11dGF0aW9uIHRvIHRyYWNrIG1lc3NhZ2Ugc2VudCAoZm9yIHJlc3BvbnNlIHRpbWUgY2FsY3VsYXRpb24pCmV4cG9ydCBjb25zdCB0cmFja01lc3NhZ2VTZW50ID0gaW50ZXJuYWxNdXRhdGlvbih7CiAgYXJnczogewogICAgbWF0Y2hJZDogdi5pZCgibWF0Y2hlcyIpLAogICAgc2VuZGVySWQ6IHYuaWQoInVzZXJzIiksCiAgICByZWNlaXZlcklkOiB2LmlkKCJ1c2VycyIpLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgLy8gU3RvcmUgcGVuZGluZyBtZXNzYWdlIGZvciByZXNwb25zZSB0aW1lIHRyYWNraW5nCiAgICBhd2FpdCBjdHguZGIuaW5zZXJ0KCJwZW5kaW5nUmVzcG9uc2VzIiwgewogICAgICBtYXRjaElkOiBhcmdzLm1hdGNoSWQsCiAgICAgIHNlbmRlcklkOiBhcmdzLnNlbmRlcklkLAogICAgICByZWNlaXZlcklkOiBhcmdzLnJlY2VpdmVySWQsCiAgICAgIHNlbnRBdDogRGF0ZS5ub3coKSwKICAgICAgcmVzcG9uZGVkOiBmYWxzZSwKICAgIH0pOwogIH0sCn0pOwoKLy8gSW50ZXJuYWwgbXV0YXRpb24gdG8gbWFyayBtZXNzYWdlIGFzIHJlc3BvbmRlZApleHBvcnQgY29uc3QgbWFya01lc3NhZ2VSZXNwb25kZWQgPSBpbnRlcm5hbE11dGF0aW9uKHsKICBhcmdzOiB7CiAgICBtYXRjaElkOiB2LmlkKCJtYXRjaGVzIiksCiAgICByZXNwb25kZXJJZDogdi5pZCgidXNlcnMiKSwKICB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIC8vIEZpbmQgcGVuZGluZyByZXNwb25zZXMgZm9yIHRoaXMgdXNlcgogICAgY29uc3QgcGVuZGluZ1Jlc3BvbnNlcyA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoInBlbmRpbmdSZXNwb25zZXMiKQogICAgICAud2l0aEluZGV4KCJtYXRjaElkX3JlY2VpdmVyIiwgKHEpID0+IAogICAgICAgIHEuZXEoIm1hdGNoSWQiLCBhcmdzLm1hdGNoSWQpLmVxKCJyZWNlaXZlcklkIiwgYXJncy5yZXNwb25kZXJJZCkKICAgICAgKQogICAgICAuZmlsdGVyKChxKSA9PiBxLmVxKHEuZmllbGQoInJlc3BvbmRlZCIpLCBmYWxzZSkpCiAgICAgIC5jb2xsZWN0KCk7CgogICAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKTsKCiAgICBmb3IgKGNvbnN0IHBlbmRpbmcgb2YgcGVuZGluZ1Jlc3BvbnNlcykgewogICAgICBjb25zdCByZXNwb25zZVRpbWVNaW51dGVzID0gKG5vdyAtIHBlbmRpbmcuc2VudEF0KSAvICgxMDAwICogNjApOwogICAgICAKICAgICAgLy8gTWFyayBhcyByZXNwb25kZWQKICAgICAgYXdhaXQgY3R4LmRiLnBhdGNoKHBlbmRpbmcuX2lkLCB7CiAgICAgICAgcmVzcG9uZGVkOiB0cnVlLAogICAgICAgIHJlc3BvbmRlZEF0OiBub3csCiAgICAgIH0pOwoKICAgICAgLy8gVXBkYXRlIGFjdGl2aXR5IHN0YXRzIGlubGluZQogICAgICBjb25zdCBzdGF0cyA9IGF3YWl0IGN0eC5kYgogICAgICAgIC5xdWVyeSgiYWN0aXZpdHlTdGF0cyIpCiAgICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIGFyZ3MucmVzcG9uZGVySWQpKQogICAgICAgIC5maXJzdCgpOwoKICAgICAgaWYgKCFzdGF0cykgewogICAgICAgIGF3YWl0IGN0eC5kYi5pbnNlcnQoImFjdGl2aXR5U3RhdHMiLCB7CiAgICAgICAgICB1c2VySWQ6IGFyZ3MucmVzcG9uZGVySWQsCiAgICAgICAgICBsYXN0QWN0aXZlQXQ6IG5vdywKICAgICAgICAgIHRvdGFsQWN0aXZlRGF5czogMSwKICAgICAgICAgIHRvdGFsTWVzc2FnZXNSZWNlaXZlZDogMSwKICAgICAgICAgIHRvdGFsTWVzc2FnZXNSZXNwb25kZWQ6IDEsCiAgICAgICAgICBhdmVyYWdlUmVzcG9uc2VUaW1lTWludXRlczogcmVzcG9uc2VUaW1lTWludXRlcywKICAgICAgICB9KTsKICAgICAgfSBlbHNlIHsKICAgICAgICBjb25zdCBuZXdUb3RhbFJlY2VpdmVkID0gc3RhdHMudG90YWxNZXNzYWdlc1JlY2VpdmVkICsgMTsKICAgICAgICBjb25zdCBuZXdUb3RhbFJlc3BvbmRlZCA9IHN0YXRzLnRvdGFsTWVzc2FnZXNSZXNwb25kZWQgKyAxOwogICAgICAgIGNvbnN0IHRvdGFsUmVzcG9uc2VUaW1lID0gc3RhdHMuYXZlcmFnZVJlc3BvbnNlVGltZU1pbnV0ZXMgKiBzdGF0cy50b3RhbE1lc3NhZ2VzUmVzcG9uZGVkOwogICAgICAgIGNvbnN0IG5ld0F2ZXJhZ2VSZXNwb25zZVRpbWUgPSAodG90YWxSZXNwb25zZVRpbWUgKyByZXNwb25zZVRpbWVNaW51dGVzKSAvIG5ld1RvdGFsUmVzcG9uZGVkOwoKICAgICAgICBhd2FpdCBjdHguZGIucGF0Y2goc3RhdHMuX2lkLCB7CiAgICAgICAgICB0b3RhbE1lc3NhZ2VzUmVjZWl2ZWQ6IG5ld1RvdGFsUmVjZWl2ZWQsCiAgICAgICAgICB0b3RhbE1lc3NhZ2VzUmVzcG9uZGVkOiBuZXdUb3RhbFJlc3BvbmRlZCwKICAgICAgICAgIGF2ZXJhZ2VSZXNwb25zZVRpbWVNaW51dGVzOiBuZXdBdmVyYWdlUmVzcG9uc2VUaW1lLAogICAgICAgIH0pOwogICAgICB9CiAgICB9CiAgfSwKfSk7Cg=="}
+import { v } from "convex/values";
+import { mutation, query, internalMutation } from "./_generated/server";
+
+/**
+ * Activity Tracking System
+ * Tracks user activity, response rates, and generates activity badges
+ */
+
+// Update user's last active timestamp
+export const updateLastActive = mutation({
+  args: {
+    userId: v.id("users"),
+  },
+  handler: async (ctx, args) => {
+    const user = await ctx.db.get(args.userId);
+    if (!user) return;
+
+    // Update user's lastActive timestamp
+    await ctx.db.patch(args.userId, {
+      lastActive: Date.now(),
+    });
+
+    // Update or create activity stats
+    const stats = await ctx.db
+      .query("activityStats")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .first();
+
+    const now = Date.now();
+    const today = new Date(now).toDateString();
+
+    if (stats) {
+      const lastActiveDate = new Date(stats.lastActiveAt).toDateString();
+      
+      // If it's a new day, increment daily active count
+      if (lastActiveDate !== today) {
+        await ctx.db.patch(stats._id, {
+          lastActiveAt: now,
+          totalActiveDays: stats.totalActiveDays + 1,
+        });
+      } else {
+        await ctx.db.patch(stats._id, {
+          lastActiveAt: now,
+        });
+      }
+    } else {
+      // Create new activity stats
+      await ctx.db.insert("activityStats", {
+        userId: args.userId,
+        lastActiveAt: now,
+        totalActiveDays: 1,
+        totalMessagesReceived: 0,
+        totalMessagesResponded: 0,
+        averageResponseTimeMinutes: 0,
+      });
+    }
+  },
+});
+
+// Track message response for response rate calculation
+export const trackMessageResponse = mutation({
+  args: {
+    userId: v.id("users"),
+    wasResponded: v.boolean(),
+    responseTimeMinutes: v.optional(v.number()),
+  },
+  handler: async (ctx, args) => {
+    const stats = await ctx.db
+      .query("activityStats")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .first();
+
+    if (!stats) {
+      // Create new stats if doesn't exist
+      await ctx.db.insert("activityStats", {
+        userId: args.userId,
+        lastActiveAt: Date.now(),
+        totalActiveDays: 1,
+        totalMessagesReceived: 1,
+        totalMessagesResponded: args.wasResponded ? 1 : 0,
+        averageResponseTimeMinutes: args.responseTimeMinutes || 0,
+      });
+      return;
+    }
+
+    const newTotalReceived = stats.totalMessagesReceived + 1;
+    const newTotalResponded = stats.totalMessagesResponded + (args.wasResponded ? 1 : 0);
+
+    // Calculate new average response time
+    let newAverageResponseTime = stats.averageResponseTimeMinutes;
+    if (args.wasResponded && args.responseTimeMinutes !== undefined) {
+      const totalResponseTime = stats.averageResponseTimeMinutes * stats.totalMessagesResponded;
+      newAverageResponseTime = (totalResponseTime + args.responseTimeMinutes) / newTotalResponded;
+    }
+
+    await ctx.db.patch(stats._id, {
+      totalMessagesReceived: newTotalReceived,
+      totalMessagesResponded: newTotalResponded,
+      averageResponseTimeMinutes: newAverageResponseTime,
+    });
+  },
+});
+
+// Get activity badge for a user
+export const getActivityBadge = query({
+  args: {
+    userId: v.id("users"),
+  },
+  handler: async (ctx, args) => {
+    const user = await ctx.db.get(args.userId);
+    if (!user) return null;
+
+    const stats = await ctx.db
+      .query("activityStats")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .first();
+
+    const now = Date.now();
+    const lastActive = user.lastActive || 0;
+    const minutesSinceActive = (now - lastActive) / (1000 * 60);
+    const hoursSinceActive = minutesSinceActive / 60;
+
+    let activityStatus: "active_now" | "active_today" | "active_week" | "inactive" | null = null;
+    let activityLabel = "";
+    let activityColor = "";
+
+    // Determine activity status
+    if (minutesSinceActive < 5) {
+      activityStatus = "active_now";
+      activityLabel = "Active now";
+      activityColor = "bg-green-500";
+    } else if (hoursSinceActive < 24) {
+      activityStatus = "active_today";
+      activityLabel = "Active today";
+      activityColor = "bg-blue-500";
+    } else if (hoursSinceActive < 168) { // 7 days
+      activityStatus = "active_week";
+      activityLabel = "Active this week";
+      activityColor = "bg-gray-500";
+    } else {
+      activityStatus = "inactive";
+      activityLabel = "";
+      activityColor = "";
+    }
+
+    // Calculate response rate
+    let responseRate = 0;
+    let responseLabel = "";
+    let respondsQuickly = false;
+
+    if (stats && stats.totalMessagesReceived > 0) {
+      responseRate = Math.round((stats.totalMessagesResponded / stats.totalMessagesReceived) * 100);
+      
+      if (responseRate >= 80) {
+        responseLabel = "Replies often";
+      } else if (responseRate >= 50) {
+        responseLabel = "Sometimes replies";
+      }
+
+      // Check if responds quickly (average < 60 minutes)
+      if (stats.averageResponseTimeMinutes < 60 && stats.totalMessagesResponded >= 5) {
+        respondsQuickly = true;
+      }
+    }
+
+    return {
+      activityStatus,
+      activityLabel,
+      activityColor,
+      responseRate,
+      responseLabel,
+      respondsQuickly,
+      averageResponseTimeMinutes: stats?.averageResponseTimeMinutes || 0,
+      lastActiveAt: lastActive,
+      minutesSinceActive: Math.round(minutesSinceActive),
+      hoursSinceActive: Math.round(hoursSinceActive),
+    };
+  },
+});
+
+// Get multiple users' activity badges (for discovery/matches)
+export const getBatchActivityBadges = query({
+  args: {
+    userIds: v.array(v.id("users")),
+  },
+  handler: async (ctx, args) => {
+    const badges: Record<string, any> = {};
+
+    for (const userId of args.userIds) {
+      // Inline the activity badge logic instead of calling the query
+      const user = await ctx.db.get(userId);
+      if (!user) continue;
+
+      const stats = await ctx.db
+        .query("activityStats")
+        .withIndex("userId", (q) => q.eq("userId", userId))
+        .first();
+
+      const now = Date.now();
+      const lastActive = user.lastActive || 0;
+      const minutesSinceActive = (now - lastActive) / (1000 * 60);
+      const hoursSinceActive = minutesSinceActive / 60;
+
+      let activityStatus: "active_now" | "active_today" | "active_week" | "inactive" | null = null;
+      let activityLabel = "";
+      let activityColor = "";
+
+      if (minutesSinceActive < 5) {
+        activityStatus = "active_now";
+        activityLabel = "Active now";
+        activityColor = "bg-green-500";
+      } else if (hoursSinceActive < 24) {
+        activityStatus = "active_today";
+        activityLabel = "Active today";
+        activityColor = "bg-blue-500";
+      } else if (hoursSinceActive < 168) {
+        activityStatus = "active_week";
+        activityLabel = "Active this week";
+        activityColor = "bg-gray-500";
+      } else {
+        activityStatus = "inactive";
+        activityLabel = "";
+        activityColor = "";
+      }
+
+      let responseRate = 0;
+      let responseLabel = "";
+      let respondsQuickly = false;
+
+      if (stats && stats.totalMessagesReceived > 0) {
+        responseRate = Math.round((stats.totalMessagesResponded / stats.totalMessagesReceived) * 100);
+        
+        if (responseRate >= 80) {
+          responseLabel = "Replies often";
+        } else if (responseRate >= 50) {
+          responseLabel = "Sometimes replies";
+        }
+
+        if (stats.averageResponseTimeMinutes < 60 && stats.totalMessagesResponded >= 5) {
+          respondsQuickly = true;
+        }
+      }
+
+      badges[userId] = {
+        activityStatus,
+        activityLabel,
+        activityColor,
+        responseRate,
+        responseLabel,
+        respondsQuickly,
+        averageResponseTimeMinutes: stats?.averageResponseTimeMinutes || 0,
+        lastActiveAt: lastActive,
+        minutesSinceActive: Math.round(minutesSinceActive),
+        hoursSinceActive: Math.round(hoursSinceActive),
+      };
+    }
+
+    return badges;
+  },
+});
+
+// Track profile view
+export const trackProfileView = mutation({
+  args: {
+    viewerUserId: v.id("users"),
+    viewedUserId: v.id("users"),
+  },
+  handler: async (ctx, args) => {
+    // Don't track if viewing own profile
+    if (args.viewerUserId === args.viewedUserId) return;
+
+    const now = Date.now();
+    const today = new Date(now).toDateString();
+
+    // Check if already viewed today
+    const todayStart = new Date(today).getTime();
+    const existingView = await ctx.db
+      .query("profileViews")
+      .withIndex("viewedUser_viewer", (q) => 
+        q.eq("viewedUserId", args.viewedUserId).eq("viewerUserId", args.viewerUserId)
+      )
+      .filter((q) => q.gte(q.field("viewedAt"), todayStart))
+      .first();
+
+    if (existingView) {
+      // Update view count
+      await ctx.db.patch(existingView._id, {
+        viewCount: existingView.viewCount + 1,
+        viewedAt: now,
+      });
+    } else {
+      // Create new view record
+      await ctx.db.insert("profileViews", {
+        viewerUserId: args.viewerUserId,
+        viewedUserId: args.viewedUserId,
+        viewedAt: now,
+        viewCount: 1,
+      });
+      // Also track in dailyUsage for restricted-user quota enforcement
+      const d = new Date(now);
+      const dayKey = `${d.getUTCFullYear()}-${String(d.getUTCMonth() + 1).padStart(2, '0')}-${String(d.getUTCDate()).padStart(2, '0')}`;
+      const usage = await ctx.db
+        .query("dailyUsage")
+        .withIndex("userDay", (q) => q.eq("userId", args.viewerUserId).eq("dayKey", dayKey))
+        .first();
+      if (usage) {
+        await ctx.db.patch(usage._id, { profileViews: (usage.profileViews ?? 0) + 1, updatedAt: now });
+      } else {
+        await ctx.db.insert("dailyUsage", {
+          userId: args.viewerUserId,
+          dayKey,
+          likes: 0,
+          superLikes: 0,
+          profileViews: 1,
+          updatedAt: now,
+        });
+      }
+    }
+  },
+});
+
+// Get profile view stats
+export const getProfileViewStats = query({
+  args: {
+    userId: v.id("users"),
+    timeframe: v.optional(v.union(v.literal("today"), v.literal("week"), v.literal("month"))),
+  },
+  handler: async (ctx, args) => {
+    const now = Date.now();
+    const timeframe = args.timeframe || "week";
+    
+    let startTime: number;
+    if (timeframe === "today") {
+      const today = new Date();
+      today.setHours(0, 0, 0, 0);
+      startTime = today.getTime();
+    } else if (timeframe === "week") {
+      startTime = now - 7 * 24 * 60 * 60 * 1000;
+    } else {
+      startTime = now - 30 * 24 * 60 * 60 * 1000;
+    }
+
+    const views = await ctx.db
+      .query("profileViews")
+      .withIndex("viewedUser_time", (q) => 
+        q.eq("viewedUserId", args.userId).gt("viewedAt", startTime)
+      )
+      .collect();
+
+    const totalViews = views.reduce((sum, view) => sum + view.viewCount, 0);
+    const uniqueViewers = new Set(views.map(v => v.viewerUserId)).size;
+
+    // Get today's views
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+    const todayStart = today.getTime();
+    
+    const todayViews = views.filter(v => v.viewedAt >= todayStart);
+    const todayTotal = todayViews.reduce((sum, view) => sum + view.viewCount, 0);
+
+    return {
+      totalViews,
+      uniqueViewers,
+      todayViews: todayTotal,
+      timeframe,
+      recentViewers: views.slice(-5).reverse(), // Last 5 viewers
+    };
+  },
+});
+
+// Internal mutation to track message sent (for response time calculation)
+export const trackMessageSent = internalMutation({
+  args: {
+    matchId: v.id("matches"),
+    senderId: v.id("users"),
+    receiverId: v.id("users"),
+  },
+  handler: async (ctx, args) => {
+    // Store pending message for response time tracking
+    await ctx.db.insert("pendingResponses", {
+      matchId: args.matchId,
+      senderId: args.senderId,
+      receiverId: args.receiverId,
+      sentAt: Date.now(),
+      responded: false,
+    });
+  },
+});
+
+// Internal mutation to mark message as responded
+export const markMessageResponded = internalMutation({
+  args: {
+    matchId: v.id("matches"),
+    responderId: v.id("users"),
+  },
+  handler: async (ctx, args) => {
+    // Find pending responses for this user
+    const pendingResponses = await ctx.db
+      .query("pendingResponses")
+      .withIndex("matchId_receiver", (q) => 
+        q.eq("matchId", args.matchId).eq("receiverId", args.responderId)
+      )
+      .filter((q) => q.eq(q.field("responded"), false))
+      .collect();
+
+    const now = Date.now();
+
+    for (const pending of pendingResponses) {
+      const responseTimeMinutes = (now - pending.sentAt) / (1000 * 60);
+      
+      // Mark as responded
+      await ctx.db.patch(pending._id, {
+        responded: true,
+        respondedAt: now,
+      });
+
+      // Update activity stats inline
+      const stats = await ctx.db
+        .query("activityStats")
+        .withIndex("userId", (q) => q.eq("userId", args.responderId))
+        .first();
+
+      if (!stats) {
+        await ctx.db.insert("activityStats", {
+          userId: args.responderId,
+          lastActiveAt: now,
+          totalActiveDays: 1,
+          totalMessagesReceived: 1,
+          totalMessagesResponded: 1,
+          averageResponseTimeMinutes: responseTimeMinutes,
+        });
+      } else {
+        const newTotalReceived = stats.totalMessagesReceived + 1;
+        const newTotalResponded = stats.totalMessagesResponded + 1;
+        const totalResponseTime = stats.averageResponseTimeMinutes * stats.totalMessagesResponded;
+        const newAverageResponseTime = (totalResponseTime + responseTimeMinutes) / newTotalResponded;
+
+        await ctx.db.patch(stats._id, {
+          totalMessagesReceived: newTotalReceived,
+          totalMessagesResponded: newTotalResponded,
+          averageResponseTimeMinutes: newAverageResponseTime,
+        });
+      }
+    }
+  },
+});

@@ -1,1 +1,23 @@
-{"data":"PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgZmlsbD0ibm9uZSI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImRsLXNreSIgeDE9IjkyIiB5MT0iOTIiIHgyPSI0MjAiIHkyPSI0MjAiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iIzBFQTVFOSIgLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjNjM2NkYxIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZGwtd2FybSIgeDE9IjEyOCIgeTE9IjEyOCIgeDI9IjM4NCIgeTI9IjM4NCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPgogICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjRjQzRjVFIiAvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNGQjcxODUiIC8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KCiAgPHJlY3QgeD0iNDgiIHk9IjQ4IiB3aWR0aD0iNDE2IiBoZWlnaHQ9IjQxNiIgcng9IjEyMCIgZmlsbD0iIzBCMTIyMCIgLz4KICA8cmVjdCB4PSI3MiIgeT0iNzIiIHdpZHRoPSIzNjgiIGhlaWdodD0iMzY4IiByeD0iMTA0IiBmaWxsPSJ1cmwoI2RsLXNreSkiIG9wYWNpdHk9IjAuMTIiIC8+CgogIDxwYXRoIGQ9Ik0yNTYgMzcyYy0zIDAtNi0uNi04LjctMS45QzE3OS4zIDMzOC44IDEzNiAyODguNyAxMzYgMjQwLjIgMTM2IDIwMSAxNjguNiAxNzAgMjA4LjggMTcwYzIyLjIgMCA0My4yIDkuOSA1Ni45IDI3LjNDMjc5LjUgMTc5LjkgMzAwLjUgMTcwIDMyMi43IDE3MGM0MC4yIDAgNzIuOCAzMSA3Mi44IDcwLjIgMCA0OC41LTQzLjMgOTguNi0xMTEuMyAxMjkuOS0yLjcgMS4zLTUuNyAxLjktOC43IDEuOXoiIGZpbGw9InVybCgjZGwtd2FybSkiIC8+CgogIDxwYXRoIGQ9Ik0xODggMjUwYzAtMzcuNiAzMC40LTY4IDY4LTY4IiBzdHJva2U9IiNFMkU4RjAiIHN0cm9rZS13aWR0aD0iMjAiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz4KICA8cGF0aCBkPSJNMzI0IDI2MmMwIDM3LjYtMzAuNCA2OC02OCA2OCIgc3Ryb2tlPSIjRjhGQUZDIiBzdHJva2Utd2lkdGg9IjIwIiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+CgogIDxwYXRoIGQ9Ik0xOTYgMjEyaDM2IiBzdHJva2U9IiNGOEZBRkMiIHN0cm9rZS13aWR0aD0iMTYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz4KICA8cGF0aCBkPSJNMjgwIDMwMGgzNiIgc3Ryb2tlPSIjRjhGQUZDIiBzdHJva2Utd2lkdGg9IjE2IiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+Cjwvc3ZnPgo="}
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="dl-sky" x1="92" y1="92" x2="420" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5E9" />
+      <stop offset="1" stop-color="#6366F1" />
+    </linearGradient>
+    <linearGradient id="dl-warm" x1="128" y1="128" x2="384" y2="384" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F43F5E" />
+      <stop offset="1" stop-color="#FB7185" />
+    </linearGradient>
+  </defs>
+
+  <rect x="48" y="48" width="416" height="416" rx="120" fill="#0B1220" />
+  <rect x="72" y="72" width="368" height="368" rx="104" fill="url(#dl-sky)" opacity="0.12" />
+
+  <path d="M256 372c-3 0-6-.6-8.7-1.9C179.3 338.8 136 288.7 136 240.2 136 201 168.6 170 208.8 170c22.2 0 43.2 9.9 56.9 27.3C279.5 179.9 300.5 170 322.7 170c40.2 0 72.8 31 72.8 70.2 0 48.5-43.3 98.6-111.3 129.9-2.7 1.3-5.7 1.9-8.7 1.9z" fill="url(#dl-warm)" />
+
+  <path d="M188 250c0-37.6 30.4-68 68-68" stroke="#E2E8F0" stroke-width="20" stroke-linecap="round" />
+  <path d="M324 262c0 37.6-30.4 68-68 68" stroke="#F8FAFC" stroke-width="20" stroke-linecap="round" />
+
+  <path d="M196 212h36" stroke="#F8FAFC" stroke-width="16" stroke-linecap="round" />
+  <path d="M280 300h36" stroke="#F8FAFC" stroke-width="16" stroke-linecap="round" />
+</svg>

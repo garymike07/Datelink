@@ -1,1 +1,160 @@
-{"data":"aW1wb3J0IHsgdXNlTWVtbywgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IHVzZUF1dGggfSBmcm9tICJAL2NvbnRleHRzL0F1dGhDb250ZXh0IjsKaW1wb3J0IHsgdXNlTmF2aWdhdGUgfSBmcm9tICJyZWFjdC1yb3V0ZXItZG9tIjsKaW1wb3J0IHsgdXNlTXV0YXRpb24gfSBmcm9tICJjb252ZXgvcmVhY3QiOwppbXBvcnQgeyBhcGkgfSBmcm9tICIuLi8uLi9jb252ZXgvX2dlbmVyYXRlZC9hcGkiOwppbXBvcnQgeyB0b2FzdCB9IGZyb20gInNvbm5lciI7CgppbXBvcnQgeyBDYXJkLCBDYXJkQ29udGVudCwgQ2FyZERlc2NyaXB0aW9uLCBDYXJkSGVhZGVyLCBDYXJkVGl0bGUgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvY2FyZCI7CmltcG9ydCB7IEJ1dHRvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS9idXR0b24iOwppbXBvcnQgeyBQcm9ncmVzcyB9IGZyb20gIkAvY29tcG9uZW50cy91aS9wcm9ncmVzcyI7Cgpjb25zdCBwb3NlcyA9IFsiTG9vayBsZWZ0IiwgIkxvb2sgcmlnaHQiLCAiU21pbGUiLCAiVGh1bWJzIHVwIl07CgpmdW5jdGlvbiByZWFkQXNEYXRhVXJsKGZpbGU6IEZpbGUpIHsKICByZXR1cm4gbmV3IFByb21pc2U8c3RyaW5nPigocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICBjb25zdCByZWFkZXIgPSBuZXcgRmlsZVJlYWRlcigpOwogICAgcmVhZGVyLm9uZXJyb3IgPSAoKSA9PiByZWplY3QobmV3IEVycm9yKCJGYWlsZWQgdG8gcmVhZCBmaWxlIikpOwogICAgcmVhZGVyLm9ubG9hZCA9ICgpID0+IHJlc29sdmUoU3RyaW5nKHJlYWRlci5yZXN1bHQgfHwgIiIpKTsKICAgIHJlYWRlci5yZWFkQXNEYXRhVVJMKGZpbGUpOwogIH0pOwp9CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBQaG90b1ZlcmlmaWNhdGlvbigpIHsKICBjb25zdCBuYXZpZ2F0ZSA9IHVzZU5hdmlnYXRlKCk7CiAgY29uc3QgeyB1c2VyIH0gPSB1c2VBdXRoKCk7CiAgY29uc3QgdXNlcklkID0gdXNlcj8uX2lkIGFzIHN0cmluZyB8IHVuZGVmaW5lZDsKCiAgY29uc3Qgc3VibWl0VmVyaWZpY2F0aW9uID0gdXNlTXV0YXRpb24oYXBpLnZlcmlmaWNhdGlvbi5zdWJtaXRWZXJpZmljYXRpb24pOwoKICBjb25zdCBbc3RlcCwgc2V0U3RlcF0gPSB1c2VTdGF0ZTwxIHwgMiB8IDM+KDEpOwogIGNvbnN0IFtwb3NlQV0gPSB1c2VTdGF0ZSgoKSA9PiBwb3Nlc1tNYXRoLmZsb29yKE1hdGgucmFuZG9tKCkgKiBwb3Nlcy5sZW5ndGgpXSk7CiAgY29uc3QgW3Bvc2VCXSA9IHVzZVN0YXRlKCgpID0+IHBvc2VzW01hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIHBvc2VzLmxlbmd0aCldKTsKICBjb25zdCBbdXBsb2Fkcywgc2V0VXBsb2Fkc10gPSB1c2VTdGF0ZTx7IHBvc2U6IHN0cmluZzsgdXJsOiBzdHJpbmcgfVtdPihbXSk7CiAgY29uc3QgW3N1Ym1pdHRpbmcsIHNldFN1Ym1pdHRpbmddID0gdXNlU3RhdGUoZmFsc2UpOwoKICBjb25zdCBwcm9ncmVzcyA9IHVzZU1lbW8oKCkgPT4gKHN0ZXAgLyAzKSAqIDEwMCwgW3N0ZXBdKTsKCiAgY29uc3Qgb25QaWNrRmlsZXMgPSBhc3luYyAoZmlsZXM6IEZpbGVMaXN0IHwgbnVsbCkgPT4gewogICAgaWYgKCFmaWxlcykgcmV0dXJuOwogICAgY29uc3QgcGlja2VkID0gQXJyYXkuZnJvbShmaWxlcykuc2xpY2UoMCwgMyk7CiAgICB0cnkgewogICAgICBjb25zdCB1cmxzID0gYXdhaXQgUHJvbWlzZS5hbGwocGlja2VkLm1hcChyZWFkQXNEYXRhVXJsKSk7CiAgICAgIGNvbnN0IG5leHQ6IHsgcG9zZTogc3RyaW5nOyB1cmw6IHN0cmluZyB9W10gPSBbXTsKICAgICAgaWYgKHVybHNbMF0pIG5leHQucHVzaCh7IHBvc2U6IHBvc2VBLCB1cmw6IHVybHNbMF0gfSk7CiAgICAgIGlmICh1cmxzWzFdKSBuZXh0LnB1c2goeyBwb3NlOiBwb3NlQiwgdXJsOiB1cmxzWzFdIH0pOwogICAgICBpZiAodXJsc1syXSkgbmV4dC5wdXNoKHsgcG9zZTogIkV4dHJhIiwgdXJsOiB1cmxzWzJdIH0pOwogICAgICBzZXRVcGxvYWRzKG5leHQpOwogICAgfSBjYXRjaCB7CiAgICAgIHRvYXN0LmVycm9yKCJGYWlsZWQgdG8gcmVhZCBzZWxlY3RlZCBwaG90b3MiKTsKICAgIH0KICB9OwoKICBjb25zdCBzdWJtaXQgPSBhc3luYyAoKSA9PiB7CiAgICBpZiAoIXVzZXJJZCkgewogICAgICB0b2FzdC5lcnJvcigiUGxlYXNlIGxvZyBpbiBhZ2FpbiIpOwogICAgICBuYXZpZ2F0ZSgiL2xvZ2luIik7CiAgICAgIHJldHVybjsKICAgIH0KICAgIGlmICh1cGxvYWRzLmxlbmd0aCA8IDIpIHsKICAgICAgdG9hc3QuZXJyb3IoIlBsZWFzZSB1cGxvYWQgYXQgbGVhc3QgMiBwaG90b3MiKTsKICAgICAgcmV0dXJuOwogICAgfQoKICAgIHNldFN1Ym1pdHRpbmcodHJ1ZSk7CiAgICB0cnkgewogICAgICBhd2FpdCBzdWJtaXRWZXJpZmljYXRpb24oewogICAgICAgIHVzZXJJZDogdXNlcklkIGFzIGFueSwKICAgICAgICBwaG90b3M6IHVwbG9hZHMubWFwKCh1KSA9PiAoeyB1cmw6IHUudXJsLCBwb3NlOiB1LnBvc2UgfSkpLAogICAgICB9IGFzIGFueSk7CiAgICAgIHNldFN0ZXAoMyk7CiAgICB9IGNhdGNoIChlcnJvcjogYW55KSB7CiAgICAgIHRvYXN0LmVycm9yKGVycm9yPy5tZXNzYWdlIHx8ICJGYWlsZWQgdG8gc3VibWl0IHZlcmlmaWNhdGlvbiIpOwogICAgfSBmaW5hbGx5IHsKICAgICAgc2V0U3VibWl0dGluZyhmYWxzZSk7CiAgICB9CiAgfTsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJtaW4taC1zY3JlZW4gYmctYmFja2dyb3VuZCBwYi0yMCI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb250YWluZXIgbXgtYXV0byBweC0yIHNtOnB4LTMgbWQ6cHgtNCBweS0zIHNtOnB5LTQgbWQ6cHktNiBtYXgtdy0yeGwiPgogICAgICAgIDxDYXJkPgogICAgICAgICAgPENhcmRIZWFkZXI+CiAgICAgICAgICAgIDxDYXJkVGl0bGU+UGhvdG8gdmVyaWZpY2F0aW9uPC9DYXJkVGl0bGU+CiAgICAgICAgICAgIDxDYXJkRGVzY3JpcHRpb24+VmVyaWZ5IHlvdXIgcHJvZmlsZSB0byBidWlsZCB0cnVzdCBhbmQgaW1wcm92ZSB2aXNpYmlsaXR5LjwvQ2FyZERlc2NyaXB0aW9uPgogICAgICAgICAgICA8UHJvZ3Jlc3MgdmFsdWU9e3Byb2dyZXNzfSBjbGFzc05hbWU9Im10LTQiIC8+CiAgICAgICAgICA8L0NhcmRIZWFkZXI+CiAgICAgICAgICA8Q2FyZENvbnRlbnQgY2xhc3NOYW1lPSJzcGFjZS15LTYiPgogICAgICAgICAgICB7c3RlcCA9PT0gMSAmJiAoCiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMyI+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgICAgICAgWW914oCZbGwgdXBsb2FkIDIgc2VsZmllcyBmb2xsb3dpbmcgc2ltcGxlIHBvc2UgcHJvbXB0cy4gWW91ciBzdWJtaXNzaW9uIHdpbGwgYmUgcmV2aWV3ZWQuCiAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBnYXAtMiI+CiAgICAgICAgICAgICAgICAgIDxCdXR0b24gb25DbGljaz17KCkgPT4gc2V0U3RlcCgyKX0+U3RhcnQ8L0J1dHRvbj4KICAgICAgICAgICAgICAgICAgPEJ1dHRvbiB2YXJpYW50PSJvdXRsaW5lIiBvbkNsaWNrPXsoKSA9PiBuYXZpZ2F0ZSgtMSl9PgogICAgICAgICAgICAgICAgICAgIENhbmNlbAogICAgICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICApfQoKICAgICAgICAgICAge3N0ZXAgPT09IDIgJiYgKAogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTQiPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMSI+CiAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0iZm9udC1zZW1pYm9sZCI+UG9zZSBwcm9tcHRzPC9wPgogICAgICAgICAgICAgICAgICA8dWwgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBsaXN0LWRpc2MgcGwtNSI+CiAgICAgICAgICAgICAgICAgICAgPGxpPntwb3NlQX08L2xpPgogICAgICAgICAgICAgICAgICAgIDxsaT57cG9zZUJ9PC9saT4KICAgICAgICAgICAgICAgICAgPC91bD4KICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTIiPgogICAgICAgICAgICAgICAgICA8aW5wdXQKICAgICAgICAgICAgICAgICAgICB0eXBlPSJmaWxlIgogICAgICAgICAgICAgICAgICAgIGFjY2VwdD0iaW1hZ2UvKiIKICAgICAgICAgICAgICAgICAgICBtdWx0aXBsZQogICAgICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXsoZSkgPT4gb25QaWNrRmlsZXMoZS50YXJnZXQuZmlsZXMpfQogICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj5VcGxvYWQgMuKAkzMgcGhvdG9zIChtYXggMykuPC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAge3VwbG9hZHMubGVuZ3RoID4gMCAmJiAoCiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJncmlkIGdyaWQtY29scy0zIGdhcC0yIj4KICAgICAgICAgICAgICAgICAgICB7dXBsb2Fkcy5tYXAoKHUsIGlkeCkgPT4gKAogICAgICAgICAgICAgICAgICAgICAgPGRpdiBrZXk9e2lkeH0gY2xhc3NOYW1lPSJzcGFjZS15LTEiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYXNwZWN0LXNxdWFyZSBvdmVyZmxvdy1oaWRkZW4gcm91bmRlZC1tZCBib3JkZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPXt1LnVybH0gYWx0PXt1LnBvc2V9IGNsYXNzTmFtZT0iaC1mdWxsIHctZnVsbCBvYmplY3QtY292ZXIiIC8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteHMgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIHRydW5jYXRlIj57dS5wb3NlfTwvcD4KICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICkpfQogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICl9CgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZ2FwLTIiPgogICAgICAgICAgICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9e3N1Ym1pdH0gZGlzYWJsZWQ9e3N1Ym1pdHRpbmcgfHwgdXBsb2Fkcy5sZW5ndGggPCAyfT4KICAgICAgICAgICAgICAgICAgICB7c3VibWl0dGluZyA/ICJTdWJtaXR0aW5n4oCmIiA6ICJTdWJtaXQifQogICAgICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgICAgICAgPEJ1dHRvbiB2YXJpYW50PSJvdXRsaW5lIiBvbkNsaWNrPXsoKSA9PiBuYXZpZ2F0ZSgtMSl9IGRpc2FibGVkPXtzdWJtaXR0aW5nfT4KICAgICAgICAgICAgICAgICAgICBCYWNrCiAgICAgICAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICl9CgogICAgICAgICAgICB7c3RlcCA9PT0gMyAmJiAoCiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMyI+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9ImZvbnQtc2VtaWJvbGQiPlN1Ym1pdHRlZDwvcD4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgICAgICAgICBZb3VyIHZlcmlmaWNhdGlvbiBpcyB1bmRlciByZXZpZXcuIFdl4oCZbGwgdXBkYXRlIHlvdXIgc3RhdHVzIGluIFByb2ZpbGUgc2V0dGluZ3MuCiAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9eygpID0+IG5hdmlnYXRlKCIvcHJvZmlsZS1zZXR1cCIpfT5CYWNrIHRvIHByb2ZpbGU8L0J1dHRvbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgKX0KICAgICAgICAgIDwvQ2FyZENvbnRlbnQ+CiAgICAgICAgPC9DYXJkPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K"}
+import { useMemo, useState } from "react";
+import { useAuth } from "@/contexts/AuthContext";
+import { useNavigate } from "react-router-dom";
+import { useMutation } from "convex/react";
+import { api } from "../../convex/_generated/api";
+import { toast } from "sonner";
+
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+import { Progress } from "@/components/ui/progress";
+
+const poses = ["Look left", "Look right", "Smile", "Thumbs up"];
+
+function readAsDataUrl(file: File) {
+  return new Promise<string>((resolve, reject) => {
+    const reader = new FileReader();
+    reader.onerror = () => reject(new Error("Failed to read file"));
+    reader.onload = () => resolve(String(reader.result || ""));
+    reader.readAsDataURL(file);
+  });
+}
+
+export default function PhotoVerification() {
+  const navigate = useNavigate();
+  const { user } = useAuth();
+  const userId = user?._id as string | undefined;
+
+  const submitVerification = useMutation(api.verification.submitVerification);
+
+  const [step, setStep] = useState<1 | 2 | 3>(1);
+  const [poseA] = useState(() => poses[Math.floor(Math.random() * poses.length)]);
+  const [poseB] = useState(() => poses[Math.floor(Math.random() * poses.length)]);
+  const [uploads, setUploads] = useState<{ pose: string; url: string }[]>([]);
+  const [submitting, setSubmitting] = useState(false);
+
+  const progress = useMemo(() => (step / 3) * 100, [step]);
+
+  const onPickFiles = async (files: FileList | null) => {
+    if (!files) return;
+    const picked = Array.from(files).slice(0, 3);
+    try {
+      const urls = await Promise.all(picked.map(readAsDataUrl));
+      const next: { pose: string; url: string }[] = [];
+      if (urls[0]) next.push({ pose: poseA, url: urls[0] });
+      if (urls[1]) next.push({ pose: poseB, url: urls[1] });
+      if (urls[2]) next.push({ pose: "Extra", url: urls[2] });
+      setUploads(next);
+    } catch {
+      toast.error("Failed to read selected photos");
+    }
+  };
+
+  const submit = async () => {
+    if (!userId) {
+      toast.error("Please log in again");
+      navigate("/login");
+      return;
+    }
+    if (uploads.length < 2) {
+      toast.error("Please upload at least 2 photos");
+      return;
+    }
+
+    setSubmitting(true);
+    try {
+      await submitVerification({
+        userId: userId as any,
+        photos: uploads.map((u) => ({ url: u.url, pose: u.pose })),
+      } as any);
+      setStep(3);
+    } catch (error: any) {
+      toast.error(error?.message || "Failed to submit verification");
+    } finally {
+      setSubmitting(false);
+    }
+  };
+
+  return (
+    <div className="min-h-screen bg-background pb-20">
+      <div className="container mx-auto px-2 sm:px-3 md:px-4 py-3 sm:py-4 md:py-6 max-w-2xl">
+        <Card>
+          <CardHeader>
+            <CardTitle>Photo verification</CardTitle>
+            <CardDescription>Verify your profile to build trust and improve visibility.</CardDescription>
+            <Progress value={progress} className="mt-4" />
+          </CardHeader>
+          <CardContent className="space-y-6">
+            {step === 1 && (
+              <div className="space-y-3">
+                <p className="text-sm text-muted-foreground">
+                  You’ll upload 2 selfies following simple pose prompts. Your submission will be reviewed.
+                </p>
+                <div className="flex gap-2">
+                  <Button onClick={() => setStep(2)}>Start</Button>
+                  <Button variant="outline" onClick={() => navigate(-1)}>
+                    Cancel
+                  </Button>
+                </div>
+              </div>
+            )}
+
+            {step === 2 && (
+              <div className="space-y-4">
+                <div className="space-y-1">
+                  <p className="font-semibold">Pose prompts</p>
+                  <ul className="text-sm text-muted-foreground list-disc pl-5">
+                    <li>{poseA}</li>
+                    <li>{poseB}</li>
+                  </ul>
+                </div>
+
+                <div className="space-y-2">
+                  <input
+                    type="file"
+                    accept="image/*"
+                    multiple
+                    onChange={(e) => onPickFiles(e.target.files)}
+                  />
+                  <p className="text-xs text-muted-foreground">Upload 2–3 photos (max 3).</p>
+                </div>
+
+                {uploads.length > 0 && (
+                  <div className="grid grid-cols-3 gap-2">
+                    {uploads.map((u, idx) => (
+                      <div key={idx} className="space-y-1">
+                        <div className="aspect-square overflow-hidden rounded-md border">
+                          <img src={u.url} alt={u.pose} className="h-full w-full object-cover" />
+                        </div>
+                        <p className="text-xs text-muted-foreground truncate">{u.pose}</p>
+                      </div>
+                    ))}
+                  </div>
+                )}
+
+                <div className="flex gap-2">
+                  <Button onClick={submit} disabled={submitting || uploads.length < 2}>
+                    {submitting ? "Submitting…" : "Submit"}
+                  </Button>
+                  <Button variant="outline" onClick={() => navigate(-1)} disabled={submitting}>
+                    Back
+                  </Button>
+                </div>
+              </div>
+            )}
+
+            {step === 3 && (
+              <div className="space-y-3">
+                <p className="font-semibold">Submitted</p>
+                <p className="text-sm text-muted-foreground">
+                  Your verification is under review. We’ll update your status in Profile settings.
+                </p>
+                <Button onClick={() => navigate("/profile-setup")}>Back to profile</Button>
+              </div>
+            )}
+          </CardContent>
+        </Card>
+      </div>
+    </div>
+  );
+}

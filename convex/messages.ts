@@ -87,24 +87,49 @@ export const sendMessage = mutation({
 
     const messageType = args.type ?? "text";
     const premium = await isUserPremium(ctx, args.senderId);
+    const now = Date.now();
 
     // Access check: user needs premium, active trial, or daily unlock to send messages
     if (!premium) {
       const sender = await ctx.db.get(args.senderId);
-      const now = Date.now();
       const inTrial = sender?.freeTrialEndsAt && sender.freeTrialEndsAt > now;
       const hasDailyUnlock = sender?.dailyUnlockEndsAt && sender.dailyUnlockEndsAt > now;
-      if (!inTrial && !hasDailyUnlock) {
-        throw new Error(
-          "Your free trial has expired. Upgrade to Premium (KES 100/week) or pay KES 10 for 24-hour access to continue messaging."
-        );
+      if (inTrial || hasDailyUnlock) {
+        // Full access during trial or daily unlock — no message limit
+      } else {
+        // Restricted user: enforce 20 messages/day limit
+        const DAILY_MESSAGE_LIMIT = 20;
+        const d = new Date(now);
+        const dayKey = `${d.getUTCFullYear()}-${String(d.getUTCMonth() + 1).padStart(2, '0')}-${String(d.getUTCDate()).padStart(2, '0')}`;
+        const usage = await ctx.db
+          .query("dailyUsage")
+          .withIndex("userDay", (q) => q.eq("userId", args.senderId).eq("dayKey", dayKey))
+          .first();
+        const currentMessages = usage?.messages ?? 0;
+        if (currentMessages >= DAILY_MESSAGE_LIMIT) {
+          throw new Error(
+            `DAILY_MESSAGE_LIMIT_REACHED:${currentMessages}:${DAILY_MESSAGE_LIMIT}:Your free trial has expired and you've reached the daily limit of ${DAILY_MESSAGE_LIMIT} messages. Upgrade to Premium (KES 100/week) or pay KES 10 for 24-hour unlimited access.`
+          );
+        }
+        // Increment message count
+        if (usage) {
+          await ctx.db.patch(usage._id, { messages: currentMessages + 1, updatedAt: now });
+        } else {
+          await ctx.db.insert("dailyUsage", {
+            userId: args.senderId,
+            dayKey,
+            likes: 0,
+            superLikes: 0,
+            messages: 1,
+            updatedAt: now,
+          });
+        }
       }
     }
 
     const receiverId = match.user1Id === args.senderId ? match.user2Id : match.user1Id;
 
     // Create message
-    const now = Date.now();
     const messageId = await ctx.db.insert("messages", {
       matchId: match._id,
       senderId: args.senderId,

@@ -1,1 +1,107 @@
-{"data":"aW1wb3J0IHsgSGVhcnQsIEluZmluaXR5IH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKaW1wb3J0IHsgQmFkZ2UgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvYmFkZ2UiOwppbXBvcnQgeyBjbiB9IGZyb20gIkAvbGliL3V0aWxzIjsKCmludGVyZmFjZSBMaWtlQ291bnRlclByb3BzIHsKICB1c2VkOiBudW1iZXI7CiAgbGltaXQ6IG51bWJlcjsKICBpc1ByZW1pdW06IGJvb2xlYW47CiAgY2xhc3NOYW1lPzogc3RyaW5nOwp9CgpleHBvcnQgZnVuY3Rpb24gTGlrZUNvdW50ZXIoeyB1c2VkLCBsaW1pdCwgaXNQcmVtaXVtLCBjbGFzc05hbWUgfTogTGlrZUNvdW50ZXJQcm9wcykgewogIGNvbnN0IHJlbWFpbmluZyA9IGxpbWl0IC0gdXNlZDsKICBjb25zdCBwZXJjZW50YWdlID0gKHVzZWQgLyBsaW1pdCkgKiAxMDA7CiAgCiAgLy8gRGV0ZXJtaW5lIGNvbG9yIGJhc2VkIG9uIHJlbWFpbmluZyBsaWtlcwogIGNvbnN0IGdldENvbG9yQ2xhc3MgPSAoKSA9PiB7CiAgICBpZiAoaXNQcmVtaXVtKSByZXR1cm4gImJnLWdyYWRpZW50LXRvLXIgZnJvbS1wdXJwbGUtNTAwIHRvLXBpbmstNTAwIjsKICAgIGlmIChyZW1haW5pbmcgPD0gMCkgcmV0dXJuICJiZy1yZWQtNTAwIjsKICAgIGlmIChyZW1haW5pbmcgPD0gNSkgcmV0dXJuICJiZy1vcmFuZ2UtNTAwIjsKICAgIGlmIChyZW1haW5pbmcgPD0gMTApIHJldHVybiAiYmcteWVsbG93LTUwMCI7CiAgICByZXR1cm4gImJnLWdyZWVuLTUwMCI7CiAgfTsKCiAgY29uc3Qgc2hvdWxkQW5pbWF0ZSA9IHJlbWFpbmluZyA8PSA1ICYmICFpc1ByZW1pdW07CgogIHJldHVybiAoCiAgICA8QmFkZ2UKICAgICAgdmFyaWFudD0ic2Vjb25kYXJ5IgogICAgICBjbGFzc05hbWU9e2NuKAogICAgICAgICJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiB0ZXh0LXdoaXRlIGJvcmRlci0wIHB4LTMgcHktMS41IiwKICAgICAgICBnZXRDb2xvckNsYXNzKCksCiAgICAgICAgc2hvdWxkQW5pbWF0ZSAmJiAiYW5pbWF0ZS1wdWxzZSIsCiAgICAgICAgY2xhc3NOYW1lCiAgICAgICl9CiAgICA+CiAgICAgIHtpc1ByZW1pdW0gPyAoCiAgICAgICAgPD4KICAgICAgICAgIDxJbmZpbml0eSBjbGFzc05hbWU9ImgtNCB3LTQiIC8+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImZvbnQtc2VtaWJvbGQiPlVubGltaXRlZCBMaWtlczwvc3Bhbj4KICAgICAgICA8Lz4KICAgICAgKSA6ICgKICAgICAgICA8PgogICAgICAgICAgPEhlYXJ0IGNsYXNzTmFtZT0iaC00IHctNCIgZmlsbD0iY3VycmVudENvbG9yIiAvPgogICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJmb250LXNlbWlib2xkIj4KICAgICAgICAgICAge3JlbWFpbmluZ30ge3JlbWFpbmluZyA9PT0gMSA/ICJsaWtlIiA6ICJsaWtlcyJ9IGxlZnQgdG9kYXkKICAgICAgICAgIDwvc3Bhbj4KICAgICAgICA8Lz4KICAgICAgKX0KICAgIDwvQmFkZ2U+CiAgKTsKfQoKaW50ZXJmYWNlIExpa2VDb3VudGVyUHJvZ3Jlc3NQcm9wcyB7CiAgdXNlZDogbnVtYmVyOwogIGxpbWl0OiBudW1iZXI7CiAgaXNQcmVtaXVtOiBib29sZWFuOwp9CgpleHBvcnQgZnVuY3Rpb24gTGlrZUNvdW50ZXJQcm9ncmVzcyh7IHVzZWQsIGxpbWl0LCBpc1ByZW1pdW0gfTogTGlrZUNvdW50ZXJQcm9ncmVzc1Byb3BzKSB7CiAgaWYgKGlzUHJlbWl1bSkgewogICAgcmV0dXJuICgKICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIGdhcC0yIHAtMyBiZy1ncmFkaWVudC10by1yIGZyb20tcHVycGxlLTUwMC8xMCB0by1waW5rLTUwMC8xMCByb3VuZGVkLWxnIGJvcmRlciBib3JkZXItcHVycGxlLTUwMC8yMCI+CiAgICAgICAgPEluZmluaXR5IGNsYXNzTmFtZT0iaC01IHctNSB0ZXh0LXB1cnBsZS01MDAiIC8+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtbWVkaXVtIHRleHQtcHVycGxlLTcwMCBkYXJrOnRleHQtcHVycGxlLTMwMCI+CiAgICAgICAgICBVbmxpbWl0ZWQgTGlrZXMKICAgICAgICA8L3NwYW4+CiAgICAgIDwvZGl2PgogICAgKTsKICB9CgogIGNvbnN0IHJlbWFpbmluZyA9IGxpbWl0IC0gdXNlZDsKICBjb25zdCBwZXJjZW50YWdlID0gKHVzZWQgLyBsaW1pdCkgKiAxMDA7CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0yIj4KICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiB0ZXh0LXNtIj4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+RGFpbHkgTGlrZXM8L3NwYW4+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJmb250LXNlbWlib2xkIj4KICAgICAgICAgIHt1c2VkfS97bGltaXR9CiAgICAgICAgPC9zcGFuPgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzc05hbWU9InJlbGF0aXZlIHctZnVsbCBoLTIgYmctc2Vjb25kYXJ5IHJvdW5kZWQtZnVsbCBvdmVyZmxvdy1oaWRkZW4iPgogICAgICAgIDxkaXYKICAgICAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgICAgICJhYnNvbHV0ZSB0b3AtMCBsZWZ0LTAgaC1mdWxsIHRyYW5zaXRpb24tYWxsIGR1cmF0aW9uLTMwMCIsCiAgICAgICAgICAgIHJlbWFpbmluZyA8PSAwICYmICJiZy1yZWQtNTAwIiwKICAgICAgICAgICAgcmVtYWluaW5nID4gMCAmJiByZW1haW5pbmcgPD0gNSAmJiAiYmctb3JhbmdlLTUwMCIsCiAgICAgICAgICAgIHJlbWFpbmluZyA+IDUgJiYgcmVtYWluaW5nIDw9IDEwICYmICJiZy15ZWxsb3ctNTAwIiwKICAgICAgICAgICAgcmVtYWluaW5nID4gMTAgJiYgImJnLWdyZWVuLTUwMCIKICAgICAgICAgICl9CiAgICAgICAgICBzdHlsZT17eyB3aWR0aDogYCR7TWF0aC5taW4ocGVyY2VudGFnZSwgMTAwKX0lYCB9fQogICAgICAgIC8+CiAgICAgIDwvZGl2PgogICAgICB7cmVtYWluaW5nIDw9IDUgJiYgcmVtYWluaW5nID4gMCAmJiAoCiAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXhzIHRleHQtb3JhbmdlLTYwMCBkYXJrOnRleHQtb3JhbmdlLTQwMCBmb250LW1lZGl1bSI+CiAgICAgICAgICBPbmx5IHtyZW1haW5pbmd9IHtyZW1haW5pbmcgPT09IDEgPyAibGlrZSIgOiAibGlrZXMifSByZW1haW5pbmcgdG9kYXkhCiAgICAgICAgPC9wPgogICAgICApfQogICAgICB7cmVtYWluaW5nIDw9IDAgJiYgKAogICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LXJlZC02MDAgZGFyazp0ZXh0LXJlZC00MDAgZm9udC1tZWRpdW0iPgogICAgICAgICAgRGFpbHkgbGltaXQgcmVhY2hlZC4gUmVzZXRzIGF0IG1pZG5pZ2h0IG9yIHVwZ3JhZGUgdG8gUHJlbWl1bSEKICAgICAgICA8L3A+CiAgICAgICl9CiAgICA8L2Rpdj4KICApOwp9Cg=="}
+import { Heart, Infinity } from "lucide-react";
+import { Badge } from "@/components/ui/badge";
+import { cn } from "@/lib/utils";
+
+interface LikeCounterProps {
+  used: number;
+  limit: number;
+  isPremium: boolean;
+  className?: string;
+}
+
+export function LikeCounter({ used, limit, isPremium, className }: LikeCounterProps) {
+  const remaining = limit - used;
+  const percentage = (used / limit) * 100;
+  
+  // Determine color based on remaining likes
+  const getColorClass = () => {
+    if (isPremium) return "bg-gradient-to-r from-purple-500 to-pink-500";
+    if (remaining <= 0) return "bg-red-500";
+    if (remaining <= 5) return "bg-orange-500";
+    if (remaining <= 10) return "bg-yellow-500";
+    return "bg-green-500";
+  };
+
+  const shouldAnimate = remaining <= 5 && !isPremium;
+
+  return (
+    <Badge
+      variant="secondary"
+      className={cn(
+        "flex items-center gap-2 text-white border-0 px-3 py-1.5",
+        getColorClass(),
+        shouldAnimate && "animate-pulse",
+        className
+      )}
+    >
+      {isPremium ? (
+        <>
+          <Infinity className="h-4 w-4" />
+          <span className="font-semibold">Unlimited Likes</span>
+        </>
+      ) : (
+        <>
+          <Heart className="h-4 w-4" fill="currentColor" />
+          <span className="font-semibold">
+            {remaining} {remaining === 1 ? "like" : "likes"} left today
+          </span>
+        </>
+      )}
+    </Badge>
+  );
+}
+
+interface LikeCounterProgressProps {
+  used: number;
+  limit: number;
+  isPremium: boolean;
+}
+
+export function LikeCounterProgress({ used, limit, isPremium }: LikeCounterProgressProps) {
+  if (isPremium) {
+    return (
+      <div className="flex items-center justify-center gap-2 p-3 bg-gradient-to-r from-purple-500/10 to-pink-500/10 rounded-lg border border-purple-500/20">
+        <Infinity className="h-5 w-5 text-purple-500" />
+        <span className="text-sm font-medium text-purple-700 dark:text-purple-300">
+          Unlimited Likes
+        </span>
+      </div>
+    );
+  }
+
+  const remaining = limit - used;
+  const percentage = (used / limit) * 100;
+
+  return (
+    <div className="space-y-2">
+      <div className="flex items-center justify-between text-sm">
+        <span className="text-muted-foreground">Daily Likes</span>
+        <span className="font-semibold">
+          {used}/{limit}
+        </span>
+      </div>
+      <div className="relative w-full h-2 bg-secondary rounded-full overflow-hidden">
+        <div
+          className={cn(
+            "absolute top-0 left-0 h-full transition-all duration-300",
+            remaining <= 0 && "bg-red-500",
+            remaining > 0 && remaining <= 5 && "bg-orange-500",
+            remaining > 5 && remaining <= 10 && "bg-yellow-500",
+            remaining > 10 && "bg-green-500"
+          )}
+          style={{ width: `${Math.min(percentage, 100)}%` }}
+        />
+      </div>
+      {remaining <= 5 && remaining > 0 && (
+        <p className="text-xs text-orange-600 dark:text-orange-400 font-medium">
+          Only {remaining} {remaining === 1 ? "like" : "likes"} remaining today!
+        </p>
+      )}
+      {remaining <= 0 && (
+        <p className="text-xs text-red-600 dark:text-red-400 font-medium">
+          Daily limit reached. Resets at midnight or upgrade to Premium!
+        </p>
+      )}
+    </div>
+  );
+}

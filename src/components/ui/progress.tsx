@@ -1,1 +1,27 @@
-{"data":"aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAicmVhY3QiOwppbXBvcnQgKiBhcyBQcm9ncmVzc1ByaW1pdGl2ZSBmcm9tICJAcmFkaXgtdWkvcmVhY3QtcHJvZ3Jlc3MiOwoKaW1wb3J0IHsgY24gfSBmcm9tICJAL2xpYi91dGlscyI7CgppbnRlcmZhY2UgUHJvZ3Jlc3NQcm9wcyBleHRlbmRzIFJlYWN0LkNvbXBvbmVudFByb3BzV2l0aG91dFJlZjx0eXBlb2YgUHJvZ3Jlc3NQcmltaXRpdmUuUm9vdD4gewogIGluZGljYXRvckNsYXNzTmFtZT86IHN0cmluZzsKfQoKY29uc3QgUHJvZ3Jlc3MgPSBSZWFjdC5mb3J3YXJkUmVmPAogIFJlYWN0LkVsZW1lbnRSZWY8dHlwZW9mIFByb2dyZXNzUHJpbWl0aXZlLlJvb3Q+LAogIFByb2dyZXNzUHJvcHMKPigoeyBjbGFzc05hbWUsIHZhbHVlLCBpbmRpY2F0b3JDbGFzc05hbWUsIC4uLnByb3BzIH0sIHJlZikgPT4gKAogIDxQcm9ncmVzc1ByaW1pdGl2ZS5Sb290CiAgICByZWY9e3JlZn0KICAgIGNsYXNzTmFtZT17Y24oInJlbGF0aXZlIGgtNCB3LWZ1bGwgb3ZlcmZsb3ctaGlkZGVuIHJvdW5kZWQtZnVsbCBiZy1zZWNvbmRhcnkiLCBjbGFzc05hbWUpfQogICAgey4uLnByb3BzfQogID4KICAgIDxQcm9ncmVzc1ByaW1pdGl2ZS5JbmRpY2F0b3IKICAgICAgY2xhc3NOYW1lPXtjbigiaC1mdWxsIHctZnVsbCBmbGV4LTEgYmctcHJpbWFyeSB0cmFuc2l0aW9uLWFsbCIsIGluZGljYXRvckNsYXNzTmFtZSl9CiAgICAgIHN0eWxlPXt7IHRyYW5zZm9ybTogYHRyYW5zbGF0ZVgoLSR7MTAwIC0gKHZhbHVlIHx8IDApfSUpYCB9fQogICAgLz4KICA8L1Byb2dyZXNzUHJpbWl0aXZlLlJvb3Q+CikpOwpQcm9ncmVzcy5kaXNwbGF5TmFtZSA9IFByb2dyZXNzUHJpbWl0aXZlLlJvb3QuZGlzcGxheU5hbWU7CgpleHBvcnQgeyBQcm9ncmVzcyB9Owo="}
+import * as React from "react";
+import * as ProgressPrimitive from "@radix-ui/react-progress";
+
+import { cn } from "@/lib/utils";
+
+interface ProgressProps extends React.ComponentPropsWithoutRef<typeof ProgressPrimitive.Root> {
+  indicatorClassName?: string;
+}
+
+const Progress = React.forwardRef<
+  React.ElementRef<typeof ProgressPrimitive.Root>,
+  ProgressProps
+>(({ className, value, indicatorClassName, ...props }, ref) => (
+  <ProgressPrimitive.Root
+    ref={ref}
+    className={cn("relative h-4 w-full overflow-hidden rounded-full bg-secondary", className)}
+    {...props}
+  >
+    <ProgressPrimitive.Indicator
+      className={cn("h-full w-full flex-1 bg-primary transition-all", indicatorClassName)}
+      style={{ transform: `translateX(-${100 - (value || 0)}%)` }}
+    />
+  </ProgressPrimitive.Root>
+));
+Progress.displayName = ProgressPrimitive.Root.displayName;
+
+export { Progress };

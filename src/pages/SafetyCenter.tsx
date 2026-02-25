@@ -1,1 +1,118 @@
-{"data":"aW1wb3J0IHsgTGluayB9IGZyb20gInJlYWN0LXJvdXRlci1kb20iOwppbXBvcnQgeyBDYXJkLCBDYXJkQ29udGVudCwgQ2FyZERlc2NyaXB0aW9uLCBDYXJkSGVhZGVyLCBDYXJkVGl0bGUgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvY2FyZCI7CmltcG9ydCB7IEJ1dHRvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS9idXR0b24iOwppbXBvcnQgeyBBbGVydFRyaWFuZ2xlLCBFeWUsIEhlYXJ0LCBMb2NrLCBQaG9uZSwgU2hpZWxkIH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKCmNvbnN0IFNhZmV0eUNlbnRlciA9ICgpID0+IHsKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9Im1pbi1oLXNjcmVlbiBiZy1iYWNrZ3JvdW5kIj4KICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbnRhaW5lciBteC1hdXRvIHB4LTIgc206cHgtMyBtZDpweC00IHB5LTQgc206cHktNiBtZDpweS04IG1heC13LTR4bCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiBnYXAtMyBtYi02Ij4KICAgICAgICAgIDxMaW5rIHRvPSIvIj4KICAgICAgICAgICAgPEJ1dHRvbiB2YXJpYW50PSJnaG9zdCI+QmFjayB0byBIb21lPC9CdXR0b24+CiAgICAgICAgICA8L0xpbms+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBnYXAtMiI+CiAgICAgICAgICAgIDxMaW5rIHRvPSIvcmVwb3J0Ij48QnV0dG9uIHZhcmlhbnQ9Im91dGxpbmUiPlJlcG9ydCBhIFByb2JsZW08L0J1dHRvbj48L0xpbms+CiAgICAgICAgICAgIDxMaW5rIHRvPSIvZ3VpZGVsaW5lcyI+PEJ1dHRvbj5Db21tdW5pdHkgR3VpZGVsaW5lczwvQnV0dG9uPjwvTGluaz4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWItOCB0ZXh0LWNlbnRlciI+CiAgICAgICAgICA8U2hpZWxkIGNsYXNzTmFtZT0idy0xNCBoLTE0IG14LWF1dG8gdGV4dC1wcmltYXJ5IG1iLTMiIC8+CiAgICAgICAgICA8aDEgY2xhc3NOYW1lPSJ0ZXh0LTN4bCBmb250LWJvbGQiPlNhZmV0eSBDZW50ZXI8L2gxPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LW11dGVkLWZvcmVncm91bmQgbXQtMiI+CiAgICAgICAgICAgIFByYWN0aWNhbCBndWlkYW5jZSB0byBoZWxwIHlvdSBzdGF5IHNhZmXigJRvbmxpbmUgYW5kIGluIHBlcnNvbi4KICAgICAgICAgIDwvcD4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktNiI+CiAgICAgICAgICA8Q2FyZD4KICAgICAgICAgICAgPENhcmRIZWFkZXI+CiAgICAgICAgICAgICAgPENhcmRUaXRsZSBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIj4KICAgICAgICAgICAgICAgIDxIZWFydCBjbGFzc05hbWU9InctNSBoLTUgdGV4dC1wcmltYXJ5IiAvPgogICAgICAgICAgICAgICAgTWVldGluZyBTYWZlbHkKICAgICAgICAgICAgICA8L0NhcmRUaXRsZT4KICAgICAgICAgICAgICA8Q2FyZERlc2NyaXB0aW9uPlRpcHMgZm9yIHNhZmUgaW7igJFwZXJzb24gbWVldGluZ3M8L0NhcmREZXNjcmlwdGlvbj4KICAgICAgICAgICAgPC9DYXJkSGVhZGVyPgogICAgICAgICAgICA8Q2FyZENvbnRlbnQgY2xhc3NOYW1lPSJzcGFjZS15LTMgdGV4dC1zbSI+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LW11dGVkLWZvcmVncm91bmQiPkZvciBmaXJzdCBkYXRlcywga2VlcCBpdCBzaW1wbGUgYW5kIHB1YmxpYy48L3A+CiAgICAgICAgICAgICAgPHVsIGNsYXNzTmFtZT0ibGlzdC1kaXNjIHBsLTYgc3BhY2UteS0yIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+CiAgICAgICAgICAgICAgICA8bGk+TWVldCBpbiBhIHB1YmxpYyBwbGFjZSBhbmQgdGVsbCBhIGZyaWVuZCB3aGVyZSB5b3XigJlyZSBnb2luZy48L2xpPgogICAgICAgICAgICAgICAgPGxpPkFycmFuZ2UgeW91ciBvd24gdHJhbnNwb3J0IGFuZCBrZWVwIHlvdXIgcGhvbmUgY2hhcmdlZC48L2xpPgogICAgICAgICAgICAgICAgPGxpPlRydXN0IHlvdXIgaW5zdGluY3Rz4oCUbGVhdmUgaWYgYW55dGhpbmcgZmVlbHMgb2ZmLjwvbGk+CiAgICAgICAgICAgICAgPC91bD4KICAgICAgICAgICAgPC9DYXJkQ29udGVudD4KICAgICAgICAgIDwvQ2FyZD4KCiAgICAgICAgICA8Q2FyZD4KICAgICAgICAgICAgPENhcmRIZWFkZXI+CiAgICAgICAgICAgICAgPENhcmRUaXRsZSBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIj4KICAgICAgICAgICAgICAgIDxMb2NrIGNsYXNzTmFtZT0idy01IGgtNSB0ZXh0LXByaW1hcnkiIC8+CiAgICAgICAgICAgICAgICBQcm90ZWN0aW5nIFBlcnNvbmFsIEluZm9ybWF0aW9uCiAgICAgICAgICAgICAgPC9DYXJkVGl0bGU+CiAgICAgICAgICAgICAgPENhcmREZXNjcmlwdGlvbj5LZWVwIHlvdXIgZGF0YSBzZWN1cmU8L0NhcmREZXNjcmlwdGlvbj4KICAgICAgICAgICAgPC9DYXJkSGVhZGVyPgogICAgICAgICAgICA8Q2FyZENvbnRlbnQgY2xhc3NOYW1lPSJzcGFjZS15LTMgdGV4dC1zbSI+CiAgICAgICAgICAgICAgPHVsIGNsYXNzTmFtZT0ibGlzdC1kaXNjIHBsLTYgc3BhY2UteS0yIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+CiAgICAgICAgICAgICAgICA8bGk+RG9u4oCZdCBzaGFyZSB5b3VyIGhvbWUgYWRkcmVzcywgd29ya3BsYWNlLCBvciBmaW5hbmNpYWwgZGV0YWlscy48L2xpPgogICAgICAgICAgICAgICAgPGxpPkJlIGNhdXRpb3VzIGFib3V0IHNoYXJpbmcgeW91ciBwaG9uZSBudW1iZXIgdG9vIGVhcmx5LjwvbGk+CiAgICAgICAgICAgICAgICA8bGk+V2F0Y2ggb3V0IGZvciBhbnlvbmUgYXNraW5nIGZvciBtb25leSBvciDigJxoZWxw4oCdIHdpdGggcGF5bWVudHMuPC9saT4KICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICA8L0NhcmRDb250ZW50PgogICAgICAgICAgPC9DYXJkPgoKICAgICAgICAgIDxDYXJkPgogICAgICAgICAgICA8Q2FyZEhlYWRlcj4KICAgICAgICAgICAgICA8Q2FyZFRpdGxlIGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIiPgogICAgICAgICAgICAgICAgPEFsZXJ0VHJpYW5nbGUgY2xhc3NOYW1lPSJ3LTUgaC01IHRleHQtcHJpbWFyeSIgLz4KICAgICAgICAgICAgICAgIFJlY29nbml6aW5nIFJlZCBGbGFncwogICAgICAgICAgICAgIDwvQ2FyZFRpdGxlPgogICAgICAgICAgICAgIDxDYXJkRGVzY3JpcHRpb24+V2FybmluZyBzaWducyB0byB3YXRjaCBvdXQgZm9yPC9DYXJkRGVzY3JpcHRpb24+CiAgICAgICAgICAgIDwvQ2FyZEhlYWRlcj4KICAgICAgICAgICAgPENhcmRDb250ZW50IGNsYXNzTmFtZT0ic3BhY2UteS0zIHRleHQtc20iPgogICAgICAgICAgICAgIDx1bCBjbGFzc05hbWU9Imxpc3QtZGlzYyBwbC02IHNwYWNlLXktMiB0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgICAgICAgPGxpPlByZXNzdXJlIHRvIG1vdmUgb2ZmLXBsYXRmb3JtIHF1aWNrbHkuPC9saT4KICAgICAgICAgICAgICAgIDxsaT5SZXF1ZXN0cyBmb3IgbW9uZXksIGdpZnRzLCBvciDigJxlbWVyZ2VuY3nigJ0gaGVscC48L2xpPgogICAgICAgICAgICAgICAgPGxpPkluY29uc2lzdGVudCBzdG9yaWVzIG9yIHJlZnVzYWwgdG8gbWVldCBpbiBzYWZlLCBwdWJsaWMgcGxhY2VzLjwvbGk+CiAgICAgICAgICAgICAgPC91bD4KICAgICAgICAgICAgPC9DYXJkQ29udGVudD4KICAgICAgICAgIDwvQ2FyZD4KCiAgICAgICAgICA8Q2FyZD4KICAgICAgICAgICAgPENhcmRIZWFkZXI+CiAgICAgICAgICAgICAgPENhcmRUaXRsZSBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIj4KICAgICAgICAgICAgICAgIDxFeWUgY2xhc3NOYW1lPSJ3LTUgaC01IHRleHQtcHJpbWFyeSIgLz4KICAgICAgICAgICAgICAgIFJlcG9ydGluZwogICAgICAgICAgICAgIDwvQ2FyZFRpdGxlPgogICAgICAgICAgICAgIDxDYXJkRGVzY3JpcHRpb24+SGVscCBrZWVwIHRoZSBjb21tdW5pdHkgc2FmZTwvQ2FyZERlc2NyaXB0aW9uPgogICAgICAgICAgICA8L0NhcmRIZWFkZXI+CiAgICAgICAgICAgIDxDYXJkQ29udGVudCBjbGFzc05hbWU9InNwYWNlLXktMyB0ZXh0LXNtIj4KICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtbXV0ZWQtZm9yZWdyb3VuZCI+CiAgICAgICAgICAgICAgICBJZiB5b3Ugc2VlIGhhcmFzc21lbnQsIHNjYW1zLCBvciB0aHJlYXRlbmluZyBiZWhhdmlvciwgcmVwb3J0IGl0LiBSZXBvcnRzIGFyZSBjb25maWRlbnRpYWwuCiAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtd3JhcCBnYXAtMiI+CiAgICAgICAgICAgICAgICA8TGluayB0bz0iL3JlcG9ydCI+PEJ1dHRvbj5SZXBvcnQgYSBQcm9ibGVtPC9CdXR0b24+PC9MaW5rPgogICAgICAgICAgICAgICAgPExpbmsgdG89Ii9jb250YWN0Ij48QnV0dG9uIHZhcmlhbnQ9Im91dGxpbmUiPkNvbnRhY3QgU3VwcG9ydDwvQnV0dG9uPjwvTGluaz4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9DYXJkQ29udGVudD4KICAgICAgICAgIDwvQ2FyZD4KCiAgICAgICAgICA8Q2FyZCBjbGFzc05hbWU9ImJvcmRlci1yZWQtMjAwIGJnLXJlZC01MCI+CiAgICAgICAgICAgIDxDYXJkSGVhZGVyPgogICAgICAgICAgICAgIDxDYXJkVGl0bGUgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiB0ZXh0LXJlZC03MDAiPgogICAgICAgICAgICAgICAgPFBob25lIGNsYXNzTmFtZT0idy01IGgtNSIgLz4KICAgICAgICAgICAgICAgIEVtZXJnZW5jeQogICAgICAgICAgICAgIDwvQ2FyZFRpdGxlPgogICAgICAgICAgICAgIDxDYXJkRGVzY3JpcHRpb24gY2xhc3NOYW1lPSJ0ZXh0LXJlZC03MDAvODAiPklmIHlvdSBhcmUgaW4gaW1tZWRpYXRlIGRhbmdlcjwvQ2FyZERlc2NyaXB0aW9uPgogICAgICAgICAgICA8L0NhcmRIZWFkZXI+CiAgICAgICAgICAgIDxDYXJkQ29udGVudD4KICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1yZWQtNzAwIj5Db250YWN0IGxvY2FsIGVtZXJnZW5jeSBzZXJ2aWNlcyBpbW1lZGlhdGVseS48L3A+CiAgICAgICAgICAgIDwvQ2FyZENvbnRlbnQ+CiAgICAgICAgICA8L0NhcmQ+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfTsKCmV4cG9ydCBkZWZhdWx0IFNhZmV0eUNlbnRlcjsK"}
+import { Link } from "react-router-dom";
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+import { AlertTriangle, Eye, Heart, Lock, Phone, Shield } from "lucide-react";
+
+const SafetyCenter = () => {
+  return (
+    <div className="min-h-screen bg-background">
+      <div className="container mx-auto px-2 sm:px-3 md:px-4 py-4 sm:py-6 md:py-8 max-w-4xl">
+        <div className="flex items-center justify-between gap-3 mb-6">
+          <Link to="/">
+            <Button variant="ghost">Back to Home</Button>
+          </Link>
+          <div className="flex gap-2">
+            <Link to="/report"><Button variant="outline">Report a Problem</Button></Link>
+            <Link to="/guidelines"><Button>Community Guidelines</Button></Link>
+          </div>
+        </div>
+
+        <div className="mb-8 text-center">
+          <Shield className="w-14 h-14 mx-auto text-primary mb-3" />
+          <h1 className="text-3xl font-bold">Safety Center</h1>
+          <p className="text-muted-foreground mt-2">
+            Practical guidance to help you stay safe—online and in person.
+          </p>
+        </div>
+
+        <div className="space-y-6">
+          <Card>
+            <CardHeader>
+              <CardTitle className="flex items-center gap-2">
+                <Heart className="w-5 h-5 text-primary" />
+                Meeting Safely
+              </CardTitle>
+              <CardDescription>Tips for safe in‑person meetings</CardDescription>
+            </CardHeader>
+            <CardContent className="space-y-3 text-sm">
+              <p className="text-muted-foreground">For first dates, keep it simple and public.</p>
+              <ul className="list-disc pl-6 space-y-2 text-muted-foreground">
+                <li>Meet in a public place and tell a friend where you’re going.</li>
+                <li>Arrange your own transport and keep your phone charged.</li>
+                <li>Trust your instincts—leave if anything feels off.</li>
+              </ul>
+            </CardContent>
+          </Card>
+
+          <Card>
+            <CardHeader>
+              <CardTitle className="flex items-center gap-2">
+                <Lock className="w-5 h-5 text-primary" />
+                Protecting Personal Information
+              </CardTitle>
+              <CardDescription>Keep your data secure</CardDescription>
+            </CardHeader>
+            <CardContent className="space-y-3 text-sm">
+              <ul className="list-disc pl-6 space-y-2 text-muted-foreground">
+                <li>Don’t share your home address, workplace, or financial details.</li>
+                <li>Be cautious about sharing your phone number too early.</li>
+                <li>Watch out for anyone asking for money or “help” with payments.</li>
+              </ul>
+            </CardContent>
+          </Card>
+
+          <Card>
+            <CardHeader>
+              <CardTitle className="flex items-center gap-2">
+                <AlertTriangle className="w-5 h-5 text-primary" />
+                Recognizing Red Flags
+              </CardTitle>
+              <CardDescription>Warning signs to watch out for</CardDescription>
+            </CardHeader>
+            <CardContent className="space-y-3 text-sm">
+              <ul className="list-disc pl-6 space-y-2 text-muted-foreground">
+                <li>Pressure to move off-platform quickly.</li>
+                <li>Requests for money, gifts, or “emergency” help.</li>
+                <li>Inconsistent stories or refusal to meet in safe, public places.</li>
+              </ul>
+            </CardContent>
+          </Card>
+
+          <Card>
+            <CardHeader>
+              <CardTitle className="flex items-center gap-2">
+                <Eye className="w-5 h-5 text-primary" />
+                Reporting
+              </CardTitle>
+              <CardDescription>Help keep the community safe</CardDescription>
+            </CardHeader>
+            <CardContent className="space-y-3 text-sm">
+              <p className="text-muted-foreground">
+                If you see harassment, scams, or threatening behavior, report it. Reports are confidential.
+              </p>
+              <div className="flex flex-wrap gap-2">
+                <Link to="/report"><Button>Report a Problem</Button></Link>
+                <Link to="/contact"><Button variant="outline">Contact Support</Button></Link>
+              </div>
+            </CardContent>
+          </Card>
+
+          <Card className="border-red-200 bg-red-50">
+            <CardHeader>
+              <CardTitle className="flex items-center gap-2 text-red-700">
+                <Phone className="w-5 h-5" />
+                Emergency
+              </CardTitle>
+              <CardDescription className="text-red-700/80">If you are in immediate danger</CardDescription>
+            </CardHeader>
+            <CardContent>
+              <p className="text-sm text-red-700">Contact local emergency services immediately.</p>
+            </CardContent>
+          </Card>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default SafetyCenter;

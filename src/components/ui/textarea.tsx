@@ -1,1 +1,21 @@
-{"data":"aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAicmVhY3QiOwoKaW1wb3J0IHsgY24gfSBmcm9tICJAL2xpYi91dGlscyI7CgpleHBvcnQgaW50ZXJmYWNlIFRleHRhcmVhUHJvcHMgZXh0ZW5kcyBSZWFjdC5UZXh0YXJlYUhUTUxBdHRyaWJ1dGVzPEhUTUxUZXh0QXJlYUVsZW1lbnQ+IHt9Cgpjb25zdCBUZXh0YXJlYSA9IFJlYWN0LmZvcndhcmRSZWY8SFRNTFRleHRBcmVhRWxlbWVudCwgVGV4dGFyZWFQcm9wcz4oKHsgY2xhc3NOYW1lLCAuLi5wcm9wcyB9LCByZWYpID0+IHsKICByZXR1cm4gKAogICAgPHRleHRhcmVhCiAgICAgIGNsYXNzTmFtZT17Y24oCiAgICAgICAgImZsZXggbWluLWgtWzYwcHhdIHctZnVsbCByb3VuZGVkLXhsIGJvcmRlciBib3JkZXItd2hpdGUvNDAgZGFyazpib3JkZXItd2hpdGUvMTAgYmctd2hpdGUvNzAgZGFyazpiZy1ibGFjay80MCBweC0zIHB5LTIgdGV4dC14cyByaW5nLW9mZnNldC1iYWNrZ3JvdW5kIHNoYWRvdy1zb2Z0IHBsYWNlaG9sZGVyOnRleHQtbXV0ZWQtZm9yZWdyb3VuZC83MCBmb2N1cy12aXNpYmxlOm91dGxpbmUtbm9uZSBmb2N1cy12aXNpYmxlOnJpbmctMiBmb2N1cy12aXNpYmxlOnJpbmctcmluZyBmb2N1cy12aXNpYmxlOnJpbmctb2Zmc2V0LTIgZGlzYWJsZWQ6Y3Vyc29yLW5vdC1hbGxvd2VkIGRpc2FibGVkOm9wYWNpdHktNTAgYmFja2Ryb3AtYmx1ci1tZCIsCiAgICAgICAgY2xhc3NOYW1lLAogICAgICApfQogICAgICByZWY9e3JlZn0KICAgICAgey4uLnByb3BzfQogICAgLz4KICApOwp9KTsKVGV4dGFyZWEuZGlzcGxheU5hbWUgPSAiVGV4dGFyZWEiOwoKZXhwb3J0IHsgVGV4dGFyZWEgfTsK"}
+import * as React from "react";
+
+import { cn } from "@/lib/utils";
+
+export interface TextareaProps extends React.TextareaHTMLAttributes<HTMLTextAreaElement> {}
+
+const Textarea = React.forwardRef<HTMLTextAreaElement, TextareaProps>(({ className, ...props }, ref) => {
+  return (
+    <textarea
+      className={cn(
+        "flex min-h-[60px] w-full rounded-xl border border-white/40 dark:border-white/10 bg-white/70 dark:bg-black/40 px-3 py-2 text-xs ring-offset-background shadow-soft placeholder:text-muted-foreground/70 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 backdrop-blur-md",
+        className,
+      )}
+      ref={ref}
+      {...props}
+    />
+  );
+});
+Textarea.displayName = "Textarea";
+
+export { Textarea };

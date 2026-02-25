@@ -1,1 +1,95 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IHVzZU11dGF0aW9uIH0gZnJvbSAiY29udmV4L3JlYWN0IjsKaW1wb3J0IHsgYXBpIH0gZnJvbSAiLi4vLi4vLi4vY29udmV4L19nZW5lcmF0ZWQvYXBpIjsKaW1wb3J0IHsgUG9wb3ZlciwgUG9wb3ZlckNvbnRlbnQsIFBvcG92ZXJUcmlnZ2VyIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL3BvcG92ZXIiOwppbXBvcnQgeyBTbWlsZSB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IElkIH0gZnJvbSAiLi4vLi4vLi4vY29udmV4L19nZW5lcmF0ZWQvZGF0YU1vZGVsIjsKCmludGVyZmFjZSBNZXNzYWdlUmVhY3Rpb25zUHJvcHMgewogICAgbWVzc2FnZUlkOiBJZDwibWVzc2FnZXMiPjsKICAgIHVzZXJJZDogSWQ8InVzZXJzIj47CiAgICByZWFjdGlvbnM/OiBBcnJheTx7IHVzZXJJZDogSWQ8InVzZXJzIj47IGVtb2ppOiBzdHJpbmcgfT47CiAgICBzaG93UGlja2VyPzogYm9vbGVhbjsKfQoKY29uc3QgRU1PSklfT1BUSU9OUyA9IFsi4p2k77iPIiwgIvCfmIIiLCAi8J+YriIsICLwn5iiIiwgIvCflKUiLCAi8J+RjSIsICLwn5GOIl07Cgpjb25zdCBNZXNzYWdlUmVhY3Rpb25zID0gKHsgbWVzc2FnZUlkLCB1c2VySWQsIHJlYWN0aW9ucyA9IFtdLCBzaG93UGlja2VyID0gZmFsc2UgfTogTWVzc2FnZVJlYWN0aW9uc1Byb3BzKSA9PiB7CiAgICBjb25zdCBbb3Blbiwgc2V0T3Blbl0gPSB1c2VTdGF0ZShmYWxzZSk7CiAgICBjb25zdCBhZGRSZWFjdGlvbiA9IHVzZU11dGF0aW9uKGFwaS5tZXNzYWdlcy5hZGRSZWFjdGlvbik7CiAgICBjb25zdCByZW1vdmVSZWFjdGlvbiA9IHVzZU11dGF0aW9uKGFwaS5tZXNzYWdlcy5yZW1vdmVSZWFjdGlvbik7CgogICAgY29uc3QgdXNlclJlYWN0aW9uID0gcmVhY3Rpb25zLmZpbmQoKHIpID0+IHIudXNlcklkID09PSB1c2VySWQpOwoKICAgIGNvbnN0IGhhbmRsZVJlYWN0aW9uID0gYXN5bmMgKGVtb2ppOiBzdHJpbmcpID0+IHsKICAgICAgICB0cnkgewogICAgICAgICAgICBpZiAodXNlclJlYWN0aW9uICYmIHVzZXJSZWFjdGlvbi5lbW9qaSA9PT0gZW1vamkpIHsKICAgICAgICAgICAgICAgIGF3YWl0IHJlbW92ZVJlYWN0aW9uKHsgbWVzc2FnZUlkLCB1c2VySWQgfSk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBhd2FpdCBhZGRSZWFjdGlvbih7IG1lc3NhZ2VJZCwgdXNlcklkLCBlbW9qaSB9KTsKICAgICAgICAgICAgfQogICAgICAgICAgICBzZXRPcGVuKGZhbHNlKTsKICAgICAgICB9IGNhdGNoIChlcnJvcikgewogICAgICAgICAgICBjb25zb2xlLmVycm9yKCJGYWlsZWQgdG8gcmVhY3Q6IiwgZXJyb3IpOwogICAgICAgIH0KICAgIH07CgogICAgY29uc3QgZ3JvdXBlZFJlYWN0aW9ucyA9IHJlYWN0aW9ucy5yZWR1Y2UoKGFjYywgcikgPT4gewogICAgICAgIGlmICghYWNjW3IuZW1vamldKSB7CiAgICAgICAgICAgIGFjY1tyLmVtb2ppXSA9IDA7CiAgICAgICAgfQogICAgICAgIGFjY1tyLmVtb2ppXSsrOwogICAgICAgIHJldHVybiBhY2M7CiAgICB9LCB7fSBhcyBSZWNvcmQ8c3RyaW5nLCBudW1iZXI+KTsKCiAgICBjb25zdCBoYXNSZWFjdGlvbnMgPSBPYmplY3Qua2V5cyhncm91cGVkUmVhY3Rpb25zKS5sZW5ndGggPiAwOwoKICAgIGlmICghaGFzUmVhY3Rpb25zICYmICFzaG93UGlja2VyKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgcmV0dXJuICgKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEgbXQtMSI+CiAgICAgICAgICAgIHtPYmplY3QuZW50cmllcyhncm91cGVkUmVhY3Rpb25zKS5tYXAoKFtlbW9qaSwgY291bnRdKSA9PiAoCiAgICAgICAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgICAgICAgICAga2V5PXtlbW9qaX0KICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBoYW5kbGVSZWFjdGlvbihlbW9qaSl9CiAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtgdGV4dC14cyBweC0yIHB5LTEgcm91bmRlZC1mdWxsIGJvcmRlciB0cmFuc2l0aW9uLWFsbCBob3ZlcjpzY2FsZS0xMTAgJHt1c2VyUmVhY3Rpb24/LmVtb2ppID09PSBlbW9qaQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPyAiYmctcHJpbWFyeS8yMCBib3JkZXItcHJpbWFyeSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDogImJnLW11dGVkIGJvcmRlci1ib3JkZXIgaG92ZXI6YmctbXV0ZWQvODAiCiAgICAgICAgICAgICAgICAgICAgICAgIH1gfQogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIHtlbW9qaX0ge2NvdW50ID4gMSAmJiBjb3VudH0KICAgICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICApKX0KCiAgICAgICAgICAgIHtzaG93UGlja2VyICYmICgKICAgICAgICAgICAgICAgIDxQb3BvdmVyIG9wZW49e29wZW59IG9uT3BlbkNoYW5nZT17c2V0T3Blbn0+CiAgICAgICAgICAgICAgICAgICAgPFBvcG92ZXJUcmlnZ2VyIGFzQ2hpbGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGU9ImJ1dHRvbiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iaC02IHctNiBwLTAgaW5saW5lLWZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBob3Zlcjp0ZXh0LWZvcmVncm91bmQiCiAgICAgICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxTbWlsZSBjbGFzc05hbWU9InctMyBoLTMiIC8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgIDwvUG9wb3ZlclRyaWdnZXI+CiAgICAgICAgICAgICAgICAgICAgPFBvcG92ZXJDb250ZW50IGNsYXNzTmFtZT0idy1hdXRvIHAtMiI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGdhcC0xIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtFTU9KSV9PUFRJT05TLm1hcCgoZW1vamkpID0+ICgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleT17ZW1vaml9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IGhhbmRsZVJlYWN0aW9uKGVtb2ppKX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LTJ4bCBob3ZlcjpzY2FsZS0xMjUgdHJhbnNpdGlvbi10cmFuc2Zvcm0gcC0xIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge2Vtb2ppfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvUG9wb3ZlckNvbnRlbnQ+CiAgICAgICAgICAgICAgICA8L1BvcG92ZXI+CiAgICAgICAgICAgICl9CiAgICAgICAgPC9kaXY+CiAgICApOwp9OwoKZXhwb3J0IGRlZmF1bHQgTWVzc2FnZVJlYWN0aW9uczsK"}
+import { useState } from "react";
+import { useMutation } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
+import { Smile } from "lucide-react";
+import { Id } from "../../../convex/_generated/dataModel";
+
+interface MessageReactionsProps {
+    messageId: Id<"messages">;
+    userId: Id<"users">;
+    reactions?: Array<{ userId: Id<"users">; emoji: string }>;
+    showPicker?: boolean;
+}
+
+const EMOJI_OPTIONS = ["❤️", "😂", "😮", "😢", "🔥", "👍", "👎"];
+
+const MessageReactions = ({ messageId, userId, reactions = [], showPicker = false }: MessageReactionsProps) => {
+    const [open, setOpen] = useState(false);
+    const addReaction = useMutation(api.messages.addReaction);
+    const removeReaction = useMutation(api.messages.removeReaction);
+
+    const userReaction = reactions.find((r) => r.userId === userId);
+
+    const handleReaction = async (emoji: string) => {
+        try {
+            if (userReaction && userReaction.emoji === emoji) {
+                await removeReaction({ messageId, userId });
+            } else {
+                await addReaction({ messageId, userId, emoji });
+            }
+            setOpen(false);
+        } catch (error) {
+            console.error("Failed to react:", error);
+        }
+    };
+
+    const groupedReactions = reactions.reduce((acc, r) => {
+        if (!acc[r.emoji]) {
+            acc[r.emoji] = 0;
+        }
+        acc[r.emoji]++;
+        return acc;
+    }, {} as Record<string, number>);
+
+    const hasReactions = Object.keys(groupedReactions).length > 0;
+
+    if (!hasReactions && !showPicker) {
+        return null;
+    }
+
+    return (
+        <div className="flex items-center gap-1 mt-1">
+            {Object.entries(groupedReactions).map(([emoji, count]) => (
+                <button
+                    key={emoji}
+                    onClick={() => handleReaction(emoji)}
+                    className={`text-xs px-2 py-1 rounded-full border transition-all hover:scale-110 ${userReaction?.emoji === emoji
+                            ? "bg-primary/20 border-primary"
+                            : "bg-muted border-border hover:bg-muted/80"
+                        }`}
+                >
+                    {emoji} {count > 1 && count}
+                </button>
+            ))}
+
+            {showPicker && (
+                <Popover open={open} onOpenChange={setOpen}>
+                    <PopoverTrigger asChild>
+                        <button
+                            type="button"
+                            className="h-6 w-6 p-0 inline-flex items-center justify-center text-muted-foreground hover:text-foreground"
+                        >
+                            <Smile className="w-3 h-3" />
+                        </button>
+                    </PopoverTrigger>
+                    <PopoverContent className="w-auto p-2">
+                        <div className="flex gap-1">
+                            {EMOJI_OPTIONS.map((emoji) => (
+                                <button
+                                    key={emoji}
+                                    onClick={() => handleReaction(emoji)}
+                                    className="text-2xl hover:scale-125 transition-transform p-1"
+                                >
+                                    {emoji}
+                                </button>
+                            ))}
+                        </div>
+                    </PopoverContent>
+                </Popover>
+            )}
+        </div>
+    );
+};
+
+export default MessageReactions;

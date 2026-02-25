@@ -1,1 +1,366 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IHVzZU5hdmlnYXRlIH0gZnJvbSAicmVhY3Qtcm91dGVyLWRvbSI7CmltcG9ydCB7IEJ1dHRvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS9idXR0b24iOwppbXBvcnQgeyBDYXJkLCBDYXJkQ29udGVudCwgQ2FyZERlc2NyaXB0aW9uLCBDYXJkSGVhZGVyLCBDYXJkVGl0bGUgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvY2FyZCI7CmltcG9ydCB7IElucHV0IH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2lucHV0IjsKaW1wb3J0IHsgTGFiZWwgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvbGFiZWwiOwppbXBvcnQgeyBUZXh0YXJlYSB9IGZyb20gIkAvY29tcG9uZW50cy91aS90ZXh0YXJlYSI7CmltcG9ydCB7IFNlbGVjdCwgU2VsZWN0Q29udGVudCwgU2VsZWN0SXRlbSwgU2VsZWN0VHJpZ2dlciwgU2VsZWN0VmFsdWUgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvc2VsZWN0IjsKaW1wb3J0IHsgUHJvZ3Jlc3MgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvcHJvZ3Jlc3MiOwppbXBvcnQgeyBIZWFydCwgVXBsb2FkLCBVc2VyLCBUYXJnZXQgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyB1c2VNdXRhdGlvbiB9IGZyb20gImNvbnZleC9yZWFjdCI7CmltcG9ydCB7IGFwaSB9IGZyb20gIi4uLy4uL2NvbnZleC9fZ2VuZXJhdGVkL2FwaSI7CmltcG9ydCB7IHRvYXN0IH0gZnJvbSAic29ubmVyIjsKaW1wb3J0IHsgUmV2aWV3U3RhdHVzIH0gZnJvbSAiQC9jb21wb25lbnRzL3Byb2ZpbGUvUmV2aWV3U3RhdHVzIjsKaW1wb3J0IHsgdXNlQXV0aCB9IGZyb20gIkAvY29udGV4dHMvQXV0aENvbnRleHQiOwoKY29uc3QgUHJvZmlsZVNldHVwID0gKCkgPT4gewogICAgY29uc3QgbmF2aWdhdGUgPSB1c2VOYXZpZ2F0ZSgpOwogICAgY29uc3QgW3N0ZXAsIHNldFN0ZXBdID0gdXNlU3RhdGUoMSk7CiAgICBjb25zdCBbZm9ybURhdGEsIHNldEZvcm1EYXRhXSA9IHVzZVN0YXRlKHsKICAgICAgICBhZ2U6ICIiLAogICAgICAgIGdlbmRlcjogIiIsCiAgICAgICAgbG9jYXRpb246ICIiLAogICAgICAgIGJpbzogIiIsCiAgICAgICAgam9iVGl0bGU6ICIiLAogICAgICAgIGVkdWNhdGlvbjogIiIsCiAgICAgICAgbWluQWdlOiAiIiwKICAgICAgICBtYXhBZ2U6ICIiLAogICAgICAgIG1heERpc3RhbmNlOiAiNTAiLAogICAgICAgIGdlbmRlclByZWZlcmVuY2U6IFtdIGFzIHN0cmluZ1tdLAogICAgfSk7CiAgICBjb25zdCBbcGhvdG9zLCBzZXRQaG90b3NdID0gdXNlU3RhdGU8c3RyaW5nW10+KFtdKTsKCiAgICBjb25zdCB7IHVzZXIgfSA9IHVzZUF1dGgoKTsKICAgIGNvbnN0IHVzZXJJZCA9IHVzZXI/Ll9pZCBhcyBzdHJpbmcgfCB1bmRlZmluZWQ7CgogICAgY29uc3QgY3JlYXRlUHJvZmlsZSA9IHVzZU11dGF0aW9uKGFwaS5wcm9maWxlcy5jcmVhdGVQcm9maWxlKTsKICAgIGNvbnN0IHVwZGF0ZVByb2ZpbGUgPSB1c2VNdXRhdGlvbihhcGkucHJvZmlsZXMudXBkYXRlUHJvZmlsZSk7CiAgICBjb25zdCB1cGxvYWRQaG90byA9IHVzZU11dGF0aW9uKGFwaS5wcm9maWxlcy51cGxvYWRQaG90byk7CiAgICBjb25zdCB1cGRhdGVQcmVmZXJlbmNlcyA9IHVzZU11dGF0aW9uKGFwaS5wcm9maWxlcy51cGRhdGVQcmVmZXJlbmNlcyk7CgogICAgY29uc3QgcHJvZ3Jlc3MgPSAoc3RlcCAvIDQpICogMTAwOwoKICAgIGNvbnN0IGhhbmRsZU5leHQgPSAoKSA9PiB7CiAgICAgICAgaWYgKHN0ZXAgPCA0KSB7CiAgICAgICAgICAgIHNldFN0ZXAoc3RlcCArIDEpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGhhbmRsZVN1Ym1pdCgpOwogICAgICAgIH0KICAgIH07CgogICAgY29uc3QgaGFuZGxlQmFjayA9ICgpID0+IHsKICAgICAgICBpZiAoc3RlcCA+IDEpIHsKICAgICAgICAgICAgc2V0U3RlcChzdGVwIC0gMSk7CiAgICAgICAgfQogICAgfTsKCiAgICBjb25zdCBoYW5kbGVQaG90b1VwbG9hZCA9IChlOiBSZWFjdC5DaGFuZ2VFdmVudDxIVE1MSW5wdXRFbGVtZW50PikgPT4gewogICAgICAgIGNvbnN0IGZpbGVzID0gZS50YXJnZXQuZmlsZXM7CiAgICAgICAgaWYgKCFmaWxlcykgcmV0dXJuOwoKICAgICAgICBBcnJheS5mcm9tKGZpbGVzKS5mb3JFYWNoKChmaWxlKSA9PiB7CiAgICAgICAgICAgIGNvbnN0IHJlYWRlciA9IG5ldyBGaWxlUmVhZGVyKCk7CiAgICAgICAgICAgIHJlYWRlci5vbmxvYWRlbmQgPSAoKSA9PiB7CiAgICAgICAgICAgICAgICBjb25zdCBiYXNlNjQgPSByZWFkZXIucmVzdWx0IGFzIHN0cmluZzsKICAgICAgICAgICAgICAgIHNldFBob3RvcygocHJldikgPT4gWy4uLnByZXYsIGJhc2U2NF0pOwogICAgICAgICAgICB9OwogICAgICAgICAgICByZWFkZXIucmVhZEFzRGF0YVVSTChmaWxlKTsKICAgICAgICB9KTsKICAgIH07CgogICAgY29uc3QgaGFuZGxlU3VibWl0ID0gYXN5bmMgKCkgPT4gewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIC8vIFVzZXIgaXMgYWxyZWFkeSBhdmFpbGFibGUgZnJvbSB1c2VBdXRoIGhvb2sKICAgICAgICAgICAgY29uc3QgdXNlcklkID0gdXNlci5faWQ7CgogICAgICAgICAgICBpZiAoIXVzZXJJZCkgewogICAgICAgICAgICAgICAgdG9hc3QuZXJyb3IoIlVzZXIgbm90IGZvdW5kLiBQbGVhc2UgbG9nIGluIGFnYWluLiIpOwogICAgICAgICAgICAgICAgbmF2aWdhdGUoIi9sb2dpbiIpOwogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyBDcmVhdGUgcHJvZmlsZQogICAgICAgICAgICBjb25zdCBwcm9maWxlSWQgPSBhd2FpdCBjcmVhdGVQcm9maWxlKHsKICAgICAgICAgICAgICAgIHVzZXJJZCwKICAgICAgICAgICAgICAgIGFnZTogcGFyc2VJbnQoZm9ybURhdGEuYWdlKSwKICAgICAgICAgICAgICAgIGdlbmRlcjogZm9ybURhdGEuZ2VuZGVyLAogICAgICAgICAgICAgICAgbG9jYXRpb246IGZvcm1EYXRhLmxvY2F0aW9uLAogICAgICAgICAgICAgICAgYmlvOiBmb3JtRGF0YS5iaW8gfHwgdW5kZWZpbmVkLAogICAgICAgICAgICB9KTsKCiAgICAgICAgICAgIC8vIFVwbG9hZCBwaG90b3MKICAgICAgICAgICAgZm9yIChsZXQgaSA9IDA7IGkgPCBwaG90b3MubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgICAgIGF3YWl0IHVwbG9hZFBob3RvKHsKICAgICAgICAgICAgICAgICAgICB1c2VySWQsCiAgICAgICAgICAgICAgICAgICAgdXJsOiBwaG90b3NbaV0sCiAgICAgICAgICAgICAgICAgICAgb3JkZXI6IGksCiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy8gVXBkYXRlIGFkZGl0aW9uYWwgcHJvZmlsZSBpbmZvCiAgICAgICAgICAgIGlmIChmb3JtRGF0YS5qb2JUaXRsZSB8fCBmb3JtRGF0YS5lZHVjYXRpb24pIHsKICAgICAgICAgICAgICAgIGF3YWl0IHVwZGF0ZVByb2ZpbGUoewogICAgICAgICAgICAgICAgICAgIHVzZXJJZCwKICAgICAgICAgICAgICAgICAgICBqb2JUaXRsZTogZm9ybURhdGEuam9iVGl0bGUgfHwgdW5kZWZpbmVkLAogICAgICAgICAgICAgICAgICAgIGVkdWNhdGlvbjogZm9ybURhdGEuZWR1Y2F0aW9uIHx8IHVuZGVmaW5lZCwKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyBVcGRhdGUgcHJlZmVyZW5jZXMKICAgICAgICAgICAgYXdhaXQgdXBkYXRlUHJlZmVyZW5jZXMoewogICAgICAgICAgICAgICAgdXNlcklkLAogICAgICAgICAgICAgICAgbWluQWdlOiBwYXJzZUludChmb3JtRGF0YS5taW5BZ2UpIHx8IHVuZGVmaW5lZCwKICAgICAgICAgICAgICAgIG1heEFnZTogcGFyc2VJbnQoZm9ybURhdGEubWF4QWdlKSB8fCB1bmRlZmluZWQsCiAgICAgICAgICAgICAgICBtYXhEaXN0YW5jZTogcGFyc2VJbnQoZm9ybURhdGEubWF4RGlzdGFuY2UpIHx8IHVuZGVmaW5lZCwKICAgICAgICAgICAgICAgIGdlbmRlclByZWZlcmVuY2U6IGZvcm1EYXRhLmdlbmRlclByZWZlcmVuY2UubGVuZ3RoID4gMCA/IGZvcm1EYXRhLmdlbmRlclByZWZlcmVuY2UgOiB1bmRlZmluZWQsCiAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgdG9hc3Quc3VjY2VzcygiUHJvZmlsZSBjcmVhdGVkIHN1Y2Nlc3NmdWxseSEiKTsKICAgICAgICAgICAgbmF2aWdhdGUoIi9kaXNjb3ZlciIpOwogICAgICAgIH0gY2F0Y2ggKGVycm9yOiBhbnkpIHsKICAgICAgICAgICAgdG9hc3QuZXJyb3IoZXJyb3IubWVzc2FnZSB8fCAiRmFpbGVkIHRvIGNyZWF0ZSBwcm9maWxlIik7CiAgICAgICAgfQogICAgfTsKCiAgICBjb25zdCBjYW5Qcm9jZWVkID0gKCkgPT4gewogICAgICAgIHN3aXRjaCAoc3RlcCkgewogICAgICAgICAgICBjYXNlIDE6CiAgICAgICAgICAgICAgICByZXR1cm4gZm9ybURhdGEuYWdlICYmIGZvcm1EYXRhLmdlbmRlciAmJiBmb3JtRGF0YS5sb2NhdGlvbjsKICAgICAgICAgICAgY2FzZSAyOgogICAgICAgICAgICAgICAgcmV0dXJuIHBob3Rvcy5sZW5ndGggPiAwOwogICAgICAgICAgICBjYXNlIDM6CiAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsgLy8gT3B0aW9uYWwgc3RlcAogICAgICAgICAgICBjYXNlIDQ6CiAgICAgICAgICAgICAgICByZXR1cm4gZm9ybURhdGEubWluQWdlICYmIGZvcm1EYXRhLm1heEFnZSAmJiBmb3JtRGF0YS5nZW5kZXJQcmVmZXJlbmNlLmxlbmd0aCA+IDA7CiAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgfTsKCiAgICByZXR1cm4gKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtaW4taC1zY3JlZW4gYmctZ3JhZGllbnQtdG8tYnIgZnJvbS1yb3NlLTUwIHZpYS13aGl0ZSB0by1waW5rLTUwIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHAtMiBzbTpwLTMgbWQ6cC00Ij4KICAgICAgICAgICAgPENhcmQgY2xhc3NOYW1lPSJ3LWZ1bGwgbWF4LXctMnhsIj4KICAgICAgICAgICAgICAgIDxDYXJkSGVhZGVyPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBtYi00Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPEhlYXJ0IGNsYXNzTmFtZT0idy0xMiBoLTEyIHRleHQtcHJpbWFyeSBmaWxsLXByaW1hcnkiIC8+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPENhcmRUaXRsZSBjbGFzc05hbWU9InRleHQtY2VudGVyIHRleHQtMnhsIj5Db21wbGV0ZSBZb3VyIFByb2ZpbGU8L0NhcmRUaXRsZT4KICAgICAgICAgICAgICAgICAgICA8Q2FyZERlc2NyaXB0aW9uIGNsYXNzTmFtZT0idGV4dC1jZW50ZXIiPgogICAgICAgICAgICAgICAgICAgICAgICBTdGVwIHtzdGVwfSBvZiA0IC0ge1siQmFzaWMgSW5mbyIsICJQaG90b3MiLCAiQWJvdXQgWW91IiwgIlByZWZlcmVuY2VzIl1bc3RlcCAtIDFdfQogICAgICAgICAgICAgICAgICAgIDwvQ2FyZERlc2NyaXB0aW9uPgogICAgICAgICAgICAgICAgICAgIDxQcm9ncmVzcyB2YWx1ZT17cHJvZ3Jlc3N9IGNsYXNzTmFtZT0ibXQtNCIgLz4KICAgICAgICAgICAgICAgIDwvQ2FyZEhlYWRlcj4KCiAgICAgICAgICAgICAgICA8Q2FyZENvbnRlbnQgY2xhc3NOYW1lPSJzcGFjZS15LTYiPgogICAgICAgICAgICAgICAgICAgIHt1c2VySWQgJiYgPFJldmlld1N0YXR1cyB1c2VySWQ9e3VzZXJJZH0gLz59CiAgICAgICAgICAgICAgICAgICAgey8qIFN0ZXAgMTogQmFzaWMgSW5mbyAqL30KICAgICAgICAgICAgICAgICAgICB7c3RlcCA9PT0gMSAmJiAoCiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIG1iLTQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxVc2VyIGNsYXNzTmFtZT0idy01IGgtNSB0ZXh0LXByaW1hcnkiIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0idGV4dC1sZyBmb250LXNlbWlib2xkIj5UZWxsIHVzIGFib3V0IHlvdXJzZWxmPC9oMz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxMYWJlbCBodG1sRm9yPSJhZ2UiPkFnZSAqPC9MYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8SW5wdXQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ9ImFnZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZT0ibnVtYmVyIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtaW49IjE4IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXg9IjEwMCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9e2Zvcm1EYXRhLmFnZX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25DaGFuZ2U9eyhlKSA9PiBzZXRGb3JtRGF0YSh7IC4uLmZvcm1EYXRhLCBhZ2U6IGUudGFyZ2V0LnZhbHVlIH0pfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iMjUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxMYWJlbCBodG1sRm9yPSJnZW5kZXIiPkdlbmRlciAqPC9MYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8U2VsZWN0IHZhbHVlPXtmb3JtRGF0YS5nZW5kZXJ9IG9uVmFsdWVDaGFuZ2U9eyh2YWx1ZSkgPT4gc2V0Rm9ybURhdGEoeyAuLi5mb3JtRGF0YSwgZ2VuZGVyOiB2YWx1ZSB9KX0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxTZWxlY3RUcmlnZ2VyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFNlbGVjdFZhbHVlIHBsYWNlaG9sZGVyPSJTZWxlY3QgeW91ciBnZW5kZXIiIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvU2VsZWN0VHJpZ2dlcj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFNlbGVjdENvbnRlbnQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8U2VsZWN0SXRlbSB2YWx1ZT0ibWFuIj5NYW48L1NlbGVjdEl0ZW0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8U2VsZWN0SXRlbSB2YWx1ZT0id29tYW4iPldvbWFuPC9TZWxlY3RJdGVtPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPFNlbGVjdEl0ZW0gdmFsdWU9Im5vbi1iaW5hcnkiPk5vbi1iaW5hcnk8L1NlbGVjdEl0ZW0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8U2VsZWN0SXRlbSB2YWx1ZT0ib3RoZXIiPk90aGVyPC9TZWxlY3RJdGVtPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L1NlbGVjdENvbnRlbnQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9TZWxlY3Q+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0yIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8TGFiZWwgaHRtbEZvcj0ibG9jYXRpb24iPkxvY2F0aW9uICo8L0xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxJbnB1dAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZD0ibG9jYXRpb24iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPXtmb3JtRGF0YS5sb2NhdGlvbn0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25DaGFuZ2U9eyhlKSA9PiBzZXRGb3JtRGF0YSh7IC4uLmZvcm1EYXRhLCBsb2NhdGlvbjogZS50YXJnZXQudmFsdWUgfSl9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJZb3VyIENpdHksIENvdW50cnkiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICApfQoKICAgICAgICAgICAgICAgICAgICB7LyogU3RlcCAyOiBQaG90b3MgKi99CiAgICAgICAgICAgICAgICAgICAge3N0ZXAgPT09IDIgJiYgKAogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS00Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMiBtYi00Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8VXBsb2FkIGNsYXNzTmFtZT0idy01IGgtNSB0ZXh0LXByaW1hcnkiIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0idGV4dC1sZyBmb250LXNlbWlib2xkIj5BZGQgeW91ciBwaG90b3M8L2gzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTMgZ2FwLTQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtwaG90b3MubWFwKChwaG90bywgaW5kZXgpID0+ICgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBrZXk9e2luZGV4fSBjbGFzc05hbWU9ImFzcGVjdC1zcXVhcmUgcm91bmRlZC1sZyBvdmVyZmxvdy1oaWRkZW4gYm9yZGVyLTIgYm9yZGVyLWJvcmRlciI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz17cGhvdG99IGFsdD17YFBob3RvICR7aW5kZXggKyAxfWB9IGNsYXNzTmFtZT0idy1mdWxsIGgtZnVsbCBvYmplY3QtY292ZXIiIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtwaG90b3MubGVuZ3RoIDwgNiAmJiAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzc05hbWU9ImFzcGVjdC1zcXVhcmUgcm91bmRlZC1sZyBib3JkZXItMiBib3JkZXItZGFzaGVkIGJvcmRlci1ib3JkZXIgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgY3Vyc29yLXBvaW50ZXIgaG92ZXI6Ym9yZGVyLXByaW1hcnkgdHJhbnNpdGlvbi1jb2xvcnMiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InRleHQtY2VudGVyIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8VXBsb2FkIGNsYXNzTmFtZT0idy04IGgtOCBteC1hdXRvIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBtYi0yIiAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQiPkFkZCBQaG90bzwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZT0iZmlsZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY2NlcHQ9ImltYWdlLyoiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbXVsdGlwbGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImhpZGRlbiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNoYW5nZT17aGFuZGxlUGhvdG9VcGxvYWR9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQiPkFkZCBhdCBsZWFzdCAxIHBob3RvICh1cCB0byA2KTwvcD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgKX0KCiAgICAgICAgICAgICAgICAgICAgey8qIFN0ZXAgMzogQWJvdXQgWW91ICovfQogICAgICAgICAgICAgICAgICAgIHtzdGVwID09PSAzICYmICgKICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktNCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJ0ZXh0LWxnIGZvbnQtc2VtaWJvbGQiPkFib3V0IFlvdSAoT3B0aW9uYWwpPC9oMz4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0yIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8TGFiZWwgaHRtbEZvcj0iYmlvIj5CaW88L0xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxUZXh0YXJlYQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZD0iYmlvIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT17Zm9ybURhdGEuYmlvfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNoYW5nZT17KGUpID0+IHNldEZvcm1EYXRhKHsgLi4uZm9ybURhdGEsIGJpbzogZS50YXJnZXQudmFsdWUgfSl9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJUZWxsIHVzIGFib3V0IHlvdXJzZWxmLi4uIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3dzPXs0fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0yIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8TGFiZWwgaHRtbEZvcj0iam9iVGl0bGUiPkpvYiBUaXRsZTwvTGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPElucHV0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlkPSJqb2JUaXRsZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9e2Zvcm1EYXRhLmpvYlRpdGxlfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNoYW5nZT17KGUpID0+IHNldEZvcm1EYXRhKHsgLi4uZm9ybURhdGEsIGpvYlRpdGxlOiBlLnRhcmdldC52YWx1ZSB9KX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IlNvZnR3YXJlIEVuZ2luZWVyIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS0yIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8TGFiZWwgaHRtbEZvcj0iZWR1Y2F0aW9uIj5FZHVjYXRpb248L0xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxJbnB1dAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZD0iZWR1Y2F0aW9uIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT17Zm9ybURhdGEuZWR1Y2F0aW9ufQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNoYW5nZT17KGUpID0+IHNldEZvcm1EYXRhKHsgLi4uZm9ybURhdGEsIGVkdWNhdGlvbjogZS50YXJnZXQudmFsdWUgfSl9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJZb3VyIFVuaXZlcnNpdHkiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICApfQoKICAgICAgICAgICAgICAgICAgICB7LyogU3RlcCA0OiBQcmVmZXJlbmNlcyAqL30KICAgICAgICAgICAgICAgICAgICB7c3RlcCA9PT0gNCAmJiAoCiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIG1iLTQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxUYXJnZXQgY2xhc3NOYW1lPSJ3LTUgaC01IHRleHQtcHJpbWFyeSIgLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJ0ZXh0LWxnIGZvbnQtc2VtaWJvbGQiPldobyBhcmUgeW91IGxvb2tpbmcgZm9yPzwvaDM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBncmlkLWNvbHMtMiBnYXAtNCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxMYWJlbCBodG1sRm9yPSJtaW5BZ2UiPk1pbiBBZ2UgKjwvTGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxJbnB1dAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ9Im1pbkFnZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGU9Im51bWJlciIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1pbj0iMTgiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXg9IjEwMCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPXtmb3JtRGF0YS5taW5BZ2V9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNoYW5nZT17KGUpID0+IHNldEZvcm1EYXRhKHsgLi4uZm9ybURhdGEsIG1pbkFnZTogZS50YXJnZXQudmFsdWUgfSl9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iMjIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8TGFiZWwgaHRtbEZvcj0ibWF4QWdlIj5NYXggQWdlICo8L0xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8SW5wdXQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlkPSJtYXhBZ2UiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlPSJudW1iZXIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtaW49IjE4IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWF4PSIxMDAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT17Zm9ybURhdGEubWF4QWdlfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25DaGFuZ2U9eyhlKSA9PiBzZXRGb3JtRGF0YSh7IC4uLmZvcm1EYXRhLCBtYXhBZ2U6IGUudGFyZ2V0LnZhbHVlIH0pfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IjM1IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InNwYWNlLXktMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPExhYmVsIGh0bWxGb3I9Im1heERpc3RhbmNlIj5NYXggRGlzdGFuY2UgKGttKTwvTGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPElucHV0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlkPSJtYXhEaXN0YW5jZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZT0ibnVtYmVyIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtaW49IjUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1heD0iNTAwIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT17Zm9ybURhdGEubWF4RGlzdGFuY2V9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXsoZSkgPT4gc2V0Rm9ybURhdGEoeyAuLi5mb3JtRGF0YSwgbWF4RGlzdGFuY2U6IGUudGFyZ2V0LnZhbHVlIH0pfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iNTAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxMYWJlbD5JbnRlcmVzdGVkIGluICo8L0xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGZsZXgtd3JhcCBnYXAtMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtbIm1hbiIsICJ3b21hbiIsICJub24tYmluYXJ5Il0ubWFwKChnZW5kZXIpID0+ICgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrZXk9e2dlbmRlcn0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlPSJidXR0b24iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyaWFudD17Zm9ybURhdGEuZ2VuZGVyUHJlZmVyZW5jZS5pbmNsdWRlcyhnZW5kZXIpID8gImRlZmF1bHQiIDogIm91dGxpbmUifQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgY3VycmVudCA9IGZvcm1EYXRhLmdlbmRlclByZWZlcmVuY2U7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChjdXJyZW50LmluY2x1ZGVzKGdlbmRlcikpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldEZvcm1EYXRhKHsgLi4uZm9ybURhdGEsIGdlbmRlclByZWZlcmVuY2U6IGN1cnJlbnQuZmlsdGVyKChnKSA9PiBnICE9PSBnZW5kZXIpIH0pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2V0Rm9ybURhdGEoeyAuLi5mb3JtRGF0YSwgZ2VuZGVyUHJlZmVyZW5jZTogWy4uLmN1cnJlbnQsIGdlbmRlcl0gfSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtnZW5kZXIuY2hhckF0KDApLnRvVXBwZXJDYXNlKCkgKyBnZW5kZXIuc2xpY2UoMSl9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgKX0KCiAgICAgICAgICAgICAgICAgICAgey8qIE5hdmlnYXRpb24gQnV0dG9ucyAqL30KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBqdXN0aWZ5LWJldHdlZW4gcHQtNiI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxCdXR0b24gdmFyaWFudD0ib3V0bGluZSIgb25DbGljaz17aGFuZGxlQmFja30gZGlzYWJsZWQ9e3N0ZXAgPT09IDF9PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgQmFjawogICAgICAgICAgICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPEJ1dHRvbiBvbkNsaWNrPXtoYW5kbGVOZXh0fSBkaXNhYmxlZD17IWNhblByb2NlZWQoKX0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7c3RlcCA9PT0gNCA/ICJDb21wbGV0ZSBQcm9maWxlIiA6ICJOZXh0In0KICAgICAgICAgICAgICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L0NhcmRDb250ZW50PgogICAgICAgICAgICA8L0NhcmQ+CiAgICAgICAgPC9kaXY+CiAgICApOwp9OwoKZXhwb3J0IGRlZmF1bHQgUHJvZmlsZVNldHVwOwo="}
+import { useState } from "react";
+import { useNavigate } from "react-router-dom";
+import { Button } from "@/components/ui/button";
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import { Input } from "@/components/ui/input";
+import { Label } from "@/components/ui/label";
+import { Textarea } from "@/components/ui/textarea";
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
+import { Progress } from "@/components/ui/progress";
+import { Heart, Upload, User, Target } from "lucide-react";
+import { useMutation } from "convex/react";
+import { api } from "../../convex/_generated/api";
+import { toast } from "sonner";
+import { ReviewStatus } from "@/components/profile/ReviewStatus";
+import { useAuth } from "@/contexts/AuthContext";
+
+const ProfileSetup = () => {
+    const navigate = useNavigate();
+    const [step, setStep] = useState(1);
+    const [formData, setFormData] = useState({
+        age: "",
+        gender: "",
+        location: "",
+        bio: "",
+        jobTitle: "",
+        education: "",
+        minAge: "",
+        maxAge: "",
+        maxDistance: "50",
+        genderPreference: [] as string[],
+    });
+    const [photos, setPhotos] = useState<string[]>([]);
+
+    const { user } = useAuth();
+    const userId = user?._id as string | undefined;
+
+    const createProfile = useMutation(api.profiles.createProfile);
+    const updateProfile = useMutation(api.profiles.updateProfile);
+    const uploadPhoto = useMutation(api.profiles.uploadPhoto);
+    const updatePreferences = useMutation(api.profiles.updatePreferences);
+
+    const progress = (step / 4) * 100;
+
+    const handleNext = () => {
+        if (step < 4) {
+            setStep(step + 1);
+        } else {
+            handleSubmit();
+        }
+    };
+
+    const handleBack = () => {
+        if (step > 1) {
+            setStep(step - 1);
+        }
+    };
+
+    const handlePhotoUpload = (e: React.ChangeEvent<HTMLInputElement>) => {
+        const files = e.target.files;
+        if (!files) return;
+
+        Array.from(files).forEach((file) => {
+            const reader = new FileReader();
+            reader.onloadend = () => {
+                const base64 = reader.result as string;
+                setPhotos((prev) => [...prev, base64]);
+            };
+            reader.readAsDataURL(file);
+        });
+    };
+
+    const handleSubmit = async () => {
+        try {
+            // User is already available from useAuth hook
+            const userId = user._id;
+
+            if (!userId) {
+                toast.error("User not found. Please log in again.");
+                navigate("/login");
+                return;
+            }
+
+            // Create profile
+            const profileId = await createProfile({
+                userId,
+                age: parseInt(formData.age),
+                gender: formData.gender,
+                location: formData.location,
+                bio: formData.bio || undefined,
+            });
+
+            // Upload photos
+            for (let i = 0; i < photos.length; i++) {
+                await uploadPhoto({
+                    userId,
+                    url: photos[i],
+                    order: i,
+                });
+            }
+
+            // Update additional profile info
+            if (formData.jobTitle || formData.education) {
+                await updateProfile({
+                    userId,
+                    jobTitle: formData.jobTitle || undefined,
+                    education: formData.education || undefined,
+                });
+            }
+
+            // Update preferences
+            await updatePreferences({
+                userId,
+                minAge: parseInt(formData.minAge) || undefined,
+                maxAge: parseInt(formData.maxAge) || undefined,
+                maxDistance: parseInt(formData.maxDistance) || undefined,
+                genderPreference: formData.genderPreference.length > 0 ? formData.genderPreference : undefined,
+            });
+
+            toast.success("Profile created successfully!");
+            navigate("/discover");
+        } catch (error: any) {
+            toast.error(error.message || "Failed to create profile");
+        }
+    };
+
+    const canProceed = () => {
+        switch (step) {
+            case 1:
+                return formData.age && formData.gender && formData.location;
+            case 2:
+                return photos.length > 0;
+            case 3:
+                return true; // Optional step
+            case 4:
+                return formData.minAge && formData.maxAge && formData.genderPreference.length > 0;
+            default:
+                return false;
+        }
+    };
+
+    return (
+        <div className="min-h-screen bg-gradient-to-br from-rose-50 via-white to-pink-50 flex items-center justify-center p-2 sm:p-3 md:p-4">
+            <Card className="w-full max-w-2xl">
+                <CardHeader>
+                    <div className="flex items-center justify-center mb-4">
+                        <Heart className="w-12 h-12 text-primary fill-primary" />
+                    </div>
+                    <CardTitle className="text-center text-2xl">Complete Your Profile</CardTitle>
+                    <CardDescription className="text-center">
+                        Step {step} of 4 - {["Basic Info", "Photos", "About You", "Preferences"][step - 1]}
+                    </CardDescription>
+                    <Progress value={progress} className="mt-4" />
+                </CardHeader>
+
+                <CardContent className="space-y-6">
+                    {userId && <ReviewStatus userId={userId} />}
+                    {/* Step 1: Basic Info */}
+                    {step === 1 && (
+                        <div className="space-y-4">
+                            <div className="flex items-center gap-2 mb-4">
+                                <User className="w-5 h-5 text-primary" />
+                                <h3 className="text-lg font-semibold">Tell us about yourself</h3>
+                            </div>
+
+                            <div className="space-y-2">
+                                <Label htmlFor="age">Age *</Label>
+                                <Input
+                                    id="age"
+                                    type="number"
+                                    min="18"
+                                    max="100"
+                                    value={formData.age}
+                                    onChange={(e) => setFormData({ ...formData, age: e.target.value })}
+                                    placeholder="25"
+                                />
+                            </div>
+
+                            <div className="space-y-2">
+                                <Label htmlFor="gender">Gender *</Label>
+                                <Select value={formData.gender} onValueChange={(value) => setFormData({ ...formData, gender: value })}>
+                                    <SelectTrigger>
+                                        <SelectValue placeholder="Select your gender" />
+                                    </SelectTrigger>
+                                    <SelectContent>
+                                        <SelectItem value="man">Man</SelectItem>
+                                        <SelectItem value="woman">Woman</SelectItem>
+                                        <SelectItem value="non-binary">Non-binary</SelectItem>
+                                        <SelectItem value="other">Other</SelectItem>
+                                    </SelectContent>
+                                </Select>
+                            </div>
+
+                            <div className="space-y-2">
+                                <Label htmlFor="location">Location *</Label>
+                                <Input
+                                    id="location"
+                                    value={formData.location}
+                                    onChange={(e) => setFormData({ ...formData, location: e.target.value })}
+                                    placeholder="Your City, Country"
+                                />
+                            </div>
+                        </div>
+                    )}
+
+                    {/* Step 2: Photos */}
+                    {step === 2 && (
+                        <div className="space-y-4">
+                            <div className="flex items-center gap-2 mb-4">
+                                <Upload className="w-5 h-5 text-primary" />
+                                <h3 className="text-lg font-semibold">Add your photos</h3>
+                            </div>
+
+                            <div className="grid grid-cols-3 gap-4">
+                                {photos.map((photo, index) => (
+                                    <div key={index} className="aspect-square rounded-lg overflow-hidden border-2 border-border">
+                                        <img src={photo} alt={`Photo ${index + 1}`} className="w-full h-full object-cover" />
+                                    </div>
+                                ))}
+                                {photos.length < 6 && (
+                                    <label className="aspect-square rounded-lg border-2 border-dashed border-border flex items-center justify-center cursor-pointer hover:border-primary transition-colors">
+                                        <div className="text-center">
+                                            <Upload className="w-8 h-8 mx-auto text-muted-foreground mb-2" />
+                                            <span className="text-sm text-muted-foreground">Add Photo</span>
+                                        </div>
+                                        <input
+                                            type="file"
+                                            accept="image/*"
+                                            multiple
+                                            className="hidden"
+                                            onChange={handlePhotoUpload}
+                                        />
+                                    </label>
+                                )}
+                            </div>
+                            <p className="text-sm text-muted-foreground">Add at least 1 photo (up to 6)</p>
+                        </div>
+                    )}
+
+                    {/* Step 3: About You */}
+                    {step === 3 && (
+                        <div className="space-y-4">
+                            <h3 className="text-lg font-semibold">About You (Optional)</h3>
+
+                            <div className="space-y-2">
+                                <Label htmlFor="bio">Bio</Label>
+                                <Textarea
+                                    id="bio"
+                                    value={formData.bio}
+                                    onChange={(e) => setFormData({ ...formData, bio: e.target.value })}
+                                    placeholder="Tell us about yourself..."
+                                    rows={4}
+                                />
+                            </div>
+
+                            <div className="space-y-2">
+                                <Label htmlFor="jobTitle">Job Title</Label>
+                                <Input
+                                    id="jobTitle"
+                                    value={formData.jobTitle}
+                                    onChange={(e) => setFormData({ ...formData, jobTitle: e.target.value })}
+                                    placeholder="Software Engineer"
+                                />
+                            </div>
+
+                            <div className="space-y-2">
+                                <Label htmlFor="education">Education</Label>
+                                <Input
+                                    id="education"
+                                    value={formData.education}
+                                    onChange={(e) => setFormData({ ...formData, education: e.target.value })}
+                                    placeholder="Your University"
+                                />
+                            </div>
+                        </div>
+                    )}
+
+                    {/* Step 4: Preferences */}
+                    {step === 4 && (
+                        <div className="space-y-4">
+                            <div className="flex items-center gap-2 mb-4">
+                                <Target className="w-5 h-5 text-primary" />
+                                <h3 className="text-lg font-semibold">Who are you looking for?</h3>
+                            </div>
+
+                            <div className="grid grid-cols-2 gap-4">
+                                <div className="space-y-2">
+                                    <Label htmlFor="minAge">Min Age *</Label>
+                                    <Input
+                                        id="minAge"
+                                        type="number"
+                                        min="18"
+                                        max="100"
+                                        value={formData.minAge}
+                                        onChange={(e) => setFormData({ ...formData, minAge: e.target.value })}
+                                        placeholder="22"
+                                    />
+                                </div>
+
+                                <div className="space-y-2">
+                                    <Label htmlFor="maxAge">Max Age *</Label>
+                                    <Input
+                                        id="maxAge"
+                                        type="number"
+                                        min="18"
+                                        max="100"
+                                        value={formData.maxAge}
+                                        onChange={(e) => setFormData({ ...formData, maxAge: e.target.value })}
+                                        placeholder="35"
+                                    />
+                                </div>
+                            </div>
+
+                            <div className="space-y-2">
+                                <Label htmlFor="maxDistance">Max Distance (km)</Label>
+                                <Input
+                                    id="maxDistance"
+                                    type="number"
+                                    min="5"
+                                    max="500"
+                                    value={formData.maxDistance}
+                                    onChange={(e) => setFormData({ ...formData, maxDistance: e.target.value })}
+                                    placeholder="50"
+                                />
+                            </div>
+
+                            <div className="space-y-2">
+                                <Label>Interested in *</Label>
+                                <div className="flex flex-wrap gap-2">
+                                    {["man", "woman", "non-binary"].map((gender) => (
+                                        <Button
+                                            key={gender}
+                                            type="button"
+                                            variant={formData.genderPreference.includes(gender) ? "default" : "outline"}
+                                            onClick={() => {
+                                                const current = formData.genderPreference;
+                                                if (current.includes(gender)) {
+                                                    setFormData({ ...formData, genderPreference: current.filter((g) => g !== gender) });
+                                                } else {
+                                                    setFormData({ ...formData, genderPreference: [...current, gender] });
+                                                }
+                                            }}
+                                        >
+                                            {gender.charAt(0).toUpperCase() + gender.slice(1)}
+                                        </Button>
+                                    ))}
+                                </div>
+                            </div>
+                        </div>
+                    )}
+
+                    {/* Navigation Buttons */}
+                    <div className="flex justify-between pt-6">
+                        <Button variant="outline" onClick={handleBack} disabled={step === 1}>
+                            Back
+                        </Button>
+                        <Button onClick={handleNext} disabled={!canProceed()}>
+                            {step === 4 ? "Complete Profile" : "Next"}
+                        </Button>
+                    </div>
+                </CardContent>
+            </Card>
+        </div>
+    );
+};
+
+export default ProfileSetup;

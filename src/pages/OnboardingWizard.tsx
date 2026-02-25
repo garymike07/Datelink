@@ -1,1 +1,285 @@
-{"data":"aW1wb3J0IHsgdXNlU3RhdGUsIHVzZUVmZmVjdCB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgdXNlTmF2aWdhdGUgfSBmcm9tICJyZWFjdC1yb3V0ZXItZG9tIjsKaW1wb3J0IHsgdXNlTXV0YXRpb24sIHVzZVF1ZXJ5IH0gZnJvbSAiY29udmV4L3JlYWN0IjsKaW1wb3J0IHsgYXBpIH0gZnJvbSAiLi4vLi4vY29udmV4L19nZW5lcmF0ZWQvYXBpIjsKaW1wb3J0IHsgdXNlQXV0aCB9IGZyb20gIkAvY29udGV4dHMvQXV0aENvbnRleHQiOwppbXBvcnQgeyB0b2FzdCB9IGZyb20gInNvbm5lciI7CmltcG9ydCB7IFdlbGNvbWVTY3JlZW4gfSBmcm9tICJAL2NvbXBvbmVudHMvb25ib2FyZGluZy9XZWxjb21lU2NyZWVuIjsKaW1wb3J0IHsgU3RlcEluZGljYXRvciB9IGZyb20gIkAvY29tcG9uZW50cy9vbmJvYXJkaW5nL1N0ZXBJbmRpY2F0b3IiOwppbXBvcnQgeyBTdGVwMUJhc2ljSW5mbyB9IGZyb20gIkAvY29tcG9uZW50cy9vbmJvYXJkaW5nL1N0ZXAxQmFzaWNJbmZvIjsKaW1wb3J0IHsgU3RlcDJQaG90b3MgfSBmcm9tICJAL2NvbXBvbmVudHMvb25ib2FyZGluZy9TdGVwMlBob3RvcyI7CmltcG9ydCB7IFN0ZXAzQWJvdXRZb3UgfSBmcm9tICJAL2NvbXBvbmVudHMvb25ib2FyZGluZy9TdGVwM0Fib3V0WW91IjsKaW1wb3J0IHsgU3RlcDRHb2FscyB9IGZyb20gIkAvY29tcG9uZW50cy9vbmJvYXJkaW5nL1N0ZXA0R29hbHMiOwppbXBvcnQgeyBTdGVwNVByZWZlcmVuY2VzIH0gZnJvbSAiQC9jb21wb25lbnRzL29uYm9hcmRpbmcvU3RlcDVQcmVmZXJlbmNlcyI7Cgpjb25zdCBPbmJvYXJkaW5nV2l6YXJkID0gKCkgPT4gewogIGNvbnN0IG5hdmlnYXRlID0gdXNlTmF2aWdhdGUoKTsKICBjb25zdCB7IHVzZXIgfSA9IHVzZUF1dGgoKTsKICBjb25zdCB1c2VySWQgPSB1c2VyPy5faWQ7CgogIGNvbnN0IFtzaG93V2VsY29tZSwgc2V0U2hvd1dlbGNvbWVdID0gdXNlU3RhdGUodHJ1ZSk7CiAgY29uc3QgW2N1cnJlbnRTdGVwLCBzZXRDdXJyZW50U3RlcF0gPSB1c2VTdGF0ZSgxKTsKICBjb25zdCBbY29tcGxldGVkU3RlcHMsIHNldENvbXBsZXRlZFN0ZXBzXSA9IHVzZVN0YXRlPG51bWJlcltdPihbXSk7CiAgY29uc3QgW2Zvcm1EYXRhLCBzZXRGb3JtRGF0YV0gPSB1c2VTdGF0ZSh7CiAgICBhZ2U6ICIiLAogICAgZ2VuZGVyOiAiIiwKICAgIGxvY2F0aW9uOiAiIiwKICAgIGJpbzogIiIsCiAgICBqb2JUaXRsZTogIiIsCiAgICBlZHVjYXRpb246ICIiLAogICAgcmVsYXRpb25zaGlwR29hbDogIiIsCiAgICBtaW5BZ2U6ICIiLAogICAgbWF4QWdlOiAiIiwKICAgIG1heERpc3RhbmNlOiAiNTAiLAogICAgZ2VuZGVyUHJlZmVyZW5jZTogW10gYXMgc3RyaW5nW10sCiAgfSk7CiAgY29uc3QgW3Bob3Rvcywgc2V0UGhvdG9zXSA9IHVzZVN0YXRlPHN0cmluZ1tdPihbXSk7CgogIC8vIE11dGF0aW9ucwogIGNvbnN0IHVwZGF0ZVByb2dyZXNzID0gdXNlTXV0YXRpb24oYXBpLm9uYm9hcmRpbmcudXBkYXRlUHJvZ3Jlc3MpOwogIGNvbnN0IGNvbXBsZXRlU3RlcCA9IHVzZU11dGF0aW9uKGFwaS5vbmJvYXJkaW5nLmNvbXBsZXRlU3RlcCk7CiAgY29uc3Qgc2tpcFN0ZXAgPSB1c2VNdXRhdGlvbihhcGkub25ib2FyZGluZy5za2lwU3RlcCk7CiAgY29uc3QgY29tcGxldGVPbmJvYXJkaW5nID0gdXNlTXV0YXRpb24oYXBpLm9uYm9hcmRpbmcuY29tcGxldGVPbmJvYXJkaW5nKTsKICBjb25zdCBjcmVhdGVQcm9maWxlID0gdXNlTXV0YXRpb24oYXBpLnByb2ZpbGVzLmNyZWF0ZVByb2ZpbGUpOwogIGNvbnN0IHVwbG9hZFBob3RvID0gdXNlTXV0YXRpb24oYXBpLnByb2ZpbGVzLnVwbG9hZFBob3RvKTsKICBjb25zdCB1cGRhdGVQcmVmZXJlbmNlcyA9IHVzZU11dGF0aW9uKGFwaS5wcm9maWxlcy51cGRhdGVQcmVmZXJlbmNlcyk7CiAgY29uc3QgYWN0aXZhdGVGcmVlVHJpYWwgPSB1c2VNdXRhdGlvbihhcGkuZnJlZVRyaWFsLmFjdGl2YXRlRnJlZVRyaWFsKTsKCiAgLy8gUXVlcnkgZXhpc3RpbmcgcHJvZ3Jlc3MKICBjb25zdCBleGlzdGluZ1Byb2dyZXNzID0gdXNlUXVlcnkoCiAgICBhcGkub25ib2FyZGluZy5nZXRQcm9ncmVzcywKICAgIHVzZXJJZCA/IHsgdXNlcklkIH0gOiAic2tpcCIKICApOwoKICAvLyBMb2FkIGV4aXN0aW5nIHByb2dyZXNzIG9yIGluaXRpYWxpemUgaXQKICB1c2VFZmZlY3QoKCkgPT4gewogICAgY29uc3QgaW5pdGlhbGl6ZVByb2dyZXNzID0gYXN5bmMgKCkgPT4gewogICAgICBpZiAoIXVzZXJJZCkgcmV0dXJuOwoKICAgICAgaWYgKGV4aXN0aW5nUHJvZ3Jlc3MpIHsKICAgICAgICBzZXRDdXJyZW50U3RlcChleGlzdGluZ1Byb2dyZXNzLmN1cnJlbnRTdGVwKTsKICAgICAgICBzZXRDb21wbGV0ZWRTdGVwcyhleGlzdGluZ1Byb2dyZXNzLmNvbXBsZXRlZFN0ZXBzKTsKICAgICAgICBzZXRTaG93V2VsY29tZShmYWxzZSk7CiAgICAgIH0gZWxzZSBpZiAodXNlcklkICYmIGV4aXN0aW5nUHJvZ3Jlc3MgPT09IG51bGwpIHsKICAgICAgICAvLyBObyBwcm9ncmVzcyBleGlzdHMsIGNyZWF0ZSBpbml0aWFsIHByb2dyZXNzIHJlY29yZAogICAgICAgIHRyeSB7CiAgICAgICAgICBhd2FpdCB1cGRhdGVQcm9ncmVzcyh7CiAgICAgICAgICAgIHVzZXJJZCwKICAgICAgICAgICAgY3VycmVudFN0ZXA6IDEsCiAgICAgICAgICAgIGNvbXBsZXRlZFN0ZXBzOiBbXSwKICAgICAgICAgIH0pOwogICAgICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgICAgICBjb25zb2xlLmVycm9yKCJFcnJvciBpbml0aWFsaXppbmcgb25ib2FyZGluZyBwcm9ncmVzczoiLCBlcnJvcik7CiAgICAgICAgfQogICAgICB9CiAgICB9OwoKICAgIGluaXRpYWxpemVQcm9ncmVzcygpOwogIH0sIFtleGlzdGluZ1Byb2dyZXNzLCB1c2VySWQsIHVwZGF0ZVByb2dyZXNzXSk7CgogIGNvbnN0IGhhbmRsZUNoYW5nZSA9IChmaWVsZDogc3RyaW5nLCB2YWx1ZTogc3RyaW5nIHwgc3RyaW5nW10pID0+IHsKICAgIHNldEZvcm1EYXRhKChwcmV2KSA9PiAoeyAuLi5wcmV2LCBbZmllbGRdOiB2YWx1ZSB9KSk7CiAgfTsKCiAgY29uc3QgaGFuZGxlTmV4dCA9IGFzeW5jIChzdGVwTnVtYmVyOiBudW1iZXIpID0+IHsKICAgIGlmICghdXNlcklkKSByZXR1cm47CgogICAgdHJ5IHsKICAgICAgLy8gVXBkYXRlIGNvbXBsZXRlZCBzdGVwcyBzdGF0ZSBmaXJzdAogICAgICBjb25zdCBuZXdDb21wbGV0ZWRTdGVwcyA9IFsuLi5jb21wbGV0ZWRTdGVwcywgc3RlcE51bWJlcl07CiAgICAgIHNldENvbXBsZXRlZFN0ZXBzKG5ld0NvbXBsZXRlZFN0ZXBzKTsKCiAgICAgIC8vIE1vdmUgdG8gbmV4dCBzdGVwCiAgICAgIGNvbnN0IG5leHRTdGVwID0gc3RlcE51bWJlciArIDE7CiAgICAgIHNldEN1cnJlbnRTdGVwKG5leHRTdGVwKTsKCiAgICAgIC8vIE1hcmsgY3VycmVudCBzdGVwIGFzIGNvbXBsZXRlZCBhbmQgdXBkYXRlIHByb2dyZXNzIGluIG9uZSBjYWxsCiAgICAgIGF3YWl0IGNvbXBsZXRlU3RlcCh7IHVzZXJJZCwgc3RlcE51bWJlciB9KTsKICAgICAgCiAgICAgIC8vIFVwZGF0ZSBwcm9ncmVzcyB0byBtb3ZlIHRvIG5leHQgc3RlcAogICAgICBhd2FpdCB1cGRhdGVQcm9ncmVzcyh7CiAgICAgICAgdXNlcklkLAogICAgICAgIGN1cnJlbnRTdGVwOiBuZXh0U3RlcCwKICAgICAgICBjb21wbGV0ZWRTdGVwczogbmV3Q29tcGxldGVkU3RlcHMsCiAgICAgIH0pOwogICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgY29uc29sZS5lcnJvcigiRXJyb3IgcHJvZ3Jlc3NpbmcgdG8gbmV4dCBzdGVwOiIsIGVycm9yKTsKICAgICAgdG9hc3QuZXJyb3IoIkZhaWxlZCB0byBzYXZlIHByb2dyZXNzIik7CiAgICB9CiAgfTsKCiAgY29uc3QgaGFuZGxlQmFjayA9ICgpID0+IHsKICAgIHNldEN1cnJlbnRTdGVwKChwcmV2KSA9PiBNYXRoLm1heCgxLCBwcmV2IC0gMSkpOwogIH07CgogIGNvbnN0IGhhbmRsZVNraXAgPSBhc3luYyAoc3RlcE51bWJlcjogbnVtYmVyKSA9PiB7CiAgICBpZiAoIXVzZXJJZCkgcmV0dXJuOwoKICAgIHRyeSB7CiAgICAgIGF3YWl0IHNraXBTdGVwKHsgdXNlcklkLCBzdGVwTnVtYmVyIH0pOwogICAgICBjb25zdCBuZXh0U3RlcCA9IHN0ZXBOdW1iZXIgKyAxOwogICAgICBzZXRDdXJyZW50U3RlcChuZXh0U3RlcCk7CiAgICAgIGF3YWl0IHVwZGF0ZVByb2dyZXNzKHsKICAgICAgICB1c2VySWQsCiAgICAgICAgY3VycmVudFN0ZXA6IG5leHRTdGVwLAogICAgICAgIHNraXBwZWRTdGVwczogW3N0ZXBOdW1iZXJdLAogICAgICB9KTsKICAgICAgdG9hc3QuaW5mbygiU3RlcCBza2lwcGVkIik7CiAgICB9IGNhdGNoIChlcnJvcikgewogICAgICBjb25zb2xlLmVycm9yKCJFcnJvciBza2lwcGluZyBzdGVwOiIsIGVycm9yKTsKICAgICAgdG9hc3QuZXJyb3IoIkZhaWxlZCB0byBza2lwIHN0ZXAiKTsKICAgIH0KICB9OwoKICBjb25zdCBoYW5kbGVTYXZlQW5kRXhpdCA9IGFzeW5jICgpID0+IHsKICAgIGlmICghdXNlcklkKSByZXR1cm47CgogICAgdHJ5IHsKICAgICAgYXdhaXQgdXBkYXRlUHJvZ3Jlc3MoewogICAgICAgIHVzZXJJZCwKICAgICAgICBjdXJyZW50U3RlcCwKICAgICAgICBjb21wbGV0ZWRTdGVwcywKICAgICAgfSk7CiAgICAgIHRvYXN0LnN1Y2Nlc3MoIlByb2dyZXNzIHNhdmVkISBZb3UgY2FuIGNvbnRpbnVlIGFueXRpbWUuIik7CiAgICAgIG5hdmlnYXRlKCIvZGFzaGJvYXJkIik7CiAgICB9IGNhdGNoIChlcnJvcikgewogICAgICBjb25zb2xlLmVycm9yKCJFcnJvciBzYXZpbmcgcHJvZ3Jlc3M6IiwgZXJyb3IpOwogICAgICB0b2FzdC5lcnJvcigiRmFpbGVkIHRvIHNhdmUgcHJvZ3Jlc3MiKTsKICAgIH0KICB9OwoKICBjb25zdCBoYW5kbGVDb21wbGV0ZSA9IGFzeW5jICgpID0+IHsKICAgIGlmICghdXNlcklkKSByZXR1cm47CgogICAgdHJ5IHsKICAgICAgLy8gQ3JlYXRlIHByb2ZpbGUKICAgICAgY29uc3QgcHJvZmlsZUlkID0gYXdhaXQgY3JlYXRlUHJvZmlsZSh7CiAgICAgICAgdXNlcklkLAogICAgICAgIGFnZTogcGFyc2VJbnQoZm9ybURhdGEuYWdlKSwKICAgICAgICBnZW5kZXI6IGZvcm1EYXRhLmdlbmRlciwKICAgICAgICBsb2NhdGlvbjogZm9ybURhdGEubG9jYXRpb24sCiAgICAgICAgYmlvOiBmb3JtRGF0YS5iaW8gfHwgdW5kZWZpbmVkLAogICAgICAgIGpvYlRpdGxlOiBmb3JtRGF0YS5qb2JUaXRsZSB8fCB1bmRlZmluZWQsCiAgICAgICAgZWR1Y2F0aW9uOiBmb3JtRGF0YS5lZHVjYXRpb24gfHwgdW5kZWZpbmVkLAogICAgICAgIHJlbGF0aW9uc2hpcEdvYWw6IGZvcm1EYXRhLnJlbGF0aW9uc2hpcEdvYWwgfHwgdW5kZWZpbmVkLAogICAgICB9KTsKCiAgICAgIC8vIFVwbG9hZCBwaG90b3MKICAgICAgZm9yIChsZXQgaSA9IDA7IGkgPCBwaG90b3MubGVuZ3RoOyBpKyspIHsKICAgICAgICBhd2FpdCB1cGxvYWRQaG90byh7CiAgICAgICAgICB1c2VySWQsCiAgICAgICAgICB1cmw6IHBob3Rvc1tpXSwKICAgICAgICAgIG9yZGVyOiBpLAogICAgICAgIH0pOwogICAgICB9CgogICAgICAvLyBTZXQgcHJlZmVyZW5jZXMKICAgICAgYXdhaXQgdXBkYXRlUHJlZmVyZW5jZXMoewogICAgICAgIHVzZXJJZCwKICAgICAgICBtaW5BZ2U6IHBhcnNlSW50KGZvcm1EYXRhLm1pbkFnZSksCiAgICAgICAgbWF4QWdlOiBwYXJzZUludChmb3JtRGF0YS5tYXhBZ2UpLAogICAgICAgIG1heERpc3RhbmNlOiBwYXJzZUludChmb3JtRGF0YS5tYXhEaXN0YW5jZSksCiAgICAgICAgZ2VuZGVyUHJlZmVyZW5jZTogZm9ybURhdGEuZ2VuZGVyUHJlZmVyZW5jZSwKICAgICAgfSk7CgogICAgICAvLyBDb21wbGV0ZSBvbmJvYXJkaW5nCiAgICAgIGF3YWl0IGNvbXBsZXRlT25ib2FyZGluZyh7IHVzZXJJZCB9KTsKCiAgICAgIC8vIEFjdGl2YXRlIGZyZWUgdHJpYWwKICAgICAgdHJ5IHsKICAgICAgICBjb25zdCB0cmlhbFJlc3VsdCA9IGF3YWl0IGFjdGl2YXRlRnJlZVRyaWFsKHsgdXNlcklkIH0pOwogICAgICAgIHRvYXN0LnN1Y2Nlc3MoIlByb2ZpbGUgY3JlYXRlZCBzdWNjZXNzZnVsbHkhIPCfjokiLCB7CiAgICAgICAgICBkZXNjcmlwdGlvbjogdHJpYWxSZXN1bHQubWVzc2FnZSwKICAgICAgICB9KTsKICAgICAgfSBjYXRjaCAoZXJyb3I6IGFueSkgewogICAgICAgIC8vIElmIHRyaWFsIGFscmVhZHkgdXNlZCwganVzdCBzaG93IHN1Y2Nlc3MKICAgICAgICB0b2FzdC5zdWNjZXNzKCJQcm9maWxlIGNyZWF0ZWQgc3VjY2Vzc2Z1bGx5ISDwn46JIik7CiAgICAgIH0KCiAgICAgIG5hdmlnYXRlKCIvZGlzY292ZXIiKTsKICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgIGNvbnNvbGUuZXJyb3IoIkVycm9yIGNvbXBsZXRpbmcgb25ib2FyZGluZzoiLCBlcnJvcik7CiAgICAgIHRvYXN0LmVycm9yKCJGYWlsZWQgdG8gY29tcGxldGUgc2V0dXAiKTsKICAgIH0KICB9OwoKICBpZiAoc2hvd1dlbGNvbWUpIHsKICAgIHJldHVybiA8V2VsY29tZVNjcmVlbiBvblN0YXJ0PXsoKSA9PiBzZXRTaG93V2VsY29tZShmYWxzZSl9IC8+OwogIH0KCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJtaW4taC1zY3JlZW4gYmctZ3JhZGllbnQtdG8tYnIgZnJvbS1wdXJwbGUtNTAgdG8tZW1lcmFsZC01MCBkYXJrOmZyb20tZ3JheS05MDAgZGFyazp0by1ncmF5LTgwMCBweS04IHB4LTQiPgogICAgICA8U3RlcEluZGljYXRvciBjdXJyZW50U3RlcD17Y3VycmVudFN0ZXB9IHRvdGFsU3RlcHM9ezV9IGNvbXBsZXRlZFN0ZXBzPXtjb21wbGV0ZWRTdGVwc30gLz4KCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJtYXgtdy00eGwgbXgtYXV0byBtdC04Ij4KICAgICAgICB7Y3VycmVudFN0ZXAgPT09IDEgJiYgKAogICAgICAgICAgPFN0ZXAxQmFzaWNJbmZvCiAgICAgICAgICAgIGZvcm1EYXRhPXt7CiAgICAgICAgICAgICAgYWdlOiBmb3JtRGF0YS5hZ2UsCiAgICAgICAgICAgICAgZ2VuZGVyOiBmb3JtRGF0YS5nZW5kZXIsCiAgICAgICAgICAgICAgbG9jYXRpb246IGZvcm1EYXRhLmxvY2F0aW9uLAogICAgICAgICAgICB9fQogICAgICAgICAgICBvbkNoYW5nZT17aGFuZGxlQ2hhbmdlfQogICAgICAgICAgICBvbk5leHQ9eygpID0+IGhhbmRsZU5leHQoMSl9CiAgICAgICAgICAgIG9uU2F2ZUFuZEV4aXQ9e2hhbmRsZVNhdmVBbmRFeGl0fQogICAgICAgICAgLz4KICAgICAgICApfQoKICAgICAgICB7Y3VycmVudFN0ZXAgPT09IDIgJiYgKAogICAgICAgICAgPFN0ZXAyUGhvdG9zCiAgICAgICAgICAgIHBob3Rvcz17cGhvdG9zfQogICAgICAgICAgICBvblBob3Rvc0NoYW5nZT17c2V0UGhvdG9zfQogICAgICAgICAgICBvbk5leHQ9eygpID0+IGhhbmRsZU5leHQoMil9CiAgICAgICAgICAgIG9uQmFjaz17aGFuZGxlQmFja30KICAgICAgICAgICAgb25TYXZlQW5kRXhpdD17aGFuZGxlU2F2ZUFuZEV4aXR9CiAgICAgICAgICAvPgogICAgICAgICl9CgogICAgICAgIHtjdXJyZW50U3RlcCA9PT0gMyAmJiAoCiAgICAgICAgICA8U3RlcDNBYm91dFlvdQogICAgICAgICAgICBmb3JtRGF0YT17ewogICAgICAgICAgICAgIGJpbzogZm9ybURhdGEuYmlvLAogICAgICAgICAgICAgIGpvYlRpdGxlOiBmb3JtRGF0YS5qb2JUaXRsZSwKICAgICAgICAgICAgICBlZHVjYXRpb246IGZvcm1EYXRhLmVkdWNhdGlvbiwKICAgICAgICAgICAgfX0KICAgICAgICAgICAgb25DaGFuZ2U9e2hhbmRsZUNoYW5nZX0KICAgICAgICAgICAgb25OZXh0PXsoKSA9PiBoYW5kbGVOZXh0KDMpfQogICAgICAgICAgICBvbkJhY2s9e2hhbmRsZUJhY2t9CiAgICAgICAgICAgIG9uU2tpcD17KCkgPT4gaGFuZGxlU2tpcCgzKX0KICAgICAgICAgICAgb25TYXZlQW5kRXhpdD17aGFuZGxlU2F2ZUFuZEV4aXR9CiAgICAgICAgICAvPgogICAgICAgICl9CgogICAgICAgIHtjdXJyZW50U3RlcCA9PT0gNCAmJiAoCiAgICAgICAgICA8U3RlcDRHb2FscwogICAgICAgICAgICBmb3JtRGF0YT17ewogICAgICAgICAgICAgIHJlbGF0aW9uc2hpcEdvYWw6IGZvcm1EYXRhLnJlbGF0aW9uc2hpcEdvYWwsCiAgICAgICAgICAgIH19CiAgICAgICAgICAgIG9uQ2hhbmdlPXtoYW5kbGVDaGFuZ2V9CiAgICAgICAgICAgIG9uTmV4dD17KCkgPT4gaGFuZGxlTmV4dCg0KX0KICAgICAgICAgICAgb25CYWNrPXtoYW5kbGVCYWNrfQogICAgICAgICAgICBvblNraXA9eygpID0+IGhhbmRsZVNraXAoNCl9CiAgICAgICAgICAgIG9uU2F2ZUFuZEV4aXQ9e2hhbmRsZVNhdmVBbmRFeGl0fQogICAgICAgICAgLz4KICAgICAgICApfQoKICAgICAgICB7Y3VycmVudFN0ZXAgPT09IDUgJiYgKAogICAgICAgICAgPFN0ZXA1UHJlZmVyZW5jZXMKICAgICAgICAgICAgZm9ybURhdGE9e3sKICAgICAgICAgICAgICBtaW5BZ2U6IGZvcm1EYXRhLm1pbkFnZSwKICAgICAgICAgICAgICBtYXhBZ2U6IGZvcm1EYXRhLm1heEFnZSwKICAgICAgICAgICAgICBtYXhEaXN0YW5jZTogZm9ybURhdGEubWF4RGlzdGFuY2UsCiAgICAgICAgICAgICAgZ2VuZGVyUHJlZmVyZW5jZTogZm9ybURhdGEuZ2VuZGVyUHJlZmVyZW5jZSwKICAgICAgICAgICAgfX0KICAgICAgICAgICAgb25DaGFuZ2U9e2hhbmRsZUNoYW5nZX0KICAgICAgICAgICAgb25Db21wbGV0ZT17aGFuZGxlQ29tcGxldGV9CiAgICAgICAgICAgIG9uQmFjaz17aGFuZGxlQmFja30KICAgICAgICAgICAgb25TYXZlQW5kRXhpdD17aGFuZGxlU2F2ZUFuZEV4aXR9CiAgICAgICAgICAvPgogICAgICAgICl9CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfTsKCmV4cG9ydCBkZWZhdWx0IE9uYm9hcmRpbmdXaXphcmQ7Cg=="}
+import { useState, useEffect } from "react";
+import { useNavigate } from "react-router-dom";
+import { useMutation, useQuery } from "convex/react";
+import { api } from "../../convex/_generated/api";
+import { useAuth } from "@/contexts/AuthContext";
+import { toast } from "sonner";
+import { WelcomeScreen } from "@/components/onboarding/WelcomeScreen";
+import { StepIndicator } from "@/components/onboarding/StepIndicator";
+import { Step1BasicInfo } from "@/components/onboarding/Step1BasicInfo";
+import { Step2Photos } from "@/components/onboarding/Step2Photos";
+import { Step3AboutYou } from "@/components/onboarding/Step3AboutYou";
+import { Step4Goals } from "@/components/onboarding/Step4Goals";
+import { Step5Preferences } from "@/components/onboarding/Step5Preferences";
+
+const OnboardingWizard = () => {
+  const navigate = useNavigate();
+  const { user } = useAuth();
+  const userId = user?._id;
+
+  const [showWelcome, setShowWelcome] = useState(true);
+  const [currentStep, setCurrentStep] = useState(1);
+  const [completedSteps, setCompletedSteps] = useState<number[]>([]);
+  const [formData, setFormData] = useState({
+    age: "",
+    gender: "",
+    location: "",
+    bio: "",
+    jobTitle: "",
+    education: "",
+    relationshipGoal: "",
+    minAge: "",
+    maxAge: "",
+    maxDistance: "50",
+    genderPreference: [] as string[],
+  });
+  const [photos, setPhotos] = useState<string[]>([]);
+
+  // Mutations
+  const updateProgress = useMutation(api.onboarding.updateProgress);
+  const completeStep = useMutation(api.onboarding.completeStep);
+  const skipStep = useMutation(api.onboarding.skipStep);
+  const completeOnboarding = useMutation(api.onboarding.completeOnboarding);
+  const createProfile = useMutation(api.profiles.createProfile);
+  const uploadPhoto = useMutation(api.profiles.uploadPhoto);
+  const updatePreferences = useMutation(api.profiles.updatePreferences);
+  const activateFreeTrial = useMutation(api.freeTrial.activateFreeTrial);
+
+  // Query existing progress
+  const existingProgress = useQuery(
+    api.onboarding.getProgress,
+    userId ? { userId } : "skip"
+  );
+
+  // Load existing progress or initialize it
+  useEffect(() => {
+    const initializeProgress = async () => {
+      if (!userId) return;
+
+      if (existingProgress) {
+        setCurrentStep(existingProgress.currentStep);
+        setCompletedSteps(existingProgress.completedSteps);
+        setShowWelcome(false);
+      } else if (userId && existingProgress === null) {
+        // No progress exists, create initial progress record
+        try {
+          await updateProgress({
+            userId,
+            currentStep: 1,
+            completedSteps: [],
+          });
+        } catch (error) {
+          console.error("Error initializing onboarding progress:", error);
+        }
+      }
+    };
+
+    initializeProgress();
+  }, [existingProgress, userId, updateProgress]);
+
+  const handleChange = (field: string, value: string | string[]) => {
+    setFormData((prev) => ({ ...prev, [field]: value }));
+  };
+
+  const handleNext = async (stepNumber: number) => {
+    if (!userId) return;
+
+    try {
+      // Update completed steps state first
+      const newCompletedSteps = [...completedSteps, stepNumber];
+      setCompletedSteps(newCompletedSteps);
+
+      // Move to next step
+      const nextStep = stepNumber + 1;
+      setCurrentStep(nextStep);
+
+      // Mark current step as completed and update progress in one call
+      await completeStep({ userId, stepNumber });
+      
+      // Update progress to move to next step
+      await updateProgress({
+        userId,
+        currentStep: nextStep,
+        completedSteps: newCompletedSteps,
+      });
+    } catch (error) {
+      console.error("Error progressing to next step:", error);
+      toast.error("Failed to save progress");
+    }
+  };
+
+  const handleBack = () => {
+    setCurrentStep((prev) => Math.max(1, prev - 1));
+  };
+
+  const handleSkip = async (stepNumber: number) => {
+    if (!userId) return;
+
+    try {
+      await skipStep({ userId, stepNumber });
+      const nextStep = stepNumber + 1;
+      setCurrentStep(nextStep);
+      await updateProgress({
+        userId,
+        currentStep: nextStep,
+        skippedSteps: [stepNumber],
+      });
+      toast.info("Step skipped");
+    } catch (error) {
+      console.error("Error skipping step:", error);
+      toast.error("Failed to skip step");
+    }
+  };
+
+  const handleSaveAndExit = async () => {
+    if (!userId) return;
+
+    try {
+      await updateProgress({
+        userId,
+        currentStep,
+        completedSteps,
+      });
+      toast.success("Progress saved! You can continue anytime.");
+      navigate("/dashboard");
+    } catch (error) {
+      console.error("Error saving progress:", error);
+      toast.error("Failed to save progress");
+    }
+  };
+
+  const handleComplete = async () => {
+    if (!userId) return;
+
+    try {
+      // Create profile
+      const profileId = await createProfile({
+        userId,
+        age: parseInt(formData.age),
+        gender: formData.gender,
+        location: formData.location,
+        bio: formData.bio || undefined,
+        jobTitle: formData.jobTitle || undefined,
+        education: formData.education || undefined,
+        relationshipGoal: formData.relationshipGoal || undefined,
+      });
+
+      // Upload photos
+      for (let i = 0; i < photos.length; i++) {
+        await uploadPhoto({
+          userId,
+          url: photos[i],
+          order: i,
+        });
+      }
+
+      // Set preferences
+      await updatePreferences({
+        userId,
+        minAge: parseInt(formData.minAge),
+        maxAge: parseInt(formData.maxAge),
+        maxDistance: parseInt(formData.maxDistance),
+        genderPreference: formData.genderPreference,
+      });
+
+      // Complete onboarding
+      await completeOnboarding({ userId });
+
+      // Activate free trial
+      try {
+        const trialResult = await activateFreeTrial({ userId });
+        toast.success("Profile created successfully! 🎉", {
+          description: trialResult.message,
+        });
+      } catch (error: any) {
+        // If trial already used, just show success
+        toast.success("Profile created successfully! 🎉");
+      }
+
+      navigate("/discover");
+    } catch (error) {
+      console.error("Error completing onboarding:", error);
+      toast.error("Failed to complete setup");
+    }
+  };
+
+  if (showWelcome) {
+    return <WelcomeScreen onStart={() => setShowWelcome(false)} />;
+  }
+
+  return (
+    <div className="min-h-screen bg-gradient-to-br from-purple-50 to-emerald-50 dark:from-gray-900 dark:to-gray-800 py-8 px-4">
+      <StepIndicator currentStep={currentStep} totalSteps={5} completedSteps={completedSteps} />
+
+      <div className="max-w-4xl mx-auto mt-8">
+        {currentStep === 1 && (
+          <Step1BasicInfo
+            formData={{
+              age: formData.age,
+              gender: formData.gender,
+              location: formData.location,
+            }}
+            onChange={handleChange}
+            onNext={() => handleNext(1)}
+            onSaveAndExit={handleSaveAndExit}
+          />
+        )}
+
+        {currentStep === 2 && (
+          <Step2Photos
+            photos={photos}
+            onPhotosChange={setPhotos}
+            onNext={() => handleNext(2)}
+            onBack={handleBack}
+            onSaveAndExit={handleSaveAndExit}
+          />
+        )}
+
+        {currentStep === 3 && (
+          <Step3AboutYou
+            formData={{
+              bio: formData.bio,
+              jobTitle: formData.jobTitle,
+              education: formData.education,
+            }}
+            onChange={handleChange}
+            onNext={() => handleNext(3)}
+            onBack={handleBack}
+            onSkip={() => handleSkip(3)}
+            onSaveAndExit={handleSaveAndExit}
+          />
+        )}
+
+        {currentStep === 4 && (
+          <Step4Goals
+            formData={{
+              relationshipGoal: formData.relationshipGoal,
+            }}
+            onChange={handleChange}
+            onNext={() => handleNext(4)}
+            onBack={handleBack}
+            onSkip={() => handleSkip(4)}
+            onSaveAndExit={handleSaveAndExit}
+          />
+        )}
+
+        {currentStep === 5 && (
+          <Step5Preferences
+            formData={{
+              minAge: formData.minAge,
+              maxAge: formData.maxAge,
+              maxDistance: formData.maxDistance,
+              genderPreference: formData.genderPreference,
+            }}
+            onChange={handleChange}
+            onComplete={handleComplete}
+            onBack={handleBack}
+            onSaveAndExit={handleSaveAndExit}
+          />
+        )}
+      </div>
+    </div>
+  );
+};
+
+export default OnboardingWizard;

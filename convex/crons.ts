@@ -1,1 +1,44 @@
-{"data":"aW1wb3J0IHsgY3JvbkpvYnMgfSBmcm9tICJjb252ZXgvc2VydmVyIjsKaW1wb3J0IHsgaW50ZXJuYWwgfSBmcm9tICIuL19nZW5lcmF0ZWQvYXBpIjsKCmNvbnN0IGNyb25zID0gY3JvbkpvYnMoKTsKCi8vIENsZWFuIHVwIG9sZCByZWFkIG5vdGlmaWNhdGlvbnMgZXZlcnkgZGF5IGF0IDMgQU0gVVRDCmNyb25zLmRhaWx5KAogICJjbGVhbnVwLW9sZC1ub3RpZmljYXRpb25zIiwKICB7IGhvdXJVVEM6IDMsIG1pbnV0ZVVUQzogMCB9LAogIGludGVybmFsLm5vdGlmaWNhdGlvbnMuY2xlYW51cE9sZE5vdGlmaWNhdGlvbnMKKTsKCi8vIENsZWFuIHVwIGV4cGlyZWQgbm90aWZpY2F0aW9ucyBldmVyeSBob3VyCmNyb25zLmhvdXJseSgKICAiY2xlYW51cC1leHBpcmVkLW5vdGlmaWNhdGlvbnMiLAogIHsgbWludXRlVVRDOiAwIH0sCiAgaW50ZXJuYWwubm90aWZpY2F0aW9ucy5kZWxldGVFeHBpcmVkTm90aWZpY2F0aW9ucwopOwoKLy8gUGhhc2UgNDogUHJvY2VzcyBzY2hlZHVsZWQgYWNjb3VudCBkZWxldGlvbnMgZGFpbHkgYXQgMiBBTSBVVEMKY3JvbnMuZGFpbHkoCiAgInByb2Nlc3Mtc2NoZWR1bGVkLWRlbGV0aW9ucyIsCiAgeyBob3VyVVRDOiAyLCBtaW51dGVVVEM6IDAgfSwKICBpbnRlcm5hbC5hY2NvdW50TWFuYWdlbWVudC5wcm9jZXNzU2NoZWR1bGVkRGVsZXRpb25zCik7CgovLyBQaGFzZSA0OiBDbGVhbiB1cCBleHBpcmVkIGRhdGEgZXhwb3J0cyBkYWlseSBhdCA0IEFNIFVUQwpjcm9ucy5kYWlseSgKICAiY2xlYW51cC1leHBpcmVkLWV4cG9ydHMiLAogIHsgaG91clVUQzogNCwgbWludXRlVVRDOiAwIH0sCiAgaW50ZXJuYWwuZGF0YUV4cG9ydC5jbGVhbnVwRXhwaXJlZEV4cG9ydHMKKTsKCi8vIFBheW1lbnRzOiBkZWxldGUgZmFpbGVkIHRyYW5zYWN0aW9ucyBmcm9tIGJpbGxpbmcgaGlzdG9yeSBhZnRlciAxMCBtaW51dGVzCmNyb25zLmludGVydmFsKAogICJjbGVhbnVwLWZhaWxlZC1wYXltZW50cyIsCiAgeyBtaW51dGVzOiAxIH0sCiAgaW50ZXJuYWwucGF5bWVudHMuY2xlYW51cE9sZEZhaWxlZFBheW1lbnRzLAogIHsgb2xkZXJUaGFuTWludXRlczogMTAsIGJhdGNoU2l6ZTogMjAwIH0KKTsKCgoKZXhwb3J0IGRlZmF1bHQgY3JvbnM7Cg=="}
+import { cronJobs } from "convex/server";
+import { internal } from "./_generated/api";
+
+const crons = cronJobs();
+
+// Clean up old read notifications every day at 3 AM UTC
+crons.daily(
+  "cleanup-old-notifications",
+  { hourUTC: 3, minuteUTC: 0 },
+  internal.notifications.cleanupOldNotifications
+);
+
+// Clean up expired notifications every hour
+crons.hourly(
+  "cleanup-expired-notifications",
+  { minuteUTC: 0 },
+  internal.notifications.deleteExpiredNotifications
+);
+
+// Phase 4: Process scheduled account deletions daily at 2 AM UTC
+crons.daily(
+  "process-scheduled-deletions",
+  { hourUTC: 2, minuteUTC: 0 },
+  internal.accountManagement.processScheduledDeletions
+);
+
+// Phase 4: Clean up expired data exports daily at 4 AM UTC
+crons.daily(
+  "cleanup-expired-exports",
+  { hourUTC: 4, minuteUTC: 0 },
+  internal.dataExport.cleanupExpiredExports
+);
+
+// Payments: delete failed transactions from billing history after 10 minutes
+crons.interval(
+  "cleanup-failed-payments",
+  { minutes: 1 },
+  internal.payments.cleanupOldFailedPayments,
+  { olderThanMinutes: 10, batchSize: 200 }
+);
+
+
+
+export default crons;

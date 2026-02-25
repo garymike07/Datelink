@@ -1,1 +1,143 @@
-{"data":"aW1wb3J0IFJlYWN0IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgdXNlUXVlcnkgfSBmcm9tICJjb252ZXgvcmVhY3QiOwppbXBvcnQgeyBhcGkgfSBmcm9tICIuLi8uLi8uLi9jb252ZXgvX2dlbmVyYXRlZC9hcGkiOwppbXBvcnQgeyBDYXJkLCBDYXJkQ29udGVudCB9IGZyb20gIkAvY29tcG9uZW50cy91aS9jYXJkIjsKaW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2J1dHRvbiI7CmltcG9ydCB7IEJhZGdlIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2JhZGdlIjsKaW1wb3J0IHsgTWFwUGluLCBDbG9jaywgQ2hldnJvbkxlZnQsIENoZXZyb25SaWdodCB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IHVzZU5hdmlnYXRlIH0gZnJvbSAicmVhY3Qtcm91dGVyLWRvbSI7CgppbnRlcmZhY2UgTmV3SW5BcmVhQ2Fyb3VzZWxQcm9wcyB7CiAgdXNlcklkOiBzdHJpbmc7CiAgZGF5c0JhY2s/OiBudW1iZXI7CiAgbGltaXQ/OiBudW1iZXI7Cn0KCmNvbnN0IE5ld0luQXJlYUNhcm91c2VsOiBSZWFjdC5GQzxOZXdJbkFyZWFDYXJvdXNlbFByb3BzPiA9ICh7CiAgdXNlcklkLAogIGRheXNCYWNrID0gNywKICBsaW1pdCA9IDEwLAp9KSA9PiB7CiAgY29uc3QgbmF2aWdhdGUgPSB1c2VOYXZpZ2F0ZSgpOwogIGNvbnN0IFtzY3JvbGxQb3NpdGlvbiwgc2V0U2Nyb2xsUG9zaXRpb25dID0gUmVhY3QudXNlU3RhdGUoMCk7CiAgY29uc3Qgc2Nyb2xsUmVmID0gUmVhY3QudXNlUmVmPEhUTUxEaXZFbGVtZW50PihudWxsKTsKCiAgY29uc3QgbmV3UHJvZmlsZXMgPSB1c2VRdWVyeShhcGkuZGlzY292ZXJ5LmdldE5ld0luQXJlYSwgewogICAgdXNlcklkLAogICAgZGF5c0JhY2ssCiAgICBsaW1pdCwKICB9KTsKCiAgY29uc3Qgc2Nyb2xsID0gKGRpcmVjdGlvbjogImxlZnQiIHwgInJpZ2h0IikgPT4gewogICAgaWYgKCFzY3JvbGxSZWYuY3VycmVudCkgcmV0dXJuOwogICAgY29uc3Qgc2Nyb2xsQW1vdW50ID0gMzAwOwogICAgY29uc3QgbmV3UG9zaXRpb24gPQogICAgICBkaXJlY3Rpb24gPT09ICJsZWZ0IgogICAgICAgID8gc2Nyb2xsUG9zaXRpb24gLSBzY3JvbGxBbW91bnQKICAgICAgICA6IHNjcm9sbFBvc2l0aW9uICsgc2Nyb2xsQW1vdW50OwogICAgc2Nyb2xsUmVmLmN1cnJlbnQuc2Nyb2xsVG8oeyBsZWZ0OiBuZXdQb3NpdGlvbiwgYmVoYXZpb3I6ICJzbW9vdGgiIH0pOwogICAgc2V0U2Nyb2xsUG9zaXRpb24obmV3UG9zaXRpb24pOwogIH07CgogIGlmICghbmV3UHJvZmlsZXMpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS15LTQiPgogICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQtMnhsIGZvbnQtYm9sZCI+TmV3IGluIFlvdXIgQXJlYTwvaDI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZ2FwLTQgb3ZlcmZsb3ctaGlkZGVuIj4KICAgICAgICAgIHtbMSwgMiwgMywgNF0ubWFwKChpKSA9PiAoCiAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICBrZXk9e2l9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ3LTQ4IGgtNjQgYmctZ3JheS0xMDAgZGFyazpiZy1ncmF5LTgwMCByb3VuZGVkLWxnIGFuaW1hdGUtcHVsc2UgZmxleC1zaHJpbmstMCIKICAgICAgICAgICAgLz4KICAgICAgICAgICkpfQogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgICk7CiAgfQoKICBpZiAobmV3UHJvZmlsZXMubGVuZ3RoID09PSAwKSB7CiAgICByZXR1cm4gbnVsbDsKICB9CgogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ic3BhY2UteS00Ij4KICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiI+CiAgICAgICAgPGRpdj4KICAgICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQtMnhsIGZvbnQtYm9sZCI+TmV3IGluIFlvdXIgQXJlYTwvaDI+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAge25ld1Byb2ZpbGVzLmxlbmd0aH0gbmV3IHtuZXdQcm9maWxlcy5sZW5ndGggPT09IDEgPyAicGVyc29uIiA6ICJwZW9wbGUifSBqb2luZWQgcmVjZW50bHkKICAgICAgICAgIDwvcD4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBnYXAtMiI+CiAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgIHZhcmlhbnQ9Im91dGxpbmUiCiAgICAgICAgICAgIHNpemU9Imljb24iCiAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNjcm9sbCgibGVmdCIpfQogICAgICAgICAgICBkaXNhYmxlZD17c2Nyb2xsUG9zaXRpb24gPD0gMH0KICAgICAgICAgID4KICAgICAgICAgICAgPENoZXZyb25MZWZ0IGNsYXNzTmFtZT0iaC00IHctNCIgLz4KICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICB2YXJpYW50PSJvdXRsaW5lIgogICAgICAgICAgICBzaXplPSJpY29uIgogICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBzY3JvbGwoInJpZ2h0Iil9CiAgICAgICAgICA+CiAgICAgICAgICAgIDxDaGV2cm9uUmlnaHQgY2xhc3NOYW1lPSJoLTQgdy00IiAvPgogICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgoKICAgICAgPGRpdgogICAgICAgIHJlZj17c2Nyb2xsUmVmfQogICAgICAgIGNsYXNzTmFtZT0iZmxleCBnYXAtNCBvdmVyZmxvdy14LWF1dG8gc2Nyb2xsYmFyLWhpZGUgcGItNCIKICAgICAgICBzdHlsZT17eyBzY3JvbGxiYXJXaWR0aDogIm5vbmUiLCBtc092ZXJmbG93U3R5bGU6ICJub25lIiB9fQogICAgICA+CiAgICAgICAge25ld1Byb2ZpbGVzLm1hcCgocHJvZmlsZTogYW55KSA9PiB7CiAgICAgICAgICBjb25zdCBwcmltYXJ5UGhvdG8gPSBwcm9maWxlLnBob3Rvcy5maW5kKChwOiBhbnkpID0+IHAuaXNQcmltYXJ5KSB8fCBwcm9maWxlLnBob3Rvc1swXTsKICAgICAgICAgIAogICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgPENhcmQKICAgICAgICAgICAgICBrZXk9e3Byb2ZpbGUuX2lkfQogICAgICAgICAgICAgIGNsYXNzTmFtZT0idy00OCBmbGV4LXNocmluay0wIGN1cnNvci1wb2ludGVyIGhvdmVyOnNoYWRvdy1sZyB0cmFuc2l0aW9uLXNoYWRvdyIKICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBuYXZpZ2F0ZShgL3Byb2ZpbGUvJHtwcm9maWxlLnVzZXJJZH1gKX0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIDxDYXJkQ29udGVudCBjbGFzc05hbWU9InAtMCI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icmVsYXRpdmUiPgogICAgICAgICAgICAgICAgICA8aW1nCiAgICAgICAgICAgICAgICAgICAgc3JjPXtwcmltYXJ5UGhvdG8/LnVybCB8fCAiL3BsYWNlaG9sZGVyLnN2ZyJ9CiAgICAgICAgICAgICAgICAgICAgYWx0PXtwcm9maWxlLm5hbWV9CiAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ3LWZ1bGwgaC02NCBvYmplY3QtY292ZXIgcm91bmRlZC10LWxnIgogICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICA8QmFkZ2UKICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImFic29sdXRlIHRvcC0yIHJpZ2h0LTIgYmctZ3JlZW4tNTAwIgogICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgPENsb2NrIGNsYXNzTmFtZT0iaC0zIHctMyBtci0xIiAvPgogICAgICAgICAgICAgICAgICAgIHtwcm9maWxlLmpvaW5lZERheXNBZ28gPT09IDAgPyAiVG9kYXkiIDogYCR7cHJvZmlsZS5qb2luZWREYXlzQWdvfWQgYWdvYH0KICAgICAgICAgICAgICAgICAgPC9CYWRnZT4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InAtNCBzcGFjZS15LTIiPgogICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgIDxoMyBjbGFzc05hbWU9ImZvbnQtc2VtaWJvbGQgdGV4dC1sZyI+CiAgICAgICAgICAgICAgICAgICAgICB7cHJvZmlsZS5uYW1lfSwge3Byb2ZpbGUuYWdlfQogICAgICAgICAgICAgICAgICAgIDwvaDM+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIHRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgICAgICAgICAgIDxNYXBQaW4gY2xhc3NOYW1lPSJoLTMgdy0zIG1yLTEiIC8+CiAgICAgICAgICAgICAgICAgICAgICB7cHJvZmlsZS5sb2NhdGlvbn0KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgIHtwcm9maWxlLmpvYlRpdGxlICYmICgKICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIHRydW5jYXRlIj4KICAgICAgICAgICAgICAgICAgICAgIHtwcm9maWxlLmpvYlRpdGxlfQogICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvQ2FyZENvbnRlbnQ+CiAgICAgICAgICAgIDwvQ2FyZD4KICAgICAgICAgICk7CiAgICAgICAgfSl9CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfTsKCmV4cG9ydCBkZWZhdWx0IE5ld0luQXJlYUNhcm91c2VsOwo="}
+import React from "react";
+import { useQuery } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import { Card, CardContent } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+import { Badge } from "@/components/ui/badge";
+import { MapPin, Clock, ChevronLeft, ChevronRight } from "lucide-react";
+import { useNavigate } from "react-router-dom";
+
+interface NewInAreaCarouselProps {
+  userId: string;
+  daysBack?: number;
+  limit?: number;
+}
+
+const NewInAreaCarousel: React.FC<NewInAreaCarouselProps> = ({
+  userId,
+  daysBack = 7,
+  limit = 10,
+}) => {
+  const navigate = useNavigate();
+  const [scrollPosition, setScrollPosition] = React.useState(0);
+  const scrollRef = React.useRef<HTMLDivElement>(null);
+
+  const newProfiles = useQuery(api.discovery.getNewInArea, {
+    userId,
+    daysBack,
+    limit,
+  });
+
+  const scroll = (direction: "left" | "right") => {
+    if (!scrollRef.current) return;
+    const scrollAmount = 300;
+    const newPosition =
+      direction === "left"
+        ? scrollPosition - scrollAmount
+        : scrollPosition + scrollAmount;
+    scrollRef.current.scrollTo({ left: newPosition, behavior: "smooth" });
+    setScrollPosition(newPosition);
+  };
+
+  if (!newProfiles) {
+    return (
+      <div className="space-y-4">
+        <h2 className="text-2xl font-bold">New in Your Area</h2>
+        <div className="flex gap-4 overflow-hidden">
+          {[1, 2, 3, 4].map((i) => (
+            <div
+              key={i}
+              className="w-48 h-64 bg-gray-100 dark:bg-gray-800 rounded-lg animate-pulse flex-shrink-0"
+            />
+          ))}
+        </div>
+      </div>
+    );
+  }
+
+  if (newProfiles.length === 0) {
+    return null;
+  }
+
+  return (
+    <div className="space-y-4">
+      <div className="flex items-center justify-between">
+        <div>
+          <h2 className="text-2xl font-bold">New in Your Area</h2>
+          <p className="text-sm text-muted-foreground">
+            {newProfiles.length} new {newProfiles.length === 1 ? "person" : "people"} joined recently
+          </p>
+        </div>
+        <div className="flex gap-2">
+          <Button
+            variant="outline"
+            size="icon"
+            onClick={() => scroll("left")}
+            disabled={scrollPosition <= 0}
+          >
+            <ChevronLeft className="h-4 w-4" />
+          </Button>
+          <Button
+            variant="outline"
+            size="icon"
+            onClick={() => scroll("right")}
+          >
+            <ChevronRight className="h-4 w-4" />
+          </Button>
+        </div>
+      </div>
+
+      <div
+        ref={scrollRef}
+        className="flex gap-4 overflow-x-auto scrollbar-hide pb-4"
+        style={{ scrollbarWidth: "none", msOverflowStyle: "none" }}
+      >
+        {newProfiles.map((profile: any) => {
+          const primaryPhoto = profile.photos.find((p: any) => p.isPrimary) || profile.photos[0];
+          
+          return (
+            <Card
+              key={profile._id}
+              className="w-48 flex-shrink-0 cursor-pointer hover:shadow-lg transition-shadow"
+              onClick={() => navigate(`/profile/${profile.userId}`)}
+            >
+              <CardContent className="p-0">
+                <div className="relative">
+                  <img
+                    src={primaryPhoto?.url || "/placeholder.svg"}
+                    alt={profile.name}
+                    className="w-full h-64 object-cover rounded-t-lg"
+                  />
+                  <Badge
+                    className="absolute top-2 right-2 bg-green-500"
+                  >
+                    <Clock className="h-3 w-3 mr-1" />
+                    {profile.joinedDaysAgo === 0 ? "Today" : `${profile.joinedDaysAgo}d ago`}
+                  </Badge>
+                </div>
+                <div className="p-4 space-y-2">
+                  <div>
+                    <h3 className="font-semibold text-lg">
+                      {profile.name}, {profile.age}
+                    </h3>
+                    <div className="flex items-center text-sm text-muted-foreground">
+                      <MapPin className="h-3 w-3 mr-1" />
+                      {profile.location}
+                    </div>
+                  </div>
+                  {profile.jobTitle && (
+                    <p className="text-sm text-muted-foreground truncate">
+                      {profile.jobTitle}
+                    </p>
+                  )}
+                </div>
+              </CardContent>
+            </Card>
+          );
+        })}
+      </div>
+    </div>
+  );
+};
+
+export default NewInAreaCarousel;

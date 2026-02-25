@@ -1,1 +1,21 @@
-{"data":"ewogICJidWlsZENvbW1hbmQiOiAibnBtIHJ1biBidWlsZCIsCiAgIm91dHB1dERpcmVjdG9yeSI6ICJkaXN0IiwKICAiZGV2Q29tbWFuZCI6ICJucG0gcnVuIGRldiIsCiAgImluc3RhbGxDb21tYW5kIjogIm5wbSBpbnN0YWxsIiwKICAiZnJhbWV3b3JrIjogInZpdGUiLAogICJyb3V0ZXMiOiBbCiAgICB7CiAgICAgICJzcmMiOiAiL2Fzc2V0cy8oLiopIiwKICAgICAgImRlc3QiOiAiL2Fzc2V0cy8kMSIKICAgIH0sCiAgICB7CiAgICAgICJzcmMiOiAiLyguKlxcLihqc3xjc3N8anNvbnxpY298cG5nfGpwZ3xqcGVnfHN2Z3xnaWZ8d29mZnx3b2ZmMnx0dGZ8ZW90KSkiLAogICAgICAiZGVzdCI6ICIvJDEiCiAgICB9LAogICAgewogICAgICAic3JjIjogIi8oLiopIiwKICAgICAgImRlc3QiOiAiL2luZGV4Lmh0bWwiCiAgICB9CiAgXQp9Cg=="}
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "framework": "vite",
+  "routes": [
+    {
+      "src": "/assets/(.*)",
+      "dest": "/assets/$1"
+    },
+    {
+      "src": "/(.*\\.(js|css|json|ico|png|jpg|jpeg|svg|gif|woff|woff2|ttf|eot))",
+      "dest": "/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}

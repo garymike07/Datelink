@@ -1,1 +1,65 @@
-{"data":"aW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VDYWxsYmFjaywgdXNlUmVmIH0gZnJvbSAicmVhY3QiOwppbXBvcnQgeyB1c2VRdWVyeSwgdXNlTXV0YXRpb24gfSBmcm9tICJjb252ZXgvcmVhY3QiOwppbXBvcnQgeyBhcGkgfSBmcm9tICIuLi8uLi9jb252ZXgvX2dlbmVyYXRlZC9hcGkiOwppbXBvcnQgeyBzaG93QnJvd3Nlck5vdGlmaWNhdGlvbiB9IGZyb20gIkAvbGliL3B1c2hOb3RpZmljYXRpb25zIjsKaW1wb3J0IHsgdXNlVG9hc3QgfSBmcm9tICIuL3VzZS10b2FzdCI7CgpleHBvcnQgZnVuY3Rpb24gdXNlTm90aWZpY2F0aW9ucyh1c2VySWQ6IHN0cmluZyB8IG51bGwpIHsKICBjb25zdCB7IHRvYXN0IH0gPSB1c2VUb2FzdCgpOwogIGNvbnN0IGxhc3ROb3RpZmljYXRpb25JZCA9IHVzZVJlZjxzdHJpbmcgfCBudWxsPihudWxsKTsKICAKICAvLyBTdWJzY3JpYmUgdG8gbm90aWZpY2F0aW9ucwogIGNvbnN0IG5vdGlmaWNhdGlvbnMgPSB1c2VRdWVyeSgKICAgIGFwaS5ub3RpZmljYXRpb25zLmdldE5vdGlmaWNhdGlvbnMsCiAgICB1c2VySWQgPyB7IHVzZXJJZDogdXNlcklkIGFzIGFueSwgbGltaXQ6IDEsIHVucmVhZE9ubHk6IHRydWUgfSA6ICJza2lwIgogICk7CiAgCiAgY29uc3QgdW5yZWFkQ291bnRzID0gdXNlUXVlcnkoCiAgICBhcGkubm90aWZpY2F0aW9ucy5nZXRVbnJlYWRDb3VudEJ5Q2F0ZWdvcnksCiAgICB1c2VySWQgPyB7IHVzZXJJZDogdXNlcklkIGFzIGFueSB9IDogInNraXAiCiAgKTsKCiAgLy8gSGFuZGxlIG5ldyBub3RpZmljYXRpb25zCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGlmICghbm90aWZpY2F0aW9ucyB8fCBub3RpZmljYXRpb25zLmxlbmd0aCA9PT0gMCkgcmV0dXJuOwogICAgCiAgICBjb25zdCBsYXRlc3ROb3RpZiA9IG5vdGlmaWNhdGlvbnNbMF07CiAgICAKICAgIC8vIENoZWNrIGlmIHRoaXMgaXMgYSBuZXcgbm90aWZpY2F0aW9uCiAgICBpZiAobGFzdE5vdGlmaWNhdGlvbklkLmN1cnJlbnQgPT09IGxhdGVzdE5vdGlmLl9pZCkgcmV0dXJuOwogICAgCiAgICBjb25zdCBpc05ldyA9IChEYXRlLm5vdygpIC0gbGF0ZXN0Tm90aWYuY3JlYXRlZEF0KSA8IDEwMDAwOyAvLyBMYXN0IDEwIHNlY29uZHMKICAgIAogICAgaWYgKGlzTmV3ICYmICFsYXRlc3ROb3RpZi5pc1JlYWQpIHsKICAgICAgbGFzdE5vdGlmaWNhdGlvbklkLmN1cnJlbnQgPSBsYXRlc3ROb3RpZi5faWQ7CiAgICAgIAogICAgICAvLyBTaG93IGJyb3dzZXIgbm90aWZpY2F0aW9uIGlmIHBhZ2UgaXMgbm90IGZvY3VzZWQKICAgICAgaWYgKGRvY3VtZW50LmhpZGRlbiAmJiBOb3RpZmljYXRpb24ucGVybWlzc2lvbiA9PT0gImdyYW50ZWQiKSB7CiAgICAgICAgc2hvd0Jyb3dzZXJOb3RpZmljYXRpb24obGF0ZXN0Tm90aWYudGl0bGUsIHsKICAgICAgICAgIGJvZHk6IGxhdGVzdE5vdGlmLmJvZHksCiAgICAgICAgICBpY29uOiBsYXRlc3ROb3RpZi5pbWFnZVVybCwKICAgICAgICAgIHRhZzogbGF0ZXN0Tm90aWYudHlwZSwKICAgICAgICAgIGRhdGE6IHsgbGluazogbGF0ZXN0Tm90aWYubGluayB9LAogICAgICAgICAgcmVxdWlyZUludGVyYWN0aW9uOiBsYXRlc3ROb3RpZi5wcmlvcml0eSA9PT0gImNyaXRpY2FsIiwKICAgICAgICB9KTsKICAgICAgfQogICAgICAKICAgICAgLy8gUGxheSBzb3VuZCBmb3IgY3JpdGljYWwgbm90aWZpY2F0aW9ucwogICAgICBpZiAobGF0ZXN0Tm90aWYucHJpb3JpdHkgPT09ICJjcml0aWNhbCIpIHsKICAgICAgICBwbGF5Tm90aWZpY2F0aW9uU291bmQoKTsKICAgICAgfQogICAgfQogIH0sIFtub3RpZmljYXRpb25zLCB0b2FzdF0pOwoKICBjb25zdCBwbGF5Tm90aWZpY2F0aW9uU291bmQgPSB1c2VDYWxsYmFjaygoKSA9PiB7CiAgICBjb25zdCBhdWRpbyA9IG5ldyBBdWRpbygiL25vdGlmaWNhdGlvbi5tcDMiKTsKICAgIGF1ZGlvLnZvbHVtZSA9IDAuNTsKICAgIGF1ZGlvLnBsYXkoKS5jYXRjaCgoKSA9PiB7fSk7CiAgfSwgW10pOwoKICByZXR1cm4gewogICAgdW5yZWFkQ291bnQ6IHVucmVhZENvdW50cz8udG90YWwgPz8gMCwKICAgIHVucmVhZENvdW50czogdW5yZWFkQ291bnRzID8/IHsgdG90YWw6IDAsIHNvY2lhbDogMCwgY2FsbDogMCwgcGF5bWVudDogMCwgZW5nYWdlbWVudDogMCwgc3lzdGVtOiAwIH0sCiAgICBsYXRlc3ROb3RpZmljYXRpb246IG5vdGlmaWNhdGlvbnM/LlswXSA/PyBudWxsLAogIH07Cn0K"}
+import { useEffect, useCallback, useRef } from "react";
+import { useQuery, useMutation } from "convex/react";
+import { api } from "../../convex/_generated/api";
+import { showBrowserNotification } from "@/lib/pushNotifications";
+import { useToast } from "./use-toast";
+
+export function useNotifications(userId: string | null) {
+  const { toast } = useToast();
+  const lastNotificationId = useRef<string | null>(null);
+  
+  // Subscribe to notifications
+  const notifications = useQuery(
+    api.notifications.getNotifications,
+    userId ? { userId: userId as any, limit: 1, unreadOnly: true } : "skip"
+  );
+  
+  const unreadCounts = useQuery(
+    api.notifications.getUnreadCountByCategory,
+    userId ? { userId: userId as any } : "skip"
+  );
+
+  // Handle new notifications
+  useEffect(() => {
+    if (!notifications || notifications.length === 0) return;
+    
+    const latestNotif = notifications[0];
+    
+    // Check if this is a new notification
+    if (lastNotificationId.current === latestNotif._id) return;
+    
+    const isNew = (Date.now() - latestNotif.createdAt) < 10000; // Last 10 seconds
+    
+    if (isNew && !latestNotif.isRead) {
+      lastNotificationId.current = latestNotif._id;
+      
+      // Show browser notification if page is not focused
+      if (document.hidden && Notification.permission === "granted") {
+        showBrowserNotification(latestNotif.title, {
+          body: latestNotif.body,
+          icon: latestNotif.imageUrl,
+          tag: latestNotif.type,
+          data: { link: latestNotif.link },
+          requireInteraction: latestNotif.priority === "critical",
+        });
+      }
+      
+      // Play sound for critical notifications
+      if (latestNotif.priority === "critical") {
+        playNotificationSound();
+      }
+    }
+  }, [notifications, toast]);
+
+  const playNotificationSound = useCallback(() => {
+    const audio = new Audio("/notification.mp3");
+    audio.volume = 0.5;
+    audio.play().catch(() => {});
+  }, []);
+
+  return {
+    unreadCount: unreadCounts?.total ?? 0,
+    unreadCounts: unreadCounts ?? { total: 0, social: 0, call: 0, payment: 0, engagement: 0, system: 0 },
+    latestNotification: notifications?.[0] ?? null,
+  };
+}

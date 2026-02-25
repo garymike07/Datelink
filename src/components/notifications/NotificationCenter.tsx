@@ -1,1 +1,344 @@
-{"data":"aW1wb3J0IHsgdXNlTWVtbywgdXNlU3RhdGUsIHVzZUVmZmVjdCB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgdXNlTXV0YXRpb24sIHVzZVF1ZXJ5IH0gZnJvbSAiY29udmV4L3JlYWN0IjsKaW1wb3J0IHsgYXBpIH0gZnJvbSAiLi4vLi4vLi4vY29udmV4L19nZW5lcmF0ZWQvYXBpIjsKaW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2J1dHRvbiI7CmltcG9ydCB7CiAgRHJvcGRvd25NZW51LAogIERyb3Bkb3duTWVudUNvbnRlbnQsCiAgRHJvcGRvd25NZW51VHJpZ2dlciwKfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvZHJvcGRvd24tbWVudSI7CmltcG9ydCB7IEJlbGwsIENoZWNrIH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKaW1wb3J0IHsgZm9ybWF0RGlzdGFuY2VUb05vdyB9IGZyb20gImRhdGUtZm5zIjsKaW1wb3J0IHsgdXNlTmF2aWdhdGUgfSBmcm9tICJyZWFjdC1yb3V0ZXItZG9tIjsKaW1wb3J0IHsgQmFkZ2UgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvYmFkZ2UiOwppbXBvcnQgeyBUYWJzLCBUYWJzTGlzdCwgVGFic1RyaWdnZXIgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvdGFicyI7CmltcG9ydCB7IFNjcm9sbEFyZWEgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvc2Nyb2xsLWFyZWEiOwppbXBvcnQgeyBBdmF0YXIsIEF2YXRhckltYWdlLCBBdmF0YXJGYWxsYmFjayB9IGZyb20gIkAvY29tcG9uZW50cy91aS9hdmF0YXIiOwoKLy8gTm90aWZpY2F0aW9uIGljb25zIGJ5IHR5cGUKY29uc3QgTk9USUZJQ0FUSU9OX0lDT05TOiBSZWNvcmQ8c3RyaW5nLCBzdHJpbmc+ID0gewogIG1hdGNoOiAi8J+SmCIsCiAgbWVzc2FnZTogIvCfkqwiLAogIGxpa2U6ICLwn5KWIiwKICBzdXBlcl9saWtlX3JlY2VpdmVkOiAi4q2QIiwKICBwcm9maWxlX2NyZWF0ZWQ6ICLinIUiLAogIGxvZ2luX3N1Y2Nlc3M6ICLinIUiLAogIHBheW1lbnRfc3VjY2VzczogIvCfkrMiLAogIHBheW1lbnRfZmFpbGVkOiAi4pqg77iPIiwKICBzdWJzY3JpcHRpb25fYWN0aXZlOiAi8J+MnyIsCiAgY2FsbF9pbmNvbWluZzogIvCfk54iLAogIGNhbGxfbWlzc2VkOiAi8J+TtSIsCiAgY2FsbF9lbmRlZDogIuKckyIsCiAgcHJvZmlsZV92aWV3ZWQ6ICLwn5GB77iPIiwKICB2ZXJpZmljYXRpb25fY29tcGxldGU6ICLinJMiLAogIGJhZGdlX3VubG9jazogIvCfj4YiLAogIHF1ZXN0X2NvbXBsZXRlOiAi8J+OryIsCiAgYm9vc3RfYWN0aXZlOiAi8J+agCIsCn07CgovLyBQcmlvcml0eSBiYWRnZSBjb2xvcnMKY29uc3QgUFJJT1JJVFlfQ09MT1JTOiBSZWNvcmQ8c3RyaW5nLCBzdHJpbmc+ID0gewogIGNyaXRpY2FsOiAiZGVzdHJ1Y3RpdmUiLAogIGhpZ2g6ICJkZWZhdWx0IiwKICBtZWRpdW06ICJzZWNvbmRhcnkiLAogIGxvdzogIm91dGxpbmUiLAp9OwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gTm90aWZpY2F0aW9uQ2VudGVyKHsgdXNlcklkIH06IHsgdXNlcklkOiBzdHJpbmcgfSkgewogIGNvbnN0IG5hdmlnYXRlID0gdXNlTmF2aWdhdGUoKTsKICBjb25zdCBbb3Blbiwgc2V0T3Blbl0gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgW3NlbGVjdGVkQ2F0ZWdvcnksIHNldFNlbGVjdGVkQ2F0ZWdvcnldID0gdXNlU3RhdGU8c3RyaW5nPigiYWxsIik7CiAgY29uc3QgW3BsYXlTb3VuZCwgc2V0UGxheVNvdW5kXSA9IHVzZVN0YXRlKHRydWUpOwoKICBjb25zdCBub3RpZmljYXRpb25zQXJncyA9IHVzZU1lbW8oKCkgPT4gewogICAgY29uc3QgYXJnczogYW55ID0gewogICAgICB1c2VySWQ6IHVzZXJJZCBhcyBhbnksCiAgICAgIGxpbWl0OiAxMDAsCiAgICB9OwogICAgaWYgKHNlbGVjdGVkQ2F0ZWdvcnkgIT09ICJhbGwiKSBhcmdzLmNhdGVnb3J5ID0gc2VsZWN0ZWRDYXRlZ29yeTsKICAgIHJldHVybiBhcmdzOwogIH0sIFt1c2VySWQsIHNlbGVjdGVkQ2F0ZWdvcnldKTsKCiAgLy8gRmV0Y2ggdW5yZWFkIGNvdW50cyBieSBjYXRlZ29yeQogIGNvbnN0IHVucmVhZENvdW50cyA9IHVzZVF1ZXJ5KGFwaS5ub3RpZmljYXRpb25zLmdldFVucmVhZENvdW50QnlDYXRlZ29yeSwgeyAKICAgIHVzZXJJZDogdXNlcklkIGFzIGFueSAKICB9KTsKICAKICAvLyBGZXRjaCBub3RpZmljYXRpb25zIHdpdGggcmVhbC10aW1lIHVwZGF0ZXMKICBjb25zdCBub3RpZmljYXRpb25zID0gdXNlUXVlcnkoYXBpLm5vdGlmaWNhdGlvbnMuZ2V0Tm90aWZpY2F0aW9ucywgbm90aWZpY2F0aW9uc0FyZ3MpOwoKICBjb25zdCBtYXJrQWxsUmVhZCA9IHVzZU11dGF0aW9uKGFwaS5ub3RpZmljYXRpb25zLm1hcmtBbGxOb3RpZmljYXRpb25zUmVhZCk7CiAgY29uc3QgbWFya1JlYWQgPSB1c2VNdXRhdGlvbihhcGkubm90aWZpY2F0aW9ucy5tYXJrTm90aWZpY2F0aW9uUmVhZCk7CiAgY29uc3QgbWFya0NsaWNrZWQgPSB1c2VNdXRhdGlvbihhcGkubm90aWZpY2F0aW9ucy5tYXJrTm90aWZpY2F0aW9uQ2xpY2tlZCk7CgogIGNvbnN0IHVucmVhZENvdW50ID0gdW5yZWFkQ291bnRzPy50b3RhbCA/PyAwOwogIGNvbnN0IGlzTG9hZGluZyA9IG5vdGlmaWNhdGlvbnMgPT09IHVuZGVmaW5lZCB8fCB1bnJlYWRDb3VudHMgPT09IHVuZGVmaW5lZDsKICBjb25zdCBpdGVtcyA9IHVzZU1lbW8oKCkgPT4gbm90aWZpY2F0aW9ucyA/PyBbXSwgW25vdGlmaWNhdGlvbnNdKTsKCiAgLy8gUGxheSBzb3VuZCBvbiBuZXcgbm90aWZpY2F0aW9uCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGlmIChwbGF5U291bmQgJiYgbm90aWZpY2F0aW9ucyAmJiBub3RpZmljYXRpb25zLmxlbmd0aCA+IDApIHsKICAgICAgY29uc3QgbGF0ZXN0Tm90aWYgPSBub3RpZmljYXRpb25zWzBdOwogICAgICBjb25zdCBpc05ldyA9IGxhdGVzdE5vdGlmICYmICFsYXRlc3ROb3RpZi5pc1JlYWQgJiYgCiAgICAgICAgICAgICAgICAgICAgKERhdGUubm93KCkgLSBsYXRlc3ROb3RpZi5jcmVhdGVkQXQpIDwgNTAwMDsgLy8gV2l0aGluIGxhc3QgNSBzZWNvbmRzCiAgICAgIAogICAgICBpZiAoaXNOZXcgJiYgbGF0ZXN0Tm90aWYucHJpb3JpdHkgPT09ICJjcml0aWNhbCIpIHsKICAgICAgICBwbGF5Tm90aWZpY2F0aW9uU291bmQoKTsKICAgICAgfQogICAgfQogIH0sIFtub3RpZmljYXRpb25zLCBwbGF5U291bmRdKTsKCiAgY29uc3QgcGxheU5vdGlmaWNhdGlvblNvdW5kID0gKCkgPT4gewogICAgY29uc3QgYXVkaW8gPSBuZXcgQXVkaW8oIi9ub3RpZmljYXRpb24ubXAzIik7CiAgICBhdWRpby52b2x1bWUgPSAwLjU7CiAgICBhdWRpby5wbGF5KCkuY2F0Y2goKCkgPT4gewogICAgICAvLyBJZ25vcmUgZXJyb3JzIGlmIHNvdW5kIGNhbid0IHBsYXkKICAgIH0pOwogIH07CgogIGNvbnN0IGhhbmRsZU5vdGlmaWNhdGlvbkNsaWNrID0gYXN5bmMgKG5vdGlmaWNhdGlvbjogYW55KSA9PiB7CiAgICB0cnkgewogICAgICAvLyBNYXJrIGFzIHJlYWQgYW5kIGNsaWNrZWQKICAgICAgYXdhaXQgbWFya1JlYWQoeyAKICAgICAgICBub3RpZmljYXRpb25JZDogbm90aWZpY2F0aW9uLl9pZCwgCiAgICAgICAgdXNlcklkOiB1c2VySWQgYXMgYW55IAogICAgICB9KTsKICAgICAgCiAgICAgIGF3YWl0IG1hcmtDbGlja2VkKHsgCiAgICAgICAgbm90aWZpY2F0aW9uSWQ6IG5vdGlmaWNhdGlvbi5faWQsIAogICAgICAgIHVzZXJJZDogdXNlcklkIGFzIGFueSAKICAgICAgfSk7CgogICAgICAvLyBOYXZpZ2F0ZSBpZiB0aGVyZSdzIGEgbGluawogICAgICBpZiAobm90aWZpY2F0aW9uLmxpbmspIHsKICAgICAgICBuYXZpZ2F0ZShub3RpZmljYXRpb24ubGluayk7CiAgICAgIH0KICAgICAgCiAgICAgIHNldE9wZW4oZmFsc2UpOwogICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgY29uc29sZS5lcnJvcigiRXJyb3IgaGFuZGxpbmcgbm90aWZpY2F0aW9uIGNsaWNrOiIsIGVycm9yKTsKICAgICAgLy8gU2hvdyBlcnJvciB0byB1c2VyCiAgICAgIGNvbnNvbGUud2FybigiRmFpbGVkIHRvIG1hcmsgbm90aWZpY2F0aW9uIGFzIHJlYWQuIE5vdGlmaWNhdGlvbjoiLCBub3RpZmljYXRpb24uX2lkKTsKICAgIH0KICB9OwoKICByZXR1cm4gKAogICAgPERyb3Bkb3duTWVudSBvcGVuPXtvcGVufSBvbk9wZW5DaGFuZ2U9e3NldE9wZW59PgogICAgICA8RHJvcGRvd25NZW51VHJpZ2dlciBhc0NoaWxkPgogICAgICAgIDxCdXR0b24gCiAgICAgICAgICB0eXBlPSJidXR0b24iIAogICAgICAgICAgdmFyaWFudD0iZ2hvc3QiIAogICAgICAgICAgc2l6ZT0iaWNvbiIgCiAgICAgICAgICBjbGFzc05hbWU9InJlbGF0aXZlIiAKICAgICAgICAgIGFyaWEtbGFiZWw9Ik5vdGlmaWNhdGlvbnMiCiAgICAgICAgPgogICAgICAgICAgPEJlbGwgY2xhc3NOYW1lPSJ3LTUgaC01IiAvPgogICAgICAgICAge3VucmVhZENvdW50ID4gMCAmJiAoCiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iYWJzb2x1dGUgLXRvcC0wLjUgLXJpZ2h0LTAuNSBtaW4tdy01IGgtNSBweC0xIHJvdW5kZWQtZnVsbCBiZy1wcmltYXJ5IHRleHQtcHJpbWFyeS1mb3JlZ3JvdW5kIHRleHQtWzEwcHhdIGxlYWRpbmctNSB0ZXh0LWNlbnRlciBhbmltYXRlLXB1bHNlIj4KICAgICAgICAgICAgICB7dW5yZWFkQ291bnQgPiA5OSA/ICI5OSsiIDogdW5yZWFkQ291bnR9CiAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICl9CiAgICAgICAgPC9CdXR0b24+CiAgICAgIDwvRHJvcGRvd25NZW51VHJpZ2dlcj4KCiAgICAgIDxEcm9wZG93bk1lbnVDb250ZW50IGFsaWduPSJlbmQiIGNsYXNzTmFtZT0idy05NiBwLTAiPgogICAgICAgIHsvKiBIZWFkZXIgKi99CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktYmV0d2VlbiBweC00IHB5LTMgYm9yZGVyLWIiPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIj4KICAgICAgICAgICAgPEJlbGwgY2xhc3NOYW1lPSJ3LTQgaC00IiAvPgogICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtc20gZm9udC1zZW1pYm9sZCI+Tm90aWZpY2F0aW9uczwvc3Bhbj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIj4KICAgICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICAgIHR5cGU9ImJ1dHRvbiIKICAgICAgICAgICAgICB2YXJpYW50PSJnaG9zdCIKICAgICAgICAgICAgICBzaXplPSJzbSIKICAgICAgICAgICAgICBjbGFzc05hbWU9ImgtNyB0ZXh0LXhzIgogICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IG1hcmtBbGxSZWFkKHsgdXNlcklkOiB1c2VySWQgYXMgYW55IH0pfQogICAgICAgICAgICAgIGRpc2FibGVkPXt1bnJlYWRDb3VudCA9PT0gMH0KICAgICAgICAgICAgPgogICAgICAgICAgICAgIDxDaGVjayBjbGFzc05hbWU9InctMyBoLTMgbXItMSIgLz4KICAgICAgICAgICAgICBNYXJrIGFsbCByZWFkCiAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CgogICAgICAgIHsvKiBDYXRlZ29yeSBUYWJzICovfQogICAgICAgIDxUYWJzIHZhbHVlPXtzZWxlY3RlZENhdGVnb3J5fSBvblZhbHVlQ2hhbmdlPXtzZXRTZWxlY3RlZENhdGVnb3J5fSBjbGFzc05hbWU9InctZnVsbCI+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icHgtMiBwdC0yIGJvcmRlci1iIj4KICAgICAgICAgICAgPFRhYnNMaXN0IGNsYXNzTmFtZT0idy1mdWxsIGdyaWQgZ3JpZC1jb2xzLTUgaC04Ij4KICAgICAgICAgICAgICA8VGFic1RyaWdnZXIgdmFsdWU9ImFsbCIgY2xhc3NOYW1lPSJ0ZXh0LXhzIj4KICAgICAgICAgICAgICAgIEFsbAogICAgICAgICAgICAgICAge3VucmVhZENvdW50ID4gMCAmJiAoCiAgICAgICAgICAgICAgICAgIDxCYWRnZSB2YXJpYW50PSJzZWNvbmRhcnkiIGNsYXNzTmFtZT0ibWwtMSBoLTQgcHgtMSB0ZXh0LVsxMHB4XSI+CiAgICAgICAgICAgICAgICAgICAge3VucmVhZENvdW50fQogICAgICAgICAgICAgICAgICA8L0JhZGdlPgogICAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICA8L1RhYnNUcmlnZ2VyPgogICAgICAgICAgICAgIDxUYWJzVHJpZ2dlciB2YWx1ZT0ic29jaWFsIiBjbGFzc05hbWU9InRleHQteHMiPgogICAgICAgICAgICAgICAgU29jaWFsCiAgICAgICAgICAgICAgICB7KHVucmVhZENvdW50cz8uc29jaWFsID8/IDApID4gMCAmJiAoCiAgICAgICAgICAgICAgICAgIDxCYWRnZSB2YXJpYW50PSJzZWNvbmRhcnkiIGNsYXNzTmFtZT0ibWwtMSBoLTQgcHgtMSB0ZXh0LVsxMHB4XSI+CiAgICAgICAgICAgICAgICAgICAge3VucmVhZENvdW50cz8uc29jaWFsfQogICAgICAgICAgICAgICAgICA8L0JhZGdlPgogICAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICA8L1RhYnNUcmlnZ2VyPgogICAgICAgICAgICAgIDxUYWJzVHJpZ2dlciB2YWx1ZT0iY2FsbCIgY2xhc3NOYW1lPSJ0ZXh0LXhzIj4KICAgICAgICAgICAgICAgIENhbGxzCiAgICAgICAgICAgICAgICB7KHVucmVhZENvdW50cz8uY2FsbCA/PyAwKSA+IDAgJiYgKAogICAgICAgICAgICAgICAgICA8QmFkZ2UgdmFyaWFudD0ic2Vjb25kYXJ5IiBjbGFzc05hbWU9Im1sLTEgaC00IHB4LTEgdGV4dC1bMTBweF0iPgogICAgICAgICAgICAgICAgICAgIHt1bnJlYWRDb3VudHM/LmNhbGx9CiAgICAgICAgICAgICAgICAgIDwvQmFkZ2U+CiAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgIDwvVGFic1RyaWdnZXI+CiAgICAgICAgICAgICAgPFRhYnNUcmlnZ2VyIHZhbHVlPSJwYXltZW50IiBjbGFzc05hbWU9InRleHQteHMiPgogICAgICAgICAgICAgICAgUGF5bWVudHMKICAgICAgICAgICAgICAgIHsodW5yZWFkQ291bnRzPy5wYXltZW50ID8/IDApID4gMCAmJiAoCiAgICAgICAgICAgICAgICAgIDxCYWRnZSB2YXJpYW50PSJzZWNvbmRhcnkiIGNsYXNzTmFtZT0ibWwtMSBoLTQgcHgtMSB0ZXh0LVsxMHB4XSI+CiAgICAgICAgICAgICAgICAgICAge3VucmVhZENvdW50cz8ucGF5bWVudH0KICAgICAgICAgICAgICAgICAgPC9CYWRnZT4KICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgPC9UYWJzVHJpZ2dlcj4KICAgICAgICAgICAgICA8VGFic1RyaWdnZXIgdmFsdWU9InN5c3RlbSIgY2xhc3NOYW1lPSJ0ZXh0LXhzIj4KICAgICAgICAgICAgICAgIFN5c3RlbQogICAgICAgICAgICAgICAgeyh1bnJlYWRDb3VudHM/LnN5c3RlbSA/PyAwKSA+IDAgJiYgKAogICAgICAgICAgICAgICAgICA8QmFkZ2UgdmFyaWFudD0ic2Vjb25kYXJ5IiBjbGFzc05hbWU9Im1sLTEgaC00IHB4LTEgdGV4dC1bMTBweF0iPgogICAgICAgICAgICAgICAgICAgIHt1bnJlYWRDb3VudHM/LnN5c3RlbX0KICAgICAgICAgICAgICAgICAgPC9CYWRnZT4KICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgPC9UYWJzVHJpZ2dlcj4KICAgICAgICAgICAgPC9UYWJzTGlzdD4KICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgIHsvKiBOb3RpZmljYXRpb24gTGlzdCAqL30KICAgICAgICAgIDxTY3JvbGxBcmVhIGNsYXNzTmFtZT0iaC1bNDAwcHhdIj4KICAgICAgICAgICAge2lzTG9hZGluZyA/ICgKICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgcHktMTIgcHgtNCB0ZXh0LWNlbnRlciI+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj5Mb2FkaW5nIG5vdGlmaWNhdGlvbnPigKY8L3A+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICkgOiBpdGVtcy5sZW5ndGggPT09IDAgPyAoCiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHB5LTEyIHB4LTQgdGV4dC1jZW50ZXIiPgogICAgICAgICAgICAgICAgPEJlbGwgY2xhc3NOYW1lPSJ3LTEyIGgtMTIgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kLzMwIG1iLTMiIC8+CiAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gZm9udC1tZWRpdW0gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgICAgICAgTm8gbm90aWZpY2F0aW9ucyB5ZXQKICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LW11dGVkLWZvcmVncm91bmQvNzAgbXQtMSI+CiAgICAgICAgICAgICAgICAgIFdlJ2xsIG5vdGlmeSB5b3Ugd2hlbiBzb21ldGhpbmcgaGFwcGVucwogICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICApIDogKAogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJweS0yIj4KICAgICAgICAgICAgICAgIHtpdGVtcy5tYXAoKG5vdGlmaWNhdGlvbjogYW55KSA9PiAoCiAgICAgICAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICAgICAgICBrZXk9e25vdGlmaWNhdGlvbi5faWR9CiAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtgCiAgICAgICAgICAgICAgICAgICAgICBweC00IHB5LTMgY3Vyc29yLXBvaW50ZXIgdHJhbnNpdGlvbi1jb2xvcnMgaG92ZXI6YmctYWNjZW50CiAgICAgICAgICAgICAgICAgICAgICAkeyFub3RpZmljYXRpb24uaXNSZWFkID8gImJnLXByaW1hcnkvNSIgOiAiIn0KICAgICAgICAgICAgICAgICAgICAgIGJvcmRlci1iIGxhc3Q6Ym9yZGVyLWItMAogICAgICAgICAgICAgICAgICAgIGB9CiAgICAgICAgICAgICAgICAgICAgb25DbGljaz17KCkgPT4gaGFuZGxlTm90aWZpY2F0aW9uQ2xpY2sobm90aWZpY2F0aW9uKX0KICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGdhcC0zIj4KICAgICAgICAgICAgICAgICAgICAgIHsvKiBJY29uL0F2YXRhciAqL30KICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4LXNocmluay0wIj4KICAgICAgICAgICAgICAgICAgICAgICAge25vdGlmaWNhdGlvbi5pbWFnZVVybCA/ICgKICAgICAgICAgICAgICAgICAgICAgICAgICA8QXZhdGFyIGNsYXNzTmFtZT0idy0xMCBoLTEwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxBdmF0YXJJbWFnZSBzcmM9e25vdGlmaWNhdGlvbi5pbWFnZVVybH0gYWx0PSIiIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8QXZhdGFyRmFsbGJhY2s+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtOT1RJRklDQVRJT05fSUNPTlNbbm90aWZpY2F0aW9uLnR5cGVdIHx8ICLwn5OsIn0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvQXZhdGFyRmFsbGJhY2s+CiAgICAgICAgICAgICAgICAgICAgICAgICAgPC9BdmF0YXI+CiAgICAgICAgICAgICAgICAgICAgICAgICkgOiAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InctMTAgaC0xMCByb3VuZGVkLWZ1bGwgYmctcHJpbWFyeS8xMCBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciB0ZXh0LWxnIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtOT1RJRklDQVRJT05fSUNPTlNbbm90aWZpY2F0aW9uLnR5cGVdIHx8ICLwn5OsIn0KICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgICAgICAgIHsvKiBDb250ZW50ICovfQogICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXgtMSBtaW4tdy0wIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtc3RhcnQganVzdGlmeS1iZXR3ZWVuIGdhcC0yIG1iLTEiPgogICAgICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1zbSBmb250LW1lZGl1bSBsZWFkaW5nLXRpZ2h0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtub3RpZmljYXRpb24udGl0bGV9CiAgICAgICAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgIHshbm90aWZpY2F0aW9uLmlzUmVhZCAmJiAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImlubGluZS1ibG9jayB3LTIgaC0yIHJvdW5kZWQtZnVsbCBiZy1wcmltYXJ5IGZsZXgtc2hyaW5rLTAgbXQtMSIgLz4KICAgICAgICAgICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC14cyB0ZXh0LW11dGVkLWZvcmVncm91bmQgbGVhZGluZy1zbnVnIG1iLTIiPgogICAgICAgICAgICAgICAgICAgICAgICAgIHtub3RpZmljYXRpb24uYm9keX0KICAgICAgICAgICAgICAgICAgICAgICAgICB7bm90aWZpY2F0aW9uLmFnZ3JlZ2F0ZWRDb3VudCA+IDEgJiYgKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJtbC0xIGZvbnQtbWVkaXVtIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKCt7bm90aWZpY2F0aW9uLmFnZ3JlZ2F0ZWRDb3VudCAtIDF9IG1vcmUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICAgICAgICAgICAgPC9wPgoKICAgICAgICAgICAgICAgICAgICAgICAgey8qIEFjdGlvbiBCdXR0b25zICovfQogICAgICAgICAgICAgICAgICAgICAgICB7bm90aWZpY2F0aW9uLmFjdGlvbkJ1dHRvbnMgJiYgbm90aWZpY2F0aW9uLmFjdGlvbkJ1dHRvbnMubGVuZ3RoID4gMCAmJiAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZ2FwLTIgbXQtMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7bm90aWZpY2F0aW9uLmFjdGlvbkJ1dHRvbnMubWFwKChidG46IGFueSwgaWR4OiBudW1iZXIpID0+ICgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGtleT17aWR4fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGU9ImJ1dHRvbiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaXplPSJzbSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXJpYW50PXtpZHggPT09IDAgPyAiZGVmYXVsdCIgOiAib3V0bGluZSJ9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJoLTcgdGV4dC14cyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXsoZSkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZS5zdG9wUHJvcGFnYXRpb24oKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChidG4ubGluaykgbmF2aWdhdGUoYnRuLmxpbmspOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7YnRuLmxhYmVsfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICkpfQogICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICApfQoKICAgICAgICAgICAgICAgICAgICAgICAgey8qIE1ldGFkYXRhICovfQogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgbXQtMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LVsxMHB4XSB0ZXh0LW11dGVkLWZvcmVncm91bmQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAge3R5cGVvZiBub3RpZmljYXRpb24uY3JlYXRlZEF0ID09PSAibnVtYmVyIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/IGZvcm1hdERpc3RhbmNlVG9Ob3cobm90aWZpY2F0aW9uLmNyZWF0ZWRBdCwgeyBhZGRTdWZmaXg6IHRydWUgfSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOiAiIn0KICAgICAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAge25vdGlmaWNhdGlvbi5wcmlvcml0eSAmJiBub3RpZmljYXRpb24ucHJpb3JpdHkgIT09ICJtZWRpdW0iICYmICgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxCYWRnZSAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFyaWFudD17UFJJT1JJVFlfQ09MT1JTW25vdGlmaWNhdGlvbi5wcmlvcml0eV0gYXMgYW55fSAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJoLTQgcHgtMSB0ZXh0LVs5cHhdIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7bm90aWZpY2F0aW9uLnByaW9yaXR5fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9CYWRnZT4KICAgICAgICAgICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICkpfQogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICApfQogICAgICAgICAgPC9TY3JvbGxBcmVhPgogICAgICAgIDwvVGFicz4KCiAgICAgICAgey8qIEZvb3RlciAqL30KICAgICAgICB7aXRlbXMubGVuZ3RoID4gMCAmJiAoCiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0icHgtNCBweS0yIGJvcmRlci10IGJnLW11dGVkLzMwIj4KICAgICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICAgIHR5cGU9ImJ1dHRvbiIKICAgICAgICAgICAgICB2YXJpYW50PSJnaG9zdCIKICAgICAgICAgICAgICBzaXplPSJzbSIKICAgICAgICAgICAgICBjbGFzc05hbWU9InctZnVsbCBoLTggdGV4dC14cyIKICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiB7CiAgICAgICAgICAgICAgICBuYXZpZ2F0ZSgiL25vdGlmaWNhdGlvbnMiKTsKICAgICAgICAgICAgICAgIHNldE9wZW4oZmFsc2UpOwogICAgICAgICAgICAgIH19CiAgICAgICAgICAgID4KICAgICAgICAgICAgICBWaWV3IEFsbCBOb3RpZmljYXRpb25zCiAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgKX0KICAgICAgPC9Ecm9wZG93bk1lbnVDb250ZW50PgogICAgPC9Ecm9wZG93bk1lbnU+CiAgKTsKfQo="}
+import { useMemo, useState, useEffect } from "react";
+import { useMutation, useQuery } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import { Button } from "@/components/ui/button";
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuTrigger,
+} from "@/components/ui/dropdown-menu";
+import { Bell, Check } from "lucide-react";
+import { formatDistanceToNow } from "date-fns";
+import { useNavigate } from "react-router-dom";
+import { Badge } from "@/components/ui/badge";
+import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { ScrollArea } from "@/components/ui/scroll-area";
+import { Avatar, AvatarImage, AvatarFallback } from "@/components/ui/avatar";
+
+// Notification icons by type
+const NOTIFICATION_ICONS: Record<string, string> = {
+  match: "💘",
+  message: "💬",
+  like: "💖",
+  super_like_received: "⭐",
+  profile_created: "✅",
+  login_success: "✅",
+  payment_success: "💳",
+  payment_failed: "⚠️",
+  subscription_active: "🌟",
+  call_incoming: "📞",
+  call_missed: "📵",
+  call_ended: "✓",
+  profile_viewed: "👁️",
+  verification_complete: "✓",
+  badge_unlock: "🏆",
+  quest_complete: "🎯",
+  boost_active: "🚀",
+};
+
+// Priority badge colors
+const PRIORITY_COLORS: Record<string, string> = {
+  critical: "destructive",
+  high: "default",
+  medium: "secondary",
+  low: "outline",
+};
+
+export default function NotificationCenter({ userId }: { userId: string }) {
+  const navigate = useNavigate();
+  const [open, setOpen] = useState(false);
+  const [selectedCategory, setSelectedCategory] = useState<string>("all");
+  const [playSound, setPlaySound] = useState(true);
+
+  const notificationsArgs = useMemo(() => {
+    const args: any = {
+      userId: userId as any,
+      limit: 100,
+    };
+    if (selectedCategory !== "all") args.category = selectedCategory;
+    return args;
+  }, [userId, selectedCategory]);
+
+  // Fetch unread counts by category
+  const unreadCounts = useQuery(api.notifications.getUnreadCountByCategory, { 
+    userId: userId as any 
+  });
+  
+  // Fetch notifications with real-time updates
+  const notifications = useQuery(api.notifications.getNotifications, notificationsArgs);
+
+  const markAllRead = useMutation(api.notifications.markAllNotificationsRead);
+  const markRead = useMutation(api.notifications.markNotificationRead);
+  const markClicked = useMutation(api.notifications.markNotificationClicked);
+
+  const unreadCount = unreadCounts?.total ?? 0;
+  const isLoading = notifications === undefined || unreadCounts === undefined;
+  const items = useMemo(() => notifications ?? [], [notifications]);
+
+  // Play sound on new notification
+  useEffect(() => {
+    if (playSound && notifications && notifications.length > 0) {
+      const latestNotif = notifications[0];
+      const isNew = latestNotif && !latestNotif.isRead && 
+                    (Date.now() - latestNotif.createdAt) < 5000; // Within last 5 seconds
+      
+      if (isNew && latestNotif.priority === "critical") {
+        playNotificationSound();
+      }
+    }
+  }, [notifications, playSound]);
+
+  const playNotificationSound = () => {
+    const audio = new Audio("/notification.mp3");
+    audio.volume = 0.5;
+    audio.play().catch(() => {
+      // Ignore errors if sound can't play
+    });
+  };
+
+  const handleNotificationClick = async (notification: any) => {
+    try {
+      // Mark as read and clicked
+      await markRead({ 
+        notificationId: notification._id, 
+        userId: userId as any 
+      });
+      
+      await markClicked({ 
+        notificationId: notification._id, 
+        userId: userId as any 
+      });
+
+      // Navigate if there's a link
+      if (notification.link) {
+        navigate(notification.link);
+      }
+      
+      setOpen(false);
+    } catch (error) {
+      console.error("Error handling notification click:", error);
+      // Show error to user
+      console.warn("Failed to mark notification as read. Notification:", notification._id);
+    }
+  };
+
+  return (
+    <DropdownMenu open={open} onOpenChange={setOpen}>
+      <DropdownMenuTrigger asChild>
+        <Button 
+          type="button" 
+          variant="ghost" 
+          size="icon" 
+          className="relative" 
+          aria-label="Notifications"
+        >
+          <Bell className="w-5 h-5" />
+          {unreadCount > 0 && (
+            <span className="absolute -top-0.5 -right-0.5 min-w-5 h-5 px-1 rounded-full bg-primary text-primary-foreground text-[10px] leading-5 text-center animate-pulse">
+              {unreadCount > 99 ? "99+" : unreadCount}
+            </span>
+          )}
+        </Button>
+      </DropdownMenuTrigger>
+
+      <DropdownMenuContent align="end" className="w-96 p-0">
+        {/* Header */}
+        <div className="flex items-center justify-between px-4 py-3 border-b">
+          <div className="flex items-center gap-2">
+            <Bell className="w-4 h-4" />
+            <span className="text-sm font-semibold">Notifications</span>
+          </div>
+          <div className="flex items-center gap-2">
+            <Button
+              type="button"
+              variant="ghost"
+              size="sm"
+              className="h-7 text-xs"
+              onClick={() => markAllRead({ userId: userId as any })}
+              disabled={unreadCount === 0}
+            >
+              <Check className="w-3 h-3 mr-1" />
+              Mark all read
+            </Button>
+          </div>
+        </div>
+
+        {/* Category Tabs */}
+        <Tabs value={selectedCategory} onValueChange={setSelectedCategory} className="w-full">
+          <div className="px-2 pt-2 border-b">
+            <TabsList className="w-full grid grid-cols-5 h-8">
+              <TabsTrigger value="all" className="text-xs">
+                All
+                {unreadCount > 0 && (
+                  <Badge variant="secondary" className="ml-1 h-4 px-1 text-[10px]">
+                    {unreadCount}
+                  </Badge>
+                )}
+              </TabsTrigger>
+              <TabsTrigger value="social" className="text-xs">
+                Social
+                {(unreadCounts?.social ?? 0) > 0 && (
+                  <Badge variant="secondary" className="ml-1 h-4 px-1 text-[10px]">
+                    {unreadCounts?.social}
+                  </Badge>
+                )}
+              </TabsTrigger>
+              <TabsTrigger value="call" className="text-xs">
+                Calls
+                {(unreadCounts?.call ?? 0) > 0 && (
+                  <Badge variant="secondary" className="ml-1 h-4 px-1 text-[10px]">
+                    {unreadCounts?.call}
+                  </Badge>
+                )}
+              </TabsTrigger>
+              <TabsTrigger value="payment" className="text-xs">
+                Payments
+                {(unreadCounts?.payment ?? 0) > 0 && (
+                  <Badge variant="secondary" className="ml-1 h-4 px-1 text-[10px]">
+                    {unreadCounts?.payment}
+                  </Badge>
+                )}
+              </TabsTrigger>
+              <TabsTrigger value="system" className="text-xs">
+                System
+                {(unreadCounts?.system ?? 0) > 0 && (
+                  <Badge variant="secondary" className="ml-1 h-4 px-1 text-[10px]">
+                    {unreadCounts?.system}
+                  </Badge>
+                )}
+              </TabsTrigger>
+            </TabsList>
+          </div>
+
+          {/* Notification List */}
+          <ScrollArea className="h-[400px]">
+            {isLoading ? (
+              <div className="flex items-center justify-center py-12 px-4 text-center">
+                <p className="text-sm text-muted-foreground">Loading notifications…</p>
+              </div>
+            ) : items.length === 0 ? (
+              <div className="flex flex-col items-center justify-center py-12 px-4 text-center">
+                <Bell className="w-12 h-12 text-muted-foreground/30 mb-3" />
+                <p className="text-sm font-medium text-muted-foreground">
+                  No notifications yet
+                </p>
+                <p className="text-xs text-muted-foreground/70 mt-1">
+                  We'll notify you when something happens
+                </p>
+              </div>
+            ) : (
+              <div className="py-2">
+                {items.map((notification: any) => (
+                  <div
+                    key={notification._id}
+                    className={`
+                      px-4 py-3 cursor-pointer transition-colors hover:bg-accent
+                      ${!notification.isRead ? "bg-primary/5" : ""}
+                      border-b last:border-b-0
+                    `}
+                    onClick={() => handleNotificationClick(notification)}
+                  >
+                    <div className="flex gap-3">
+                      {/* Icon/Avatar */}
+                      <div className="flex-shrink-0">
+                        {notification.imageUrl ? (
+                          <Avatar className="w-10 h-10">
+                            <AvatarImage src={notification.imageUrl} alt="" />
+                            <AvatarFallback>
+                              {NOTIFICATION_ICONS[notification.type] || "📬"}
+                            </AvatarFallback>
+                          </Avatar>
+                        ) : (
+                          <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center text-lg">
+                            {NOTIFICATION_ICONS[notification.type] || "📬"}
+                          </div>
+                        )}
+                      </div>
+
+                      {/* Content */}
+                      <div className="flex-1 min-w-0">
+                        <div className="flex items-start justify-between gap-2 mb-1">
+                          <p className="text-sm font-medium leading-tight">
+                            {notification.title}
+                          </p>
+                          {!notification.isRead && (
+                            <span className="inline-block w-2 h-2 rounded-full bg-primary flex-shrink-0 mt-1" />
+                          )}
+                        </div>
+                        
+                        <p className="text-xs text-muted-foreground leading-snug mb-2">
+                          {notification.body}
+                          {notification.aggregatedCount > 1 && (
+                            <span className="ml-1 font-medium">
+                              (+{notification.aggregatedCount - 1} more)
+                            </span>
+                          )}
+                        </p>
+
+                        {/* Action Buttons */}
+                        {notification.actionButtons && notification.actionButtons.length > 0 && (
+                          <div className="flex gap-2 mt-2">
+                            {notification.actionButtons.map((btn: any, idx: number) => (
+                              <Button
+                                key={idx}
+                                type="button"
+                                size="sm"
+                                variant={idx === 0 ? "default" : "outline"}
+                                className="h-7 text-xs"
+                                onClick={(e) => {
+                                  e.stopPropagation();
+                                  if (btn.link) navigate(btn.link);
+                                }}
+                              >
+                                {btn.label}
+                              </Button>
+                            ))}
+                          </div>
+                        )}
+
+                        {/* Metadata */}
+                        <div className="flex items-center gap-2 mt-2">
+                          <span className="text-[10px] text-muted-foreground">
+                            {typeof notification.createdAt === "number"
+                              ? formatDistanceToNow(notification.createdAt, { addSuffix: true })
+                              : ""}
+                          </span>
+                          {notification.priority && notification.priority !== "medium" && (
+                            <Badge 
+                              variant={PRIORITY_COLORS[notification.priority] as any} 
+                              className="h-4 px-1 text-[9px]"
+                            >
+                              {notification.priority}
+                            </Badge>
+                          )}
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            )}
+          </ScrollArea>
+        </Tabs>
+
+        {/* Footer */}
+        {items.length > 0 && (
+          <div className="px-4 py-2 border-t bg-muted/30">
+            <Button
+              type="button"
+              variant="ghost"
+              size="sm"
+              className="w-full h-8 text-xs"
+              onClick={() => {
+                navigate("/notifications");
+                setOpen(false);
+              }}
+            >
+              View All Notifications
+            </Button>
+          </div>
+        )}
+      </DropdownMenuContent>
+    </DropdownMenu>
+  );
+}

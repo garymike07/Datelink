@@ -1,1 +1,167 @@
-{"data":"aW1wb3J0IHsgbW90aW9uIH0gZnJvbSAiZnJhbWVyLW1vdGlvbiI7CmltcG9ydCB7IEhlYXJ0LCBTcGFya2xlcywgU2hpZWxkLCBVc2VycywgQXJyb3dSaWdodCB9IGZyb20gImx1Y2lkZS1yZWFjdCI7CmltcG9ydCB7IEJ1dHRvbiB9IGZyb20gIkAvY29tcG9uZW50cy91aS9idXR0b24iOwppbXBvcnQgeyBMaW5rIH0gZnJvbSAicmVhY3Qtcm91dGVyLWRvbSI7Ci8vIFVzZSBhIHBsYWNlaG9sZGVyIGlmIGxvY2FsIGltYWdlIGlzIG1pc3NpbmcsIG9yIHJlbHkgb24gcHVibGljIGZvbGRlcgovLyBBc3N1bWluZyBzcmMvYXNzZXRzL2hlcm8tY291cGxlLmpwZyBleGlzdHMsIGJ1dCBmYWxsYmFjayBpcyBzYWZlcgpjb25zdCBoZXJvQ291cGxlSW1hZ2UgPSAiaHR0cHM6Ly9pbWFnZXMudW5zcGxhc2guY29tL3Bob3RvLTE1MjQ1MDQzODg5NDAtYjFjMTcyMjY1M2UxP3E9ODAmdz0yMDcwJmF1dG89Zm9ybWF0JmZpdD1jcm9wIjsKCmNvbnN0IEhlcm8gPSAoKSA9PiB7CiAgY29uc3Qgc3RhdHMgPSBbCiAgICB7IGljb246IFVzZXJzLCB2YWx1ZTogIjUwLDAwMCsiLCBsYWJlbDogIlNpbmdsZXMiIH0sCiAgICB7IGljb246IFNoaWVsZCwgdmFsdWU6ICIxMDAlIiwgbGFiZWw6ICJWZXJpZmllZCIgfSwKICAgIHsgaWNvbjogSGVhcnQsIHZhbHVlOiAiMSwwMDArIiwgbGFiZWw6ICJNYXRjaGVzIiB9LAogIF07CgogIHJldHVybiAoCiAgICA8c2VjdGlvbiBjbGFzc05hbWU9InJlbGF0aXZlIG1pbi1oLXNjcmVlbiBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBvdmVyZmxvdy1oaWRkZW4gcHQtMjAgbGc6cHQtMjQgcGItMTIiPgogICAgICB7LyogQW5pbWF0ZWQgQmFja2dyb3VuZCBFbGVtZW50cyAqL30KICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgYmctaGVyby1wYXR0ZXJuIG9wYWNpdHktNjAgLXotMjAiIC8+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJhYnNvbHV0ZSBpbnNldC0wIGJnLWdyYWRpZW50LXRvLWJyIGZyb20td2hpdGUvNzAgdmlhLXdoaXRlLzQwIHRvLXdoaXRlLzEwIGRhcms6ZnJvbS1ibGFjay82MCBkYXJrOnZpYS1ibGFjay80MCBkYXJrOnRvLWJsYWNrLzIwIC16LTEwIiAvPgogICAgICAKICAgICAgey8qIE9yZ2FuaWMgQmxvYnMgKi99CiAgICAgIDxtb3Rpb24uZGl2IAogICAgICAgIGFuaW1hdGU9e3sgc2NhbGU6IFsxLCAxLjEsIDFdLCByb3RhdGU6IFswLCA1LCAwXSB9fQogICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDE1LCByZXBlYXQ6IEluZmluaXR5LCBlYXNlOiAibGluZWFyIiB9fQogICAgICAgIGNsYXNzTmFtZT0iYWJzb2x1dGUgdG9wLTAgcmlnaHQtMCB3LVs4MDBweF0gaC1bODAwcHhdIGJnLWFjY2VudC8xMCByb3VuZGVkLWZ1bGwgYmx1ci1bMTAwcHhdIC16LTEwIHRyYW5zbGF0ZS14LTEvMiAtdHJhbnNsYXRlLXktMS8yIiAKICAgICAgLz4KICAgICAgPG1vdGlvbi5kaXYgCiAgICAgICAgYW5pbWF0ZT17eyBzY2FsZTogWzEsIDEuMiwgMV0sIHJvdGF0ZTogWzAsIC01LCAwXSB9fQogICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDIwLCByZXBlYXQ6IEluZmluaXR5LCBlYXNlOiAibGluZWFyIiB9fQogICAgICAgIGNsYXNzTmFtZT0iYWJzb2x1dGUgYm90dG9tLTAgbGVmdC0wIHctWzYwMHB4XSBoLVs2MDBweF0gYmctcHJpbWFyeS8xMCByb3VuZGVkLWZ1bGwgYmx1ci1bODBweF0gLXotMTAgLXRyYW5zbGF0ZS14LTEvMyB0cmFuc2xhdGUteS0xLzMiIAogICAgICAvPgoKICAgICAgey8qIEZsb2F0aW5nIEhlYXJ0cyBBbmltYXRpb24gKi99CiAgICAgIHtbLi4uQXJyYXkoOCldLm1hcCgoXywgaSkgPT4gKAogICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICBrZXk9e2l9CiAgICAgICAgICBjbGFzc05hbWU9ImFic29sdXRlIHBvaW50ZXItZXZlbnRzLW5vbmUgei0wIgogICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgbGVmdDogYCR7TWF0aC5yYW5kb20oKSAqIDEwMH0lYCwKICAgICAgICAgICAgdG9wOiBgJHtNYXRoLnJhbmRvbSgpICogMTAwfSVgLAogICAgICAgICAgfX0KICAgICAgICAgIGFuaW1hdGU9e3sKICAgICAgICAgICAgeTogWzAsIC00MCwgMF0sCiAgICAgICAgICAgIG9wYWNpdHk6IFswLCAwLjQsIDBdLAogICAgICAgICAgICBzY2FsZTogWzAuOCwgMS4yLCAwLjhdLAogICAgICAgICAgfX0KICAgICAgICAgIHRyYW5zaXRpb249e3sKICAgICAgICAgICAgZHVyYXRpb246IDUgKyBNYXRoLnJhbmRvbSgpICogNSwKICAgICAgICAgICAgcmVwZWF0OiBJbmZpbml0eSwKICAgICAgICAgICAgZGVsYXk6IE1hdGgucmFuZG9tKCkgKiA1LAogICAgICAgICAgICBlYXNlOiAiZWFzZUluT3V0IiwKICAgICAgICAgIH19CiAgICAgICAgPgogICAgICAgICAgPEhlYXJ0IGNsYXNzTmFtZT17YHctJHtNYXRoLmZsb29yKE1hdGgucmFuZG9tKCkgKiA2KSArIDR9IGgtJHtNYXRoLmZsb29yKE1hdGgucmFuZG9tKCkgKiA2KSArIDR9IHRleHQtcHJpbWFyeS8yMCBmaWxsLXByaW1hcnkvMTBgfSAvPgogICAgICAgIDwvbW90aW9uLmRpdj4KICAgICAgKSl9CgogICAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGFpbmVyLXdpZGUgcmVsYXRpdmUgei0xMCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9Im1heC13LTV4bCBteC1hdXRvIj4KICAgICAgICAgIHsvKiBUZXh0IENvbnRlbnQgKi99CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idGV4dC1jZW50ZXIiPgogICAgICAgICAgICB7LyogQmFkZ2UgKi99CiAgICAgICAgICAgIDxtb3Rpb24uZGl2CiAgICAgICAgICAgICAgaW5pdGlhbD17eyBvcGFjaXR5OiAwLCB5OiAyMCB9fQogICAgICAgICAgICAgIGFuaW1hdGU9e3sgb3BhY2l0eTogMSwgeTogMCB9fQogICAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuNiB9fQogICAgICAgICAgICAgIGNsYXNzTmFtZT0iaW5saW5lLWZsZXggaXRlbXMtY2VudGVyIGdhcC0xLjUgYmctd2hpdGUvODAgZGFyazpiZy1ibGFjay81MCBiYWNrZHJvcC1ibHVyLW1kIHB4LTMgcHktMS41IHJvdW5kZWQtZnVsbCBtYi02IGJvcmRlciBib3JkZXItcHJpbWFyeS8yMCBzaGFkb3ctc20gaG92ZXI6c2hhZG93LW1kIHRyYW5zaXRpb24tc2hhZG93IGN1cnNvci1kZWZhdWx0IgogICAgICAgICAgICA+CiAgICAgICAgICAgICAgPFNwYXJrbGVzIGNsYXNzTmFtZT0idy0zIGgtMyB0ZXh0LXByaW1hcnkgYW5pbWF0ZS1wdWxzZS1zb2Z0IiAvPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1bMTBweF0gZm9udC1zZW1pYm9sZCB0ZXh0LWZvcmVncm91bmQgdHJhY2tpbmctd2lkZSI+S2VueWEncyBQcmVtaWVyIERhdGluZyBFeHBlcmllbmNlPC9zcGFuPgogICAgICAgICAgICA8L21vdGlvbi5kaXY+CgogICAgICAgICAgICB7LyogTWFpbiBIZWFkaW5nIC0gRW5oYW5jZWQgKi99CiAgICAgICAgICAgIDxtb3Rpb24uaDEKICAgICAgICAgICAgICBpbml0aWFsPXt7IG9wYWNpdHk6IDAsIHk6IDMwIH19CiAgICAgICAgICAgICAgYW5pbWF0ZT17eyBvcGFjaXR5OiAxLCB5OiAwIH19CiAgICAgICAgICAgICAgdHJhbnNpdGlvbj17eyBkdXJhdGlvbjogMC42LCBkZWxheTogMC4xIH19CiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LTN4bCBtZDp0ZXh0LTR4bCBsZzp0ZXh0LTV4bCB4bDp0ZXh0LTZ4bCBmb250LWhlYWRpbmcgZm9udC1leHRyYWJvbGQgbWItNCBsZWFkaW5nLVsxLjA1XSB0ZXh0LWZvcmVncm91bmQgdHJhY2tpbmctdGlnaHQiCiAgICAgICAgICAgID4KICAgICAgICAgICAgICBEaXNjb3ZlciBMb3ZlIDxiciAvPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0icmVsYXRpdmUgaW5saW5lLWJsb2NrIj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1ncmFkaWVudC1sb3ZlIHJlbGF0aXZlIHotMTAgYW5pbWF0ZS1zaGltbWVyIGJnLVtsZW5ndGg6MjAwJV8xMDAlXSIgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZEltYWdlOiAnbGluZWFyLWdyYWRpZW50KDkwZGVnLCBoc2woMzU2LCA4NSUsIDU1JSkgMCUsIGhzbCgzNDUsIDgwJSwgNDUlKSAyNSUsIGhzbCgzNTYsIDg1JSwgNTUlKSA1MCUsIGhzbCgzNDUsIDgwJSwgNDUlKSA3NSUsIGhzbCgzNTYsIDg1JSwgNTUlKSAxMDAlKScKICAgICAgICAgICAgICAgIH19Pk5hdHVyYWxseTwvc3Bhbj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iYWJzb2x1dGUgYm90dG9tLTEuNSBsZWZ0LTAgdy1mdWxsIGgtMi41IGJnLXByaW1hcnkvMjAgLXJvdGF0ZS0xIC16LTAgcm91bmRlZC1mdWxsIGJsdXItWzFweF0iPjwvc3Bhbj4KICAgICAgICAgICAgICAgIDxtb3Rpb24uc3BhbgogICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImFic29sdXRlIC1yaWdodC00IC10b3AtMyIKICAgICAgICAgICAgICAgICAgYW5pbWF0ZT17eyByb3RhdGU6IFswLCAxNSwgMF0sIHNjYWxlOiBbMSwgMS4xLCAxXSB9fQogICAgICAgICAgICAgICAgICB0cmFuc2l0aW9uPXt7IGR1cmF0aW9uOiAyLCByZXBlYXQ6IEluZmluaXR5IH19CiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgIDxIZWFydCBjbGFzc05hbWU9InctNiBoLTYgbWQ6dy04IG1kOmgtOCB0ZXh0LXByaW1hcnkgZmlsbC1wcmltYXJ5IG9wYWNpdHktODAiIC8+CiAgICAgICAgICAgICAgICA8L21vdGlvbi5zcGFuPgogICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgPC9tb3Rpb24uaDE+CgogICAgICAgICAgICB7LyogVGFnbGluZSAqL30KICAgICAgICAgICAgPG1vdGlvbi5wCiAgICAgICAgICAgICAgaW5pdGlhbD17eyBvcGFjaXR5OiAwLCB5OiAzMCB9fQogICAgICAgICAgICAgIGFuaW1hdGU9e3sgb3BhY2l0eTogMSwgeTogMCB9fQogICAgICAgICAgICAgIHRyYW5zaXRpb249e3sgZHVyYXRpb246IDAuNiwgZGVsYXk6IDAuMiB9fQogICAgICAgICAgICAgIGNsYXNzTmFtZT0idGV4dC14cyBtZDp0ZXh0LXNtIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBtYi01IGZvbnQtbGlnaHQgbWF4LXctMnhsIG14LWF1dG8gbGVhZGluZy1yZWxheGVkIgogICAgICAgICAgICA+CiAgICAgICAgICAgICAgSm9pbiBLZW55YSdzIG1vc3QgdHJ1c3RlZCBjb21tdW5pdHkgb2Ygc2luZ2xlcy4gU2FmZSwgdmVyaWZpZWQsIGFuZCBkZXNpZ25lZCBmb3IgbWVhbmluZ2Z1bCBjb25uZWN0aW9ucyB0aGF0IGxhc3QuCiAgICAgICAgICAgIDwvbW90aW9uLnA+CgogICAgICAgICAgICB7LyogUHJpY2luZy9WYWx1ZSBQcm9wICovfQogICAgICAgICAgICA8bW90aW9uLmRpdgogICAgICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogMzAgfX0KICAgICAgICAgICAgICBhbmltYXRlPXt7IG9wYWNpdHk6IDEsIHk6IDAgfX0KICAgICAgICAgICAgICB0cmFuc2l0aW9uPXt7IGR1cmF0aW9uOiAwLjYsIGRlbGF5OiAwLjMgfX0KICAgICAgICAgICAgICBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wgc206ZmxleC1yb3cgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIGdhcC0zIG1iLTYgdGV4dC1bMTBweF0gZm9udC1tZWRpdW0gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIGJnLXdoaXRlLzUwIGRhcms6YmctYmxhY2svMjAgcC0yLjUgcm91bmRlZC0yeGwgYmFja2Ryb3AtYmx1ci1zbSBib3JkZXIgYm9yZGVyLWJvcmRlci81MCBtYXgtdy1maXQgbXgtYXV0byIKICAgICAgICAgICAgPgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBnYXAtMS41Ij4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LTEuNSBoLTEuNSByb3VuZGVkLWZ1bGwgYmctc2Vjb25kYXJ5IGFuaW1hdGUtcHVsc2UiIC8+CiAgICAgICAgICAgICAgICA8c3Bhbj5QcmVtaXVtIGZlYXR1cmVzIGF2YWlsYWJsZTwvc3Bhbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iaGlkZGVuIHNtOmJsb2NrIHctcHggaC0zIGJnLWJvcmRlciIgLz4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTEuNSI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idy0xLjUgaC0xLjUgcm91bmRlZC1mdWxsIGJnLWFjY2VudCBhbmltYXRlLXB1bHNlIiAvPgogICAgICAgICAgICAgICAgPHNwYW4+VmVyaWZpZWQgUHJvZmlsZXMgT25seTwvc3Bhbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9tb3Rpb24uZGl2PgoKICAgICAgICAgICAgey8qIENUQSBCdXR0b25zICovfQogICAgICAgICAgICA8bW90aW9uLmRpdgogICAgICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogMzAgfX0KICAgICAgICAgICAgICBhbmltYXRlPXt7IG9wYWNpdHk6IDEsIHk6IDAgfX0KICAgICAgICAgICAgICB0cmFuc2l0aW9uPXt7IGR1cmF0aW9uOiAwLjYsIGRlbGF5OiAwLjQgfX0KICAgICAgICAgICAgICBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wgc206ZmxleC1yb3cgaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIGdhcC0zIG1iLTEwIgogICAgICAgICAgICA+CiAgICAgICAgICAgICAgPExpbmsgdG89Ii9zaWdudXAiPgogICAgICAgICAgICAgICAgPEJ1dHRvbiBjbGFzc05hbWU9ImgtMTAgcHgtNyB0ZXh0LXhzIHJvdW5kZWQtZnVsbCBidG4tZ3JhZGllbnQgYm9yZGVyLTAgaG92ZXI6c2NhbGUtMTA1IHRyYW5zaXRpb24tdHJhbnNmb3JtIGR1cmF0aW9uLTMwMCBzaGFkb3ctZ2xvdy1zdHJvbmcgZ3JvdXAiPgogICAgICAgICAgICAgICAgICA8SGVhcnQgY2xhc3NOYW1lPSJ3LTQgaC00IGZpbGwtd2hpdGUgbXItMS41IGdyb3VwLWhvdmVyOmFuaW1hdGUtcHVsc2Utc29mdCIgLz4KICAgICAgICAgICAgICAgICAgRmluZCBNeSBNYXRjaAogICAgICAgICAgICAgICAgICA8QXJyb3dSaWdodCBjbGFzc05hbWU9InctNCBoLTQgbWwtMS41IGdyb3VwLWhvdmVyOnRyYW5zbGF0ZS14LTEgdHJhbnNpdGlvbi10cmFuc2Zvcm0iIC8+CiAgICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgICAgPEJ1dHRvbiB2YXJpYW50PSJvdXRsaW5lIiBjbGFzc05hbWU9ImgtMTAgcHgtNyB0ZXh0LXhzIHJvdW5kZWQtZnVsbCBib3JkZXItMiBiZy13aGl0ZS82MCBkYXJrOmJnLWJsYWNrLzQwIGJvcmRlci1wcmltYXJ5LzIwIGhvdmVyOmJvcmRlci1zZWNvbmRhcnkgaG92ZXI6dGV4dC1zZWNvbmRhcnkgdHJhbnNpdGlvbi1hbGwgaG92ZXI6c2NhbGUtMTA1IGR1cmF0aW9uLTMwMCI+CiAgICAgICAgICAgICAgICBIb3cgSXQgV29ya3MgPEFycm93UmlnaHQgY2xhc3NOYW1lPSJtbC0xLjUgdy00IGgtNCIgLz4KICAgICAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgICAgPC9tb3Rpb24uZGl2PgoKICAgICAgICAgICAgey8qIFN0YXRzICovfQogICAgICAgICAgICA8bW90aW9uLmRpdgogICAgICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogMzAgfX0KICAgICAgICAgICAgICBhbmltYXRlPXt7IG9wYWNpdHk6IDEsIHk6IDAgfX0KICAgICAgICAgICAgICB0cmFuc2l0aW9uPXt7IGR1cmF0aW9uOiAwLjYsIGRlbGF5OiAwLjUgfX0KICAgICAgICAgICAgICBjbGFzc05hbWU9ImZsZXggZmxleC13cmFwIGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBnYXAtNSBtZDpnYXAtOCBib3JkZXItdCBib3JkZXItYm9yZGVyIHB0LTUgbWF4LXctMnhsIG14LWF1dG8iCiAgICAgICAgICAgID4KICAgICAgICAgICAgICB7c3RhdHMubWFwKChzdGF0LCBpbmRleCkgPT4gKAogICAgICAgICAgICAgICAgPGRpdiBrZXk9e3N0YXQubGFiZWx9IGNsYXNzTmFtZT0idGV4dC1jZW50ZXIiPgogICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQteGwgZm9udC1oZWFkaW5nIGZvbnQtYm9sZCB0ZXh0LWZvcmVncm91bmQgbWItMC41Ij4KICAgICAgICAgICAgICAgICAgICB7c3RhdC52YWx1ZX0KICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtWzlweF0gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIGZvbnQtc2VtaWJvbGQgdXBwZXJjYXNlIHRyYWNraW5nLXdpZGVzdCI+e3N0YXQubGFiZWx9PC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgIDwvbW90aW9uLmRpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvc2VjdGlvbj4KICApOwp9OwoKZXhwb3J0IGRlZmF1bHQgSGVybzsK"}
+import { motion } from "framer-motion";
+import { Heart, Sparkles, Shield, Users, ArrowRight } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import { Link } from "react-router-dom";
+// Use a placeholder if local image is missing, or rely on public folder
+// Assuming src/assets/hero-couple.jpg exists, but fallback is safer
+const heroCoupleImage = "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?q=80&w=2070&auto=format&fit=crop";
+
+const Hero = () => {
+  const stats = [
+    { icon: Users, value: "50,000+", label: "Singles" },
+    { icon: Shield, value: "100%", label: "Verified" },
+    { icon: Heart, value: "1,000+", label: "Matches" },
+  ];
+
+  return (
+    <section className="relative min-h-screen flex items-center justify-center overflow-hidden pt-20 lg:pt-24 pb-12">
+      {/* Animated Background Elements */}
+      <div className="absolute inset-0 bg-hero-pattern opacity-60 -z-20" />
+      <div className="absolute inset-0 bg-gradient-to-br from-white/70 via-white/40 to-white/10 dark:from-black/60 dark:via-black/40 dark:to-black/20 -z-10" />
+      
+      {/* Organic Blobs */}
+      <motion.div 
+        animate={{ scale: [1, 1.1, 1], rotate: [0, 5, 0] }}
+        transition={{ duration: 15, repeat: Infinity, ease: "linear" }}
+        className="absolute top-0 right-0 w-[800px] h-[800px] bg-accent/10 rounded-full blur-[100px] -z-10 translate-x-1/2 -translate-y-1/2" 
+      />
+      <motion.div 
+        animate={{ scale: [1, 1.2, 1], rotate: [0, -5, 0] }}
+        transition={{ duration: 20, repeat: Infinity, ease: "linear" }}
+        className="absolute bottom-0 left-0 w-[600px] h-[600px] bg-primary/10 rounded-full blur-[80px] -z-10 -translate-x-1/3 translate-y-1/3" 
+      />
+
+      {/* Floating Hearts Animation */}
+      {[...Array(8)].map((_, i) => (
+        <motion.div
+          key={i}
+          className="absolute pointer-events-none z-0"
+          style={{
+            left: `${Math.random() * 100}%`,
+            top: `${Math.random() * 100}%`,
+          }}
+          animate={{
+            y: [0, -40, 0],
+            opacity: [0, 0.4, 0],
+            scale: [0.8, 1.2, 0.8],
+          }}
+          transition={{
+            duration: 5 + Math.random() * 5,
+            repeat: Infinity,
+            delay: Math.random() * 5,
+            ease: "easeInOut",
+          }}
+        >
+          <Heart className={`w-${Math.floor(Math.random() * 6) + 4} h-${Math.floor(Math.random() * 6) + 4} text-primary/20 fill-primary/10`} />
+        </motion.div>
+      ))}
+
+      <div className="container-wide relative z-10">
+        <div className="max-w-5xl mx-auto">
+          {/* Text Content */}
+          <div className="text-center">
+            {/* Badge */}
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6 }}
+              className="inline-flex items-center gap-1.5 bg-white/80 dark:bg-black/50 backdrop-blur-md px-3 py-1.5 rounded-full mb-6 border border-primary/20 shadow-sm hover:shadow-md transition-shadow cursor-default"
+            >
+              <Sparkles className="w-3 h-3 text-primary animate-pulse-soft" />
+              <span className="text-[10px] font-semibold text-foreground tracking-wide">Kenya's Premier Dating Experience</span>
+            </motion.div>
+
+            {/* Main Heading - Enhanced */}
+            <motion.h1
+              initial={{ opacity: 0, y: 30 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, delay: 0.1 }}
+              className="text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-heading font-extrabold mb-4 leading-[1.05] text-foreground tracking-tight"
+            >
+              Discover Love <br />
+              <span className="relative inline-block">
+                <span className="text-gradient-love relative z-10 animate-shimmer bg-[length:200%_100%]" style={{
+                  backgroundImage: 'linear-gradient(90deg, hsl(356, 85%, 55%) 0%, hsl(345, 80%, 45%) 25%, hsl(356, 85%, 55%) 50%, hsl(345, 80%, 45%) 75%, hsl(356, 85%, 55%) 100%)'
+                }}>Naturally</span>
+                <span className="absolute bottom-1.5 left-0 w-full h-2.5 bg-primary/20 -rotate-1 -z-0 rounded-full blur-[1px]"></span>
+                <motion.span
+                  className="absolute -right-4 -top-3"
+                  animate={{ rotate: [0, 15, 0], scale: [1, 1.1, 1] }}
+                  transition={{ duration: 2, repeat: Infinity }}
+                >
+                  <Heart className="w-6 h-6 md:w-8 md:h-8 text-primary fill-primary opacity-80" />
+                </motion.span>
+              </span>
+            </motion.h1>
+
+            {/* Tagline */}
+            <motion.p
+              initial={{ opacity: 0, y: 30 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, delay: 0.2 }}
+              className="text-xs md:text-sm text-muted-foreground mb-5 font-light max-w-2xl mx-auto leading-relaxed"
+            >
+              Join Kenya's most trusted community of singles. Safe, verified, and designed for meaningful connections that last.
+            </motion.p>
+
+            {/* Pricing/Value Prop */}
+            <motion.div
+              initial={{ opacity: 0, y: 30 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, delay: 0.3 }}
+              className="flex flex-col sm:flex-row items-center justify-center gap-3 mb-6 text-[10px] font-medium text-muted-foreground bg-white/50 dark:bg-black/20 p-2.5 rounded-2xl backdrop-blur-sm border border-border/50 max-w-fit mx-auto"
+            >
+              <div className="flex items-center gap-1.5">
+                <div className="w-1.5 h-1.5 rounded-full bg-secondary animate-pulse" />
+                <span>Premium features available</span>
+              </div>
+              <div className="hidden sm:block w-px h-3 bg-border" />
+              <div className="flex items-center gap-1.5">
+                <div className="w-1.5 h-1.5 rounded-full bg-accent animate-pulse" />
+                <span>Verified Profiles Only</span>
+              </div>
+            </motion.div>
+
+            {/* CTA Buttons */}
+            <motion.div
+              initial={{ opacity: 0, y: 30 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, delay: 0.4 }}
+              className="flex flex-col sm:flex-row items-center justify-center gap-3 mb-10"
+            >
+              <Link to="/signup">
+                <Button className="h-10 px-7 text-xs rounded-full btn-gradient border-0 hover:scale-105 transition-transform duration-300 shadow-glow-strong group">
+                  <Heart className="w-4 h-4 fill-white mr-1.5 group-hover:animate-pulse-soft" />
+                  Find My Match
+                  <ArrowRight className="w-4 h-4 ml-1.5 group-hover:translate-x-1 transition-transform" />
+                </Button>
+              </Link>
+              <Button variant="outline" className="h-10 px-7 text-xs rounded-full border-2 bg-white/60 dark:bg-black/40 border-primary/20 hover:border-secondary hover:text-secondary transition-all hover:scale-105 duration-300">
+                How It Works <ArrowRight className="ml-1.5 w-4 h-4" />
+              </Button>
+            </motion.div>
+
+            {/* Stats */}
+            <motion.div
+              initial={{ opacity: 0, y: 30 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6, delay: 0.5 }}
+              className="flex flex-wrap items-center justify-center gap-5 md:gap-8 border-t border-border pt-5 max-w-2xl mx-auto"
+            >
+              {stats.map((stat, index) => (
+                <div key={stat.label} className="text-center">
+                  <p className="text-xl font-heading font-bold text-foreground mb-0.5">
+                    {stat.value}
+                  </p>
+                  <p className="text-[9px] text-muted-foreground font-semibold uppercase tracking-widest">{stat.label}</p>
+                </div>
+              ))}
+            </motion.div>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+};
+
+export default Hero;

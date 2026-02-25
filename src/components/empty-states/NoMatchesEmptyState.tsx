@@ -1,1 +1,15 @@
-{"data":"aW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2J1dHRvbiI7CmltcG9ydCB7IEhlYXJ0IH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKCmV4cG9ydCBmdW5jdGlvbiBOb01hdGNoZXNFbXB0eVN0YXRlKHsgb25TdGFydERpc2NvdmVyaW5nIH06IHsgb25TdGFydERpc2NvdmVyaW5nOiAoKSA9PiB2b2lkIH0pIHsKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9InRleHQtY2VudGVyIHB5LTIwIGdsYXNzLWNhcmQgcm91bmRlZC0zeGwiPgogICAgICA8SGVhcnQgY2xhc3NOYW1lPSJ3LTE2IGgtMTYgbXgtYXV0byB0ZXh0LW11dGVkLWZvcmVncm91bmQvMzAgbWItNCIgLz4KICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC14bCBmb250LXNlbWlib2xkIG1iLTIiPk5vIG1hdGNoZXMgeWV0PC9oMj4KICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LW11dGVkLWZvcmVncm91bmQgbWItNiI+S2VlcCBzd2lwaW5nIHRvIGZpbmQgeW91ciBtYXRjaCE8L3A+CiAgICAgIDxCdXR0b24gb25DbGljaz17b25TdGFydERpc2NvdmVyaW5nfSB2YXJpYW50PSJoZXJvIj4KICAgICAgICBTdGFydCBEaXNjb3ZlcmluZwogICAgICA8L0J1dHRvbj4KICAgIDwvZGl2PgogICk7Cn0K"}
+import { Button } from "@/components/ui/button";
+import { Heart } from "lucide-react";
+
+export function NoMatchesEmptyState({ onStartDiscovering }: { onStartDiscovering: () => void }) {
+  return (
+    <div className="text-center py-20 glass-card rounded-3xl">
+      <Heart className="w-16 h-16 mx-auto text-muted-foreground/30 mb-4" />
+      <h2 className="text-xl font-semibold mb-2">No matches yet</h2>
+      <p className="text-muted-foreground mb-6">Keep swiping to find your match!</p>
+      <Button onClick={onStartDiscovering} variant="hero">
+        Start Discovering
+      </Button>
+    </div>
+  );
+}

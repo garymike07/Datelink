@@ -1,1 +1,71 @@
-{"data":"aW1wb3J0IHsgQ2hlY2sgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyBjbiB9IGZyb20gIkAvbGliL3V0aWxzIjsKCmludGVyZmFjZSBTdGVwSW5kaWNhdG9yUHJvcHMgewogIGN1cnJlbnRTdGVwOiBudW1iZXI7CiAgdG90YWxTdGVwczogbnVtYmVyOwogIGNvbXBsZXRlZFN0ZXBzOiBudW1iZXJbXTsKfQoKZXhwb3J0IGNvbnN0IFN0ZXBJbmRpY2F0b3IgPSAoeyBjdXJyZW50U3RlcCwgdG90YWxTdGVwcywgY29tcGxldGVkU3RlcHMgfTogU3RlcEluZGljYXRvclByb3BzKSA9PiB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJ3LWZ1bGwgcHktNiI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWJldHdlZW4gbWF4LXctMnhsIG14LWF1dG8gcHgtNCI+CiAgICAgICAge0FycmF5LmZyb20oeyBsZW5ndGg6IHRvdGFsU3RlcHMgfSwgKF8sIGkpID0+IGkgKyAxKS5tYXAoKHN0ZXAsIGluZGV4KSA9PiB7CiAgICAgICAgICBjb25zdCBpc0NvbXBsZXRlZCA9IGNvbXBsZXRlZFN0ZXBzLmluY2x1ZGVzKHN0ZXApOwogICAgICAgICAgY29uc3QgaXNDdXJyZW50ID0gc3RlcCA9PT0gY3VycmVudFN0ZXA7CiAgICAgICAgICBjb25zdCBpc0xhc3QgPSBpbmRleCA9PT0gdG90YWxTdGVwcyAtIDE7CgogICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgPGRpdiBrZXk9e3N0ZXB9IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZmxleC0xIj4KICAgICAgICAgICAgICB7LyogU3RlcCBDaXJjbGUgKi99CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wgaXRlbXMtY2VudGVyIj4KICAgICAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtjbigKICAgICAgICAgICAgICAgICAgICAidy0xMCBoLTEwIHJvdW5kZWQtZnVsbCBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBib3JkZXItMiB0cmFuc2l0aW9uLWFsbCIsCiAgICAgICAgICAgICAgICAgICAgaXNDb21wbGV0ZWQKICAgICAgICAgICAgICAgICAgICAgID8gImJnLXByaW1hcnkgYm9yZGVyLXByaW1hcnkgdGV4dC1wcmltYXJ5LWZvcmVncm91bmQiCiAgICAgICAgICAgICAgICAgICAgICA6IGlzQ3VycmVudAogICAgICAgICAgICAgICAgICAgICAgPyAiYm9yZGVyLXByaW1hcnkgdGV4dC1wcmltYXJ5IGJnLXByaW1hcnkvMTAiCiAgICAgICAgICAgICAgICAgICAgICA6ICJib3JkZXItbXV0ZWQtZm9yZWdyb3VuZC8zMCB0ZXh0LW11dGVkLWZvcmVncm91bmQiCiAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgIHtpc0NvbXBsZXRlZCA/ICgKICAgICAgICAgICAgICAgICAgICA8Q2hlY2sgY2xhc3NOYW1lPSJ3LTUgaC01IiAvPgogICAgICAgICAgICAgICAgICApIDogKAogICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1zbSBmb250LXNlbWlib2xkIj57c3RlcH08L3NwYW4+CiAgICAgICAgICAgICAgICAgICl9CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC14cyBtdC0yIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBoaWRkZW4gc206YmxvY2siPgogICAgICAgICAgICAgICAgICBTdGVwIHtzdGVwfQogICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICB7LyogQ29ubmVjdG9yIExpbmUgKi99CiAgICAgICAgICAgICAgeyFpc0xhc3QgJiYgKAogICAgICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2NuKAogICAgICAgICAgICAgICAgICAgICJmbGV4LTEgaC0wLjUgbXgtMiB0cmFuc2l0aW9uLWFsbCIsCiAgICAgICAgICAgICAgICAgICAgaXNDb21wbGV0ZWQgfHwgKGlzQ3VycmVudCAmJiBpbmRleCA8IGN1cnJlbnRTdGVwIC0gMSkKICAgICAgICAgICAgICAgICAgICAgID8gImJnLXByaW1hcnkiCiAgICAgICAgICAgICAgICAgICAgICA6ICJiZy1tdXRlZC1mb3JlZ3JvdW5kLzMwIgogICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICApfQogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICk7CiAgICAgICAgfSl9CiAgICAgIDwvZGl2PgoKICAgICAgey8qIFByb2dyZXNzIEJhciAqL30KICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTQgbWF4LXctMnhsIG14LWF1dG8gcHgtNCI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9InctZnVsbCBiZy1tdXRlZCByb3VuZGVkLWZ1bGwgaC0yIj4KICAgICAgICAgIDxkaXYKICAgICAgICAgICAgY2xhc3NOYW1lPSJiZy1wcmltYXJ5IGgtMiByb3VuZGVkLWZ1bGwgdHJhbnNpdGlvbi1hbGwgZHVyYXRpb24tMzAwIgogICAgICAgICAgICBzdHlsZT17eyB3aWR0aDogYCR7KGN1cnJlbnRTdGVwIC8gdG90YWxTdGVwcykgKiAxMDB9JWAgfX0KICAgICAgICAgIC8+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfTsK"}
+import { Check } from "lucide-react";
+import { cn } from "@/lib/utils";
+
+interface StepIndicatorProps {
+  currentStep: number;
+  totalSteps: number;
+  completedSteps: number[];
+}
+
+export const StepIndicator = ({ currentStep, totalSteps, completedSteps }: StepIndicatorProps) => {
+  return (
+    <div className="w-full py-6">
+      <div className="flex items-center justify-between max-w-2xl mx-auto px-4">
+        {Array.from({ length: totalSteps }, (_, i) => i + 1).map((step, index) => {
+          const isCompleted = completedSteps.includes(step);
+          const isCurrent = step === currentStep;
+          const isLast = index === totalSteps - 1;
+
+          return (
+            <div key={step} className="flex items-center flex-1">
+              {/* Step Circle */}
+              <div className="flex flex-col items-center">
+                <div
+                  className={cn(
+                    "w-10 h-10 rounded-full flex items-center justify-center border-2 transition-all",
+                    isCompleted
+                      ? "bg-primary border-primary text-primary-foreground"
+                      : isCurrent
+                      ? "border-primary text-primary bg-primary/10"
+                      : "border-muted-foreground/30 text-muted-foreground"
+                  )}
+                >
+                  {isCompleted ? (
+                    <Check className="w-5 h-5" />
+                  ) : (
+                    <span className="text-sm font-semibold">{step}</span>
+                  )}
+                </div>
+                <span className="text-xs mt-2 text-muted-foreground hidden sm:block">
+                  Step {step}
+                </span>
+              </div>
+
+              {/* Connector Line */}
+              {!isLast && (
+                <div
+                  className={cn(
+                    "flex-1 h-0.5 mx-2 transition-all",
+                    isCompleted || (isCurrent && index < currentStep - 1)
+                      ? "bg-primary"
+                      : "bg-muted-foreground/30"
+                  )}
+                />
+              )}
+            </div>
+          );
+        })}
+      </div>
+
+      {/* Progress Bar */}
+      <div className="mt-4 max-w-2xl mx-auto px-4">
+        <div className="w-full bg-muted rounded-full h-2">
+          <div
+            className="bg-primary h-2 rounded-full transition-all duration-300"
+            style={{ width: `${(currentStep / totalSteps) * 100}%` }}
+          />
+        </div>
+      </div>
+    </div>
+  );
+};

@@ -1,1 +1,21 @@
-{"data":"aW1wb3J0IHsgdXNlUXVlcnkgfSBmcm9tICJjb252ZXgvcmVhY3QiOwppbXBvcnQgeyBhcGkgfSBmcm9tICIuLi8uLi8uLi9jb252ZXgvX2dlbmVyYXRlZC9hcGkiOwppbXBvcnQgeyBCYWRnZSB9IGZyb20gIkAvY29tcG9uZW50cy91aS9iYWRnZSI7CgpleHBvcnQgZnVuY3Rpb24gUGxhbkJhZGdlKHsgdXNlcklkIH06IHsgdXNlcklkOiBzdHJpbmcgfSkgewogIGNvbnN0IHN1YnNjcmlwdGlvbiA9IHVzZVF1ZXJ5KGFwaS5zdWJzY3JpcHRpb25zLmdldE15U3Vic2NyaXB0aW9uLCB7IHVzZXJJZDogdXNlcklkIGFzIGFueSB9KTsKICBjb25zdCBpc1ByZW1pdW0gPSBzdWJzY3JpcHRpb24/LnN0YXR1cyA9PT0gImFjdGl2ZSI7CgogIHJldHVybiAoCiAgICA8QmFkZ2UKICAgICAgY2xhc3NOYW1lPXsKICAgICAgICBpc1ByZW1pdW0KICAgICAgICAgID8gImJnLWdyYWRpZW50LXRvLXIgZnJvbS15ZWxsb3ctNTAwIHRvLW9yYW5nZS01MDAgdGV4dC13aGl0ZSBib3JkZXItMCIKICAgICAgICAgIDogIiIKICAgICAgfQogICAgICB2YXJpYW50PXtpc1ByZW1pdW0gPyAiZGVmYXVsdCIgOiAic2Vjb25kYXJ5In0KICAgID4KICAgICAge2lzUHJlbWl1bSA/ICJQcmVtaXVtIiA6ICJGcmVlIn0KICAgIDwvQmFkZ2U+CiAgKTsKfQo="}
+import { useQuery } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import { Badge } from "@/components/ui/badge";
+
+export function PlanBadge({ userId }: { userId: string }) {
+  const subscription = useQuery(api.subscriptions.getMySubscription, { userId: userId as any });
+  const isPremium = subscription?.status === "active";
+
+  return (
+    <Badge
+      className={
+        isPremium
+          ? "bg-gradient-to-r from-yellow-500 to-orange-500 text-white border-0"
+          : ""
+      }
+      variant={isPremium ? "default" : "secondary"}
+    >
+      {isPremium ? "Premium" : "Free"}
+    </Badge>
+  );
+}

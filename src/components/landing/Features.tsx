@@ -1,1 +1,93 @@
-{"data":"aW1wb3J0IHsKICBTaGllbGQsCiAgTWFwUGluLAogIE1lc3NhZ2VDaXJjbGUsCiAgQmFkZ2VDaGVjaywKICBIZWFydCwKICBTbWFydHBob25lLAogIFVzZXJzLAogIExvY2sKfSBmcm9tICJsdWNpZGUtcmVhY3QiOwoKY29uc3QgRmVhdHVyZXMgPSAoKSA9PiB7CiAgY29uc3QgZmVhdHVyZXMgPSBbCiAgICB7CiAgICAgIGljb246IFNoaWVsZCwKICAgICAgdGl0bGU6ICJWZXJpZmllZCBQcm9maWxlcyIsCiAgICAgIGRlc2NyaXB0aW9uOiAiQWxsIHVzZXJzIHZlcmlmeSB2aWEgcGhvbmUuIE9wdGlvbmFsIElEIHZlcmlmaWNhdGlvbiBmb3IgZXh0cmEgdHJ1c3QgYW5kIGEgdmVyaWZpZWQgYmFkZ2UuIiwKICAgIH0sCiAgICB7CiAgICAgIGljb246IE1hcFBpbiwKICAgICAgdGl0bGU6ICJHbG9iYWwgUmVhY2giLAogICAgICBkZXNjcmlwdGlvbjogIkZpbmQgbWF0Y2hlcyBmcm9tIGFueXdoZXJlIGluIHRoZSB3b3JsZC4gQ29ubmVjdCB3aXRoIHBlb3BsZSBhY3Jvc3MgY2l0aWVzIGFuZCBjb3VudHJpZXMuIiwKICAgIH0sCiAgICB7CiAgICAgIGljb246IE1lc3NhZ2VDaXJjbGUsCiAgICAgIHRpdGxlOiAiV2hhdHNBcHAtU3R5bGUgQ2hhdCIsCiAgICAgIGRlc2NyaXB0aW9uOiAiRmFtaWxpYXIgbWVzc2FnaW5nIGV4cGVyaWVuY2Ugd2l0aCByZWFkIHJlY2VpcHRzLCB0eXBpbmcgaW5kaWNhdG9ycywgYW5kIHBob3RvIHNoYXJpbmcuIiwKICAgIH0sCiAgICB7CiAgICAgIGljb246IEJhZGdlQ2hlY2ssCiAgICAgIHRpdGxlOiAiU21hcnQgTWF0Y2hpbmciLAogICAgICBkZXNjcmlwdGlvbjogIk91ciBhbGdvcml0aG0gY29uc2lkZXJzIGxvY2F0aW9uLCBpbnRlcmVzdHMsIGdvYWxzLCBhbmQgY29tcGF0aWJpbGl0eSBmb3IgYmV0dGVyIG1hdGNoZXMuIiwKICAgIH0sCiAgICB7CiAgICAgIGljb246IFVzZXJzLAogICAgICB0aXRsZTogIkJpbGluZ3VhbCBQbGF0Zm9ybSIsCiAgICAgIGRlc2NyaXB0aW9uOiAiU3dpdGNoIGJldHdlZW4gRW5nbGlzaCBhbmQgS2lzd2FoaWxpIGFueXRpbWUuIExvdmUgaXMgbG92ZSwgaW4gYW55IGxhbmd1YWdlISIsCiAgICB9LAogICAgewogICAgICBpY29uOiBMb2NrLAogICAgICB0aXRsZTogIlByaXZhY3kgRmlyc3QiLAogICAgICBkZXNjcmlwdGlvbjogIkNvbnRyb2wgd2hvIHNlZXMgeW91ciBwcm9maWxlLiBCbG9jayBhbmQgcmVwb3J0IHN1c3BpY2lvdXMgYWNjb3VudHMgaW5zdGFudGx5LiIsCiAgICB9LAogICAgewogICAgICBpY29uOiBTbWFydHBob25lLAogICAgICB0aXRsZTogIk1vYmlsZSBPcHRpbWl6ZWQiLAogICAgICBkZXNjcmlwdGlvbjogIldvcmtzIHBlcmZlY3RseSBvbiBhbnkgZGV2aWNlLiBGYXN0IGxvYWRpbmcgZXZlbiBvbiBzbG93IG5ldHdvcmtzLiBTYXZlIGRhdGEgd2l0aCBsaXRlIG1vZGUuIiwKICAgIH0sCiAgICB7CiAgICAgIGljb246IEhlYXJ0LAogICAgICB0aXRsZTogIlNlcmlvdXMgQ29ubmVjdGlvbnMiLAogICAgICBkZXNjcmlwdGlvbjogIldlIGZvY3VzIG9uIG1lYW5pbmdmdWwgcmVsYXRpb25zaGlwcywgbm90IGp1c3Qgc3dpcGVzLiBTd2VldCBsb3ZlIGxhc3RzISIsCiAgICB9LAogIF07CgogIHJldHVybiAoCiAgICA8c2VjdGlvbiBjbGFzc05hbWU9InB5LTIwIG1kOnB5LTMyIGJnLWJhY2tncm91bmQiPgogICAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGFpbmVyIG1heC13LTd4bCBteC1hdXRvIHB4LTQgc206cHgtNiI+CiAgICAgICAgey8qIEhlYWRlciAqL30KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idGV4dC1jZW50ZXIgbWItMTYiPgogICAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC0yeGwgbWQ6dGV4dC0zeGwgZm9udC1oZWFkaW5nIGZvbnQtYm9sZCBtYi0zIHRleHQtZm9yZWdyb3VuZCI+CiAgICAgICAgICAgIEJ1aWx0IGZvciBtZWFuaW5nZnVsIGNvbm5lY3Rpb25zCiAgICAgICAgICA8L2gyPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIG1kOnRleHQtYmFzZSBmb250LWJvZHkgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIG1heC13LTN4bCBteC1hdXRvIj4KICAgICAgICAgICAgRXZlcnkgZmVhdHVyZSBpcyBkZXNpZ25lZCB0byBoZWxwIHlvdSBmaW5kIGdlbnVpbmUgcmVsYXRpb25zaGlwcwogICAgICAgICAgPC9wPgogICAgICAgIDwvZGl2PgoKICAgICAgICB7LyogRmVhdHVyZXMgR3JpZCAqL30KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZ3JpZCBzbTpncmlkLWNvbHMtMiBsZzpncmlkLWNvbHMtNCBnYXAtOCI+CiAgICAgICAgICB7ZmVhdHVyZXMubWFwKChmZWF0dXJlKSA9PiB7CiAgICAgICAgICAgIGNvbnN0IEljb24gPSBmZWF0dXJlLmljb247CiAgICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICAgPGRpdiBrZXk9e2ZlYXR1cmUudGl0bGV9IGNsYXNzTmFtZT0ic3BhY2UteS00IGdsYXNzLWNhcmQgcC02IHJvdW5kZWQtM3hsIGJvcmRlciBib3JkZXItd2hpdGUvNTAgZGFyazpib3JkZXItd2hpdGUvNSBob3ZlcjpzaGFkb3ctZWxldmF0ZWQgaG92ZXI6LXRyYW5zbGF0ZS15LTEgdHJhbnNpdGlvbi1hbGwgZHVyYXRpb24tMzAwIGdyb3VwIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LTE0IGgtMTQgcm91bmRlZC0yeGwgYmctZ3JhZGllbnQtdG8tYnIgZnJvbS1wcmltYXJ5LzEwIHRvLWFjY2VudC8xMCBmbGV4IGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBncm91cC1ob3ZlcjpzY2FsZS0xMTAgdHJhbnNpdGlvbi10cmFuc2Zvcm0gZHVyYXRpb24tMzAwIj4KICAgICAgICAgICAgICAgICAgPEljb24gY2xhc3NOYW1lPSJ3LTcgaC03IHRleHQtcHJpbWFyeSIgLz4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGgzIGNsYXNzTmFtZT0idGV4dC14bCBmb250LWJvbGQgdGV4dC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgICAgICAge2ZlYXR1cmUudGl0bGV9CiAgICAgICAgICAgICAgICA8L2gzPgogICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBsZWFkaW5nLXJlbGF4ZWQiPgogICAgICAgICAgICAgICAgICB7ZmVhdHVyZS5kZXNjcmlwdGlvbn0KICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgKTsKICAgICAgICAgIH0pfQogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvc2VjdGlvbj4KICApOwp9OwoKZXhwb3J0IGRlZmF1bHQgRmVhdHVyZXM7Cg=="}
+import {
+  Shield,
+  MapPin,
+  MessageCircle,
+  BadgeCheck,
+  Heart,
+  Smartphone,
+  Users,
+  Lock
+} from "lucide-react";
+
+const Features = () => {
+  const features = [
+    {
+      icon: Shield,
+      title: "Verified Profiles",
+      description: "All users verify via phone. Optional ID verification for extra trust and a verified badge.",
+    },
+    {
+      icon: MapPin,
+      title: "Global Reach",
+      description: "Find matches from anywhere in the world. Connect with people across cities and countries.",
+    },
+    {
+      icon: MessageCircle,
+      title: "WhatsApp-Style Chat",
+      description: "Familiar messaging experience with read receipts, typing indicators, and photo sharing.",
+    },
+    {
+      icon: BadgeCheck,
+      title: "Smart Matching",
+      description: "Our algorithm considers location, interests, goals, and compatibility for better matches.",
+    },
+    {
+      icon: Users,
+      title: "Bilingual Platform",
+      description: "Switch between English and Kiswahili anytime. Love is love, in any language!",
+    },
+    {
+      icon: Lock,
+      title: "Privacy First",
+      description: "Control who sees your profile. Block and report suspicious accounts instantly.",
+    },
+    {
+      icon: Smartphone,
+      title: "Mobile Optimized",
+      description: "Works perfectly on any device. Fast loading even on slow networks. Save data with lite mode.",
+    },
+    {
+      icon: Heart,
+      title: "Serious Connections",
+      description: "We focus on meaningful relationships, not just swipes. Sweet love lasts!",
+    },
+  ];
+
+  return (
+    <section className="py-20 md:py-32 bg-background">
+      <div className="container max-w-7xl mx-auto px-4 sm:px-6">
+        {/* Header */}
+        <div className="text-center mb-16">
+          <h2 className="text-2xl md:text-3xl font-heading font-bold mb-3 text-foreground">
+            Built for meaningful connections
+          </h2>
+          <p className="text-sm md:text-base font-body text-muted-foreground max-w-3xl mx-auto">
+            Every feature is designed to help you find genuine relationships
+          </p>
+        </div>
+
+        {/* Features Grid */}
+        <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8">
+          {features.map((feature) => {
+            const Icon = feature.icon;
+            return (
+              <div key={feature.title} className="space-y-4 glass-card p-6 rounded-3xl border border-white/50 dark:border-white/5 hover:shadow-elevated hover:-translate-y-1 transition-all duration-300 group">
+                <div className="w-14 h-14 rounded-2xl bg-gradient-to-br from-primary/10 to-accent/10 flex items-center justify-center group-hover:scale-110 transition-transform duration-300">
+                  <Icon className="w-7 h-7 text-primary" />
+                </div>
+                <h3 className="text-xl font-bold text-foreground">
+                  {feature.title}
+                </h3>
+                <p className="text-sm text-muted-foreground leading-relaxed">
+                  {feature.description}
+                </p>
+              </div>
+            );
+          })}
+        </div>
+      </div>
+    </section>
+  );
+};
+
+export default Features;

@@ -1,1 +1,97 @@
-{"data":"IyBQdXNoIE5vdGlmaWNhdGlvbiAiQWJvcnRFcnJvciIgU29sdXRpb24KCiMjIFRoZSBQcm9ibGVtCllvdSdyZSBleHBlcmllbmNpbmc6IGBBYm9ydEVycm9yOiBSZWdpc3RyYXRpb24gZmFpbGVkIC0gcHVzaCBzZXJ2aWNlIGVycm9yYAoKVGhpcyBpcyBhICoqa25vd24gYnJvd3NlciBpc3N1ZSoqIHRoYXQgb2NjdXJzIHdoZW4gdGhlIGJyb3dzZXIncyBwdXNoIG5vdGlmaWNhdGlvbiBzZXJ2aWNlIChsaWtlIEZpcmViYXNlIENsb3VkIE1lc3NhZ2luZyBmb3IgQ2hyb21lKSBpcyB0ZW1wb3JhcmlseSB1bmF2YWlsYWJsZSBvciBleHBlcmllbmNpbmcgaXNzdWVzLgoKIyMgV2hhdCBJJ3ZlIERvbmUKCiMjIyAxLiBGaXhlZCB0aGUgUmVhY3QgV2FybmluZyDinIUKLSBGaXhlZCB0eXBvOiBgY2xhc3NOYW1gIOKGkiBgY2xhc3NOYW1lYCBpbiBMb2dpbi50c3gKCiMjIyAyLiBBZGRlZCBCZXR0ZXIgRXJyb3IgSGFuZGxpbmcg4pyFCi0gVGhlIGFwcCBub3cgY2F0Y2hlcyB0aGUgYEFib3J0RXJyb3JgIHNwZWNpZmljYWxseQotIFNob3dzIGEgdXNlci1mcmllbmRseSBtZXNzYWdlOiAiUHVzaCBzZXJ2aWNlIHRlbXBvcmFyaWx5IHVuYXZhaWxhYmxlIgotIEFsbG93cyB0aGUgYXBwIHRvIGNvbnRpbnVlIHdvcmtpbmcgZXZlbiBpZiBwdXNoIHN1YnNjcmlwdGlvbiBmYWlscwoKIyMjIDMuIE1hZGUgUHVzaCBOb3RpZmljYXRpb25zIE9wdGlvbmFsIOKchQotIFRoZSBhcHAgbm8gbG9uZ2VyIGNyYXNoZXMgaWYgcHVzaCBub3RpZmljYXRpb25zIGZhaWwKLSBCcm93c2VyIG5vdGlmaWNhdGlvbnMgd2lsbCBzdGlsbCB3b3JrIGZvciB0aGUgY3VycmVudCBzZXNzaW9uCi0gVXNlcnMgY2FuIHJldHJ5IHN1YnNjcmliaW5nIGxhdGVyCgojIyBXaHkgVGhpcyBFcnJvciBIYXBwZW5zCgpUaGUgYEFib3J0RXJyb3I6IFJlZ2lzdHJhdGlvbiBmYWlsZWQgLSBwdXNoIHNlcnZpY2UgZXJyb3JgIGNhbiBvY2N1ciBkdWUgdG86CgoxLiAqKkJyb3dzZXIgUHVzaCBTZXJ2aWNlIERvd24qKjogQ2hyb21lIHVzZXMgRkNNIChGaXJlYmFzZSBDbG91ZCBNZXNzYWdpbmcpLCBGaXJlZm94IHVzZXMgTW96aWxsYSBQdXNoIFNlcnZpY2UgLSB0aGVzZSBjYW4gaGF2ZSB0ZW1wb3Jhcnkgb3V0YWdlcwoyLiAqKk5ldHdvcmsgSXNzdWVzKio6IFVuc3RhYmxlIGludGVybmV0IGNvbm5lY3Rpb24gZHVyaW5nIHN1YnNjcmlwdGlvbgozLiAqKlJhdGUgTGltaXRpbmcqKjogVG9vIG1hbnkgc3Vic2NyaXB0aW9uIGF0dGVtcHRzIGluIGEgc2hvcnQgdGltZQo0LiAqKkJyb3dzZXIgQ2FjaGUqKjogT2xkIHNlcnZpY2Ugd29ya2VyIG9yIHN1YnNjcmlwdGlvbiBkYXRhIGNhdXNpbmcgY29uZmxpY3RzCgojIyBTb2x1dGlvbnMgdG8gVHJ5CgojIyMgU29sdXRpb24gMTogQ2xlYXIgRXZlcnl0aGluZyBhbmQgUmV0cnkg4pyFIChSZWNvbW1lbmRlZCkKYGBgYmFzaAoxLiBPcGVuIERldlRvb2xzIChGMTIpCjIuIEdvIHRvIEFwcGxpY2F0aW9uIHRhYgozLiBDbGVhcjoKICAgLSBTZXJ2aWNlIFdvcmtlcnMgKGNsaWNrICJVbnJlZ2lzdGVyIikKICAgLSBDYWNoZSBTdG9yYWdlIChjbGVhciBhbGwpCiAgIC0gTG9jYWwgU3RvcmFnZSAoY2xlYXIgYWxsKQo0LiBDbG9zZSBhbmQgcmVvcGVuIHRoZSBicm93c2VyCjUuIFRyeSBhZ2FpbgpgYGAKCiMjIyBTb2x1dGlvbiAyOiBUcnkgYSBEaWZmZXJlbnQgQnJvd3NlcgotIFRlc3QgaW4gQ2hyb21lLCBGaXJlZm94LCBvciBFZGdlCi0gVGhpcyBoZWxwcyBpZGVudGlmeSBpZiBpdCdzIGJyb3dzZXItc3BlY2lmaWMKCiMjIyBTb2x1dGlvbiAzOiBDaGVjayBOZXR3b3JrIENvbm5lY3Rpb24KLSBFbnN1cmUgc3RhYmxlIGludGVybmV0IGNvbm5lY3Rpb24KLSBUcnkgZGlzYWJsaW5nIFZQTiBpZiB5b3UncmUgdXNpbmcgb25lCi0gQ2hlY2sgaWYgZmlyZXdhbGwgaXMgYmxvY2tpbmcgcHVzaCBzZXJ2aWNlcwoKIyMjIFNvbHV0aW9uIDQ6IFdhaXQgYW5kIFJldHJ5Ci0gVGhlIHB1c2ggc2VydmljZSBtaWdodCBiZSB0ZW1wb3JhcmlseSBkb3duCi0gV2FpdCA1LTEwIG1pbnV0ZXMgYW5kIHRyeSBhZ2FpbgotIFRoZSBlcnJvciBvZnRlbiByZXNvbHZlcyBpdHNlbGYKCiMjIyBTb2x1dGlvbiA1OiBVc2UgV2l0aG91dCBQdXNoIChGYWxsYmFjaykg4pyFICoqTk9XIElNUExFTUVOVEVEKioKLSBUaGUgYXBwIG5vdyB3b3JrcyBldmVuIGlmIHB1c2ggc3Vic2NyaXB0aW9uIGZhaWxzCi0gWW91J2xsIHN0aWxsIGdldCBicm93c2VyIG5vdGlmaWNhdGlvbnMgd2hpbGUgdGhlIGFwcCBpcyBvcGVuCi0gWW91IGNhbiByZXRyeSBlbmFibGluZyBwdXNoIGxhdGVyIGZyb20gU2V0dGluZ3MKCiMjIEN1cnJlbnQgU3RhdHVzCgrinIUgKipBcHAgaXMgbm93IGZ1bmN0aW9uYWwqKiAtIEV2ZW4gaWYgcHVzaCBzdWJzY3JpcHRpb24gZmFpbHMsIHlvdSBjYW46Ci0gUmVjZWl2ZSBicm93c2VyIG5vdGlmaWNhdGlvbnMgd2hpbGUgdGhlIGFwcCBpcyBvcGVuCi0gVXNlIGFsbCBhcHAgZmVhdHVyZXMgbm9ybWFsbHkKLSBSZXRyeSBwdXNoIG5vdGlmaWNhdGlvbnMgbGF0ZXIKClRoZSBlcnJvciBtZXNzYWdlIGlzIG5vdyBtb3JlIGhlbHBmdWwgYW5kIHdvbid0IGJsb2NrIHlvdXIgYXBwIHVzYWdlLgoKIyMgVGVzdGluZyBTdGVwcwoKMS4gKipDbGVhciBicm93c2VyIGRhdGEqKiAoc2VlIFNvbHV0aW9uIDEpCjIuICoqUmVmcmVzaCB0aGUgYXBwKiogKEN0cmwrU2hpZnQrUikKMy4gKipUcnkgc3Vic2NyaWJpbmcgYWdhaW4qKgo0LiAqKklmIGl0IHN0aWxsIGZhaWxzKio6IFRoZSBhcHAgd2lsbCBjb250aW51ZSB3b3JraW5nIHdpdGggYnJvd3NlciBub3RpZmljYXRpb25zCgojIyBGb3IgUHJvZHVjdGlvbgoKRm9yIHByb2R1Y3Rpb24gZGVwbG95bWVudCwgY29uc2lkZXI6Ci0gVXNpbmcgYSBtb3JlIHJvYnVzdCBwdXNoIHNlcnZpY2UgKGxpa2UgT25lU2lnbmFsIG9yIFB1c2hlcikKLSBJbXBsZW1lbnRpbmcgcmV0cnkgbG9naWMgd2l0aCBleHBvbmVudGlhbCBiYWNrb2ZmCi0gSGF2aW5nIGEgZmFsbGJhY2sgdG8gZW1haWwvU01TIG5vdGlmaWNhdGlvbnMKLSBNb25pdG9yaW5nIHB1c2ggc2VydmljZSBhdmFpbGFiaWxpdHkKCiMjIE5lZWQgTW9yZSBIZWxwPwoKSWYgdGhlIGVycm9yIHBlcnNpc3RzOgoxLiBPcGVuIGB0bXBfcm92b2Rldl9kaWFnbm9zZV9wdXNoLmh0bWxgIGZvciBkZXRhaWxlZCBkaWFnbm9zdGljcwoyLiBDaGVjayBicm93c2VyIGNvbnNvbGUgZm9yIGFkZGl0aW9uYWwgZXJyb3JzCjMuIFRyeSB0aGUgYXBwIGluIGluY29nbml0by9wcml2YXRlIG1vZGUKNC4gRW5zdXJlIHlvdSdyZSBvbiBhIHN0YWJsZSBuZXR3b3JrCgpUaGUgYXBwIGlzIG5vdyBjb25maWd1cmVkIHRvIGJlICoqcmVzaWxpZW50IHRvIHB1c2ggbm90aWZpY2F0aW9uIGZhaWx1cmVzKiogYW5kIHdpbGwgY29udGludWUgd29ya2luZyBub3JtYWxseS4K"}
+# Push Notification "AbortError" Solution
+
+## The Problem
+You're experiencing: `AbortError: Registration failed - push service error`
+
+This is a **known browser issue** that occurs when the browser's push notification service (like Firebase Cloud Messaging for Chrome) is temporarily unavailable or experiencing issues.
+
+## What I've Done
+
+### 1. Fixed the React Warning ✅
+- Fixed typo: `classNam` → `className` in Login.tsx
+
+### 2. Added Better Error Handling ✅
+- The app now catches the `AbortError` specifically
+- Shows a user-friendly message: "Push service temporarily unavailable"
+- Allows the app to continue working even if push subscription fails
+
+### 3. Made Push Notifications Optional ✅
+- The app no longer crashes if push notifications fail
+- Browser notifications will still work for the current session
+- Users can retry subscribing later
+
+## Why This Error Happens
+
+The `AbortError: Registration failed - push service error` can occur due to:
+
+1. **Browser Push Service Down**: Chrome uses FCM (Firebase Cloud Messaging), Firefox uses Mozilla Push Service - these can have temporary outages
+2. **Network Issues**: Unstable internet connection during subscription
+3. **Rate Limiting**: Too many subscription attempts in a short time
+4. **Browser Cache**: Old service worker or subscription data causing conflicts
+
+## Solutions to Try
+
+### Solution 1: Clear Everything and Retry ✅ (Recommended)
+```bash
+1. Open DevTools (F12)
+2. Go to Application tab
+3. Clear:
+   - Service Workers (click "Unregister")
+   - Cache Storage (clear all)
+   - Local Storage (clear all)
+4. Close and reopen the browser
+5. Try again
+```
+
+### Solution 2: Try a Different Browser
+- Test in Chrome, Firefox, or Edge
+- This helps identify if it's browser-specific
+
+### Solution 3: Check Network Connection
+- Ensure stable internet connection
+- Try disabling VPN if you're using one
+- Check if firewall is blocking push services
+
+### Solution 4: Wait and Retry
+- The push service might be temporarily down
+- Wait 5-10 minutes and try again
+- The error often resolves itself
+
+### Solution 5: Use Without Push (Fallback) ✅ **NOW IMPLEMENTED**
+- The app now works even if push subscription fails
+- You'll still get browser notifications while the app is open
+- You can retry enabling push later from Settings
+
+## Current Status
+
+✅ **App is now functional** - Even if push subscription fails, you can:
+- Receive browser notifications while the app is open
+- Use all app features normally
+- Retry push notifications later
+
+The error message is now more helpful and won't block your app usage.
+
+## Testing Steps
+
+1. **Clear browser data** (see Solution 1)
+2. **Refresh the app** (Ctrl+Shift+R)
+3. **Try subscribing again**
+4. **If it still fails**: The app will continue working with browser notifications
+
+## For Production
+
+For production deployment, consider:
+- Using a more robust push service (like OneSignal or Pusher)
+- Implementing retry logic with exponential backoff
+- Having a fallback to email/SMS notifications
+- Monitoring push service availability
+
+## Need More Help?
+
+If the error persists:
+1. Open `tmp_rovodev_diagnose_push.html` for detailed diagnostics
+2. Check browser console for additional errors
+3. Try the app in incognito/private mode
+4. Ensure you're on a stable network
+
+The app is now configured to be **resilient to push notification failures** and will continue working normally.

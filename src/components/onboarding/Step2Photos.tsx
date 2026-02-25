@@ -1,1 +1,133 @@
-{"data":"aW1wb3J0IHsgQnV0dG9uIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2J1dHRvbiI7CmltcG9ydCB7IENhcmQsIENhcmRDb250ZW50LCBDYXJkRGVzY3JpcHRpb24sIENhcmRIZWFkZXIsIENhcmRUaXRsZSB9IGZyb20gIkAvY29tcG9uZW50cy91aS9jYXJkIjsKaW1wb3J0IHsgQ2FtZXJhLCBYLCBVcGxvYWQgfSBmcm9tICJsdWNpZGUtcmVhY3QiOwppbXBvcnQgeyB1c2VTdGF0ZSB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgY24gfSBmcm9tICJAL2xpYi91dGlscyI7CgppbnRlcmZhY2UgU3RlcDJQcm9wcyB7CiAgcGhvdG9zOiBzdHJpbmdbXTsKICBvblBob3Rvc0NoYW5nZTogKHBob3Rvczogc3RyaW5nW10pID0+IHZvaWQ7CiAgb25OZXh0OiAoKSA9PiB2b2lkOwogIG9uQmFjazogKCkgPT4gdm9pZDsKICBvblNhdmVBbmRFeGl0OiAoKSA9PiB2b2lkOwp9CgpleHBvcnQgY29uc3QgU3RlcDJQaG90b3MgPSAoeyBwaG90b3MsIG9uUGhvdG9zQ2hhbmdlLCBvbk5leHQsIG9uQmFjaywgb25TYXZlQW5kRXhpdCB9OiBTdGVwMlByb3BzKSA9PiB7CiAgY29uc3QgW3VwbG9hZGluZywgc2V0VXBsb2FkaW5nXSA9IHVzZVN0YXRlKGZhbHNlKTsKCiAgY29uc3QgaGFuZGxlUGhvdG9VcGxvYWQgPSAoZTogUmVhY3QuQ2hhbmdlRXZlbnQ8SFRNTElucHV0RWxlbWVudD4pID0+IHsKICAgIGNvbnN0IGZpbGVzID0gZS50YXJnZXQuZmlsZXM7CiAgICBpZiAoIWZpbGVzKSByZXR1cm47CgogICAgc2V0VXBsb2FkaW5nKHRydWUpOwogICAgY29uc3QgbmV3UGhvdG9zOiBzdHJpbmdbXSA9IFtdOwoKICAgIEFycmF5LmZyb20oZmlsZXMpLmZvckVhY2goKGZpbGUpID0+IHsKICAgICAgY29uc3QgcmVhZGVyID0gbmV3IEZpbGVSZWFkZXIoKTsKICAgICAgcmVhZGVyLm9ubG9hZGVuZCA9ICgpID0+IHsKICAgICAgICBuZXdQaG90b3MucHVzaChyZWFkZXIucmVzdWx0IGFzIHN0cmluZyk7CiAgICAgICAgaWYgKG5ld1Bob3Rvcy5sZW5ndGggPT09IGZpbGVzLmxlbmd0aCkgewogICAgICAgICAgb25QaG90b3NDaGFuZ2UoWy4uLnBob3RvcywgLi4ubmV3UGhvdG9zXS5zbGljZSgwLCA2KSk7CiAgICAgICAgICBzZXRVcGxvYWRpbmcoZmFsc2UpOwogICAgICAgIH0KICAgICAgfTsKICAgICAgcmVhZGVyLnJlYWRBc0RhdGFVUkwoZmlsZSk7CiAgICB9KTsKICB9OwoKICBjb25zdCByZW1vdmVQaG90byA9IChpbmRleDogbnVtYmVyKSA9PiB7CiAgICBvblBob3Rvc0NoYW5nZShwaG90b3MuZmlsdGVyKChfLCBpKSA9PiBpICE9PSBpbmRleCkpOwogIH07CgogIGNvbnN0IGNhblByb2NlZWQgPSBwaG90b3MubGVuZ3RoID49IDI7CgogIHJldHVybiAoCiAgICA8Q2FyZCBjbGFzc05hbWU9Im1heC13LTJ4bCBteC1hdXRvIj4KICAgICAgPENhcmRIZWFkZXI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIHNwYWNlLXgtMiBtYi0yIj4KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJ3LTEwIGgtMTAgYmctYmx1ZS0xMDAgZGFyazpiZy1ibHVlLTkwMC8zMCByb3VuZGVkLWZ1bGwgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIiPgogICAgICAgICAgICA8Q2FtZXJhIGNsYXNzTmFtZT0idy01IGgtNSB0ZXh0LWJsdWUtNjAwIGRhcms6dGV4dC1ibHVlLTQwMCIgLz4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPENhcmRUaXRsZT5BZGQgUGhvdG9zPC9DYXJkVGl0bGU+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPENhcmREZXNjcmlwdGlvbj4KICAgICAgICAgIFVwbG9hZCAyLTYgcGhvdG9zLiBZb3VyIGZpcnN0IHBob3RvIHdpbGwgYmUgeW91ciBwcmltYXJ5IHBob3RvLgogICAgICAgIDwvQ2FyZERlc2NyaXB0aW9uPgogICAgICA8L0NhcmRIZWFkZXI+CiAgICAgIDxDYXJkQ29udGVudCBjbGFzc05hbWU9InNwYWNlLXktNiI+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTMgZ2FwLTQiPgogICAgICAgICAge3Bob3Rvcy5tYXAoKHBob3RvLCBpbmRleCkgPT4gKAogICAgICAgICAgICA8ZGl2IGtleT17aW5kZXh9IGNsYXNzTmFtZT0icmVsYXRpdmUgYXNwZWN0LXNxdWFyZSBncm91cCI+CiAgICAgICAgICAgICAgPGltZwogICAgICAgICAgICAgICAgc3JjPXtwaG90b30KICAgICAgICAgICAgICAgIGFsdD17YFBob3RvICR7aW5kZXggKyAxfWB9CiAgICAgICAgICAgICAgICBjbGFzc05hbWU9InctZnVsbCBoLWZ1bGwgb2JqZWN0LWNvdmVyIHJvdW5kZWQtbGciCiAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICB7aW5kZXggPT09IDAgJiYgKAogICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIHRvcC0yIGxlZnQtMiBiZy1wcmltYXJ5IHRleHQtcHJpbWFyeS1mb3JlZ3JvdW5kIHB4LTIgcHktMSByb3VuZGVkIHRleHQteHMgZm9udC1tZWRpdW0iPgogICAgICAgICAgICAgICAgICBQcmltYXJ5CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICApfQogICAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHJlbW92ZVBob3RvKGluZGV4KX0KICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iYWJzb2x1dGUgdG9wLTIgcmlnaHQtMiBiZy1ibGFjay82MCB0ZXh0LXdoaXRlIHAtMSByb3VuZGVkLWZ1bGwgb3BhY2l0eS0wIGdyb3VwLWhvdmVyOm9wYWNpdHktMTAwIHRyYW5zaXRpb24tb3BhY2l0eSIKICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICA8WCBjbGFzc05hbWU9InctNCBoLTQiIC8+CiAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgKSl9CgogICAgICAgICAge3Bob3Rvcy5sZW5ndGggPCA2ICYmICgKICAgICAgICAgICAgPGxhYmVsCiAgICAgICAgICAgICAgY2xhc3NOYW1lPXtjbigKICAgICAgICAgICAgICAgICJhc3BlY3Qtc3F1YXJlIGJvcmRlci0yIGJvcmRlci1kYXNoZWQgcm91bmRlZC1sZyBmbGV4IGZsZXgtY29sIGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciBjdXJzb3ItcG9pbnRlciBob3Zlcjpib3JkZXItcHJpbWFyeSBob3ZlcjpiZy1wcmltYXJ5LzUgdHJhbnNpdGlvbi1jb2xvcnMiLAogICAgICAgICAgICAgICAgdXBsb2FkaW5nICYmICJvcGFjaXR5LTUwIGN1cnNvci1ub3QtYWxsb3dlZCIKICAgICAgICAgICAgICApfQogICAgICAgICAgICA+CiAgICAgICAgICAgICAgPGlucHV0CiAgICAgICAgICAgICAgICB0eXBlPSJmaWxlIgogICAgICAgICAgICAgICAgYWNjZXB0PSJpbWFnZS8qIgogICAgICAgICAgICAgICAgbXVsdGlwbGUKICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXtoYW5kbGVQaG90b1VwbG9hZH0KICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iaGlkZGVuIgogICAgICAgICAgICAgICAgZGlzYWJsZWQ9e3VwbG9hZGluZ30KICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgIDxVcGxvYWQgY2xhc3NOYW1lPSJ3LTggaC04IHRleHQtbXV0ZWQtZm9yZWdyb3VuZCBtYi0yIiAvPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1zbSB0ZXh0LW11dGVkLWZvcmVncm91bmQgdGV4dC1jZW50ZXIgcHgtMiI+CiAgICAgICAgICAgICAgICB7dXBsb2FkaW5nID8gIlVwbG9hZGluZy4uLiIgOiAiQWRkIFBob3RvIn0KICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICApfQogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iYmctYmx1ZS01MCBkYXJrOmJnLWJsdWUtOTAwLzIwIGJvcmRlciBib3JkZXItYmx1ZS0yMDAgZGFyazpib3JkZXItYmx1ZS04MDAgcm91bmRlZC1sZyBwLTQiPgogICAgICAgICAgPGg0IGNsYXNzTmFtZT0iZm9udC1tZWRpdW0gdGV4dC1zbSBtYi0yIj5QaG90byBUaXBzPC9oND4KICAgICAgICAgIDx1bCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIHNwYWNlLXktMSI+CiAgICAgICAgICAgIDxsaT7igKIgVXNlIGNsZWFyLCByZWNlbnQgcGhvdG9zIG9mIHlvdXJzZWxmPC9saT4KICAgICAgICAgICAgPGxpPuKAoiBTaG93IHlvdXIgZmFjZSBpbiBhdCBsZWFzdCBvbmUgcGhvdG88L2xpPgogICAgICAgICAgICA8bGk+4oCiIEluY2x1ZGUgcGhvdG9zIHRoYXQgc2hvdyB5b3VyIGludGVyZXN0czwvbGk+CiAgICAgICAgICAgIDxsaT7igKIgQXZvaWQgZ3JvdXAgcGhvdG9zIG9yIGhlYXZ5IGZpbHRlcnM8L2xpPgogICAgICAgICAgPC91bD4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggZ2FwLTMgcHQtNCI+CiAgICAgICAgICA8QnV0dG9uIHZhcmlhbnQ9Im91dGxpbmUiIG9uQ2xpY2s9e29uQmFja30+CiAgICAgICAgICAgIEJhY2sKICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgPEJ1dHRvbiB2YXJpYW50PSJvdXRsaW5lIiBvbkNsaWNrPXtvblNhdmVBbmRFeGl0fSBjbGFzc05hbWU9ImZsZXgtMSI+CiAgICAgICAgICAgIFNhdmUgJiBDb250aW51ZSBMYXRlcgogICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9e29uTmV4dH0gZGlzYWJsZWQ9eyFjYW5Qcm9jZWVkfSBjbGFzc05hbWU9ImZsZXgtMSI+CiAgICAgICAgICAgIE5leHQ6IEFib3V0IFlvdQogICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgPC9kaXY+CgogICAgICAgIHshY2FuUHJvY2VlZCAmJiAoCiAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1jZW50ZXIgdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgUGxlYXNlIGFkZCBhdCBsZWFzdCAyIHBob3RvcyB0byBjb250aW51ZQogICAgICAgICAgPC9wPgogICAgICAgICl9CiAgICAgIDwvQ2FyZENvbnRlbnQ+CiAgICA8L0NhcmQ+CiAgKTsKfTsK"}
+import { Button } from "@/components/ui/button";
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import { Camera, X, Upload } from "lucide-react";
+import { useState } from "react";
+import { cn } from "@/lib/utils";
+
+interface Step2Props {
+  photos: string[];
+  onPhotosChange: (photos: string[]) => void;
+  onNext: () => void;
+  onBack: () => void;
+  onSaveAndExit: () => void;
+}
+
+export const Step2Photos = ({ photos, onPhotosChange, onNext, onBack, onSaveAndExit }: Step2Props) => {
+  const [uploading, setUploading] = useState(false);
+
+  const handlePhotoUpload = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const files = e.target.files;
+    if (!files) return;
+
+    setUploading(true);
+    const newPhotos: string[] = [];
+
+    Array.from(files).forEach((file) => {
+      const reader = new FileReader();
+      reader.onloadend = () => {
+        newPhotos.push(reader.result as string);
+        if (newPhotos.length === files.length) {
+          onPhotosChange([...photos, ...newPhotos].slice(0, 6));
+          setUploading(false);
+        }
+      };
+      reader.readAsDataURL(file);
+    });
+  };
+
+  const removePhoto = (index: number) => {
+    onPhotosChange(photos.filter((_, i) => i !== index));
+  };
+
+  const canProceed = photos.length >= 2;
+
+  return (
+    <Card className="max-w-2xl mx-auto">
+      <CardHeader>
+        <div className="flex items-center space-x-2 mb-2">
+          <div className="w-10 h-10 bg-blue-100 dark:bg-blue-900/30 rounded-full flex items-center justify-center">
+            <Camera className="w-5 h-5 text-blue-600 dark:text-blue-400" />
+          </div>
+          <CardTitle>Add Photos</CardTitle>
+        </div>
+        <CardDescription>
+          Upload 2-6 photos. Your first photo will be your primary photo.
+        </CardDescription>
+      </CardHeader>
+      <CardContent className="space-y-6">
+        <div className="grid grid-cols-3 gap-4">
+          {photos.map((photo, index) => (
+            <div key={index} className="relative aspect-square group">
+              <img
+                src={photo}
+                alt={`Photo ${index + 1}`}
+                className="w-full h-full object-cover rounded-lg"
+              />
+              {index === 0 && (
+                <div className="absolute top-2 left-2 bg-primary text-primary-foreground px-2 py-1 rounded text-xs font-medium">
+                  Primary
+                </div>
+              )}
+              <button
+                onClick={() => removePhoto(index)}
+                className="absolute top-2 right-2 bg-black/60 text-white p-1 rounded-full opacity-0 group-hover:opacity-100 transition-opacity"
+              >
+                <X className="w-4 h-4" />
+              </button>
+            </div>
+          ))}
+
+          {photos.length < 6 && (
+            <label
+              className={cn(
+                "aspect-square border-2 border-dashed rounded-lg flex flex-col items-center justify-center cursor-pointer hover:border-primary hover:bg-primary/5 transition-colors",
+                uploading && "opacity-50 cursor-not-allowed"
+              )}
+            >
+              <input
+                type="file"
+                accept="image/*"
+                multiple
+                onChange={handlePhotoUpload}
+                className="hidden"
+                disabled={uploading}
+              />
+              <Upload className="w-8 h-8 text-muted-foreground mb-2" />
+              <span className="text-sm text-muted-foreground text-center px-2">
+                {uploading ? "Uploading..." : "Add Photo"}
+              </span>
+            </label>
+          )}
+        </div>
+
+        <div className="bg-blue-50 dark:bg-blue-900/20 border border-blue-200 dark:border-blue-800 rounded-lg p-4">
+          <h4 className="font-medium text-sm mb-2">Photo Tips</h4>
+          <ul className="text-sm text-muted-foreground space-y-1">
+            <li>• Use clear, recent photos of yourself</li>
+            <li>• Show your face in at least one photo</li>
+            <li>• Include photos that show your interests</li>
+            <li>• Avoid group photos or heavy filters</li>
+          </ul>
+        </div>
+
+        <div className="flex gap-3 pt-4">
+          <Button variant="outline" onClick={onBack}>
+            Back
+          </Button>
+          <Button variant="outline" onClick={onSaveAndExit} className="flex-1">
+            Save & Continue Later
+          </Button>
+          <Button onClick={onNext} disabled={!canProceed} className="flex-1">
+            Next: About You
+          </Button>
+        </div>
+
+        {!canProceed && (
+          <p className="text-sm text-center text-muted-foreground">
+            Please add at least 2 photos to continue
+          </p>
+        )}
+      </CardContent>
+    </Card>
+  );
+};

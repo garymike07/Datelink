@@ -1,1 +1,34 @@
-{"data":"aW1wb3J0IHsgaW50ZXJuYWxNdXRhdGlvbiB9IGZyb20gIi4vX2dlbmVyYXRlZC9zZXJ2ZXIiOwppbXBvcnQgeyB2IH0gZnJvbSAiY29udmV4L3ZhbHVlcyI7CgovLyBEZWxldGVzIGZhaWxlZCBwYXltZW50IHJvd3Mgb2xkZXIgdGhhbiBhIGNvbmZpZ3VyZWQgYWdlLgpleHBvcnQgY29uc3QgY2xlYW51cE9sZEZhaWxlZFBheW1lbnRzID0gaW50ZXJuYWxNdXRhdGlvbih7CiAgYXJnczogewogICAgb2xkZXJUaGFuTWludXRlczogdi5vcHRpb25hbCh2Lm51bWJlcigpKSwKICAgIGJhdGNoU2l6ZTogdi5vcHRpb25hbCh2Lm51bWJlcigpKSwKICB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGNvbnN0IG9sZGVyVGhhbk1pbnV0ZXMgPSBNYXRoLm1pbihNYXRoLm1heChhcmdzLm9sZGVyVGhhbk1pbnV0ZXMgPz8gMTAsIDEpLCAyNCAqIDYwKTsKICAgIGNvbnN0IGJhdGNoU2l6ZSA9IE1hdGgubWluKE1hdGgubWF4KGFyZ3MuYmF0Y2hTaXplID8/IDIwMCwgMSksIDUwMCk7CgogICAgY29uc3QgY3V0b2ZmID0gRGF0ZS5ub3coKSAtIG9sZGVyVGhhbk1pbnV0ZXMgKiA2MCAqIDEwMDA7CgogICAgLy8gUHJlZmVyIGNvbXBsZXRlZEF0IGlmIHNldDsgZmFsbCBiYWNrIHRvIGNyZWF0ZWRBdCBmb3Igcm93cyB0aGF0IG5ldmVyIGNvbXBsZXRlZC4KICAgIGNvbnN0IGZhaWxlZCA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoInBheW1lbnRzIikKICAgICAgLndpdGhJbmRleCgic3RhdHVzIiwgKHEpID0+IHEuZXEoInN0YXR1cyIsICJmYWlsZWQiKSkKICAgICAgLm9yZGVyKCJhc2MiKQogICAgICAudGFrZShiYXRjaFNpemUpOwoKICAgIGxldCBkZWxldGVkID0gMDsKICAgIGZvciAoY29uc3QgcCBvZiBmYWlsZWQpIHsKICAgICAgY29uc3QgdHMgPSBwLmNvbXBsZXRlZEF0ID8/IHAuY3JlYXRlZEF0OwogICAgICBpZiAodHMgPD0gY3V0b2ZmKSB7CiAgICAgICAgYXdhaXQgY3R4LmRiLmRlbGV0ZShwLl9pZCk7CiAgICAgICAgZGVsZXRlZCsrOwogICAgICB9CiAgICB9CgogICAgcmV0dXJuIHsgZGVsZXRlZCwgY3V0b2ZmIH07CiAgfSwKfSk7Cg=="}
+import { internalMutation } from "./_generated/server";
+import { v } from "convex/values";
+
+// Deletes failed payment rows older than a configured age.
+export const cleanupOldFailedPayments = internalMutation({
+  args: {
+    olderThanMinutes: v.optional(v.number()),
+    batchSize: v.optional(v.number()),
+  },
+  handler: async (ctx, args) => {
+    const olderThanMinutes = Math.min(Math.max(args.olderThanMinutes ?? 10, 1), 24 * 60);
+    const batchSize = Math.min(Math.max(args.batchSize ?? 200, 1), 500);
+
+    const cutoff = Date.now() - olderThanMinutes * 60 * 1000;
+
+    // Prefer completedAt if set; fall back to createdAt for rows that never completed.
+    const failed = await ctx.db
+      .query("payments")
+      .withIndex("status", (q) => q.eq("status", "failed"))
+      .order("asc")
+      .take(batchSize);
+
+    let deleted = 0;
+    for (const p of failed) {
+      const ts = p.completedAt ?? p.createdAt;
+      if (ts <= cutoff) {
+        await ctx.db.delete(p._id);
+        deleted++;
+      }
+    }
+
+    return { deleted, cutoff };
+  },
+});

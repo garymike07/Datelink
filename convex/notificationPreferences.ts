@@ -1,1 +1,132 @@
-{"data":"aW1wb3J0IHsgbXV0YXRpb24sIHF1ZXJ5IH0gZnJvbSAiLi9fZ2VuZXJhdGVkL3NlcnZlciI7CmltcG9ydCB7IHYgfSBmcm9tICJjb252ZXgvdmFsdWVzIjsKCi8vIEdldCB1c2VyIHByZWZlcmVuY2VzCmV4cG9ydCBjb25zdCBnZXRQcmVmZXJlbmNlcyA9IHF1ZXJ5KHsKICBhcmdzOiB7IHVzZXJJZDogdi5pZCgidXNlcnMiKSB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGNvbnN0IHByZWZzID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgibm90aWZpY2F0aW9uUHJlZmVyZW5jZXMiKQogICAgICAud2l0aEluZGV4KCJ1c2VySWQiLCAocSkgPT4gcS5lcSgidXNlcklkIiwgYXJncy51c2VySWQpKQogICAgICAuZmlyc3QoKTsKICAgIAogICAgLy8gUmV0dXJuIGRlZmF1bHRzIGlmIG5vdCBmb3VuZAogICAgaWYgKCFwcmVmcykgewogICAgICByZXR1cm4gZ2V0RGVmYXVsdFByZWZlcmVuY2VzKCk7CiAgICB9CiAgICAKICAgIHJldHVybiBwcmVmczsKICB9LAp9KTsKCi8vIFVwZGF0ZSBwcmVmZXJlbmNlcwpleHBvcnQgY29uc3QgdXBkYXRlUHJlZmVyZW5jZXMgPSBtdXRhdGlvbih7CiAgYXJnczogewogICAgdXNlcklkOiB2LmlkKCJ1c2VycyIpLAogICAgdXBkYXRlczogdi5vYmplY3QoewogICAgICBlbmFibGVkOiB2Lm9wdGlvbmFsKHYuYm9vbGVhbigpKSwKICAgICAgcXVpZXRIb3Vyc0VuYWJsZWQ6IHYub3B0aW9uYWwodi5ib29sZWFuKCkpLAogICAgICBxdWlldEhvdXJzU3RhcnQ6IHYub3B0aW9uYWwodi5zdHJpbmcoKSksCiAgICAgIHF1aWV0SG91cnNFbmQ6IHYub3B0aW9uYWwodi5zdHJpbmcoKSksCiAgICAgIHNvY2lhbEVuYWJsZWQ6IHYub3B0aW9uYWwodi5ib29sZWFuKCkpLAogICAgICBjYWxsRW5hYmxlZDogdi5vcHRpb25hbCh2LmJvb2xlYW4oKSksCiAgICAgIHBheW1lbnRFbmFibGVkOiB2Lm9wdGlvbmFsKHYuYm9vbGVhbigpKSwKICAgICAgZW5nYWdlbWVudEVuYWJsZWQ6IHYub3B0aW9uYWwodi5ib29sZWFuKCkpLAogICAgICBzeXN0ZW1FbmFibGVkOiB2Lm9wdGlvbmFsKHYuYm9vbGVhbigpKSwKICAgICAgbWF0Y2hOb3RpZmljYXRpb25zOiB2Lm9wdGlvbmFsKHYuYm9vbGVhbigpKSwKICAgICAgbWVzc2FnZU5vdGlmaWNhdGlvbnM6IHYub3B0aW9uYWwodi5ib29sZWFuKCkpLAogICAgICBsaWtlTm90aWZpY2F0aW9uczogdi5vcHRpb25hbCh2LmJvb2xlYW4oKSksCiAgICAgIHN1cGVyTGlrZU5vdGlmaWNhdGlvbnM6IHYub3B0aW9uYWwodi5ib29sZWFuKCkpLAogICAgICBwcm9maWxlVmlld05vdGlmaWNhdGlvbnM6IHYub3B0aW9uYWwodi5ib29sZWFuKCkpLAogICAgICBjYWxsTm90aWZpY2F0aW9uczogdi5vcHRpb25hbCh2LmJvb2xlYW4oKSksCiAgICAgIHBheW1lbnROb3RpZmljYXRpb25zOiB2Lm9wdGlvbmFsKHYuYm9vbGVhbigpKSwKICAgICAgcHVzaEVuYWJsZWQ6IHYub3B0aW9uYWwodi5ib29sZWFuKCkpLAogICAgICBlbWFpbEVuYWJsZWQ6IHYub3B0aW9uYWwodi5ib29sZWFuKCkpLAogICAgICBiYXRjaExpa2VzOiB2Lm9wdGlvbmFsKHYuYm9vbGVhbigpKSwKICAgICAgYmF0Y2hQcm9maWxlVmlld3M6IHYub3B0aW9uYWwodi5ib29sZWFuKCkpLAogICAgICBzb3VuZEVuYWJsZWQ6IHYub3B0aW9uYWwodi5ib29sZWFuKCkpLAogICAgICB2aWJyYXRpb25FbmFibGVkOiB2Lm9wdGlvbmFsKHYuYm9vbGVhbigpKSwKICAgIH0pLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3QgZXhpc3RpbmcgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJub3RpZmljYXRpb25QcmVmZXJlbmNlcyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCBhcmdzLnVzZXJJZCkpCiAgICAgIC5maXJzdCgpOwogICAgCiAgICBjb25zdCBub3cgPSBEYXRlLm5vdygpOwogICAgCiAgICBpZiAoZXhpc3RpbmcpIHsKICAgICAgYXdhaXQgY3R4LmRiLnBhdGNoKGV4aXN0aW5nLl9pZCwgewogICAgICAgIC4uLmFyZ3MudXBkYXRlcywKICAgICAgICB1cGRhdGVkQXQ6IG5vdywKICAgICAgfSk7CiAgICAgIHJldHVybiB7IHN1Y2Nlc3M6IHRydWUsIHByZWZlcmVuY2VzSWQ6IGV4aXN0aW5nLl9pZCB9OwogICAgfSBlbHNlIHsKICAgICAgY29uc3QgcHJlZmVyZW5jZXNJZCA9IGF3YWl0IGN0eC5kYi5pbnNlcnQoIm5vdGlmaWNhdGlvblByZWZlcmVuY2VzIiwgewogICAgICAgIHVzZXJJZDogYXJncy51c2VySWQsCiAgICAgICAgLi4uZ2V0RGVmYXVsdFByZWZlcmVuY2VzKCksCiAgICAgICAgLi4uYXJncy51cGRhdGVzLAogICAgICAgIGNyZWF0ZWRBdDogbm93LAogICAgICAgIHVwZGF0ZWRBdDogbm93LAogICAgICB9KTsKICAgICAgcmV0dXJuIHsgc3VjY2VzczogdHJ1ZSwgcHJlZmVyZW5jZXNJZCB9OwogICAgfQogIH0sCn0pOwoKLy8gSW5pdGlhbGl6ZSBkZWZhdWx0IHByZWZlcmVuY2VzIGZvciBuZXcgdXNlcgpleHBvcnQgY29uc3QgaW5pdGlhbGl6ZVByZWZlcmVuY2VzID0gbXV0YXRpb24oewogIGFyZ3M6IHsgdXNlcklkOiB2LmlkKCJ1c2VycyIpIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3QgZXhpc3RpbmcgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJub3RpZmljYXRpb25QcmVmZXJlbmNlcyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCBhcmdzLnVzZXJJZCkpCiAgICAgIC5maXJzdCgpOwogICAgCiAgICBpZiAoZXhpc3RpbmcpIHJldHVybiB7IHByZWZlcmVuY2VzSWQ6IGV4aXN0aW5nLl9pZCB9OwogICAgCiAgICBjb25zdCBub3cgPSBEYXRlLm5vdygpOwogICAgY29uc3QgcHJlZmVyZW5jZXNJZCA9IGF3YWl0IGN0eC5kYi5pbnNlcnQoIm5vdGlmaWNhdGlvblByZWZlcmVuY2VzIiwgewogICAgICB1c2VySWQ6IGFyZ3MudXNlcklkLAogICAgICAuLi5nZXREZWZhdWx0UHJlZmVyZW5jZXMoKSwKICAgICAgY3JlYXRlZEF0OiBub3csCiAgICAgIHVwZGF0ZWRBdDogbm93LAogICAgfSk7CiAgICAKICAgIHJldHVybiB7IHByZWZlcmVuY2VzSWQgfTsKICB9LAp9KTsKCmZ1bmN0aW9uIGdldERlZmF1bHRQcmVmZXJlbmNlcygpIHsKICByZXR1cm4gewogICAgZW5hYmxlZDogdHJ1ZSwKICAgIHF1aWV0SG91cnNFbmFibGVkOiBmYWxzZSwKICAgIHF1aWV0SG91cnNTdGFydDogIjIyOjAwIiwKICAgIHF1aWV0SG91cnNFbmQ6ICIwODowMCIsCiAgICAKICAgIHNvY2lhbEVuYWJsZWQ6IHRydWUsCiAgICBjYWxsRW5hYmxlZDogdHJ1ZSwKICAgIHBheW1lbnRFbmFibGVkOiB0cnVlLAogICAgZW5nYWdlbWVudEVuYWJsZWQ6IHRydWUsCiAgICBzeXN0ZW1FbmFibGVkOiB0cnVlLAogICAgCiAgICBtYXRjaE5vdGlmaWNhdGlvbnM6IHRydWUsCiAgICBtZXNzYWdlTm90aWZpY2F0aW9uczogdHJ1ZSwKICAgIGxpa2VOb3RpZmljYXRpb25zOiB0cnVlLAogICAgc3VwZXJMaWtlTm90aWZpY2F0aW9uczogdHJ1ZSwKICAgIHByb2ZpbGVWaWV3Tm90aWZpY2F0aW9uczogdHJ1ZSwKICAgIGNhbGxOb3RpZmljYXRpb25zOiB0cnVlLAogICAgcGF5bWVudE5vdGlmaWNhdGlvbnM6IHRydWUsCiAgICAKICAgIHB1c2hFbmFibGVkOiB0cnVlLAogICAgZW1haWxFbmFibGVkOiB0cnVlLAogICAgCiAgICBiYXRjaExpa2VzOiB0cnVlLAogICAgYmF0Y2hQcm9maWxlVmlld3M6IHRydWUsCiAgICBiYXRjaEZyZXF1ZW5jeTogImhvdXJseSIsCiAgICAKICAgIHNvdW5kRW5hYmxlZDogdHJ1ZSwKICAgIHZpYnJhdGlvbkVuYWJsZWQ6IHRydWUsCiAgfTsKfQo="}
+import { mutation, query } from "./_generated/server";
+import { v } from "convex/values";
+
+// Get user preferences
+export const getPreferences = query({
+  args: { userId: v.id("users") },
+  handler: async (ctx, args) => {
+    const prefs = await ctx.db
+      .query("notificationPreferences")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .first();
+    
+    // Return defaults if not found
+    if (!prefs) {
+      return getDefaultPreferences();
+    }
+    
+    return prefs;
+  },
+});
+
+// Update preferences
+export const updatePreferences = mutation({
+  args: {
+    userId: v.id("users"),
+    updates: v.object({
+      enabled: v.optional(v.boolean()),
+      quietHoursEnabled: v.optional(v.boolean()),
+      quietHoursStart: v.optional(v.string()),
+      quietHoursEnd: v.optional(v.string()),
+      socialEnabled: v.optional(v.boolean()),
+      callEnabled: v.optional(v.boolean()),
+      paymentEnabled: v.optional(v.boolean()),
+      engagementEnabled: v.optional(v.boolean()),
+      systemEnabled: v.optional(v.boolean()),
+      matchNotifications: v.optional(v.boolean()),
+      messageNotifications: v.optional(v.boolean()),
+      likeNotifications: v.optional(v.boolean()),
+      superLikeNotifications: v.optional(v.boolean()),
+      profileViewNotifications: v.optional(v.boolean()),
+      callNotifications: v.optional(v.boolean()),
+      paymentNotifications: v.optional(v.boolean()),
+      pushEnabled: v.optional(v.boolean()),
+      emailEnabled: v.optional(v.boolean()),
+      batchLikes: v.optional(v.boolean()),
+      batchProfileViews: v.optional(v.boolean()),
+      soundEnabled: v.optional(v.boolean()),
+      vibrationEnabled: v.optional(v.boolean()),
+    }),
+  },
+  handler: async (ctx, args) => {
+    const existing = await ctx.db
+      .query("notificationPreferences")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .first();
+    
+    const now = Date.now();
+    
+    if (existing) {
+      await ctx.db.patch(existing._id, {
+        ...args.updates,
+        updatedAt: now,
+      });
+      return { success: true, preferencesId: existing._id };
+    } else {
+      const preferencesId = await ctx.db.insert("notificationPreferences", {
+        userId: args.userId,
+        ...getDefaultPreferences(),
+        ...args.updates,
+        createdAt: now,
+        updatedAt: now,
+      });
+      return { success: true, preferencesId };
+    }
+  },
+});
+
+// Initialize default preferences for new user
+export const initializePreferences = mutation({
+  args: { userId: v.id("users") },
+  handler: async (ctx, args) => {
+    const existing = await ctx.db
+      .query("notificationPreferences")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .first();
+    
+    if (existing) return { preferencesId: existing._id };
+    
+    const now = Date.now();
+    const preferencesId = await ctx.db.insert("notificationPreferences", {
+      userId: args.userId,
+      ...getDefaultPreferences(),
+      createdAt: now,
+      updatedAt: now,
+    });
+    
+    return { preferencesId };
+  },
+});
+
+function getDefaultPreferences() {
+  return {
+    enabled: true,
+    quietHoursEnabled: false,
+    quietHoursStart: "22:00",
+    quietHoursEnd: "08:00",
+    
+    socialEnabled: true,
+    callEnabled: true,
+    paymentEnabled: true,
+    engagementEnabled: true,
+    systemEnabled: true,
+    
+    matchNotifications: true,
+    messageNotifications: true,
+    likeNotifications: true,
+    superLikeNotifications: true,
+    profileViewNotifications: true,
+    callNotifications: true,
+    paymentNotifications: true,
+    
+    pushEnabled: true,
+    emailEnabled: true,
+    
+    batchLikes: true,
+    batchProfileViews: true,
+    batchFrequency: "hourly",
+    
+    soundEnabled: true,
+    vibrationEnabled: true,
+  };
+}

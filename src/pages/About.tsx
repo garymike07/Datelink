@@ -1,1 +1,75 @@
-{"data":"aW1wb3J0IHsgTGluayB9IGZyb20gInJlYWN0LXJvdXRlci1kb20iOwppbXBvcnQgeyBDYXJkIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL2NhcmQiOwppbXBvcnQgeyBCdXR0b24gfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvYnV0dG9uIjsKaW1wb3J0IHsgSGVhcnRIYW5kc2hha2UsIFNoaWVsZENoZWNrLCBVc2VycyB9IGZyb20gImx1Y2lkZS1yZWFjdCI7Cgpjb25zdCBBYm91dCA9ICgpID0+IHsKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9Im1pbi1oLXNjcmVlbiBiZy1iYWNrZ3JvdW5kIj4KICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbnRhaW5lciBteC1hdXRvIHB4LTMgc206cHgtNCBweS02IHNtOnB5LTggbWF4LXctNXhsIj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIGdhcC0zIG1iLTYiPgogICAgICAgICAgPExpbmsgdG89Ii8iPgogICAgICAgICAgICA8QnV0dG9uIHZhcmlhbnQ9Imdob3N0Ij5CYWNrIHRvIEhvbWU8L0J1dHRvbj4KICAgICAgICAgIDwvTGluaz4KICAgICAgICAgIDxMaW5rIHRvPSIvc2lnbnVwIj4KICAgICAgICAgICAgPEJ1dHRvbiBjbGFzc05hbWU9ImJnLXByaW1hcnkgaG92ZXI6YmctcHJpbWFyeS85MCB0ZXh0LXdoaXRlIj5HZXQgU3RhcnRlZDwvQnV0dG9uPgogICAgICAgICAgPC9MaW5rPgogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibWItOCI+CiAgICAgICAgICA8aDEgY2xhc3NOYW1lPSJ0ZXh0LTN4bCBzbTp0ZXh0LTR4bCBmb250LWhlYWRpbmcgZm9udC1leHRyYWJvbGQgdHJhY2tpbmctdGlnaHQiPkFib3V0IERhdGVMaW5rPC9oMT4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC1tdXRlZC1mb3JlZ3JvdW5kIG10LTIgbWF4LXctMnhsIj4KICAgICAgICAgICAgRGF0ZUxpbmsgaGVscHMgZ2VudWluZSBwZW9wbGUgbWVldCBzYWZlbHkgYW5kIHJlc3BlY3RmdWxseS4gV2UgZm9jdXMgb24gdmVyaWZpZWQgcHJvZmlsZXMsIGNsZWFyIGJvdW5kYXJpZXMsCiAgICAgICAgICAgIGFuZCBhIGNvbW11bml0eSBidWlsdCBvbiBraW5kbmVzcy4KICAgICAgICAgIDwvcD4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImdyaWQgZ2FwLTQgbWQ6Z3JpZC1jb2xzLTMiPgogICAgICAgICAgPENhcmQgY2xhc3NOYW1lPSJwLTYiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgbWItMyI+CiAgICAgICAgICAgICAgPEhlYXJ0SGFuZHNoYWtlIGNsYXNzTmFtZT0idy01IGgtNSB0ZXh0LXByaW1hcnkiIC8+CiAgICAgICAgICAgICAgPGgyIGNsYXNzTmFtZT0iZm9udC1zZW1pYm9sZCI+UmVhbCBDb25uZWN0aW9uczwvaDI+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgICBBIG1vZGVybiBkYXRpbmcgZXhwZXJpZW5jZSBkZXNpZ25lZCBmb3IgcGVvcGxlIHdobyB3YW50IGF1dGhlbnRpYyBjb252ZXJzYXRpb25zIGFuZCBpbnRlbnRpb25hbCBkYXRpbmcuCiAgICAgICAgICAgIDwvcD4KICAgICAgICAgIDwvQ2FyZD4KICAgICAgICAgIDxDYXJkIGNsYXNzTmFtZT0icC02Ij4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImZsZXggaXRlbXMtY2VudGVyIGdhcC0yIG1iLTMiPgogICAgICAgICAgICAgIDxTaGllbGRDaGVjayBjbGFzc05hbWU9InctNSBoLTUgdGV4dC1wcmltYXJ5IiAvPgogICAgICAgICAgICAgIDxoMiBjbGFzc05hbWU9ImZvbnQtc2VtaWJvbGQiPlNhZmV0eSBGaXJzdDwvaDI+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgICBDbGVhciBzYWZldHkgZ3VpZGFuY2UsIHJvYnVzdCByZXBvcnRpbmcgdG9vbHMsIGFuZCBjb21tdW5pdHkgc3RhbmRhcmRzIHRoYXQga2VlcCB0aGUgcGxhdGZvcm0gcmVzcGVjdGZ1bC4KICAgICAgICAgICAgPC9wPgogICAgICAgICAgPC9DYXJkPgogICAgICAgICAgPENhcmQgY2xhc3NOYW1lPSJwLTYiPgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmxleCBpdGVtcy1jZW50ZXIgZ2FwLTIgbWItMyI+CiAgICAgICAgICAgICAgPFVzZXJzIGNsYXNzTmFtZT0idy01IGgtNSB0ZXh0LXByaW1hcnkiIC8+CiAgICAgICAgICAgICAgPGgyIGNsYXNzTmFtZT0iZm9udC1zZW1pYm9sZCI+Q29tbXVuaXR5IFZhbHVlczwvaDI+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgICBXZeKAmXJlIGJ1aWxkaW5nIGEgd2VsY29taW5nIHNwYWNlIHRoYXQgY2VsZWJyYXRlcyBkaXZlcnNpdHkgYW5kIGV4cGVjdHMgbXV0dWFsIHJlc3BlY3QuCiAgICAgICAgICAgIDwvcD4KICAgICAgICAgIDwvQ2FyZD4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPENhcmQgY2xhc3NOYW1lPSJwLTYgbXQtNiI+CiAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LXhsIGZvbnQtc2VtaWJvbGQgbWItMiI+V2hhdCB3ZSBzdGFuZCBmb3I8L2gyPgogICAgICAgICAgPHVsIGNsYXNzTmFtZT0ibGlzdC1kaXNjIHBsLTYgc3BhY2UteS0yIHRleHQtc20gdGV4dC1tdXRlZC1mb3JlZ3JvdW5kIj4KICAgICAgICAgICAgPGxpPkJlIGtpbmQuIEJlIGhvbmVzdC4gQmUgc2FmZS48L2xpPgogICAgICAgICAgICA8bGk+Q29uc2VudCBhbmQgYm91bmRhcmllcyBhcmUgbm9u4oCRbmVnb3RpYWJsZS48L2xpPgogICAgICAgICAgICA8bGk+SGFyYXNzbWVudCwgaGF0ZSwgc2NhbXMsIGFuZCBleHBsb2l0YXRpb24gYXJlIG5vdCB0b2xlcmF0ZWQuPC9saT4KICAgICAgICAgIDwvdWw+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtNCBmbGV4IGZsZXgtd3JhcCBnYXAtMyI+CiAgICAgICAgICAgIDxMaW5rIHRvPSIvZ3VpZGVsaW5lcyI+PEJ1dHRvbiB2YXJpYW50PSJvdXRsaW5lIj5Db21tdW5pdHkgR3VpZGVsaW5lczwvQnV0dG9uPjwvTGluaz4KICAgICAgICAgICAgPExpbmsgdG89Ii9zYWZldHktY2VudGVyIj48QnV0dG9uIHZhcmlhbnQ9Im91dGxpbmUiPlNhZmV0eSBDZW50ZXI8L0J1dHRvbj48L0xpbms+CiAgICAgICAgICAgIDxMaW5rIHRvPSIvY29udGFjdCI+PEJ1dHRvbiB2YXJpYW50PSJvdXRsaW5lIj5Db250YWN0IFVzPC9CdXR0b24+PC9MaW5rPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9DYXJkPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn07CgpleHBvcnQgZGVmYXVsdCBBYm91dDsK"}
+import { Link } from "react-router-dom";
+import { Card } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+import { HeartHandshake, ShieldCheck, Users } from "lucide-react";
+
+const About = () => {
+  return (
+    <div className="min-h-screen bg-background">
+      <div className="container mx-auto px-3 sm:px-4 py-6 sm:py-8 max-w-5xl">
+        <div className="flex items-center justify-between gap-3 mb-6">
+          <Link to="/">
+            <Button variant="ghost">Back to Home</Button>
+          </Link>
+          <Link to="/signup">
+            <Button className="bg-primary hover:bg-primary/90 text-white">Get Started</Button>
+          </Link>
+        </div>
+
+        <div className="mb-8">
+          <h1 className="text-3xl sm:text-4xl font-heading font-extrabold tracking-tight">About DateLink</h1>
+          <p className="text-muted-foreground mt-2 max-w-2xl">
+            DateLink helps genuine people meet safely and respectfully. We focus on verified profiles, clear boundaries,
+            and a community built on kindness.
+          </p>
+        </div>
+
+        <div className="grid gap-4 md:grid-cols-3">
+          <Card className="p-6">
+            <div className="flex items-center gap-2 mb-3">
+              <HeartHandshake className="w-5 h-5 text-primary" />
+              <h2 className="font-semibold">Real Connections</h2>
+            </div>
+            <p className="text-sm text-muted-foreground">
+              A modern dating experience designed for people who want authentic conversations and intentional dating.
+            </p>
+          </Card>
+          <Card className="p-6">
+            <div className="flex items-center gap-2 mb-3">
+              <ShieldCheck className="w-5 h-5 text-primary" />
+              <h2 className="font-semibold">Safety First</h2>
+            </div>
+            <p className="text-sm text-muted-foreground">
+              Clear safety guidance, robust reporting tools, and community standards that keep the platform respectful.
+            </p>
+          </Card>
+          <Card className="p-6">
+            <div className="flex items-center gap-2 mb-3">
+              <Users className="w-5 h-5 text-primary" />
+              <h2 className="font-semibold">Community Values</h2>
+            </div>
+            <p className="text-sm text-muted-foreground">
+              We’re building a welcoming space that celebrates diversity and expects mutual respect.
+            </p>
+          </Card>
+        </div>
+
+        <Card className="p-6 mt-6">
+          <h2 className="text-xl font-semibold mb-2">What we stand for</h2>
+          <ul className="list-disc pl-6 space-y-2 text-sm text-muted-foreground">
+            <li>Be kind. Be honest. Be safe.</li>
+            <li>Consent and boundaries are non‑negotiable.</li>
+            <li>Harassment, hate, scams, and exploitation are not tolerated.</li>
+          </ul>
+          <div className="mt-4 flex flex-wrap gap-3">
+            <Link to="/guidelines"><Button variant="outline">Community Guidelines</Button></Link>
+            <Link to="/safety-center"><Button variant="outline">Safety Center</Button></Link>
+            <Link to="/contact"><Button variant="outline">Contact Us</Button></Link>
+          </div>
+        </Card>
+      </div>
+    </div>
+  );
+};
+
+export default About;

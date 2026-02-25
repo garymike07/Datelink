@@ -1,1 +1,118 @@
-{"data":"aW1wb3J0IHsgVG9hc3RlciB9IGZyb20gIkAvY29tcG9uZW50cy91aS90b2FzdGVyIjsKaW1wb3J0IHsgVG9hc3RlciBhcyBTb25uZXIgfSBmcm9tICJAL2NvbXBvbmVudHMvdWkvc29ubmVyIjsKaW1wb3J0IHsgVG9vbHRpcFByb3ZpZGVyIH0gZnJvbSAiQC9jb21wb25lbnRzL3VpL3Rvb2x0aXAiOwppbXBvcnQgeyBRdWVyeUNsaWVudCwgUXVlcnlDbGllbnRQcm92aWRlciB9IGZyb20gIkB0YW5zdGFjay9yZWFjdC1xdWVyeSI7CmltcG9ydCB7IEJyb3dzZXJSb3V0ZXIsIFJvdXRlcywgUm91dGUgfSBmcm9tICJyZWFjdC1yb3V0ZXItZG9tIjsKaW1wb3J0IHsgbGF6eSwgU3VzcGVuc2UgfSBmcm9tICJyZWFjdCI7CmltcG9ydCBNYWluTGF5b3V0IGZyb20gIi4vY29tcG9uZW50cy9sYXlvdXQvTWFpbkxheW91dCI7CmltcG9ydCB7IEVycm9yQm91bmRhcnkgfSBmcm9tICJAL2NvbXBvbmVudHMvZXJyb3JzL0Vycm9yQm91bmRhcnkiOwoKY29uc3QgSW5kZXggPSBsYXp5KCgpID0+IGltcG9ydCgiLi9wYWdlcy9JbmRleCIpKTsKY29uc3QgTG9naW4gPSBsYXp5KCgpID0+IGltcG9ydCgiLi9wYWdlcy9Mb2dpbiIpKTsKY29uc3QgU2lnbnVwID0gbGF6eSgoKSA9PiBpbXBvcnQoIi4vcGFnZXMvU2lnbnVwIikpOwpjb25zdCBEYXNoYm9hcmQgPSBsYXp5KCgpID0+IGltcG9ydCgiLi9wYWdlcy9EYXNoYm9hcmQiKSk7CmNvbnN0IFByb2ZpbGVTZXR1cCA9IGxhenkoKCkgPT4gaW1wb3J0KCIuL3BhZ2VzL1Byb2ZpbGVTZXR1cCIpKTsKY29uc3QgT25ib2FyZGluZ1dpemFyZCA9IGxhenkoKCkgPT4gaW1wb3J0KCIuL3BhZ2VzL09uYm9hcmRpbmdXaXphcmQiKSk7CmNvbnN0IERpc2NvdmVyID0gbGF6eSgoKSA9PiBpbXBvcnQoIi4vcGFnZXMvRGlzY292ZXIiKSk7CmNvbnN0IExpa2VzID0gbGF6eSgoKSA9PiBpbXBvcnQoIi4vcGFnZXMvTGlrZXMiKSk7CmNvbnN0IE1hdGNoZXMgPSBsYXp5KCgpID0+IGltcG9ydCgiLi9wYWdlcy9NYXRjaGVzIikpOwpjb25zdCBNZXNzYWdlcyA9IGxhenkoKCkgPT4gaW1wb3J0KCIuL3BhZ2VzL01lc3NhZ2VzIikpOwpjb25zdCBDaGF0ID0gbGF6eSgoKSA9PiBpbXBvcnQoIi4vcGFnZXMvQ2hhdCIpKTsKY29uc3QgUHVibGljUHJvZmlsZSA9IGxhenkoKCkgPT4gaW1wb3J0KCIuL3BhZ2VzL1B1YmxpY1Byb2ZpbGUiKSk7CmNvbnN0IFNhZmV0eSA9IGxhenkoKCkgPT4gaW1wb3J0KCIuL3BhZ2VzL1NhZmV0eSIpKTsKY29uc3QgU2V0dGluZ3MgPSBsYXp5KCgpID0+IGltcG9ydCgiLi9wYWdlcy9TZXR0aW5ncyIpKTsKY29uc3QgVXBncmFkZSA9IGxhenkoKCkgPT4gaW1wb3J0KCIuL3BhZ2VzL1VwZ3JhZGUiKSk7CmNvbnN0IFN1YnNjcmlwdGlvbiA9IGxhenkoKCkgPT4gaW1wb3J0KCIuL3BhZ2VzL1N1YnNjcmlwdGlvbiIpKTsKY29uc3QgVG9wUGlja3MgPSBsYXp5KCgpID0+IGltcG9ydCgiLi9wYWdlcy9Ub3BQaWNrcyIpKTsKY29uc3QgVGVybXMgPSBsYXp5KCgpID0+IGltcG9ydCgiLi9wYWdlcy9UZXJtcyIpKTsKY29uc3QgUHJpdmFjeSA9IGxhenkoKCkgPT4gaW1wb3J0KCIuL3BhZ2VzL1ByaXZhY3kiKSk7CmNvbnN0IEd1aWRlbGluZXMgPSBsYXp5KCgpID0+IGltcG9ydCgiLi9wYWdlcy9HdWlkZWxpbmVzIikpOwpjb25zdCBTYWZldHlDZW50ZXIgPSBsYXp5KCgpID0+IGltcG9ydCgiLi9wYWdlcy9TYWZldHlDZW50ZXIiKSk7CmNvbnN0IEhlbHBDZW50ZXIgPSBsYXp5KCgpID0+IGltcG9ydCgiLi9wYWdlcy9IZWxwQ2VudGVyIikpOwpjb25zdCBDb250YWN0ID0gbGF6eSgoKSA9PiBpbXBvcnQoIi4vcGFnZXMvQ29udGFjdCIpKTsKY29uc3QgUmVwb3J0UHJvYmxlbSA9IGxhenkoKCkgPT4gaW1wb3J0KCIuL3BhZ2VzL1JlcG9ydFByb2JsZW0iKSk7CmNvbnN0IENvb2tpZXMgPSBsYXp5KCgpID0+IGltcG9ydCgiLi9wYWdlcy9Db29raWVzIikpOwpjb25zdCBSZWZ1bmRzID0gbGF6eSgoKSA9PiBpbXBvcnQoIi4vcGFnZXMvUmVmdW5kcyIpKTsKY29uc3QgQWJvdXQgPSBsYXp5KCgpID0+IGltcG9ydCgiLi9wYWdlcy9BYm91dCIpKTsKY29uc3QgQmxvZyA9IGxhenkoKCkgPT4gaW1wb3J0KCIuL3BhZ2VzL0Jsb2ciKSk7CmNvbnN0IENhcmVlcnMgPSBsYXp5KCgpID0+IGltcG9ydCgiLi9wYWdlcy9DYXJlZXJzIikpOwpjb25zdCBOb3RGb3VuZCA9IGxhenkoKCkgPT4gaW1wb3J0KCIuL3BhZ2VzL05vdEZvdW5kIikpOwpjb25zdCBQaG90b1ZlcmlmaWNhdGlvbiA9IGxhenkoKCkgPT4gaW1wb3J0KCIuL3BhZ2VzL1Bob3RvVmVyaWZpY2F0aW9uIikpOwpjb25zdCBOb3RpZmljYXRpb25EZWJ1ZyA9IGxhenkoKCkgPT4gaW1wb3J0KCIuL3BhZ2VzL05vdGlmaWNhdGlvbkRlYnVnIikpOwpjb25zdCBQcmljaW5nID0gbGF6eSgoKSA9PiBpbXBvcnQoIi4vcGFnZXMvUHJpY2luZyIpKTsKCmNvbnN0IHF1ZXJ5Q2xpZW50ID0gbmV3IFF1ZXJ5Q2xpZW50KCk7CgpmdW5jdGlvbiBSb3V0ZUZhbGxiYWNrKCkgewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0ibWluLWgtWzYwdmhdIGZsZXggaXRlbXMtY2VudGVyIGp1c3RpZnktY2VudGVyIHAtNiI+CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJhbmltYXRlLXB1bHNlLXNvZnQgdGV4dC1wcmltYXJ5Ij5Mb2FkaW5n4oCmPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cgpjb25zdCBBcHAgPSAoKSA9PiAoCiAgPFF1ZXJ5Q2xpZW50UHJvdmlkZXIgY2xpZW50PXtxdWVyeUNsaWVudH0+CiAgICA8VG9vbHRpcFByb3ZpZGVyPgogICAgICA8VG9hc3RlciAvPgogICAgICA8U29ubmVyIC8+CiAgICAgIDxFcnJvckJvdW5kYXJ5PgogICAgICAgIDxCcm93c2VyUm91dGVyCiAgICAgICAgICBmdXR1cmU9e3sKICAgICAgICAgICAgdjdfc3RhcnRUcmFuc2l0aW9uOiB0cnVlLAogICAgICAgICAgICB2N19yZWxhdGl2ZVNwbGF0UGF0aDogdHJ1ZSwKICAgICAgICAgIH19CiAgICAgICAgPgogICAgICAgICAgPFN1c3BlbnNlIGZhbGxiYWNrPXs8Um91dGVGYWxsYmFjayAvPn0+CiAgICAgICAgICAgIDxSb3V0ZXM+CiAgICAgICAgICAgICAgey8qIFB1YmxpYyBSb3V0ZXMgKi99CiAgICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii8iIGVsZW1lbnQ9ezxJbmRleCAvPn0gLz4KICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iL2xvZ2luIiBlbGVtZW50PXs8TG9naW4gLz59IC8+CiAgICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9zaWdudXAiIGVsZW1lbnQ9ezxTaWdudXAgLz59IC8+CiAgICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii90ZXJtcyIgZWxlbWVudD17PFRlcm1zIC8+fSAvPgogICAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvcHJpdmFjeSIgZWxlbWVudD17PFByaXZhY3kgLz59IC8+CiAgICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9ndWlkZWxpbmVzIiBlbGVtZW50PXs8R3VpZGVsaW5lcyAvPn0gLz4KICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iL3NhZmV0eS1jZW50ZXIiIGVsZW1lbnQ9ezxTYWZldHlDZW50ZXIgLz59IC8+CiAgICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9oZWxwIiBlbGVtZW50PXs8SGVscENlbnRlciAvPn0gLz4KICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iL2NvbnRhY3QiIGVsZW1lbnQ9ezxDb250YWN0IC8+fSAvPgogICAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvcmVwb3J0IiBlbGVtZW50PXs8UmVwb3J0UHJvYmxlbSAvPn0gLz4KICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iL2Nvb2tpZXMiIGVsZW1lbnQ9ezxDb29raWVzIC8+fSAvPgogICAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvcmVmdW5kcyIgZWxlbWVudD17PFJlZnVuZHMgLz59IC8+CiAgICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9hYm91dCIgZWxlbWVudD17PEFib3V0IC8+fSAvPgogICAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvYmxvZyIgZWxlbWVudD17PEJsb2cgLz59IC8+CiAgICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9jYXJlZXJzIiBlbGVtZW50PXs8Q2FyZWVycyAvPn0gLz4KICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iL3ByaWNpbmciIGVsZW1lbnQ9ezxQcmljaW5nIC8+fSAvPgogICAgICAgICAgICAgIAogICAgICAgICAgICAgIHsvKiBPbmJvYXJkaW5nIC0gU2VtaS1wdWJsaWMgKHJlcXVpcmVzIGF1dGggYnV0IG5vdCBpbiBNYWluTGF5b3V0KSAqL30KICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iL29uYm9hcmRpbmciIGVsZW1lbnQ9ezxPbmJvYXJkaW5nV2l6YXJkIC8+fSAvPgoKICAgICAgICAgICAgICB7LyogQXV0aGVudGljYXRlZCBSb3V0ZXMgd3JhcHBlZCBpbiBNYWluTGF5b3V0ICovfQogICAgICAgICAgICAgIDxSb3V0ZSBlbGVtZW50PXs8TWFpbkxheW91dCAvPn0+CiAgICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iL2Rhc2hib2FyZCIgZWxlbWVudD17PERhc2hib2FyZCAvPn0gLz4KICAgICAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvcHJvZmlsZS1zZXR1cCIgZWxlbWVudD17PFByb2ZpbGVTZXR1cCAvPn0gLz4KICAgICAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvcHJvZmlsZS86dXNlcklkIiBlbGVtZW50PXs8UHVibGljUHJvZmlsZSAvPn0gLz4KICAgICAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvcGhvdG8tdmVyaWZpY2F0aW9uIiBlbGVtZW50PXs8UGhvdG9WZXJpZmljYXRpb24gLz59IC8+CiAgICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iL2Rpc2NvdmVyIiBlbGVtZW50PXs8RGlzY292ZXIgLz59IC8+CiAgICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iL3RvcC1waWNrcyIgZWxlbWVudD17PFRvcFBpY2tzIC8+fSAvPgogICAgICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9saWtlcyIgZWxlbWVudD17PExpa2VzIC8+fSAvPgogICAgICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii9tYXRjaGVzIiBlbGVtZW50PXs8TWF0Y2hlcyAvPn0gLz4KICAgICAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvbWVzc2FnZXMiIGVsZW1lbnQ9ezxNZXNzYWdlcyAvPn0gLz4KICAgICAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvY2hhdC86bWF0Y2hJZCIgZWxlbWVudD17PENoYXQgLz59IC8+CiAgICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iL3NhZmV0eSIgZWxlbWVudD17PFNhZmV0eSAvPn0gLz4KICAgICAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvc2V0dGluZ3MiIGVsZW1lbnQ9ezxTZXR0aW5ncyAvPn0gLz4KICAgICAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvdXBncmFkZSIgZWxlbWVudD17PFVwZ3JhZGUgLz59IC8+CiAgICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iL3N1YnNjcmlwdGlvbiIgZWxlbWVudD17PFN1YnNjcmlwdGlvbiAvPn0gLz4KICAgICAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvbm90aWZpY2F0aW9uLWRlYnVnIiBlbGVtZW50PXs8Tm90aWZpY2F0aW9uRGVidWcgLz59IC8+CiAgICAgICAgICAgICAgPC9Sb3V0ZT4KCiAgICAgICAgICAgICAgey8qIENhdGNoLWFsbCAqL30KICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iKiIgZWxlbWVudD17PE5vdEZvdW5kIC8+fSAvPgogICAgICAgICAgICA8L1JvdXRlcz4KICAgICAgICAgIDwvU3VzcGVuc2U+CiAgICAgICAgPC9Ccm93c2VyUm91dGVyPgogICAgICA8L0Vycm9yQm91bmRhcnk+CiAgICA8L1Rvb2x0aXBQcm92aWRlcj4KICA8L1F1ZXJ5Q2xpZW50UHJvdmlkZXI+Cik7CgpleHBvcnQgZGVmYXVsdCBBcHA7Cg=="}
+import { Toaster } from "@/components/ui/toaster";
+import { Toaster as Sonner } from "@/components/ui/sonner";
+import { TooltipProvider } from "@/components/ui/tooltip";
+import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { lazy, Suspense } from "react";
+import MainLayout from "./components/layout/MainLayout";
+import { ErrorBoundary } from "@/components/errors/ErrorBoundary";
+
+const Index = lazy(() => import("./pages/Index"));
+const Login = lazy(() => import("./pages/Login"));
+const Signup = lazy(() => import("./pages/Signup"));
+const Dashboard = lazy(() => import("./pages/Dashboard"));
+const ProfileSetup = lazy(() => import("./pages/ProfileSetup"));
+const OnboardingWizard = lazy(() => import("./pages/OnboardingWizard"));
+const Discover = lazy(() => import("./pages/Discover"));
+const Likes = lazy(() => import("./pages/Likes"));
+const Matches = lazy(() => import("./pages/Matches"));
+const Messages = lazy(() => import("./pages/Messages"));
+const Chat = lazy(() => import("./pages/Chat"));
+const PublicProfile = lazy(() => import("./pages/PublicProfile"));
+const Safety = lazy(() => import("./pages/Safety"));
+const Settings = lazy(() => import("./pages/Settings"));
+const Upgrade = lazy(() => import("./pages/Upgrade"));
+const Subscription = lazy(() => import("./pages/Subscription"));
+const TopPicks = lazy(() => import("./pages/TopPicks"));
+const Terms = lazy(() => import("./pages/Terms"));
+const Privacy = lazy(() => import("./pages/Privacy"));
+const Guidelines = lazy(() => import("./pages/Guidelines"));
+const SafetyCenter = lazy(() => import("./pages/SafetyCenter"));
+const HelpCenter = lazy(() => import("./pages/HelpCenter"));
+const Contact = lazy(() => import("./pages/Contact"));
+const ReportProblem = lazy(() => import("./pages/ReportProblem"));
+const Cookies = lazy(() => import("./pages/Cookies"));
+const Refunds = lazy(() => import("./pages/Refunds"));
+const About = lazy(() => import("./pages/About"));
+const Blog = lazy(() => import("./pages/Blog"));
+const Careers = lazy(() => import("./pages/Careers"));
+const NotFound = lazy(() => import("./pages/NotFound"));
+const PhotoVerification = lazy(() => import("./pages/PhotoVerification"));
+const NotificationDebug = lazy(() => import("./pages/NotificationDebug"));
+const Pricing = lazy(() => import("./pages/Pricing"));
+
+const queryClient = new QueryClient();
+
+function RouteFallback() {
+  return (
+    <div className="min-h-[60vh] flex items-center justify-center p-6">
+      <div className="animate-pulse-soft text-primary">Loading…</div>
+    </div>
+  );
+}
+
+const App = () => (
+  <QueryClientProvider client={queryClient}>
+    <TooltipProvider>
+      <Toaster />
+      <Sonner />
+      <ErrorBoundary>
+        <BrowserRouter
+          future={{
+            v7_startTransition: true,
+            v7_relativeSplatPath: true,
+          }}
+        >
+          <Suspense fallback={<RouteFallback />}>
+            <Routes>
+              {/* Public Routes */}
+              <Route path="/" element={<Index />} />
+              <Route path="/login" element={<Login />} />
+              <Route path="/signup" element={<Signup />} />
+              <Route path="/terms" element={<Terms />} />
+              <Route path="/privacy" element={<Privacy />} />
+              <Route path="/guidelines" element={<Guidelines />} />
+              <Route path="/safety-center" element={<SafetyCenter />} />
+              <Route path="/help" element={<HelpCenter />} />
+              <Route path="/contact" element={<Contact />} />
+              <Route path="/report" element={<ReportProblem />} />
+              <Route path="/cookies" element={<Cookies />} />
+              <Route path="/refunds" element={<Refunds />} />
+              <Route path="/about" element={<About />} />
+              <Route path="/blog" element={<Blog />} />
+              <Route path="/careers" element={<Careers />} />
+              <Route path="/pricing" element={<Pricing />} />
+              
+              {/* Onboarding - Semi-public (requires auth but not in MainLayout) */}
+              <Route path="/onboarding" element={<OnboardingWizard />} />
+
+              {/* Authenticated Routes wrapped in MainLayout */}
+              <Route element={<MainLayout />}>
+                <Route path="/dashboard" element={<Dashboard />} />
+                <Route path="/profile-setup" element={<ProfileSetup />} />
+                <Route path="/profile/:userId" element={<PublicProfile />} />
+                <Route path="/photo-verification" element={<PhotoVerification />} />
+                <Route path="/discover" element={<Discover />} />
+                <Route path="/top-picks" element={<TopPicks />} />
+                <Route path="/likes" element={<Likes />} />
+                <Route path="/matches" element={<Matches />} />
+                <Route path="/messages" element={<Messages />} />
+                <Route path="/chat/:matchId" element={<Chat />} />
+                <Route path="/safety" element={<Safety />} />
+                <Route path="/settings" element={<Settings />} />
+                <Route path="/upgrade" element={<Upgrade />} />
+                <Route path="/subscription" element={<Subscription />} />
+                <Route path="/notification-debug" element={<NotificationDebug />} />
+              </Route>
+
+              {/* Catch-all */}
+              <Route path="*" element={<NotFound />} />
+            </Routes>
+          </Suspense>
+        </BrowserRouter>
+      </ErrorBoundary>
+    </TooltipProvider>
+  </QueryClientProvider>
+);
+
+export default App;

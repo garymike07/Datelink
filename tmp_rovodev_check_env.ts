@@ -1,1 +1,5 @@
-{"data":"Ly8gUXVpY2sgc2NyaXB0IHRvIGNoZWNrIGlmIGVudmlyb25tZW50IHZhcmlhYmxlcyBhcmUgbG9hZGluZwpjb25zb2xlLmxvZygnRW52aXJvbm1lbnQgdmFyaWFibGUgY2hlY2s6Jyk7CmNvbnNvbGUubG9nKCdWSVRFX1ZBUElEX1BVQkxJQ19LRVk6JywgaW1wb3J0Lm1ldGEuZW52LlZJVEVfVkFQSURfUFVCTElDX0tFWSk7CmNvbnNvbGUubG9nKCdJcyBwbGFjZWhvbGRlcj8nLCBpbXBvcnQubWV0YS5lbnYuVklURV9WQVBJRF9QVUJMSUNfS0VZID09PSAnUExBQ0VIT0xERVJfVkFQSURfS0VZJyk7CmNvbnNvbGUubG9nKCdGdWxsIGltcG9ydC5tZXRhLmVudjonLCBpbXBvcnQubWV0YS5lbnYpOwo="}
+// Quick script to check if environment variables are loading
+console.log('Environment variable check:');
+console.log('VITE_VAPID_PUBLIC_KEY:', import.meta.env.VITE_VAPID_PUBLIC_KEY);
+console.log('Is placeholder?', import.meta.env.VITE_VAPID_PUBLIC_KEY === 'PLACEHOLDER_VAPID_KEY');
+console.log('Full import.meta.env:', import.meta.env);
