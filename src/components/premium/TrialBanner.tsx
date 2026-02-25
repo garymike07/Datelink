@@ -38,7 +38,7 @@ export function TrialBanner() {
   if (!status || isPremium) return null;
 
   // Active trial
-  if (status.trialActive) {
+  if (status?.trialActive) {
     const h = status.trialHoursRemaining ?? 0;
     const urgency = h <= 6;
     return (
@@ -71,7 +71,7 @@ export function TrialBanner() {
   }
 
   // Active daily unlock
-  if (status.dailyUnlockActive) {
+  if (status?.dailyUnlockActive) {
     const h = status.dailyUnlockHoursRemaining ?? 0;
     return (
       <div className="flex items-center justify-between gap-3 px-4 py-2 text-sm font-medium rounded-lg mb-3 bg-blue-50 border border-blue-200 text-blue-700 dark:bg-blue-950/40 dark:border-blue-800 dark:text-blue-300">

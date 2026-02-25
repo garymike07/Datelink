@@ -41,7 +41,7 @@ export default function Subscription() {
 
   const [payMode, setPayMode] = useState<"subscription" | "daily_unlock">("subscription");
   const [defaultDuration, setDefaultDuration] = useState<"1_week" | "1_month">("1_week");
-  const isActive = subscription?.status === "active";
+  const isActive = !!subscription && subscription.status === "active";
   const refreshPaymentStatus = useMutation(api.paymentsStatus.refreshPaymentStatus);
 
   // Auto-open daily unlock modal when ?daily=1 is in URL
@@ -125,12 +125,12 @@ export default function Subscription() {
                 <div className="flex justify-between items-start mb-2">
                   <div>
                     <p className="font-bold text-primary uppercase">{subscription.plan} — {subscription.billingCycle}</p>
-                    <p className="text-xs text-muted-foreground">Started: {format(subscription.startedAt, "MMM dd, yyyy")}</p>
+                    <p className="text-xs text-muted-foreground">Started: {subscription.startedAt ? format(subscription.startedAt, "MMM dd, yyyy") : "N/A"}</p>
                   </div>
                   <Badge variant={subscription.status === "active" ? "default" : "secondary"}>{subscription.status}</Badge>
                 </div>
                 {subscription.endsAt && (
-                  <p className="text-sm">Expires on: <span className="font-medium">{format(subscription.endsAt, "MMM dd, yyyy")}</span></p>
+                  <p className="text-sm">Expires on: <span className="font-medium">{subscription.endsAt ? format(subscription.endsAt, "MMM dd, yyyy") : "N/A"}</span></p>
                 )}
               </div>
               <Button variant="outline" className="w-full" onClick={openWeekly}>Change Plan</Button>
