@@ -208,7 +208,7 @@ const Chat = () => {
                 const parts = errMsg.split(":");
                 const limit = parts[2] || "20";
                 toast.error(
-                    `Daily message limit reached (${limit}/day). Upgrade to Premium or pay KES 10 for 24h unlimited access.`,
+                    `Daily message limit reached (${limit}/day). Upgrade to Premium for unlimited messaging.`,
                     {
                         duration: 7000,
                         action: { label: "Upgrade Now", onClick: () => navigate("/subscription") },

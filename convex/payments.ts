@@ -30,23 +30,31 @@ function addMonthsUtc(nowMs: number, months: number) {
   return next.getTime();
 }
 
+function planDurationToMs(planDuration: string): number {
+  const DAY_MS = 24 * 60 * 60 * 1000;
+  switch (planDuration) {
+    case "1_day":   return 1 * DAY_MS;
+    case "1_week":  return 7 * DAY_MS;
+    case "1_month":
+    case "1_months": return 30 * DAY_MS;
+    case "3_months": return 90 * DAY_MS;
+    case "6_months": return 180 * DAY_MS;
+    case "12_months": return 365 * DAY_MS;
+    default:         return 30 * DAY_MS;
+  }
+}
+
+/** @deprecated Use planDurationToMs instead */
 function planDurationToMonths(planDuration: string) {
   switch (planDuration) {
-    case "1_day":
-      return 1 / 30; // ~0.033 months
-    case "1_week":
-      return 1 / 4; // ~0.25 months
+    case "1_day":    return 1 / 30;
+    case "1_week":   return 1 / 4;
     case "1_month":
-    case "1_months":
-      return 1;
-    case "3_months":
-      return 3;
-    case "6_months":
-      return 6;
-    case "12_months":
-      return 12;
-    default:
-      return 1;
+    case "1_months": return 1;
+    case "3_months": return 3;
+    case "6_months": return 6;
+    case "12_months": return 12;
+    default: return 1;
   }
 }
 
@@ -73,6 +81,7 @@ export const initiatePayment = action({
         if (d === "1_month") return 350;
         throw new Error("Invalid subscription duration. Only weekly or monthly is allowed.");
       }
+      // daily_unlock is a legacy product type kept for backwards compatibility
       if (args.productType === "daily_unlock") return 10;
       if (args.productType.includes("unlock")) return 10;
       return args.amount;
@@ -166,8 +175,7 @@ async function finalizePaymentCore(
   if (payment.productType === "subscription") {
     const plan = (payment.metadata as any)?.plan ?? "premium";
     const planDuration = (payment.metadata as any)?.planDuration ?? "1_month";
-    const months = planDurationToMonths(planDuration);
-    const periodEnds = addMonthsUtc(now, months);
+    const periodEnds = now + planDurationToMs(planDuration);
 
     const existing = await ctx.db
       .query("subscriptions")
@@ -196,11 +204,11 @@ async function finalizePaymentCore(
           ? "daily"
           : planDuration === "1_week"
             ? "weekly"
-            : months === 1
+            : planDuration === "1_month" || planDuration === "1_months"
               ? "monthly"
-              : months === 3
+              : planDuration === "3_months"
                 ? "quarterly"
-                : months === 6
+                : planDuration === "6_months"
                   ? "biannual"
                   : "annual",
       startedAt: now,
@@ -226,7 +234,7 @@ async function finalizePaymentCore(
       payment.productType === "subscription"
         ? "Your subscription is now active. Enjoy your premium features!"
         : payment.productType === "daily_unlock"
-            ? "Daily access activated! You have full access for the next 24 hours."
+            ? "Your access has been activated! You have full access for the next 24 hours."
             : payment.productType.includes("unlock")
                 ? "Item unlocked! You can now access it."
                 : "Your purchase was successful!",

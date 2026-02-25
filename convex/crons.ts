@@ -39,6 +39,18 @@ crons.interval(
   { olderThanMinutes: 10, batchSize: 200 }
 );
 
+// Subscriptions: mark expired subscriptions every hour
+crons.hourly(
+  "expire-subscriptions",
+  { minuteUTC: 30 },
+  internal.subscriptionExpiry.expireSubscriptions
+);
 
+// Subscriptions: send renewal reminders daily at 9 AM UTC
+crons.daily(
+  "send-renewal-reminders",
+  { hourUTC: 9, minuteUTC: 0 },
+  internal.subscriptionExpiry.sendRenewalReminders
+);
 
 export default crons;

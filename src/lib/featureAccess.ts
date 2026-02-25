@@ -31,7 +31,7 @@ export const FEATURE_LIMITS: Record<FeatureType, FeatureLimit> = {
     premiumLimit: 5,
     resetPeriod: 'daily',
     errorMessage: 'Super Likes are a Premium feature',
-    paywallMessage: 'Stand out with Super Likes - KES 100/week or KES 350/month. Add-on: KES 10/day for Premium Plus features'
+    paywallMessage: 'Stand out with Super Likes - KES 100/week or KES 350/month'
   },
   rewind: {
     feature: 'rewind',
@@ -55,7 +55,7 @@ export const FEATURE_LIMITS: Record<FeatureType, FeatureLimit> = {
     premiumLimit: 1,
     resetPeriod: 'monthly',
     errorMessage: 'Boost is a Premium feature',
-    paywallMessage: 'Boost your profile with Premium - KES 100/week or KES 350/month (Premium Plus add-on: KES 10/day)'
+    paywallMessage: 'Boost your profile with Premium - KES 100/week or KES 350/month'
   },
   advanced_filters: {
     feature: 'advanced_filters',

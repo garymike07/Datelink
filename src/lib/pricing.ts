@@ -21,4 +21,3 @@ export function getPremiumAmountKes(duration: PremiumPlanDuration): number {
   return plan.amountKes;
 }
 
-export const UNLOCK_COST_KES = 10;

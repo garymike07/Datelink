@@ -3,14 +3,13 @@ import { api } from "../../../convex/_generated/api";
 import { useAuth } from "@/contexts/AuthContext";
 import { useNavigate } from "react-router-dom";
 import { Button } from "@/components/ui/button";
-import { Clock, Sparkles, Zap, MessageCircle, Eye } from "lucide-react";
+import { Clock, Sparkles, MessageCircle, Eye } from "lucide-react";
 
 /**
- * TrialBanner — shown on Discover, Messages, and Chat pages.
+ * TrialBanner — shown on the Subscription page and other key pages.
  * Displays:
- *   - Active trial countdown
- *   - Active daily-unlock countdown
- *   - Upgrade CTA when both have expired (with daily usage stats)
+ *   - Active trial countdown with upgrade CTA
+ *   - Upgrade CTA when trial has expired (with daily usage stats)
  */
 export function TrialBanner() {
   const { user } = useAuth();
@@ -29,7 +28,7 @@ export function TrialBanner() {
 
   const dailyUsage = useQuery(
     api.subscriptions.getDailyUsageStats,
-    userId && status?.trialUsed && !status?.trialActive && !status?.dailyUnlockActive && !isPremium
+    userId && status?.trialUsed && !status?.trialActive && !isPremium
       ? { userId }
       : "skip"
   );
@@ -70,31 +69,8 @@ export function TrialBanner() {
     );
   }
 
-  // Active daily unlock
-  if (status?.dailyUnlockActive) {
-    const h = status.dailyUnlockHoursRemaining ?? 0;
-    return (
-      <div className="flex items-center justify-between gap-3 px-4 py-2 text-sm font-medium rounded-lg mb-3 bg-blue-50 border border-blue-200 text-blue-700 dark:bg-blue-950/40 dark:border-blue-800 dark:text-blue-300">
-        <span className="flex items-center gap-2">
-          <Zap className="w-4 h-4 shrink-0" />
-          <span>Daily access active — {h}h remaining</span>
-        </span>
-        <Button
-          size="sm"
-          variant="outline"
-          className="shrink-0 text-xs h-7"
-          onClick={() => navigate("/subscription")}
-        >
-          <Sparkles className="w-3 h-3 mr-1" />
-          Upgrade
-        </Button>
-      </div>
-    );
-  }
-
   // Trial expired — show upgrade CTA with daily usage stats
   if (status && status.trialUsed) {
-    // Safely extract stats with fallbacks to avoid crashes if dailyUsage is loading or null
     const msgRemaining = dailyUsage?.messagesRemaining ?? 0;
     const viewsRemaining = dailyUsage?.profileViewsRemaining ?? 0;
     const msgLimit = dailyUsage?.dailyMessageLimit ?? 20;
@@ -107,25 +83,14 @@ export function TrialBanner() {
             <Clock className="w-4 h-4 shrink-0" />
             <span>Free trial ended. Limited access active.</span>
           </span>
-          <div className="flex gap-2 shrink-0">
-            <Button
-              size="sm"
-              variant="outline"
-              className="text-xs h-7 border-amber-400 text-amber-700 hover:bg-amber-100"
-              onClick={() => navigate("/subscription?daily=1")}
-            >
-              <Zap className="w-3 h-3 mr-1" />
-              KES 10/day
-            </Button>
-            <Button
-              size="sm"
-              className="text-xs h-7 bg-gradient-to-r from-purple-600 to-pink-500 text-white border-0 hover:opacity-90"
-              onClick={() => navigate("/subscription")}
-            >
-              <Sparkles className="w-3 h-3 mr-1" />
-              Upgrade
-            </Button>
-          </div>
+          <Button
+            size="sm"
+            className="text-xs h-7 bg-gradient-to-r from-purple-600 to-pink-500 text-white border-0 hover:opacity-90 shrink-0"
+            onClick={() => navigate("/subscription")}
+          >
+            <Sparkles className="w-3 h-3 mr-1" />
+            Upgrade Now
+          </Button>
         </div>
         {dailyUsage && (
           <div className="flex gap-4 px-4 pb-2 text-xs text-amber-600 dark:text-amber-400">

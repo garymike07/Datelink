@@ -108,7 +108,7 @@ export const sendMessage = mutation({
         const currentMessages = usage?.messages ?? 0;
         if (currentMessages >= DAILY_MESSAGE_LIMIT) {
           throw new Error(
-            `DAILY_MESSAGE_LIMIT_REACHED:${currentMessages}:${DAILY_MESSAGE_LIMIT}:Your free trial has expired and you've reached the daily limit of ${DAILY_MESSAGE_LIMIT} messages. Upgrade to Premium (KES 100/week) or pay KES 10 for 24-hour unlimited access.`
+            `DAILY_MESSAGE_LIMIT_REACHED:${currentMessages}:${DAILY_MESSAGE_LIMIT}:Your free trial has expired and you've reached the daily limit of ${DAILY_MESSAGE_LIMIT} messages. Upgrade to Premium (KES 100/week or KES 350/month) for unlimited messaging.`
           );
         }
         // Increment message count

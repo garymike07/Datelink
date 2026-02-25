@@ -1,11 +1,21 @@
 import { useEffect, useState, useRef } from "react";
 import { useAction } from "convex/react";
 import { api } from "../../../convex/_generated/api";
-import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from "@/components/ui/dialog";
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogHeader,
+  DialogTitle,
+} from "@/components/ui/dialog";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { toast } from "sonner";
-import { PREMIUM_SUBSCRIPTION_PLANS, type PremiumPlanDuration, getPremiumAmountKes, UNLOCK_COST_KES } from "@/lib/pricing";
+import {
+  PREMIUM_SUBSCRIPTION_PLANS,
+  type PremiumPlanDuration,
+  getPremiumAmountKes,
+} from "@/lib/pricing";
 import { Loader2, CheckCircle2, XCircle, Check } from "lucide-react";
 
 export function PaymentModal({
@@ -19,16 +29,19 @@ export function PaymentModal({
 }: any) {
   const initiatePayment = useAction(api.payments.initiatePayment);
   const refreshPaymentStatus = useAction(api.paymentsStatus.refreshPaymentStatus);
-  const [duration, setDuration] = useState<PremiumPlanDuration>(defaultDuration as PremiumPlanDuration);
+  const [duration, setDuration] = useState<PremiumPlanDuration>(
+    defaultDuration as PremiumPlanDuration
+  );
   const [phoneNumber, setPhoneNumber] = useState("");
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [paymentId, setPaymentId] = useState<any>(null);
   const [paymentStatus, setPaymentStatus] = useState<string>("idle");
   const pollingRef = useRef<any>(null);
 
+  // Determine amount: unlock modes use a fixed cost; subscription uses plan price
   const amount =
-    mode === "unlock" || mode === "daily_unlock"
-      ? UNLOCK_COST_KES
+    mode === "unlock"
+      ? 10 // profile/match unlock cost (KES 10 per item)
       : getPremiumAmountKes(duration);
 
   useEffect(() => {
@@ -45,6 +58,13 @@ export function PaymentModal({
     }
   }, [isOpen]);
 
+  // Sync duration when defaultDuration prop changes (e.g. user clicks Weekly vs Monthly button)
+  useEffect(() => {
+    if (defaultDuration) {
+      setDuration(defaultDuration as PremiumPlanDuration);
+    }
+  }, [defaultDuration]);
+
   const startPolling = (pid: any) => {
     if (pollingRef.current) clearInterval(pollingRef.current);
     let attempts = 0;
@@ -54,7 +74,9 @@ export function PaymentModal({
       if (attempts > maxAttempts) {
         clearInterval(pollingRef.current);
         setPaymentStatus("failed");
-        toast.error("Payment verification timed out. Please check your billing history later.");
+        toast.error(
+          "Payment verification timed out. Please check your billing history later."
+        );
         return;
       }
       try {
@@ -62,11 +84,7 @@ export function PaymentModal({
         if (result.status === "completed") {
           clearInterval(pollingRef.current);
           setPaymentStatus("completed");
-          toast.success(
-            mode === "daily_unlock"
-              ? "Daily unlock activated! You now have unlimited access for 24 hours."
-              : "Payment successful! Your subscription is now active."
-          );
+          toast.success("Payment successful! Your subscription is now active.");
           setTimeout(() => onClose(), 2000);
         } else if (result.status === "failed") {
           clearInterval(pollingRef.current);
@@ -86,16 +104,16 @@ export function PaymentModal({
     try {
       let productType: string;
       let planDuration: string | undefined;
-      if (mode === "daily_unlock") {
-        productType = "daily_unlock";
-        planDuration = undefined;
-      } else if (mode === "unlock") {
+
+      if (mode === "unlock") {
         productType = `${itemType}_unlock`;
         planDuration = undefined;
       } else {
+        // Default: subscription
         productType = "subscription";
         planDuration = duration;
       }
+
       const result = await initiatePayment({
         userId,
         amount,
@@ -118,9 +136,19 @@ export function PaymentModal({
   };
 
   const getTitle = () => {
-    if (mode === "daily_unlock") return "Daily Unlock — KES 10";
     if (mode === "unlock") return "Unlock Profile";
     return "Upgrade to Premium";
+  };
+
+  const getDescription = () => {
+    if (paymentStatus === "idle") {
+      if (mode === "unlock") return "Pay KES 10 to unlock this profile.";
+      return "Choose a plan to get full premium access to all features.";
+    }
+    if (paymentStatus === "pending") return "Waiting for payment confirmation...";
+    if (paymentStatus === "completed") return "Payment confirmed!";
+    if (paymentStatus === "failed") return "Payment failed.";
+    return "";
   };
 
   return (
@@ -128,19 +156,13 @@ export function PaymentModal({
       <DialogContent className="sm:max-w-md">
         <DialogHeader>
           <DialogTitle>{getTitle()}</DialogTitle>
-          <DialogDescription>
-            {paymentStatus === "idle" && mode === "daily_unlock" && "Get unlimited profile views and messages for 24 hours."}
-            {paymentStatus === "idle" && mode === "unlock" && "Pay KES 10 to unlock this profile."}
-            {paymentStatus === "idle" && mode === "subscription" && "Choose a plan to get full premium access."}
-            {paymentStatus === "pending" && "Waiting for payment confirmation..."}
-            {paymentStatus === "completed" && "Payment confirmed!"}
-            {paymentStatus === "failed" && "Payment failed."}
-          </DialogDescription>
+          <DialogDescription>{getDescription()}</DialogDescription>
         </DialogHeader>
 
         <div className="space-y-4 py-4">
           {paymentStatus === "idle" ? (
             <>
+              {/* Subscription plan selector */}
               {mode === "subscription" && (
                 <div className="grid grid-cols-2 gap-3 mb-2">
                   {PREMIUM_SUBSCRIPTION_PLANS.map((plan) => (
@@ -160,23 +182,43 @@ export function PaymentModal({
                         </span>
                       )}
                       <p className="font-semibold text-sm">{plan.label}</p>
-                      <p className="text-xl font-bold text-primary mt-1">KES {plan.amountKes}</p>
+                      <p className="text-xl font-bold text-primary mt-1">
+                        KES {plan.amountKes}
+                      </p>
                       <p className="text-xs text-muted-foreground">per {plan.periodLabel}</p>
                       <ul className="mt-2 space-y-1 text-xs text-muted-foreground">
                         {plan.duration === "1_week" ? (
                           <>
-                            <li className="flex items-center gap-1"><Check className="h-3 w-3 text-green-500" /> 7 days premium access</li>
-                            <li className="flex items-center gap-1"><Check className="h-3 w-3 text-green-500" /> Unlimited profile views</li>
-                            <li className="flex items-center gap-1"><Check className="h-3 w-3 text-green-500" /> Unlimited messaging</li>
-                            <li className="flex items-center gap-1"><Check className="h-3 w-3 text-green-500" /> See who likes you</li>
+                            <li className="flex items-center gap-1">
+                              <Check className="h-3 w-3 text-green-500" /> 7 days premium access
+                            </li>
+                            <li className="flex items-center gap-1">
+                              <Check className="h-3 w-3 text-green-500" /> Unlimited profile views
+                            </li>
+                            <li className="flex items-center gap-1">
+                              <Check className="h-3 w-3 text-green-500" /> Unlimited messaging
+                            </li>
+                            <li className="flex items-center gap-1">
+                              <Check className="h-3 w-3 text-green-500" /> See who likes you
+                            </li>
                           </>
                         ) : (
                           <>
-                            <li className="flex items-center gap-1"><Check className="h-3 w-3 text-green-500" /> 30 days premium access</li>
-                            <li className="flex items-center gap-1"><Check className="h-3 w-3 text-green-500" /> Unlimited profile views</li>
-                            <li className="flex items-center gap-1"><Check className="h-3 w-3 text-green-500" /> Unlimited messaging</li>
-                            <li className="flex items-center gap-1"><Check className="h-3 w-3 text-green-500" /> See who likes you</li>
-                            <li className="flex items-center gap-1"><Check className="h-3 w-3 text-green-500" /> Best value — save 30%</li>
+                            <li className="flex items-center gap-1">
+                              <Check className="h-3 w-3 text-green-500" /> 30 days premium access
+                            </li>
+                            <li className="flex items-center gap-1">
+                              <Check className="h-3 w-3 text-green-500" /> Unlimited profile views
+                            </li>
+                            <li className="flex items-center gap-1">
+                              <Check className="h-3 w-3 text-green-500" /> Unlimited messaging
+                            </li>
+                            <li className="flex items-center gap-1">
+                              <Check className="h-3 w-3 text-green-500" /> See who likes you
+                            </li>
+                            <li className="flex items-center gap-1">
+                              <Check className="h-3 w-3 text-green-500" /> Best value — save 30%
+                            </li>
                           </>
                         )}
                       </ul>
@@ -185,20 +227,7 @@ export function PaymentModal({
                 </div>
               )}
 
-              {mode === "daily_unlock" && (
-                <div className="rounded-xl border border-primary/20 bg-primary/5 p-4 space-y-2">
-                  <p className="font-semibold text-primary">What you get:</p>
-                  <ul className="space-y-1 text-sm">
-                    <li className="flex items-center gap-2"><Check className="h-4 w-4 text-green-500" /> Unlimited profile views for 24 hours</li>
-                    <li className="flex items-center gap-2"><Check className="h-4 w-4 text-green-500" /> Unlimited messages for 24 hours</li>
-                    <li className="flex items-center gap-2"><Check className="h-4 w-4 text-green-500" /> Access starts immediately after payment</li>
-                  </ul>
-                  <p className="text-2xl font-bold text-primary mt-2">
-                    KES 10 <span className="text-sm font-normal text-muted-foreground">/ 24 hours</span>
-                  </p>
-                </div>
-              )}
-
+              {/* Phone number input */}
               <div className="space-y-2">
                 <label className="text-sm font-medium">M-Pesa Phone Number</label>
                 <Input
@@ -208,9 +237,23 @@ export function PaymentModal({
                   disabled={isSubmitting}
                 />
               </div>
-              <Button className="w-full" onClick={handlePay} disabled={isSubmitting || !phoneNumber}>
+
+              {/* Confirm payment button */}
+              <Button
+                className="w-full"
+                onClick={handlePay}
+                disabled={isSubmitting || !phoneNumber}
+              >
                 {isSubmitting ? <Loader2 className="mr-2 h-4 w-4 animate-spin" /> : null}
-                Pay KES {amount}
+                Confirm Payment — KES {amount}
+              </Button>
+              <Button
+                variant="ghost"
+                className="w-full"
+                onClick={onClose}
+                disabled={isSubmitting}
+              >
+                Cancel
               </Button>
             </>
           ) : (
@@ -219,16 +262,16 @@ export function PaymentModal({
                 <>
                   <Loader2 className="h-12 w-12 animate-spin text-primary" />
                   <p className="text-center font-medium">Processing payment...</p>
-                  <p className="text-xs text-muted-foreground">Please check your phone for the M-Pesa prompt.</p>
+                  <p className="text-xs text-muted-foreground">
+                    Please check your phone for the M-Pesa prompt.
+                  </p>
                 </>
               )}
               {paymentStatus === "completed" && (
                 <>
                   <CheckCircle2 className="h-12 w-12 text-green-500" />
-                  <p className="text-center font-medium">
-                    {mode === "daily_unlock"
-                      ? "You now have unlimited access for 24 hours!"
-                      : "Subscription activated successfully!"}
+                  <p className="text-center font-medium text-green-700">
+                    Payment Successful! You now have full access to all premium features.
                   </p>
                 </>
               )}
@@ -237,9 +280,11 @@ export function PaymentModal({
                   <XCircle className="h-12 w-12 text-red-500" />
                   <p className="text-center font-medium">Payment Failed</p>
                   <p className="text-xs text-muted-foreground text-center">
-                    The payment was not completed. Please try again.
+                    The payment was not completed. Please check your details and try again.
                   </p>
-                  <Button variant="outline" onClick={() => setPaymentStatus("idle")}>Try Again</Button>
+                  <Button variant="outline" onClick={() => setPaymentStatus("idle")}>
+                    Try Again
+                  </Button>
                 </>
               )}
             </div>

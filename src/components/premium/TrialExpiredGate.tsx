@@ -3,7 +3,7 @@ import { api } from "../../../convex/_generated/api";
 import { useAuth } from "@/contexts/AuthContext";
 import { useNavigate } from "react-router-dom";
 import { Button } from "@/components/ui/button";
-import { Lock, Sparkles, Zap } from "lucide-react";
+import { Lock, Sparkles } from "lucide-react";
 
 interface TrialExpiredGateProps {
   children: React.ReactNode;
@@ -13,8 +13,7 @@ interface TrialExpiredGateProps {
 /**
  * Wraps a feature and shows a paywall overlay when:
  * - The user is not premium AND
- * - The free trial has expired AND
- * - No daily unlock is active
+ * - The free trial has expired
  */
 export function TrialExpiredGate({ children, feature = "this feature" }: TrialExpiredGateProps) {
   const { user } = useAuth();
@@ -31,7 +30,7 @@ export function TrialExpiredGate({ children, feature = "this feature" }: TrialEx
     userId ? { userId } : "skip"
   );
 
-  // Allow access if premium or has full access
+  // Allow access if premium or has full access (active trial or legacy daily unlock)
   if (!status || isPremium || status.hasFullAccess) {
     return <>{children}</>;
   }
@@ -56,7 +55,7 @@ export function TrialExpiredGate({ children, feature = "this feature" }: TrialEx
         </div>
         <h3 className="text-xl font-bold mb-2">Your Free Trial Has Ended</h3>
         <p className="text-muted-foreground text-sm mb-6 max-w-xs">
-          Upgrade to Premium or pay KES 10 for 24-hour access to continue using {feature}.
+          Upgrade to a Premium plan to continue using {feature} with unlimited access.
         </p>
         <div className="flex flex-col sm:flex-row gap-3 w-full max-w-xs">
           <Button
@@ -64,15 +63,15 @@ export function TrialExpiredGate({ children, feature = "this feature" }: TrialEx
             onClick={() => navigate("/subscription")}
           >
             <Sparkles className="w-4 h-4 mr-2" />
-            Upgrade — KES 100/wk
+            Weekly — KES 100
           </Button>
           <Button
             variant="outline"
             className="flex-1"
-            onClick={() => navigate("/subscription?daily=1")}
+            onClick={() => navigate("/subscription")}
           >
-            <Zap className="w-4 h-4 mr-2" />
-            KES 10 / Day
+            <Sparkles className="w-4 h-4 mr-2" />
+            Monthly — KES 350
           </Button>
         </div>
       </div>

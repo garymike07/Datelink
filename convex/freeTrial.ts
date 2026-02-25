@@ -108,7 +108,7 @@ export const getFreeTrialStatus = query({
       trialHoursRemaining: trialActive
         ? Math.ceil((user.freeTrialEndsAt! - now) / (60 * 60 * 1000))
         : 0,
-      // Daily unlock
+      // Daily unlock (legacy — kept for backwards compatibility)
       dailyUnlockActive,
       dailyUnlockEndsAt: user.dailyUnlockEndsAt,
       dailyUnlockHoursRemaining: dailyUnlockActive
@@ -134,14 +134,14 @@ export const notifyTrialEnding = mutation({
         userId: args.userId,
         type: "trial_ending",
         title: `Trial Ending in ${hoursLeft} Hour${hoursLeft > 1 ? "s" : ""}!`,
-        body: "Upgrade now to keep unlimited access. Or pay KES 10 for another 24 hours.",
+        body: "Upgrade now to keep unlimited access.",
         priority: "high",
         category: "system",
         icon: "warning",
         link: "/subscription",
         actionButtons: [
           { label: "Upgrade — KES 100/week", action: "navigate", link: "/subscription" },
-          { label: "Daily Unlock — KES 10", action: "navigate", link: "/subscription" },
+          { label: "Upgrade — KES 350/month", action: "navigate", link: "/subscription" },
         ],
       });
     }
@@ -165,7 +165,6 @@ export const checkAndNotifyTrialStatus = mutation({
 
     // Trial already expired
     if (hoursLeft <= 0) {
-      // Check if we already sent trial_expired notification
       const existing = await ctx.db
         .query("notifications")
         .withIndex("groupKey", (q) =>
@@ -177,14 +176,14 @@ export const checkAndNotifyTrialStatus = mutation({
           userId: args.userId,
           type: "trial_expired",
           title: "Your Free Trial Has Ended",
-          body: "Your 2-day free trial has expired. Upgrade to Premium (KES 100/week) or pay KES 10 for 24-hour access to continue.",
+          body: "Your 2-day free trial has expired. Upgrade to Premium to continue with unlimited access.",
           priority: "high",
           category: "system",
           icon: "🔒",
           link: "/subscription",
           actionButtons: [
-            { label: "Upgrade — KES 100/week", action: "navigate", link: "/subscription" },
-            { label: "Daily Unlock — KES 10", action: "navigate", link: "/subscription?daily=1" },
+            { label: "Weekly Plan — KES 100", action: "navigate", link: "/subscription" },
+            { label: "Monthly Plan — KES 350", action: "navigate", link: "/subscription" },
           ],
         });
         // Mark as sent using groupKey
@@ -218,8 +217,8 @@ export const checkAndNotifyTrialStatus = mutation({
           icon: "⏰",
           link: "/subscription",
           actionButtons: [
-            { label: "Upgrade — KES 100/week", action: "navigate", link: "/subscription" },
-            { label: "Daily Unlock — KES 10", action: "navigate", link: "/subscription?daily=1" },
+            { label: "Weekly Plan — KES 100", action: "navigate", link: "/subscription" },
+            { label: "Monthly Plan — KES 350", action: "navigate", link: "/subscription" },
           ],
         });
         await ctx.db.patch(
@@ -246,14 +245,14 @@ export const checkAndNotifyTrialStatus = mutation({
           userId: args.userId,
           type: "trial_ending",
           title: "Free Trial Ending in 6 Hours!",
-          body: "Only 6 hours left on your free trial. Upgrade now or pay KES 10 for another 24 hours of full access.",
+          body: "Only 6 hours left on your free trial. Upgrade now to avoid losing access.",
           priority: "high",
           category: "system",
           icon: "⚠️",
           link: "/subscription",
           actionButtons: [
-            { label: "Upgrade — KES 100/week", action: "navigate", link: "/subscription" },
-            { label: "Daily Unlock — KES 10", action: "navigate", link: "/subscription?daily=1" },
+            { label: "Weekly Plan — KES 100", action: "navigate", link: "/subscription" },
+            { label: "Monthly Plan — KES 350", action: "navigate", link: "/subscription" },
           ],
         });
         await ctx.db.patch(
@@ -286,8 +285,8 @@ export const checkAndNotifyTrialStatus = mutation({
           icon: "🚨",
           link: "/subscription",
           actionButtons: [
-            { label: "Upgrade Now — KES 100/week", action: "navigate", link: "/subscription" },
-            { label: "KES 10 for 24h", action: "navigate", link: "/subscription?daily=1" },
+            { label: "Weekly Plan — KES 100", action: "navigate", link: "/subscription" },
+            { label: "Monthly Plan — KES 350", action: "navigate", link: "/subscription" },
           ],
         });
         await ctx.db.patch(
@@ -306,7 +305,8 @@ export const checkAndNotifyTrialStatus = mutation({
 });
 
 /**
- * Notify when daily unlock expires
+ * Notify when daily unlock expires (legacy — kept for backwards compatibility with existing users
+ * who may have purchased a daily unlock before this feature was removed).
  */
 export const notifyDailyUnlockExpired = mutation({
   args: { userId: v.id("users") },
@@ -316,9 +316,8 @@ export const notifyDailyUnlockExpired = mutation({
 
     const now = Date.now();
     if (user.dailyUnlockEndsAt <= now) {
-      // Check if we already sent this notification today
       const today = new Date(now);
-      const dayKey = `${today.getUTCFullYear()}-${String(today.getUTCMonth() + 1).padStart(2, '0')}-${String(today.getUTCDate()).padStart(2, '0')}`;
+      const dayKey = `${today.getUTCFullYear()}-${String(today.getUTCMonth() + 1).padStart(2, "0")}-${String(today.getUTCDate()).padStart(2, "0")}`;
       const groupKey = `daily_unlock_expired_${dayKey}`;
 
       const existing = await ctx.db
@@ -333,14 +332,14 @@ export const notifyDailyUnlockExpired = mutation({
           userId: args.userId,
           type: "daily_unlock_expired",
           title: "Your 24-Hour Access Has Expired",
-          body: "Your daily unlock has expired. Purchase another KES 10 unlock or upgrade to a subscription plan.",
+          body: "Your temporary access has expired. Upgrade to a Weekly or Monthly plan for continued premium access.",
           priority: "high",
           category: "system",
           icon: "🔒",
           link: "/subscription",
           actionButtons: [
-            { label: "Unlock Again — KES 10", action: "navigate", link: "/subscription?daily=1" },
-            { label: "Upgrade — KES 100/week", action: "navigate", link: "/subscription" },
+            { label: "Weekly Plan — KES 100", action: "navigate", link: "/subscription" },
+            { label: "Monthly Plan — KES 350", action: "navigate", link: "/subscription" },
           ],
         });
         await ctx.db.patch(

@@ -138,7 +138,7 @@ const Terms = () => {
                             </p>
                             <ul className="list-disc pl-5 space-y-2 text-sm sm:text-base text-gray-700 dark:text-gray-300">
                                 <li><strong>Free Access:</strong> Create profile, browse limited matches, send limited likes</li>
-                                <li><strong>Premium Tiers:</strong> KES 10/day, KES 100/week, or KES 350/month. Includes unlimited likes, advanced filters, see who liked you, profile unlocks, and ad-free experience</li>
+                                <li><strong>Premium Tiers:</strong> KES 100/week or KES 350/month. Includes unlimited likes, advanced filters, see who liked you, profile unlocks, and ad-free experience</li>
                                 <li><strong>Payment Method:</strong> Payments processed via M-Pesa (Safaricom). We do not store your M-Pesa PIN</li>
                                 <li><strong>Auto-Renewal:</strong> Subscriptions auto-renew unless cancelled 24 hours before period ends</li>
                                 <li><strong>Pricing:</strong> All prices in Kenyan Shillings (KES). Subject to change with 30 days notice</li>

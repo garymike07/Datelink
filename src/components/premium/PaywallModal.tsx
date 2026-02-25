@@ -21,7 +21,7 @@ const featureConfig = {
       "5 Super Likes per day with Premium",
     ],
     gradient: "from-blue-500 to-purple-600",
-    price: "KES 10/day • KES 100/week • KES 350/month",
+    price: "KES 100/week • KES 350/month",
   },
   rewind: {
     icon: RotateCcw,
@@ -33,7 +33,7 @@ const featureConfig = {
       "Go back up to 5 minutes",
     ],
     gradient: "from-yellow-500 to-orange-600",
-    price: "KES 10/day • KES 100/week • KES 350/month",
+    price: "KES 100/week • KES 350/month",
   },
   likes: {
     icon: Heart,
@@ -45,7 +45,7 @@ const featureConfig = {
       "Sort by distance, recent, or match score",
     ],
     gradient: "from-purple-600 to-emerald-500",
-    price: "KES 10/day • KES 100/week • KES 350/month",
+    price: "KES 100/week • KES 350/month",
   },
   boost: {
     icon: Zap,
@@ -57,7 +57,7 @@ const featureConfig = {
       "1 free boost per month with Premium",
     ],
     gradient: "from-purple-600 to-emerald-500",
-    price: "KES 10/day • KES 100/week • KES 350/month",
+    price: "KES 100/week • KES 350/month",
   },
   filters: {
     icon: Sliders,
@@ -69,7 +69,7 @@ const featureConfig = {
       "Filter by height, languages, and more",
     ],
     gradient: "from-green-500 to-teal-600",
-    price: "KES 10/day • KES 100/week • KES 350/month",
+    price: "KES 100/week • KES 350/month",
   },
 };
 
@@ -80,7 +80,7 @@ export function PaywallModal({ feature, isOpen, onClose }: PaywallModalProps) {
 
   const handleUpgrade = () => {
     onClose();
-    navigate("/upgrade");
+    navigate("/subscription");
   };
 
   return (
@@ -144,7 +144,7 @@ export function PaywallModal({ feature, isOpen, onClose }: PaywallModalProps) {
               {config.price} • Pay via M-Pesa
             </p>
             <p className="text-xs text-muted-foreground text-center mt-1">
-              Simple pricing: KES 10/day, KES 100/week, or KES 350/month
+              Weekly Plan: KES 100/week &nbsp;|&nbsp; Monthly Plan: KES 350/month
             </p>
           </div>
 
