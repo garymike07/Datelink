@@ -2,7 +2,8 @@ import { motion } from "framer-motion";
 import { Heart, Sparkles, Shield, Users, ArrowRight, BadgeCheck } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
-import heroImage from "@/assets/hero-couple-kenyan.png";
+// Reliable high-quality hero image for Kenyan dating context
+const heroImage = "https://images.unsplash.com/photo-1511632765486-a01980e01a18?q=80&w=2070&auto=format&fit=crop";
 
 const HeroSimple = () => {
   return (
@@ -11,7 +12,7 @@ const HeroSimple = () => {
       <div className="absolute inset-0 z-0">
         <img
           src={heroImage}
-          alt="Happy Kenyan Couple"
+          alt="Happy Couple Connecting"
           className="w-full h-full object-cover object-center"
         />
         <div className="absolute inset-0 bg-black/40 backdrop-blur-[2px]" />

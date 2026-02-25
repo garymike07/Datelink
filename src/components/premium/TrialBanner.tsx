@@ -94,6 +94,7 @@ export function TrialBanner() {
 
   // Trial expired — show upgrade CTA with daily usage stats
   if (status.trialUsed) {
+    // Safely extract stats with fallbacks to avoid crashes if dailyUsage is loading or null
     const msgRemaining = dailyUsage?.messagesRemaining ?? 0;
     const viewsRemaining = dailyUsage?.profileViewsRemaining ?? 0;
     const msgLimit = dailyUsage?.dailyMessageLimit ?? 20;
