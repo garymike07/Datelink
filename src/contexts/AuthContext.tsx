@@ -100,6 +100,7 @@ export const AuthProvider: React.FC<{ children: ReactNode }> = ({ children }) =>
 
   const logout = async () => {
     try {
+      const userId = user?._id;
       if (userId) {
         await updateLastSeen({ userId });
         await updatePresence({ userId, status: "offline" } as any);
