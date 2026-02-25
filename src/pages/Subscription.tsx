@@ -28,6 +28,17 @@ export default function Subscription() {
       </div>
     );
   }
+
+  // If not logged in, show a simple message or redirect (though usually handled by higher-level route)
+  if (!userId) {
+    return (
+      <div className="flex flex-col items-center justify-center min-h-[60vh] space-y-4">
+        <AlertCircle className="h-12 w-12 text-muted-foreground opacity-20" />
+        <p className="text-muted-foreground">Please log in to view your subscription.</p>
+      </div>
+    );
+  }
+
   const [payMode, setPayMode] = useState<"subscription" | "daily_unlock">("subscription");
   const [defaultDuration, setDefaultDuration] = useState<"1_week" | "1_month">("1_week");
   const isActive = subscription?.status === "active";
@@ -64,10 +75,14 @@ export default function Subscription() {
   };
 
   useEffect(() => {
-    if (!userId || !payments) return;
+    if (!userId || !payments || !Array.isArray(payments)) return;
     const interval = setInterval(() => {
-      const pending = (payments as any[]).filter(p => p.status === "pending" || p.status === "processing");
-      pending.forEach(p => refreshPaymentStatus({ paymentId: p._id, userId: userId as any }).catch(console.error));
+      const pending = payments.filter(p => p && (p.status === "pending" || p.status === "processing"));
+      pending.forEach(p => {
+        if (p?._id) {
+          refreshPaymentStatus({ paymentId: p._id, userId: userId as any }).catch(console.error);
+        }
+      });
     }, 5000);
     return () => clearInterval(interval);
   }, [userId, payments, refreshPaymentStatus]);
@@ -256,14 +271,16 @@ export default function Subscription() {
                 <tbody className="divide-y">
                   {(payments as any[]).map((payment: any) => (
                     <tr key={payment._id} className="hover:bg-muted/50 transition-colors">
-                      <td className="py-3 px-2 whitespace-nowrap">{format(payment.createdAt, "MMM dd, yyyy HH:mm")}</td>
+                      <td className="py-3 px-2 whitespace-nowrap">
+                        {payment.createdAt ? format(payment.createdAt, "MMM dd, yyyy HH:mm") : "N/A"}
+                      </td>
                       <td className="py-3 px-2">{getProductLabel(payment)}</td>
-                      <td className="py-3 px-2 font-medium">{payment.currency} {payment.amount}</td>
+                      <td className="py-3 px-2 font-medium">{payment.currency ?? "KES"} {payment.amount ?? 0}</td>
                       <td className="py-3 px-2">
                         <div className="flex items-center gap-2">
                           {getStatusIcon(payment.status)}
                           <span className={`capitalize font-medium ${payment.status === "completed" ? "text-green-600" : payment.status === "failed" ? "text-red-600" : "text-yellow-600"}`}>
-                            {payment.status === "completed" ? "✅ Successful" : payment.status === "failed" ? "❌ Failed" : payment.status}
+                            {payment.status === "completed" ? "✅ Successful" : payment.status === "failed" ? "❌ Failed" : (payment.status || "Pending")}
                           </span>
                         </div>
                       </td>
