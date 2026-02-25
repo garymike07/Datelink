@@ -19,6 +19,7 @@ import { motion } from "framer-motion";
 import { useAuth } from "@/contexts/AuthContext";
 import { UpgradePromptBanner } from "@/components/premium/UpgradePromptBanner";
 import { PaymentModal } from "@/components/premium/PaymentModal";
+import { TrialBanner } from "@/components/premium/TrialBanner";
 
 const Discover = () => {
     const navigate = useNavigate();
@@ -237,6 +238,7 @@ const Discover = () => {
             <div className="glass-panel rounded-3xl p-4 sm:p-5 md:p-6 shadow-glass-sm w-full">
                 {userId && (
                     <div className="w-full px-2 sm:px-3 md:px-4 pt-1 sm:pt-2">
+                        <TrialBanner />
                         <UpgradePromptBanner userId={userId} />
                     </div>
                 )}

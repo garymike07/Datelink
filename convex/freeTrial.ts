@@ -1,1 +1,150 @@
-{"data":"aW1wb3J0IHsgdiB9IGZyb20gImNvbnZleC92YWx1ZXMiOwppbXBvcnQgeyBtdXRhdGlvbiwgcXVlcnkgfSBmcm9tICIuL19nZW5lcmF0ZWQvc2VydmVyIjsKCi8qKgogKiBBY3RpdmF0ZSAyLWRheSBmcmVlIHRyaWFsIGZvciBuZXcgdXNlcgogKi8KZXhwb3J0IGNvbnN0IGFjdGl2YXRlRnJlZVRyaWFsID0gbXV0YXRpb24oewogIGFyZ3M6IHsgdXNlcklkOiB2LmlkKCJ1c2VycyIpIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3QgdXNlciA9IGF3YWl0IGN0eC5kYi5nZXQoYXJncy51c2VySWQpOwogICAgaWYgKCF1c2VyKSB0aHJvdyBuZXcgRXJyb3IoIlVzZXIgbm90IGZvdW5kIik7CgogICAgLy8gQ2hlY2sgaWYgdHJpYWwgYWxyZWFkeSB1c2VkCiAgICBpZiAodXNlci5mcmVlVHJpYWxVc2VkKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcigiRnJlZSB0cmlhbCBhbHJlYWR5IHVzZWQiKTsKICAgIH0KCiAgICBjb25zdCBub3cgPSBEYXRlLm5vdygpOwogICAgY29uc3QgdHJpYWxFbmQgPSBub3cgKyAoNDggKiA2MCAqIDYwICogMTAwMCk7IC8vIDQ4IGhvdXJzCgogICAgLy8gVXBkYXRlIHVzZXIgd2l0aCB0cmlhbCBpbmZvCiAgICBhd2FpdCBjdHguZGIucGF0Y2goYXJncy51c2VySWQsIHsKICAgICAgZnJlZVRyaWFsU3RhcnRlZEF0OiBub3csCiAgICAgIGZyZWVUcmlhbEVuZHNBdDogdHJpYWxFbmQsCiAgICAgIGZyZWVUcmlhbFVzZWQ6IHRydWUsCiAgICB9KTsKCiAgICByZXR1cm4gewogICAgICB0cmlhbFN0YXJ0ZWQ6IG5vdywKICAgICAgdHJpYWxFbmRzOiB0cmlhbEVuZCwKICAgICAgbWVzc2FnZTogIkVuam95IHlvdXIgMi1kYXkgZnJlZSB0cmlhbCEgWW91IGNhbiB1bmxvY2sgdXAgdG8gNSBwcm9maWxlcy4iLAogICAgfTsKICB9LAp9KTsKCi8qKgogKiBDaGVjayBpZiB1c2VyIGlzIGluIGZyZWUgdHJpYWwgcGVyaW9kCiAqLwpleHBvcnQgY29uc3QgaXNJbkZyZWVUcmlhbCA9IHF1ZXJ5KHsKICBhcmdzOiB7IHVzZXJJZDogdi5pZCgidXNlcnMiKSB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGNvbnN0IHVzZXIgPSBhd2FpdCBjdHguZGIuZ2V0KGFyZ3MudXNlcklkKTsKICAgIGlmICghdXNlcikgcmV0dXJuIGZhbHNlOwoKICAgIGNvbnN0IG5vdyA9IERhdGUubm93KCk7CiAgICAKICAgIGlmICgKICAgICAgdXNlci5mcmVlVHJpYWxTdGFydGVkQXQgJiYKICAgICAgdXNlci5mcmVlVHJpYWxFbmRzQXQgJiYKICAgICAgdXNlci5mcmVlVHJpYWxFbmRzQXQgPiBub3cKICAgICkgewogICAgICByZXR1cm4gewogICAgICAgIGlzQWN0aXZlOiB0cnVlLAogICAgICAgIGVuZHNBdDogdXNlci5mcmVlVHJpYWxFbmRzQXQsCiAgICAgICAgaG91cnNSZW1haW5pbmc6IE1hdGguY2VpbCgodXNlci5mcmVlVHJpYWxFbmRzQXQgLSBub3cpIC8gKDYwICogNjAgKiAxMDAwKSksCiAgICAgIH07CiAgICB9CgogICAgcmV0dXJuIHsgaXNBY3RpdmU6IGZhbHNlIH07CiAgfSwKfSk7CgovKioKICogR2V0IGZyZWUgdHJpYWwgc3RhdHVzIHdpdGggdW5sb2NrIGNvdW50CiAqLwpleHBvcnQgY29uc3QgZ2V0RnJlZVRyaWFsU3RhdHVzID0gcXVlcnkoewogIGFyZ3M6IHsgdXNlcklkOiB2LmlkKCJ1c2VycyIpIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3QgdXNlciA9IGF3YWl0IGN0eC5kYi5nZXQoYXJncy51c2VySWQpOwogICAgaWYgKCF1c2VyKSB0aHJvdyBuZXcgRXJyb3IoIlVzZXIgbm90IGZvdW5kIik7CgogICAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKTsKICAgIGNvbnN0IGlzQWN0aXZlID0KICAgICAgdXNlci5mcmVlVHJpYWxTdGFydGVkQXQgJiYKICAgICAgdXNlci5mcmVlVHJpYWxFbmRzQXQgJiYKICAgICAgdXNlci5mcmVlVHJpYWxFbmRzQXQgPiBub3c7CgogICAgLy8gQ291bnQgcHJvZmlsZSB1bmxvY2tzIGR1cmluZyB0cmlhbAogICAgY29uc3QgdW5sb2NrcyA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoInByb2ZpbGVVbmxvY2tzIikKICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIGFyZ3MudXNlcklkKSkKICAgICAgLmNvbGxlY3QoKTsKCiAgICBjb25zdCBmcmVlVHJpYWxVbmxvY2tzID0gdW5sb2Nrcy5maWx0ZXIoCiAgICAgICh1KSA9PiB1LnVubG9ja01ldGhvZCA9PT0gImZyZWVfdHJpYWwiCiAgICApLmxlbmd0aDsKCiAgICByZXR1cm4gewogICAgICB0cmlhbEFjdGl2ZTogaXNBY3RpdmUsCiAgICAgIHRyaWFsU3RhcnRlZDogdXNlci5mcmVlVHJpYWxTdGFydGVkQXQsCiAgICAgIHRyaWFsRW5kczogdXNlci5mcmVlVHJpYWxFbmRzQXQsCiAgICAgIHRyaWFsVXNlZDogdXNlci5mcmVlVHJpYWxVc2VkIHx8IGZhbHNlLAogICAgICBwcm9maWxlVW5sb2Nrc1VzZWQ6IGZyZWVUcmlhbFVubG9ja3MsCiAgICAgIHByb2ZpbGVVbmxvY2tzUmVtYWluaW5nOiBNYXRoLm1heCgwLCA1IC0gZnJlZVRyaWFsVW5sb2NrcyksCiAgICAgIGNhblVubG9ja01vcmU6IGlzQWN0aXZlICYmIGZyZWVUcmlhbFVubG9ja3MgPCA1LAogICAgfTsKICB9LAp9KTsK"}
+import { v } from "convex/values";
+import { mutation, query } from "./_generated/server";
+import { insertNotification } from "./notifications";
+
+/**
+ * Activate 2-day free trial for new user.
+ * Called automatically at the end of onboarding.
+ */
+export const activateFreeTrial = mutation({
+  args: { userId: v.id("users") },
+  handler: async (ctx, args) => {
+    const user = await ctx.db.get(args.userId);
+    if (!user) throw new Error("User not found");
+
+    // Idempotent: if trial already used, return existing data
+    if (user.freeTrialUsed) {
+      return {
+        trialStarted: user.freeTrialStartedAt ?? Date.now(),
+        trialEnds: user.freeTrialEndsAt ?? Date.now(),
+        message: "Your 2-day free trial is already active.",
+        alreadyUsed: true,
+      };
+    }
+
+    const now = Date.now();
+    const trialEnd = now + 48 * 60 * 60 * 1000; // 48 hours
+
+    // Update user with trial info
+    await ctx.db.patch(args.userId, {
+      freeTrialStartedAt: now,
+      freeTrialEndsAt: trialEnd,
+      freeTrialUsed: true,
+    });
+
+    // Send welcome notification
+    await insertNotification(ctx, {
+      userId: args.userId,
+      type: "subscription_active",
+      title: "Your 2-Day Free Trial Has Started!",
+      body: "Enjoy unlimited profile views and messaging for the next 48 hours. Upgrade before it ends to keep full access!",
+      priority: "high",
+      category: "system",
+      icon: "gift",
+      link: "/subscription",
+      actionButtons: [
+        { label: "Explore Now", action: "navigate", link: "/discover" },
+        { label: "View Plans", action: "navigate", link: "/subscription" },
+      ],
+    });
+
+    return {
+      trialStarted: now,
+      trialEnds: trialEnd,
+      message: "Your 2-day free trial is now active! Enjoy unlimited access for 48 hours.",
+      alreadyUsed: false,
+    };
+  },
+});
+
+/**
+ * Check if user is in free trial period
+ */
+export const isInFreeTrial = query({
+  args: { userId: v.id("users") },
+  handler: async (ctx, args) => {
+    const user = await ctx.db.get(args.userId);
+    if (!user) return { isActive: false };
+    const now = Date.now();
+
+    if (
+      user.freeTrialStartedAt &&
+      user.freeTrialEndsAt &&
+      user.freeTrialEndsAt > now
+    ) {
+      return {
+        isActive: true,
+        endsAt: user.freeTrialEndsAt,
+        hoursRemaining: Math.ceil((user.freeTrialEndsAt - now) / (60 * 60 * 1000)),
+      };
+    }
+    return { isActive: false };
+  },
+});
+
+/**
+ * Get full trial + daily unlock status for the current user
+ */
+export const getFreeTrialStatus = query({
+  args: { userId: v.id("users") },
+  handler: async (ctx, args) => {
+    const user = await ctx.db.get(args.userId);
+    if (!user) throw new Error("User not found");
+    const now = Date.now();
+
+    const trialActive =
+      !!user.freeTrialStartedAt &&
+      !!user.freeTrialEndsAt &&
+      user.freeTrialEndsAt > now;
+
+    const dailyUnlockActive =
+      !!user.dailyUnlockEndsAt && user.dailyUnlockEndsAt > now;
+
+    return {
+      trialActive,
+      trialStarted: user.freeTrialStartedAt,
+      trialEnds: user.freeTrialEndsAt,
+      trialUsed: user.freeTrialUsed || false,
+      trialHoursRemaining: trialActive
+        ? Math.ceil((user.freeTrialEndsAt! - now) / (60 * 60 * 1000))
+        : 0,
+      // Daily unlock
+      dailyUnlockActive,
+      dailyUnlockEndsAt: user.dailyUnlockEndsAt,
+      dailyUnlockHoursRemaining: dailyUnlockActive
+        ? Math.ceil((user.dailyUnlockEndsAt! - now) / (60 * 60 * 1000))
+        : 0,
+      // Has any form of full access
+      hasFullAccess: trialActive || dailyUnlockActive,
+    };
+  },
+});
+
+/**
+ * Notify when trial is ending (called when < 6 hours remain)
+ */
+export const notifyTrialEnding = mutation({
+  args: { userId: v.id("users") },
+  handler: async (ctx, args) => {
+    const user = await ctx.db.get(args.userId);
+    if (!user?.freeTrialEndsAt) return null;
+    const hoursLeft = Math.ceil((user.freeTrialEndsAt - Date.now()) / (60 * 60 * 1000));
+    if (hoursLeft <= 6 && hoursLeft > 0) {
+      return await insertNotification(ctx, {
+        userId: args.userId,
+        type: "trial_ending",
+        title: `Trial Ending in ${hoursLeft} Hour${hoursLeft > 1 ? "s" : ""}!`,
+        body: "Upgrade now to keep unlimited access. Or pay KES 10 for another 24 hours.",
+        priority: "high",
+        category: "system",
+        icon: "warning",
+        link: "/subscription",
+        actionButtons: [
+          { label: "Upgrade — KES 100/week", action: "navigate", link: "/subscription" },
+          { label: "Daily Unlock — KES 10", action: "navigate", link: "/subscription" },
+        ],
+      });
+    }
+    return null;
+  },
+});

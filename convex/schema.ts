@@ -24,6 +24,8 @@ import { v } from "convex/values";
     freeTrialStartedAt: v.optional(v.number()),
     freeTrialEndsAt: v.optional(v.number()),
     freeTrialUsed: v.optional(v.boolean()),
+    // Daily Unlock (KES 10 for 24h full access after trial expires)
+    dailyUnlockEndsAt: v.optional(v.number()),
     createdAt: v.number(),
     updatedAt: v.number(),
   }).index("email", ["email"]),

@@ -73,6 +73,7 @@ export const initiatePayment = action({
         if (d === "1_month") return 350;
         throw new Error("Invalid subscription duration. Only weekly or monthly is allowed.");
       }
+      if (args.productType === "daily_unlock") return 10;
       if (args.productType.includes("unlock")) return 10;
       return args.amount;
     })();
@@ -156,6 +157,12 @@ async function finalizePaymentCore(
 
   let subscriptionId: any = null;
 
+  // Handle daily unlock (KES 10 for 24h full access)
+  if (payment.productType === "daily_unlock") {
+    const dailyUnlockEndsAt = now + 24 * 60 * 60 * 1000; // 24 hours
+    await ctx.db.patch(args.userId, { dailyUnlockEndsAt });
+  }
+
   if (payment.productType === "subscription") {
     const plan = (payment.metadata as any)?.plan ?? "premium";
     const planDuration = (payment.metadata as any)?.planDuration ?? "1_month";
@@ -218,9 +225,11 @@ async function finalizePaymentCore(
     body:
       payment.productType === "subscription"
         ? "Your subscription is now active. Enjoy your premium features!"
-        : payment.productType.includes("unlock")
-            ? "Item unlocked! You can now access it."
-            : "Your purchase was successful!",
+        : payment.productType === "daily_unlock"
+            ? "Daily access activated! You have full access for the next 24 hours."
+            : payment.productType.includes("unlock")
+                ? "Item unlocked! You can now access it."
+                : "Your purchase was successful!",
     priority: "high",
     category: "payment",
     icon: "✅",
@@ -339,5 +348,23 @@ export const getMyPayments = query({
     });
 
     return filtered.slice(0, limit);
+  },
+});
+
+/**
+ * Get billing history — all completed payments, no filtering of failed ones.
+ * Used by the Subscription page billing history table.
+ */
+export const getMyBillingHistory = query({
+  args: { userId: v.id("users"), limit: v.optional(v.number()) },
+  handler: async (ctx, args) => {
+    const limit = Math.min(Math.max(args.limit ?? 50, 1), 200);
+    const rows = await ctx.db
+      .query("payments")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .order("desc")
+      .take(limit);
+    // Return all non-pending payments for billing history
+    return rows.filter((p) => p.status === "completed" || p.status === "failed" || p.status === "refunded");
   },
 });

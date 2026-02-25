@@ -1,1 +1,705 @@
-{"data":"aW1wb3J0IHsgbXV0YXRpb24sIHF1ZXJ5IH0gZnJvbSAiLi9fZ2VuZXJhdGVkL3NlcnZlciI7CmltcG9ydCB7IHYgfSBmcm9tICJjb252ZXgvdmFsdWVzIjsKaW1wb3J0IHsgSWQgfSBmcm9tICIuL19nZW5lcmF0ZWQvZGF0YU1vZGVsIjsKaW1wb3J0IHsgaXNVc2VyUHJlbWl1bSB9IGZyb20gIi4vc3Vic2NyaXB0aW9ucyI7CmltcG9ydCB7IGluc2VydE5vdGlmaWNhdGlvbiB9IGZyb20gIi4vbm90aWZpY2F0aW9ucyI7CgovLyBSZXNvbHZlIGFuIGV4aXN0aW5nIGNvbnZlcnNhdGlvbiAobWF0Y2ggdGhyZWFkKSBiZXR3ZWVuIHR3byB1c2Vycy4KLy8gQ3JlYXRlcyBhIG1hdGNoIGlmIHVzZXIgaGFzIGxpa2VkIHRoZSBvdGhlciB1c2VyLCBhbGxvd2luZyBtZXNzYWdpbmcgZXZlbiB3aXRob3V0IG11dHVhbCBtYXRjaC4KZXhwb3J0IGNvbnN0IGVuc3VyZUNvbnZlcnNhdGlvbiA9IG11dGF0aW9uKHsKICBhcmdzOiB7CiAgICB1c2VySWQ6IHYuaWQoInVzZXJzIiksCiAgICBvdGhlclVzZXJJZDogdi5pZCgidXNlcnMiKSwKICB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIGlmIChhcmdzLnVzZXJJZCA9PT0gYXJncy5vdGhlclVzZXJJZCkgewogICAgICB0aHJvdyBuZXcgRXJyb3IoIkNhbm5vdCBvcGVuIGNvbnZlcnNhdGlvbiB3aXRoIHlvdXJzZWxmIik7CiAgICB9CgogICAgLy8gQ2hlY2sgZm9yIGV4aXN0aW5nIG1hdGNoCiAgICBjb25zdCBbdXNlcjEsIHVzZXIyXSA9IFthcmdzLnVzZXJJZCwgYXJncy5vdGhlclVzZXJJZF0uc29ydCgpOwogICAgCiAgICBjb25zdCBtYXRjaERpcmVjdCA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoIm1hdGNoZXMiKQogICAgICAud2l0aEluZGV4KCJ1c2VycyIsIChxKSA9PiBxLmVxKCJ1c2VyMUlkIiwgdXNlcjEpLmVxKCJ1c2VyMklkIiwgdXNlcjIpKQogICAgICAuZmlyc3QoKTsKCiAgICBpZiAobWF0Y2hEaXJlY3QpIHsKICAgICAgcmV0dXJuIHsgbWF0Y2hJZDogbWF0Y2hEaXJlY3QuX2lkIH07CiAgICB9CgogICAgLy8gTm8gZXhpc3RpbmcgbWF0Y2ggLSBjaGVjayBpZiB1c2VyIGhhcyBsaWtlZCB0aGUgb3RoZXIgdXNlcgogICAgY29uc3QgaGFzTGlrZWQgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJsaWtlcyIpCiAgICAgIC53aXRoSW5kZXgoInBhaXIiLCAocSkgPT4gcS5lcSgidXNlcklkIiwgYXJncy51c2VySWQpLmVxKCJsaWtlZFVzZXJJZCIsIGFyZ3Mub3RoZXJVc2VySWQpKQogICAgICAuZmlyc3QoKTsKCiAgICBpZiAoIWhhc0xpa2VkKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcigiWW91IGNhbiBvbmx5IG1lc3NhZ2UgdXNlcnMgeW91IGhhdmUgbGlrZWQiKTsKICAgIH0KCiAgICAvLyBVc2VyIGhhcyBsaWtlZCB0aGVtIC0gY3JlYXRlIGEgbWF0Y2ggdG8gZW5hYmxlIG1lc3NhZ2luZwogICAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKTsKICAgIGNvbnN0IG1hdGNoSWQgPSBhd2FpdCBjdHguZGIuaW5zZXJ0KCJtYXRjaGVzIiwgewogICAgICB1c2VyMUlkOiB1c2VyMSwKICAgICAgdXNlcjJJZDogdXNlcjIsCiAgICAgIG1hdGNoZWRBdDogbm93LAogICAgICB1c2VyMVVucmVhZDogMCwKICAgICAgdXNlcjJVbnJlYWQ6IDAsCiAgICB9KTsKCiAgICByZXR1cm4geyBtYXRjaElkIH07CiAgfSwKfSk7CgovLyBTZW5kIGEgbWVzc2FnZSAob25seSBpZiBtYXRjaGVkKQpleHBvcnQgY29uc3Qgc2VuZE1lc3NhZ2UgPSBtdXRhdGlvbih7CiAgYXJnczogewogICAgbWF0Y2hJZDogdi5pZCgibWF0Y2hlcyIpLAogICAgc2VuZGVySWQ6IHYuaWQoInVzZXJzIiksCiAgICBib2R5OiB2LnN0cmluZygpLAogICAgdHlwZTogdi5vcHRpb25hbCh2LnVuaW9uKHYubGl0ZXJhbCgidGV4dCIpLCB2LmxpdGVyYWwoImdpZiIpLCB2LmxpdGVyYWwoInZvaWNlIiksIHYubGl0ZXJhbCgicGhvdG8iKSwgdi5saXRlcmFsKCJzeXN0ZW0iKSwgdi5saXRlcmFsKCJhdHRhY2htZW50IikpKSwKICAgIHJlcGx5VG9JZDogdi5vcHRpb25hbCh2LmlkKCJtZXNzYWdlcyIpKSwKICAgIG1ldGFkYXRhOiB2Lm9wdGlvbmFsKAogICAgICB2Lm9iamVjdCh7CiAgICAgICAgZ2lmVXJsOiB2Lm9wdGlvbmFsKHYuc3RyaW5nKCkpLAogICAgICAgIHZvaWNlVXJsOiB2Lm9wdGlvbmFsKHYuc3RyaW5nKCkpLAogICAgICAgIHZvaWNlRHVyYXRpb246IHYub3B0aW9uYWwodi5udW1iZXIoKSksCiAgICAgICAgcGhvdG9Vcmw6IHYub3B0aW9uYWwodi5zdHJpbmcoKSksCiAgICAgICAgYXR0YWNobWVudElkOiB2Lm9wdGlvbmFsKHYuaWQoIl9zdG9yYWdlIikpLAogICAgICAgIGF0dGFjaG1lbnRVcmw6IHYub3B0aW9uYWwodi5zdHJpbmcoKSksCiAgICAgICAgYXR0YWNobWVudE5hbWU6IHYub3B0aW9uYWwodi5zdHJpbmcoKSksCiAgICAgICAgYXR0YWNobWVudFR5cGU6IHYub3B0aW9uYWwodi5zdHJpbmcoKSksCiAgICAgICAgYXR0YWNobWVudFNpemU6IHYub3B0aW9uYWwodi5udW1iZXIoKSksCiAgICAgIH0pCiAgICApLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgLy8gVmVyaWZ5IG1hdGNoIGV4aXN0cyBhbmQgdXNlciBpcyBwYXJ0IG9mIGl0CiAgICBjb25zdCBtYXRjaCA9IGF3YWl0IGN0eC5kYi5nZXQoYXJncy5tYXRjaElkKTsKICAgIGlmICghbWF0Y2gpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCJDYW5ub3Qgc2VuZCBtZXNzYWdlOiBtYXRjaCBub3QgZm91bmQiKTsKICAgIH0KCiAgICBpZiAobWF0Y2gudXNlcjFJZCAhPT0gYXJncy5zZW5kZXJJZCAmJiBtYXRjaC51c2VyMklkICE9PSBhcmdzLnNlbmRlcklkKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcigiQ2Fubm90IHNlbmQgbWVzc2FnZTogdW5hdXRob3JpemVkIik7CiAgICB9CgogICAgY29uc3QgbWVzc2FnZVR5cGUgPSBhcmdzLnR5cGUgPz8gInRleHQiOwogICAgY29uc3QgcHJlbWl1bSA9IGF3YWl0IGlzVXNlclByZW1pdW0oY3R4LCBhcmdzLnNlbmRlcklkKTsKCiAgICAvLyBNZXNzYWdpbmcgaXMgdW5saW1pdGVkIGZvciBhbGwgdXNlcnMuCgogICAgY29uc3QgcmVjZWl2ZXJJZCA9IG1hdGNoLnVzZXIxSWQgPT09IGFyZ3Muc2VuZGVySWQgPyBtYXRjaC51c2VyMklkIDogbWF0Y2gudXNlcjFJZDsKCiAgICAvLyBDcmVhdGUgbWVzc2FnZQogICAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKTsKICAgIGNvbnN0IG1lc3NhZ2VJZCA9IGF3YWl0IGN0eC5kYi5pbnNlcnQoIm1lc3NhZ2VzIiwgewogICAgICBtYXRjaElkOiBtYXRjaC5faWQsCiAgICAgIHNlbmRlcklkOiBhcmdzLnNlbmRlcklkLAogICAgICByZWNlaXZlcklkLAogICAgICBib2R5OiBhcmdzLmJvZHksCiAgICAgIHR5cGU6IG1lc3NhZ2VUeXBlLAogICAgICByZXBseVRvSWQ6IGFyZ3MucmVwbHlUb0lkLAogICAgICBtZXRhZGF0YTogYXJncy5tZXRhZGF0YSwKICAgICAgZGVsaXZlcmVkQXQ6IG5vdywKICAgICAgaXNSZWFkOiBmYWxzZSwKICAgICAgcmVhZEF0OiB1bmRlZmluZWQsCiAgICAgIGlzRGVsZXRlZDogZmFsc2UsCiAgICAgIGNyZWF0ZWRBdDogbm93LAogICAgfSk7CgogICAgLy8gVXBkYXRlIG1hdGNoIHdpdGggbGFzdCBtZXNzYWdlIHRpbWUgYW5kIGluY3JlbWVudCB1bnJlYWQgY291bnQKICAgIGNvbnN0IGlzVXNlcjEgPSBtYXRjaC51c2VyMUlkID09PSBhcmdzLnNlbmRlcklkOwogICAgYXdhaXQgY3R4LmRiLnBhdGNoKG1hdGNoLl9pZCwgewogICAgICBsYXN0TWVzc2FnZUF0OiBub3csCiAgICAgIHVzZXIxVW5yZWFkOiBpc1VzZXIxID8gbWF0Y2gudXNlcjFVbnJlYWQgOiBtYXRjaC51c2VyMVVucmVhZCArIDEsCiAgICAgIHVzZXIyVW5yZWFkOiBpc1VzZXIxID8gbWF0Y2gudXNlcjJVbnJlYWQgKyAxIDogbWF0Y2gudXNlcjJVbnJlYWQsCiAgICB9KTsKCiAgICAvLyBQaGFzZSA3OiBJbi1hcHAgbm90aWZpY2F0aW9uIHdpdGggZW5oYW5jZWQgZmllbGRzCiAgICBjb25zdCBzZW5kZXIgPSBhd2FpdCBjdHguZGIuZ2V0KGFyZ3Muc2VuZGVySWQpOwogICAgY29uc3Qgc2VuZGVyTmFtZSA9IHNlbmRlcj8ubmFtZSB8fCAiU29tZW9uZSI7CiAgICAKICAgIGNvbnN0IHByZXZpZXcgPQogICAgICBtZXNzYWdlVHlwZSA9PT0gInRleHQiCiAgICAgICAgPyBhcmdzLmJvZHkKICAgICAgICA6IG1lc3NhZ2VUeXBlID09PSAiZ2lmIgogICAgICAgICAgPyAiU2VudCB5b3UgYSBHSUYg8J+OrCIKICAgICAgICAgIDogbWVzc2FnZVR5cGUgPT09ICJwaG90byIKICAgICAgICAgICAgPyAiU2VudCB5b3UgYSBwaG90byDwn5O3IgogICAgICAgICAgICA6IG1lc3NhZ2VUeXBlID09PSAidm9pY2UiCiAgICAgICAgICAgICAgPyAiU2VudCB5b3UgYSB2b2ljZSBtZXNzYWdlIPCfjqQiCiAgICAgICAgICAgICAgOiBtZXNzYWdlVHlwZSA9PT0gImF0dGFjaG1lbnQiCiAgICAgICAgICAgICAgICA/IGBTZW50IHlvdSBhIGZpbGUg8J+TjmAKICAgICAgICAgICAgICAgIDogIlNlbnQgeW91IGEgbWVzc2FnZSI7CiAgICAKICAgIGF3YWl0IGluc2VydE5vdGlmaWNhdGlvbihjdHgsIHsKICAgICAgdXNlcklkOiByZWNlaXZlcklkLAogICAgICB0eXBlOiAibWVzc2FnZSIsCiAgICAgIHRpdGxlOiBgTmV3IG1lc3NhZ2UgZnJvbSAke3NlbmRlck5hbWV9YCwKICAgICAgYm9keTogcHJldmlldy5zbGljZSgwLCAxNDApLAogICAgICBwcmlvcml0eTogImhpZ2giLAogICAgICBjYXRlZ29yeTogInNvY2lhbCIsCiAgICAgIGljb246ICLwn5KsIiwKICAgICAgcmVsYXRlZFVzZXJJZDogYXJncy5zZW5kZXJJZCwKICAgICAgcmVsYXRlZE1hdGNoSWQ6IG1hdGNoLl9pZCwKICAgICAgcmVsYXRlZE1lc3NhZ2VJZDogbWVzc2FnZUlkLAogICAgICBsaW5rOiBgL2NoYXQvJHttYXRjaC5faWR9YCwKICAgICAgYWN0aW9uQnV0dG9uczogWwogICAgICAgIHsgbGFiZWw6ICJSZXBseSIsIGFjdGlvbjogIm5hdmlnYXRlIiwgbGluazogYC9jaGF0LyR7bWF0Y2guX2lkfWAgfSwKICAgICAgXSwKICAgIH0pOwoKICAgIC8vIFBoYXNlIDM6IFNlbmQgcHVzaCBub3RpZmljYXRpb24gZm9yIG5ldyBtZXNzYWdlCiAgICBhd2FpdCBjdHguc2NoZWR1bGVyLnJ1bkFmdGVyKDAsICJwdXNoTm90aWZpY2F0aW9uczpub3RpZnlOZXdNZXNzYWdlIiBhcyBhbnksIHsKICAgICAgbWVzc2FnZUlkLAogICAgICByZWNpcGllbnRJZDogcmVjZWl2ZXJJZCwKICAgICAgc2VuZGVySWQ6IGFyZ3Muc2VuZGVySWQsCiAgICAgIHByZXZpZXc6IHByZXZpZXcuc2xpY2UoMCwgMTAwKSwKICAgICAgbWF0Y2hJZDogbWF0Y2guX2lkLAogICAgfSk7CgogICAgcmV0dXJuIG1lc3NhZ2VJZDsKICB9LAp9KTsKCi8vIEdldCBtZXNzYWdlcyBmb3IgYSBzcGVjaWZpYyBtYXRjaApleHBvcnQgY29uc3QgZ2V0TWVzc2FnZXMgPSBxdWVyeSh7CiAgYXJnczogewogICAgbWF0Y2hJZDogdi5pZCgibWF0Y2hlcyIpLAogICAgdXNlcklkOiB2LmlkKCJ1c2VycyIpLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgLy8gVmVyaWZ5IHVzZXIgaXMgcGFydCBvZiB0aGlzIG1hdGNoCiAgICBjb25zdCBtYXRjaCA9IGF3YWl0IGN0eC5kYi5nZXQoYXJncy5tYXRjaElkKTsKICAgIGlmICghbWF0Y2gpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCJNYXRjaCBub3QgZm91bmQiKTsKICAgIH0KCiAgICBpZiAobWF0Y2gudXNlcjFJZCAhPT0gYXJncy51c2VySWQgJiYgbWF0Y2gudXNlcjJJZCAhPT0gYXJncy51c2VySWQpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCJVbmF1dGhvcml6ZWQ6IG5vdCBwYXJ0IG9mIHRoaXMgbWF0Y2giKTsKICAgIH0KCiAgICAvLyBHZXQgYWxsIG1lc3NhZ2VzIGZvciB0aGlzIG1hdGNoCiAgICBjb25zdCBtZXNzYWdlcyA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoIm1lc3NhZ2VzIikKICAgICAgLndpdGhJbmRleCgibWF0Y2hJZCIsIChxKSA9PiBxLmVxKCJtYXRjaElkIiwgYXJncy5tYXRjaElkKSkKICAgICAgLmNvbGxlY3QoKTsKCiAgICBjb25zdCBlbnJpY2hlZCA9IGF3YWl0IFByb21pc2UuYWxsKAogICAgICBtZXNzYWdlcy5tYXAoYXN5bmMgKG0pID0+IHsKICAgICAgICBjb25zdCBtZXRhZGF0YSA9IChtIGFzIGFueSkubWV0YWRhdGE7CiAgICAgICAgaWYgKG1ldGFkYXRhPy5hdHRhY2htZW50SWQpIHsKICAgICAgICAgIGNvbnN0IGF0dGFjaG1lbnRVcmwgPSBhd2FpdCBjdHguc3RvcmFnZS5nZXRVcmwobWV0YWRhdGEuYXR0YWNobWVudElkKTsKICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgIC4uLm0sCiAgICAgICAgICAgIG1ldGFkYXRhOiB7CiAgICAgICAgICAgICAgLi4ubWV0YWRhdGEsCiAgICAgICAgICAgICAgYXR0YWNobWVudFVybDogYXR0YWNobWVudFVybCA/PyBtZXRhZGF0YS5hdHRhY2htZW50VXJsLAogICAgICAgICAgICB9LAogICAgICAgICAgfTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG07CiAgICAgIH0pCiAgICApOwoKICAgIHJldHVybiBlbnJpY2hlZAogICAgICAuZmlsdGVyKChtKSA9PiB7CiAgICAgICAgY29uc3QgZGVsZXRlZEZvciA9IChtIGFzIGFueSkuZGVsZXRlZEZvclVzZXJJZHMgYXMgc3RyaW5nW10gfCB1bmRlZmluZWQ7CiAgICAgICAgcmV0dXJuICFkZWxldGVkRm9yPy5pbmNsdWRlcyhhcmdzLnVzZXJJZCk7CiAgICAgIH0pCiAgICAgIC5zb3J0KChhLCBiKSA9PiBhLmNyZWF0ZWRBdCAtIGIuY3JlYXRlZEF0KTsKICB9LAp9KTsKCi8vIEZyb250ZW5kIGFsaWFzCmV4cG9ydCBjb25zdCBnZXRDb252ZXJzYXRpb24gPSBnZXRNZXNzYWdlczsKCi8vIERlbGV0ZSBhbGwgbWVzc2FnZXMgaW4gYSBjaGF0IHRocmVhZCBmb3IgdGhlIGN1cnJlbnQgdXNlciAoa2VlcHMgbWF0Y2ggaW50YWN0KQpleHBvcnQgY29uc3QgZGVsZXRlQ2hhdCA9IG11dGF0aW9uKHsKICBhcmdzOiB7CiAgICBtYXRjaElkOiB2LmlkKCJtYXRjaGVzIiksCiAgICB1c2VySWQ6IHYuaWQoInVzZXJzIiksCiAgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICBjb25zdCBtYXRjaCA9IGF3YWl0IGN0eC5kYi5nZXQoYXJncy5tYXRjaElkKTsKICAgIGlmICghbWF0Y2gpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCJNYXRjaCBub3QgZm91bmQiKTsKICAgIH0KCiAgICBpZiAobWF0Y2gudXNlcjFJZCAhPT0gYXJncy51c2VySWQgJiYgbWF0Y2gudXNlcjJJZCAhPT0gYXJncy51c2VySWQpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCJVbmF1dGhvcml6ZWQ6IG5vdCBwYXJ0IG9mIHRoaXMgbWF0Y2giKTsKICAgIH0KCiAgICBjb25zdCBtZXNzYWdlcyA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoIm1lc3NhZ2VzIikKICAgICAgLndpdGhJbmRleCgibWF0Y2hJZCIsIChxKSA9PiBxLmVxKCJtYXRjaElkIiwgYXJncy5tYXRjaElkKSkKICAgICAgLmNvbGxlY3QoKTsKCiAgICBmb3IgKGNvbnN0IG1lc3NhZ2Ugb2YgbWVzc2FnZXMpIHsKICAgICAgY29uc3QgZGVsZXRlZEZvciA9IG5ldyBTZXQ8SWQ8InVzZXJzIj4+KChtZXNzYWdlIGFzIGFueSkuZGVsZXRlZEZvclVzZXJJZHMgPz8gW10pOwogICAgICBkZWxldGVkRm9yLmFkZChhcmdzLnVzZXJJZCk7CiAgICAgIGF3YWl0IGN0eC5kYi5wYXRjaChtZXNzYWdlLl9pZCwgeyBkZWxldGVkRm9yVXNlcklkczogQXJyYXkuZnJvbShkZWxldGVkRm9yKSB9KTsKICAgIH0KCiAgICBhd2FpdCBjdHguZGIucGF0Y2goYXJncy5tYXRjaElkLCB7CiAgICAgIHVzZXIxVW5yZWFkOiAwLAogICAgICB1c2VyMlVucmVhZDogMCwKICAgIH0pOwoKICAgIHJldHVybiB7IGRlbGV0ZWRDb3VudDogbWVzc2FnZXMubGVuZ3RoIH07CiAgfSwKfSk7CgpleHBvcnQgY29uc3QgZGVsZXRlTWVzc2FnZSA9IG11dGF0aW9uKHsKICBhcmdzOiB7CiAgICBtZXNzYWdlSWQ6IHYuaWQoIm1lc3NhZ2VzIiksCiAgICB1c2VySWQ6IHYuaWQoInVzZXJzIiksCiAgICBkZWxldGVGb3JFdmVyeW9uZTogdi5ib29sZWFuKCksCiAgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICBjb25zdCBtZXNzYWdlID0gYXdhaXQgY3R4LmRiLmdldChhcmdzLm1lc3NhZ2VJZCk7CiAgICBpZiAoIW1lc3NhZ2UpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCJNZXNzYWdlIG5vdCBmb3VuZCIpOwogICAgfQoKICAgIGNvbnN0IG1hdGNoID0gYXdhaXQgY3R4LmRiLmdldChtZXNzYWdlLm1hdGNoSWQpOwogICAgaWYgKCFtYXRjaCkgewogICAgICB0aHJvdyBuZXcgRXJyb3IoIk1hdGNoIG5vdCBmb3VuZCIpOwogICAgfQoKICAgIGNvbnN0IGlzUGFydGljaXBhbnQgPSBtYXRjaC51c2VyMUlkID09PSBhcmdzLnVzZXJJZCB8fCBtYXRjaC51c2VyMklkID09PSBhcmdzLnVzZXJJZDsKICAgIGlmICghaXNQYXJ0aWNpcGFudCkgewogICAgICB0aHJvdyBuZXcgRXJyb3IoIlVuYXV0aG9yaXplZDogbm90IHBhcnQgb2YgdGhpcyBtYXRjaCIpOwogICAgfQoKICAgIGlmIChhcmdzLmRlbGV0ZUZvckV2ZXJ5b25lKSB7CiAgICAgIGlmIChtZXNzYWdlLnNlbmRlcklkICE9PSBhcmdzLnVzZXJJZCkgewogICAgICAgIHRocm93IG5ldyBFcnJvcigiT25seSB0aGUgc2VuZGVyIGNhbiBkZWxldGUgdGhpcyBtZXNzYWdlIGZvciBldmVyeW9uZSIpOwogICAgICB9CgogICAgICBjb25zdCBub3cgPSBEYXRlLm5vdygpOwogICAgICBhd2FpdCBjdHguZGIucGF0Y2gobWVzc2FnZS5faWQsIHsKICAgICAgICBpc0RlbGV0ZWQ6IHRydWUsCiAgICAgICAgZGVsZXRlZEF0OiBub3csCiAgICAgICAgYm9keTogIiIsCiAgICAgICAgbWV0YWRhdGE6IHVuZGVmaW5lZCwKICAgICAgfSk7CiAgICB9IGVsc2UgewogICAgICBjb25zdCBkZWxldGVkRm9yID0gbmV3IFNldDxJZDwidXNlcnMiPj4oKG1lc3NhZ2UgYXMgYW55KS5kZWxldGVkRm9yVXNlcklkcyA/PyBbXSk7CiAgICAgIGRlbGV0ZWRGb3IuYWRkKGFyZ3MudXNlcklkKTsKICAgICAgYXdhaXQgY3R4LmRiLnBhdGNoKG1lc3NhZ2UuX2lkLCB7IGRlbGV0ZWRGb3JVc2VySWRzOiBBcnJheS5mcm9tKGRlbGV0ZWRGb3IpIH0pOwogICAgfQoKICAgIHJldHVybiB7IHN1Y2Nlc3M6IHRydWUgfTsKICB9LAp9KTsKCi8vIE1hcmsgbWVzc2FnZXMgYXMgcmVhZApleHBvcnQgY29uc3QgbWFya01lc3NhZ2VzQXNSZWFkID0gbXV0YXRpb24oewogIGFyZ3M6IHsKICAgIG1hdGNoSWQ6IHYuaWQoIm1hdGNoZXMiKSwKICAgIHVzZXJJZDogdi5pZCgidXNlcnMiKSwKICB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIC8vIFZlcmlmeSB1c2VyIGlzIHBhcnQgb2YgdGhpcyBtYXRjaAogICAgY29uc3QgbWF0Y2ggPSBhd2FpdCBjdHguZGIuZ2V0KGFyZ3MubWF0Y2hJZCk7CiAgICBpZiAoIW1hdGNoKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcigiTWF0Y2ggbm90IGZvdW5kIik7CiAgICB9CgogICAgaWYgKG1hdGNoLnVzZXIxSWQgIT09IGFyZ3MudXNlcklkICYmIG1hdGNoLnVzZXIySWQgIT09IGFyZ3MudXNlcklkKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcigiVW5hdXRob3JpemVkOiBub3QgcGFydCBvZiB0aGlzIG1hdGNoIik7CiAgICB9CgogICAgLy8gR2V0IHVucmVhZCBtZXNzYWdlcyBzZW50IHRvIHRoaXMgdXNlcgogICAgY29uc3QgbWVzc2FnZXMgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJtZXNzYWdlcyIpCiAgICAgIC53aXRoSW5kZXgoIm1hdGNoSWQiLCAocSkgPT4gcS5lcSgibWF0Y2hJZCIsIGFyZ3MubWF0Y2hJZCkpCiAgICAgIC5maWx0ZXIoKHEpID0+CiAgICAgICAgcS5hbmQoCiAgICAgICAgICBxLmVxKHEuZmllbGQoInJlY2VpdmVySWQiKSwgYXJncy51c2VySWQpLAogICAgICAgICAgcS5lcShxLmZpZWxkKCJpc1JlYWQiKSwgZmFsc2UpCiAgICAgICAgKQogICAgICApCiAgICAgIC5jb2xsZWN0KCk7CgogICAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKTsKCiAgICAvLyBNYXJrIGFsbCBhcyByZWFkCiAgICBmb3IgKGNvbnN0IG1lc3NhZ2Ugb2YgbWVzc2FnZXMpIHsKICAgICAgYXdhaXQgY3R4LmRiLnBhdGNoKG1lc3NhZ2UuX2lkLCB7IGlzUmVhZDogdHJ1ZSwgcmVhZEF0OiBub3cgfSk7CiAgICB9CgogICAgLy8gUmVzZXQgdW5yZWFkIGNvdW50IGZvciB0aGlzIHVzZXIKICAgIGNvbnN0IGlzVXNlcjEgPSBtYXRjaC51c2VyMUlkID09PSBhcmdzLnVzZXJJZDsKICAgIGF3YWl0IGN0eC5kYi5wYXRjaChhcmdzLm1hdGNoSWQsIHsKICAgICAgdXNlcjFVbnJlYWQ6IGlzVXNlcjEgPyAwIDogbWF0Y2gudXNlcjFVbnJlYWQsCiAgICAgIHVzZXIyVW5yZWFkOiBpc1VzZXIxID8gbWF0Y2gudXNlcjJVbnJlYWQgOiAwLAogICAgfSk7CgogICAgcmV0dXJuIHsgbWFya2VkQ291bnQ6IG1lc3NhZ2VzLmxlbmd0aCB9OwogIH0sCn0pOwoKLy8gUGhhc2UgNTogTWFyayBhIHNpbmdsZSBtZXNzYWdlIGFzIHJlYWQgKGZvciBwZXItbWVzc2FnZSByZWFkIHJlY2VpcHRzKQpleHBvcnQgY29uc3QgbWFya01lc3NhZ2VBc1JlYWQgPSBtdXRhdGlvbih7CiAgYXJnczogewogICAgbWVzc2FnZUlkOiB2LmlkKCJtZXNzYWdlcyIpLAogICAgdXNlcklkOiB2LmlkKCJ1c2VycyIpLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3QgbXNnID0gYXdhaXQgY3R4LmRiLmdldChhcmdzLm1lc3NhZ2VJZCk7CiAgICBpZiAoIW1zZykgdGhyb3cgbmV3IEVycm9yKCJNZXNzYWdlIG5vdCBmb3VuZCIpOwoKICAgIGNvbnN0IG1hdGNoID0gYXdhaXQgY3R4LmRiLmdldChtc2cubWF0Y2hJZCk7CiAgICBpZiAoIW1hdGNoKSB0aHJvdyBuZXcgRXJyb3IoIk1hdGNoIG5vdCBmb3VuZCIpOwoKICAgIGlmIChtYXRjaC51c2VyMUlkICE9PSBhcmdzLnVzZXJJZCAmJiBtYXRjaC51c2VyMklkICE9PSBhcmdzLnVzZXJJZCkgewogICAgICB0aHJvdyBuZXcgRXJyb3IoIlVuYXV0aG9yaXplZDogbm90IHBhcnQgb2YgdGhpcyBtYXRjaCIpOwogICAgfQoKICAgIGlmIChtc2cucmVjZWl2ZXJJZCAhPT0gYXJncy51c2VySWQpIHsKICAgICAgcmV0dXJuIHsgc3VjY2VzczogZmFsc2UgfTsKICAgIH0KCiAgICBpZiAobXNnLmlzUmVhZCkgcmV0dXJuIHsgc3VjY2VzczogdHJ1ZSB9OwoKICAgIGNvbnN0IG5vdyA9IERhdGUubm93KCk7CiAgICBhd2FpdCBjdHguZGIucGF0Y2gobXNnLl9pZCwgeyBpc1JlYWQ6IHRydWUsIHJlYWRBdDogbm93IH0pOwoKICAgIC8vIEFsc28gZW5zdXJlIHVucmVhZCBjb3VudCBpcyByZWR1Y2VkIHRvIDAgaW4gdGhpcyB0aHJlYWQgaWYgbmVlZGVkCiAgICBjb25zdCBpc1VzZXIxID0gbWF0Y2gudXNlcjFJZCA9PT0gYXJncy51c2VySWQ7CiAgICBhd2FpdCBjdHguZGIucGF0Y2gobWF0Y2guX2lkLCB7CiAgICAgIHVzZXIxVW5yZWFkOiBpc1VzZXIxID8gMCA6IG1hdGNoLnVzZXIxVW5yZWFkLAogICAgICB1c2VyMlVucmVhZDogaXNVc2VyMSA/IG1hdGNoLnVzZXIyVW5yZWFkIDogMCwKICAgIH0pOwoKICAgIHJldHVybiB7IHN1Y2Nlc3M6IHRydWUgfTsKICB9LAp9KTsKCi8vIFBoYXNlIDU6IFJlYWQgcmVjZWlwdHMgKFByZW1pdW0pIC0gcmV0dXJucyByZWFkIHN0YXR1cyBmb3IgbWVzc2FnZXMgaW4gYSBjb252ZXJzYXRpb24KZXhwb3J0IGNvbnN0IGdldFJlYWRSZWNlaXB0cyA9IHF1ZXJ5KHsKICBhcmdzOiB7CiAgICBtYXRjaElkOiB2LmlkKCJtYXRjaGVzIiksCiAgICB1c2VySWQ6IHYuaWQoInVzZXJzIiksCiAgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICBjb25zdCBwcmVtaXVtID0gYXdhaXQgaXNVc2VyUHJlbWl1bShjdHgsIGFyZ3MudXNlcklkKTsKICAgIGlmICghcHJlbWl1bSkgdGhyb3cgbmV3IEVycm9yKCJQcmVtaXVtIHJlcXVpcmVkIGZvciByZWFkIHJlY2VpcHRzIik7CgogICAgY29uc3QgbWF0Y2ggPSBhd2FpdCBjdHguZGIuZ2V0KGFyZ3MubWF0Y2hJZCk7CiAgICBpZiAoIW1hdGNoKSB0aHJvdyBuZXcgRXJyb3IoIk1hdGNoIG5vdCBmb3VuZCIpOwogICAgaWYgKG1hdGNoLnVzZXIxSWQgIT09IGFyZ3MudXNlcklkICYmIG1hdGNoLnVzZXIySWQgIT09IGFyZ3MudXNlcklkKSB7CiAgICAgIHRocm93IG5ldyBFcnJvcigiVW5hdXRob3JpemVkOiBub3QgcGFydCBvZiB0aGlzIG1hdGNoIik7CiAgICB9CgogICAgY29uc3Qgb3RoZXJVc2VySWQgPSBtYXRjaC51c2VyMUlkID09PSBhcmdzLnVzZXJJZCA/IG1hdGNoLnVzZXIySWQgOiBtYXRjaC51c2VyMUlkOwogICAgY29uc3QgbXlTZXR0aW5ncyA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoInVzZXJTZXR0aW5ncyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCBhcmdzLnVzZXJJZCkpCiAgICAgIC5maXJzdCgpOwogICAgY29uc3Qgb3RoZXJTZXR0aW5ncyA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoInVzZXJTZXR0aW5ncyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXJJZCIsIChxKSA9PiBxLmVxKCJ1c2VySWQiLCBvdGhlclVzZXJJZCkpCiAgICAgIC5maXJzdCgpOwoKICAgIC8vIFByaXZhY3kgcnVsZTogaWYgZWl0aGVyIHBhcnR5IGhhcyByZWFkIHJlY2VpcHRzIGRpc2FibGVkLCBkb24ndCBzaG93IHJlY2VpcHRzLgogICAgaWYgKG15U2V0dGluZ3M/LnJlYWRSZWNlaXB0cyA9PT0gZmFsc2UpIHJldHVybiB7fTsKICAgIGlmIChvdGhlclNldHRpbmdzPy5yZWFkUmVjZWlwdHMgPT09IGZhbHNlKSByZXR1cm4ge307CgogICAgY29uc3QgbWVzc2FnZXMgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJtZXNzYWdlcyIpCiAgICAgIC53aXRoSW5kZXgoIm1hdGNoSWQiLCAocSkgPT4gcS5lcSgibWF0Y2hJZCIsIGFyZ3MubWF0Y2hJZCkpCiAgICAgIC5jb2xsZWN0KCk7CgogICAgY29uc3QgcmVjZWlwdHM6IFJlY29yZDxzdHJpbmcsIHsgZGVsaXZlcmVkQXQ/OiBudW1iZXI7IHJlYWRBdD86IG51bWJlciB9PiA9IHt9OwogICAgZm9yIChjb25zdCBtIG9mIG1lc3NhZ2VzKSB7CiAgICAgIGlmICgobSBhcyBhbnkpLmlzRGVsZXRlZCkgY29udGludWU7CiAgICAgIGNvbnN0IGRlbGV0ZWRGb3IgPSAobSBhcyBhbnkpLmRlbGV0ZWRGb3JVc2VySWRzIGFzIHN0cmluZ1tdIHwgdW5kZWZpbmVkOwogICAgICBpZiAoZGVsZXRlZEZvcj8uaW5jbHVkZXMoYXJncy51c2VySWQpKSBjb250aW51ZTsKICAgICAgaWYgKG0uc2VuZGVySWQgIT09IGFyZ3MudXNlcklkKSBjb250aW51ZTsKICAgICAgcmVjZWlwdHNbbS5faWRdID0gewogICAgICAgIGRlbGl2ZXJlZEF0OiAobSBhcyBhbnkpLmRlbGl2ZXJlZEF0LAogICAgICAgIHJlYWRBdDogKG0gYXMgYW55KS5yZWFkQXQsCiAgICAgIH07CiAgICB9CgogICAgcmV0dXJuIHJlY2VpcHRzOwogIH0sCn0pOwoKLy8gRnJvbnRlbmQgYWxpYXMKZXhwb3J0IGNvbnN0IG1hcmtBc1JlYWQgPSBtYXJrTWVzc2FnZXNBc1JlYWQ7CgovLyBHZXQgY29udmVyc2F0aW9ucyAobWF0Y2hlcyB3aXRoIGxhc3QgbWVzc2FnZSBwcmV2aWV3KQpleHBvcnQgY29uc3QgZ2V0Q29udmVyc2F0aW9ucyA9IHF1ZXJ5KHsKICBhcmdzOiB7CiAgICB1c2VySWQ6IHYuaWQoInVzZXJzIiksCiAgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICAvLyBHZXQgYWxsIG1hdGNoZXMgZm9yIHRoaXMgdXNlcgogICAgY29uc3QgbWF0Y2hlczEgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJtYXRjaGVzIikKICAgICAgLndpdGhJbmRleCgidXNlcjFJZCIsIChxKSA9PiBxLmVxKCJ1c2VyMUlkIiwgYXJncy51c2VySWQpKQogICAgICAuY29sbGVjdCgpOwoKICAgIGNvbnN0IG1hdGNoZXMyID0gYXdhaXQgY3R4LmRiCiAgICAgIC5xdWVyeSgibWF0Y2hlcyIpCiAgICAgIC53aXRoSW5kZXgoInVzZXIySWQiLCAocSkgPT4gcS5lcSgidXNlcjJJZCIsIGFyZ3MudXNlcklkKSkKICAgICAgLmNvbGxlY3QoKTsKCiAgICBjb25zdCBhbGxNYXRjaGVzID0gWy4uLm1hdGNoZXMxLCAuLi5tYXRjaGVzMl07CgogICAgLy8gRW5yaWNoIHdpdGggbGFzdCBtZXNzYWdlIGFuZCBwcm9maWxlIGRhdGEKICAgIGNvbnN0IGNvbnZlcnNhdGlvbnMgPSBhd2FpdCBQcm9taXNlLmFsbCgKICAgICAgYWxsTWF0Y2hlcy5tYXAoYXN5bmMgKG1hdGNoKSA9PiB7CiAgICAgICAgY29uc3Qgb3RoZXJVc2VySWQgPQogICAgICAgICAgbWF0Y2gudXNlcjFJZCA9PT0gYXJncy51c2VySWQgPyBtYXRjaC51c2VyMklkIDogbWF0Y2gudXNlcjFJZDsKICAgICAgICBjb25zdCB1bnJlYWRDb3VudCA9CiAgICAgICAgICBtYXRjaC51c2VyMUlkID09PSBhcmdzLnVzZXJJZCA/IG1hdGNoLnVzZXIxVW5yZWFkIDogbWF0Y2gudXNlcjJVbnJlYWQ7CgogICAgICAgIC8vIEdldCBvdGhlciB1c2VyJ3MgcHJvZmlsZQogICAgICAgIGNvbnN0IHByb2ZpbGUgPSBhd2FpdCBjdHguZGIKICAgICAgICAgIC5xdWVyeSgicHJvZmlsZXMiKQogICAgICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIG90aGVyVXNlcklkKSkKICAgICAgICAgIC5maXJzdCgpOwoKICAgICAgICBpZiAoIXByb2ZpbGUpIHJldHVybiBudWxsOwoKICAgICAgICAvLyBHZXQgcHJpbWFyeSBwaG90bwogICAgICAgIGNvbnN0IHBob3RvcyA9IGF3YWl0IGN0eC5kYgogICAgICAgICAgLnF1ZXJ5KCJwaG90b3MiKQogICAgICAgICAgLndpdGhJbmRleCgidXNlcklkIiwgKHEpID0+IHEuZXEoInVzZXJJZCIsIG90aGVyVXNlcklkKSkKICAgICAgICAgIC5jb2xsZWN0KCk7CgogICAgICAgIGNvbnN0IHByaW1hcnlQaG90byA9IHBob3Rvcy5maW5kKChwKSA9PiBwLmlzUHJpbWFyeSkgfHwgcGhvdG9zWzBdOwoKICAgICAgICAvLyBHZXQgbGFzdCBtZXNzYWdlCiAgICAgICAgY29uc3QgbWVzc2FnZXMgPSBhd2FpdCBjdHguZGIKICAgICAgICAgIC5xdWVyeSgibWVzc2FnZXMiKQogICAgICAgICAgLndpdGhJbmRleCgibWF0Y2hJZCIsIChxKSA9PiBxLmVxKCJtYXRjaElkIiwgbWF0Y2guX2lkKSkKICAgICAgICAgIC5vcmRlcigiZGVzYyIpCiAgICAgICAgICAudGFrZSgxMCk7CgogICAgICAgIGNvbnN0IGxhc3RNZXNzYWdlID0gbWVzc2FnZXMuZmluZCgobWVzc2FnZSkgPT4gewogICAgICAgICAgaWYgKChtZXNzYWdlIGFzIGFueSkuaXNEZWxldGVkKSByZXR1cm4gZmFsc2U7CiAgICAgICAgICBjb25zdCBkZWxldGVkRm9yID0gKG1lc3NhZ2UgYXMgYW55KS5kZWxldGVkRm9yVXNlcklkcyBhcyBzdHJpbmdbXSB8IHVuZGVmaW5lZDsKICAgICAgICAgIHJldHVybiAhZGVsZXRlZEZvcj8uaW5jbHVkZXMoYXJncy51c2VySWQpOwogICAgICAgIH0pOwoKICAgICAgICAvLyBHZXQgdXNlciBuYW1lCiAgICAgICAgY29uc3QgdXNlciA9IGF3YWl0IGN0eC5kYi5nZXQob3RoZXJVc2VySWQpOwoKICAgICAgICByZXR1cm4gewogICAgICAgICAgbWF0Y2hJZDogbWF0Y2guX2lkLAogICAgICAgICAgdXNlcklkOiBvdGhlclVzZXJJZCwKICAgICAgICAgIG5hbWU6IHVzZXI/Lm5hbWUsCiAgICAgICAgICBhZ2U6IHByb2ZpbGUuYWdlLAogICAgICAgICAgcHJpbWFyeVBob3RvOiBwcmltYXJ5UGhvdG8/LnVybCwKICAgICAgICAgIGxhc3RNZXNzYWdlOiBsYXN0TWVzc2FnZQogICAgICAgICAgICA/IHsKICAgICAgICAgICAgICBib2R5OiBsYXN0TWVzc2FnZS5ib2R5LAogICAgICAgICAgICAgIGNyZWF0ZWRBdDogbGFzdE1lc3NhZ2UuY3JlYXRlZEF0LAogICAgICAgICAgICAgIGlzRnJvbU1lOiBsYXN0TWVzc2FnZS5zZW5kZXJJZCA9PT0gYXJncy51c2VySWQsCiAgICAgICAgICAgIH0KICAgICAgICAgICAgOiBudWxsLAogICAgICAgICAgdW5yZWFkQ291bnQsCiAgICAgICAgICBtYXRjaGVkQXQ6IG1hdGNoLm1hdGNoZWRBdCwKICAgICAgICB9OwogICAgICB9KQogICAgKTsKCiAgICByZXR1cm4gY29udmVyc2F0aW9ucwogICAgICAuZmlsdGVyKChjKSA9PiBjICE9PSBudWxsKQogICAgICAuc29ydCgoYSwgYikgPT4gewogICAgICAgIGNvbnN0IGFUaW1lID0gYS5sYXN0TWVzc2FnZT8uY3JlYXRlZEF0IHx8IGEubWF0Y2hlZEF0OwogICAgICAgIGNvbnN0IGJUaW1lID0gYi5sYXN0TWVzc2FnZT8uY3JlYXRlZEF0IHx8IGIubWF0Y2hlZEF0OwogICAgICAgIHJldHVybiBiVGltZSAtIGFUaW1lOwogICAgICB9KTsKICB9LAp9KTsKCi8vIFNldCB0eXBpbmcgc3RhdHVzCmV4cG9ydCBjb25zdCBzZXRUeXBpbmdTdGF0dXMgPSBtdXRhdGlvbih7CiAgYXJnczogewogICAgbWF0Y2hJZDogdi5pZCgibWF0Y2hlcyIpLAogICAgdXNlcklkOiB2LmlkKCJ1c2VycyIpLAogICAgaXNUeXBpbmc6IHYuYm9vbGVhbigpLAogIH0sCiAgaGFuZGxlcjogYXN5bmMgKGN0eCwgYXJncykgPT4gewogICAgY29uc3Qgbm93ID0gRGF0ZS5ub3coKTsKCiAgICAvLyBDaGVjayBpZiB0eXBpbmcgc3RhdHVzIGV4aXN0cwogICAgY29uc3QgZXhpc3RpbmcgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJ0eXBpbmdTdGF0dXMiKQogICAgICAud2l0aEluZGV4KCJtYXRjaFVzZXIiLCAocSkgPT4KICAgICAgICBxLmVxKCJtYXRjaElkIiwgYXJncy5tYXRjaElkKS5lcSgidXNlcklkIiwgYXJncy51c2VySWQpCiAgICAgICkKICAgICAgLmZpcnN0KCk7CgogICAgaWYgKGV4aXN0aW5nKSB7CiAgICAgIC8vIFVwZGF0ZSBleGlzdGluZyBzdGF0dXMKICAgICAgYXdhaXQgY3R4LmRiLnBhdGNoKGV4aXN0aW5nLl9pZCwgewogICAgICAgIGlzVHlwaW5nOiBhcmdzLmlzVHlwaW5nLAogICAgICAgIHVwZGF0ZWRBdDogbm93LAogICAgICB9KTsKICAgIH0gZWxzZSB7CiAgICAgIC8vIENyZWF0ZSBuZXcgc3RhdHVzCiAgICAgIGF3YWl0IGN0eC5kYi5pbnNlcnQoInR5cGluZ1N0YXR1cyIsIHsKICAgICAgICBtYXRjaElkOiBhcmdzLm1hdGNoSWQsCiAgICAgICAgdXNlcklkOiBhcmdzLnVzZXJJZCwKICAgICAgICBpc1R5cGluZzogYXJncy5pc1R5cGluZywKICAgICAgICB1cGRhdGVkQXQ6IG5vdywKICAgICAgfSk7CiAgICB9CgogICAgcmV0dXJuIHsgc3VjY2VzczogdHJ1ZSB9OwogIH0sCn0pOwoKLy8gR2V0IHR5cGluZyBzdGF0dXMgZm9yIGEgbWF0Y2gKZXhwb3J0IGNvbnN0IGdldFR5cGluZ1N0YXR1cyA9IHF1ZXJ5KHsKICBhcmdzOiB7CiAgICBtYXRjaElkOiB2LmlkKCJtYXRjaGVzIiksCiAgICB1c2VySWQ6IHYuaWQoInVzZXJzIiksCiAgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICAvLyBHZXQgbWF0Y2ggdG8gZmluZCBvdGhlciB1c2VyCiAgICBjb25zdCBtYXRjaCA9IGF3YWl0IGN0eC5kYi5nZXQoYXJncy5tYXRjaElkKTsKICAgIGlmICghbWF0Y2gpIHJldHVybiB7IGlzVHlwaW5nOiBmYWxzZSB9OwoKICAgIGNvbnN0IG90aGVyVXNlcklkID0gbWF0Y2gudXNlcjFJZCA9PT0gYXJncy51c2VySWQgPyBtYXRjaC51c2VyMklkIDogbWF0Y2gudXNlcjFJZDsKCiAgICAvLyBHZXQgb3RoZXIgdXNlcidzIHR5cGluZyBzdGF0dXMKICAgIGNvbnN0IHN0YXR1cyA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoInR5cGluZ1N0YXR1cyIpCiAgICAgIC53aXRoSW5kZXgoIm1hdGNoVXNlciIsIChxKSA9PgogICAgICAgIHEuZXEoIm1hdGNoSWQiLCBhcmdzLm1hdGNoSWQpLmVxKCJ1c2VySWQiLCBvdGhlclVzZXJJZCkKICAgICAgKQogICAgICAuZmlyc3QoKTsKCiAgICBpZiAoIXN0YXR1cykgcmV0dXJuIHsgaXNUeXBpbmc6IGZhbHNlIH07CgogICAgLy8gQ29uc2lkZXIgc3RhdHVzIHN0YWxlIGFmdGVyIDUgc2Vjb25kcwogICAgY29uc3QgaXNSZWNlbnQgPSBEYXRlLm5vdygpIC0gc3RhdHVzLnVwZGF0ZWRBdCA8IDUwMDA7CgogICAgcmV0dXJuIHsKICAgICAgaXNUeXBpbmc6IHN0YXR1cy5pc1R5cGluZyAmJiBpc1JlY2VudCwKICAgICAgdXNlcklkOiBvdGhlclVzZXJJZCwKICAgIH07CiAgfSwKfSk7CgovLyBBZGQgcmVhY3Rpb24gdG8gYSBtZXNzYWdlCmV4cG9ydCBjb25zdCBhZGRSZWFjdGlvbiA9IG11dGF0aW9uKHsKICBhcmdzOiB7CiAgICBtZXNzYWdlSWQ6IHYuaWQoIm1lc3NhZ2VzIiksCiAgICB1c2VySWQ6IHYuaWQoInVzZXJzIiksCiAgICBlbW9qaTogdi5zdHJpbmcoKSwKICB9LAogIGhhbmRsZXI6IGFzeW5jIChjdHgsIGFyZ3MpID0+IHsKICAgIC8vIENoZWNrIGlmIHVzZXIgYWxyZWFkeSByZWFjdGVkIHRvIHRoaXMgbWVzc2FnZQogICAgY29uc3QgZXhpc3RpbmcgPSBhd2FpdCBjdHguZGIKICAgICAgLnF1ZXJ5KCJtZXNzYWdlUmVhY3Rpb25zIikKICAgICAgLndpdGhJbmRleCgibWVzc2FnZVVzZXIiLCAocSkgPT4KICAgICAgICBxLmVxKCJtZXNzYWdlSWQiLCBhcmdzLm1lc3NhZ2VJZCkuZXEoInVzZXJJZCIsIGFyZ3MudXNlcklkKQogICAgICApCiAgICAgIC5maXJzdCgpOwoKICAgIGlmIChleGlzdGluZykgewogICAgICAvLyBVcGRhdGUgZXhpc3RpbmcgcmVhY3Rpb24KICAgICAgYXdhaXQgY3R4LmRiLnBhdGNoKGV4aXN0aW5nLl9pZCwgewogICAgICAgIGVtb2ppOiBhcmdzLmVtb2ppLAogICAgICB9KTsKICAgICAgcmV0dXJuIGV4aXN0aW5nLl9pZDsKICAgIH0gZWxzZSB7CiAgICAgIC8vIENyZWF0ZSBuZXcgcmVhY3Rpb24KICAgICAgY29uc3QgcmVhY3Rpb25JZCA9IGF3YWl0IGN0eC5kYi5pbnNlcnQoIm1lc3NhZ2VSZWFjdGlvbnMiLCB7CiAgICAgICAgbWVzc2FnZUlkOiBhcmdzLm1lc3NhZ2VJZCwKICAgICAgICB1c2VySWQ6IGFyZ3MudXNlcklkLAogICAgICAgIGVtb2ppOiBhcmdzLmVtb2ppLAogICAgICAgIGNyZWF0ZWRBdDogRGF0ZS5ub3coKSwKICAgICAgfSk7CiAgICAgIHJldHVybiByZWFjdGlvbklkOwogICAgfQogIH0sCn0pOwoKLy8gUmVtb3ZlIHJlYWN0aW9uIGZyb20gYSBtZXNzYWdlCmV4cG9ydCBjb25zdCByZW1vdmVSZWFjdGlvbiA9IG11dGF0aW9uKHsKICBhcmdzOiB7CiAgICBtZXNzYWdlSWQ6IHYuaWQoIm1lc3NhZ2VzIiksCiAgICB1c2VySWQ6IHYuaWQoInVzZXJzIiksCiAgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICBjb25zdCByZWFjdGlvbiA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoIm1lc3NhZ2VSZWFjdGlvbnMiKQogICAgICAud2l0aEluZGV4KCJtZXNzYWdlVXNlciIsIChxKSA9PgogICAgICAgIHEuZXEoIm1lc3NhZ2VJZCIsIGFyZ3MubWVzc2FnZUlkKS5lcSgidXNlcklkIiwgYXJncy51c2VySWQpCiAgICAgICkKICAgICAgLmZpcnN0KCk7CgogICAgaWYgKHJlYWN0aW9uKSB7CiAgICAgIGF3YWl0IGN0eC5kYi5kZWxldGUocmVhY3Rpb24uX2lkKTsKICAgICAgcmV0dXJuIHsgc3VjY2VzczogdHJ1ZSB9OwogICAgfQoKICAgIHJldHVybiB7IHN1Y2Nlc3M6IGZhbHNlIH07CiAgfSwKfSk7CgovLyBHZXQgcmVhY3Rpb25zIGZvciBtZXNzYWdlcwpleHBvcnQgY29uc3QgZ2V0TWVzc2FnZVJlYWN0aW9ucyA9IHF1ZXJ5KHsKICBhcmdzOiB7CiAgICBtYXRjaElkOiB2LmlkKCJtYXRjaGVzIiksCiAgfSwKICBoYW5kbGVyOiBhc3luYyAoY3R4LCBhcmdzKSA9PiB7CiAgICAvLyBHZXQgYWxsIG1lc3NhZ2VzIGZvciB0aGlzIG1hdGNoCiAgICBjb25zdCBtZXNzYWdlcyA9IGF3YWl0IGN0eC5kYgogICAgICAucXVlcnkoIm1lc3NhZ2VzIikKICAgICAgLndpdGhJbmRleCgibWF0Y2hJZCIsIChxKSA9PiBxLmVxKCJtYXRjaElkIiwgYXJncy5tYXRjaElkKSkKICAgICAgLmNvbGxlY3QoKTsKCiAgICAvLyBHZXQgcmVhY3Rpb25zIGZvciBlYWNoIG1lc3NhZ2UgdXNpbmcgdGhlIGluZGV4CiAgICBjb25zdCByZWFjdGlvbnMgPSBbXTsKICAgIGZvciAoY29uc3QgbWVzc2FnZSBvZiBtZXNzYWdlcykgewogICAgICBjb25zdCBtZXNzYWdlUmVhY3Rpb25zID0gYXdhaXQgY3R4LmRiCiAgICAgICAgLnF1ZXJ5KCJtZXNzYWdlUmVhY3Rpb25zIikKICAgICAgICAud2l0aEluZGV4KCJtZXNzYWdlSWQiLCAocSkgPT4gcS5lcSgibWVzc2FnZUlkIiwgbWVzc2FnZS5faWQpKQogICAgICAgIC5jb2xsZWN0KCk7CiAgICAgIHJlYWN0aW9ucy5wdXNoKC4uLm1lc3NhZ2VSZWFjdGlvbnMpOwogICAgfQoKICAgIC8vIEdyb3VwIGJ5IG1lc3NhZ2UgSUQKICAgIGNvbnN0IHJlYWN0aW9uc0J5TWVzc2FnZTogUmVjb3JkPHN0cmluZywgYW55W10+ID0ge307CiAgICBmb3IgKGNvbnN0IHJlYWN0aW9uIG9mIHJlYWN0aW9ucykgewogICAgICBjb25zdCBtc2dJZCA9IHJlYWN0aW9uLm1lc3NhZ2VJZDsKICAgICAgaWYgKCFyZWFjdGlvbnNCeU1lc3NhZ2VbbXNnSWRdKSB7CiAgICAgICAgcmVhY3Rpb25zQnlNZXNzYWdlW21zZ0lkXSA9IFtdOwogICAgICB9CiAgICAgIHJlYWN0aW9uc0J5TWVzc2FnZVttc2dJZF0ucHVzaCh7CiAgICAgICAgdXNlcklkOiByZWFjdGlvbi51c2VySWQsCiAgICAgICAgZW1vamk6IHJlYWN0aW9uLmVtb2ppLAogICAgICAgIGNyZWF0ZWRBdDogcmVhY3Rpb24uY3JlYXRlZEF0LAogICAgICB9KTsKICAgIH0KCiAgICByZXR1cm4gcmVhY3Rpb25zQnlNZXNzYWdlOwogIH0sCn0pOwoK"}
+import { mutation, query } from "./_generated/server";
+import { v } from "convex/values";
+import { Id } from "./_generated/dataModel";
+import { isUserPremium } from "./subscriptions";
+import { insertNotification } from "./notifications";
+
+// Resolve an existing conversation (match thread) between two users.
+// Creates a match if user has liked the other user, allowing messaging even without mutual match.
+export const ensureConversation = mutation({
+  args: {
+    userId: v.id("users"),
+    otherUserId: v.id("users"),
+  },
+  handler: async (ctx, args) => {
+    if (args.userId === args.otherUserId) {
+      throw new Error("Cannot open conversation with yourself");
+    }
+
+    // Check for existing match
+    const [user1, user2] = [args.userId, args.otherUserId].sort();
+    
+    const matchDirect = await ctx.db
+      .query("matches")
+      .withIndex("users", (q) => q.eq("user1Id", user1).eq("user2Id", user2))
+      .first();
+
+    if (matchDirect) {
+      return { matchId: matchDirect._id };
+    }
+
+    // No existing match - check if user has liked the other user
+    const hasLiked = await ctx.db
+      .query("likes")
+      .withIndex("pair", (q) => q.eq("userId", args.userId).eq("likedUserId", args.otherUserId))
+      .first();
+
+    if (!hasLiked) {
+      throw new Error("You can only message users you have liked");
+    }
+
+    // User has liked them - create a match to enable messaging
+    const now = Date.now();
+    const matchId = await ctx.db.insert("matches", {
+      user1Id: user1,
+      user2Id: user2,
+      matchedAt: now,
+      user1Unread: 0,
+      user2Unread: 0,
+    });
+
+    return { matchId };
+  },
+});
+
+// Send a message (only if matched)
+export const sendMessage = mutation({
+  args: {
+    matchId: v.id("matches"),
+    senderId: v.id("users"),
+    body: v.string(),
+    type: v.optional(v.union(v.literal("text"), v.literal("gif"), v.literal("voice"), v.literal("photo"), v.literal("system"), v.literal("attachment"))),
+    replyToId: v.optional(v.id("messages")),
+    metadata: v.optional(
+      v.object({
+        gifUrl: v.optional(v.string()),
+        voiceUrl: v.optional(v.string()),
+        voiceDuration: v.optional(v.number()),
+        photoUrl: v.optional(v.string()),
+        attachmentId: v.optional(v.id("_storage")),
+        attachmentUrl: v.optional(v.string()),
+        attachmentName: v.optional(v.string()),
+        attachmentType: v.optional(v.string()),
+        attachmentSize: v.optional(v.number()),
+      })
+    ),
+  },
+  handler: async (ctx, args) => {
+    // Verify match exists and user is part of it
+    const match = await ctx.db.get(args.matchId);
+    if (!match) {
+      throw new Error("Cannot send message: match not found");
+    }
+
+    if (match.user1Id !== args.senderId && match.user2Id !== args.senderId) {
+      throw new Error("Cannot send message: unauthorized");
+    }
+
+    const messageType = args.type ?? "text";
+    const premium = await isUserPremium(ctx, args.senderId);
+
+    // Access check: user needs premium, active trial, or daily unlock to send messages
+    if (!premium) {
+      const sender = await ctx.db.get(args.senderId);
+      const now = Date.now();
+      const inTrial = sender?.freeTrialEndsAt && sender.freeTrialEndsAt > now;
+      const hasDailyUnlock = sender?.dailyUnlockEndsAt && sender.dailyUnlockEndsAt > now;
+      if (!inTrial && !hasDailyUnlock) {
+        throw new Error(
+          "Your free trial has expired. Upgrade to Premium (KES 100/week) or pay KES 10 for 24-hour access to continue messaging."
+        );
+      }
+    }
+
+    const receiverId = match.user1Id === args.senderId ? match.user2Id : match.user1Id;
+
+    // Create message
+    const now = Date.now();
+    const messageId = await ctx.db.insert("messages", {
+      matchId: match._id,
+      senderId: args.senderId,
+      receiverId,
+      body: args.body,
+      type: messageType,
+      replyToId: args.replyToId,
+      metadata: args.metadata,
+      deliveredAt: now,
+      isRead: false,
+      readAt: undefined,
+      isDeleted: false,
+      createdAt: now,
+    });
+
+    // Update match with last message time and increment unread count
+    const isUser1 = match.user1Id === args.senderId;
+    await ctx.db.patch(match._id, {
+      lastMessageAt: now,
+      user1Unread: isUser1 ? match.user1Unread : match.user1Unread + 1,
+      user2Unread: isUser1 ? match.user2Unread + 1 : match.user2Unread,
+    });
+
+    // Phase 7: In-app notification with enhanced fields
+    const sender = await ctx.db.get(args.senderId);
+    const senderName = sender?.name || "Someone";
+    
+    const preview =
+      messageType === "text"
+        ? args.body
+        : messageType === "gif"
+          ? "Sent you a GIF 🎬"
+          : messageType === "photo"
+            ? "Sent you a photo 📷"
+            : messageType === "voice"
+              ? "Sent you a voice message 🎤"
+              : messageType === "attachment"
+                ? `Sent you a file 📎`
+                : "Sent you a message";
+    
+    await insertNotification(ctx, {
+      userId: receiverId,
+      type: "message",
+      title: `New message from ${senderName}`,
+      body: preview.slice(0, 140),
+      priority: "high",
+      category: "social",
+      icon: "💬",
+      relatedUserId: args.senderId,
+      relatedMatchId: match._id,
+      relatedMessageId: messageId,
+      link: `/chat/${match._id}`,
+      actionButtons: [
+        { label: "Reply", action: "navigate", link: `/chat/${match._id}` },
+      ],
+    });
+
+    // Phase 3: Send push notification for new message
+    await ctx.scheduler.runAfter(0, "pushNotifications:notifyNewMessage" as any, {
+      messageId,
+      recipientId: receiverId,
+      senderId: args.senderId,
+      preview: preview.slice(0, 100),
+      matchId: match._id,
+    });
+
+    return messageId;
+  },
+});
+
+// Get messages for a specific match
+export const getMessages = query({
+  args: {
+    matchId: v.id("matches"),
+    userId: v.id("users"),
+  },
+  handler: async (ctx, args) => {
+    // Verify user is part of this match
+    const match = await ctx.db.get(args.matchId);
+    if (!match) {
+      throw new Error("Match not found");
+    }
+
+    if (match.user1Id !== args.userId && match.user2Id !== args.userId) {
+      throw new Error("Unauthorized: not part of this match");
+    }
+
+    // Get all messages for this match
+    const messages = await ctx.db
+      .query("messages")
+      .withIndex("matchId", (q) => q.eq("matchId", args.matchId))
+      .collect();
+
+    const enriched = await Promise.all(
+      messages.map(async (m) => {
+        const metadata = (m as any).metadata;
+        if (metadata?.attachmentId) {
+          const attachmentUrl = await ctx.storage.getUrl(metadata.attachmentId);
+          return {
+            ...m,
+            metadata: {
+              ...metadata,
+              attachmentUrl: attachmentUrl ?? metadata.attachmentUrl,
+            },
+          };
+        }
+        return m;
+      })
+    );
+
+    return enriched
+      .filter((m) => {
+        const deletedFor = (m as any).deletedForUserIds as string[] | undefined;
+        return !deletedFor?.includes(args.userId);
+      })
+      .sort((a, b) => a.createdAt - b.createdAt);
+  },
+});
+
+// Frontend alias
+export const getConversation = getMessages;
+
+// Delete all messages in a chat thread for the current user (keeps match intact)
+export const deleteChat = mutation({
+  args: {
+    matchId: v.id("matches"),
+    userId: v.id("users"),
+  },
+  handler: async (ctx, args) => {
+    const match = await ctx.db.get(args.matchId);
+    if (!match) {
+      throw new Error("Match not found");
+    }
+
+    if (match.user1Id !== args.userId && match.user2Id !== args.userId) {
+      throw new Error("Unauthorized: not part of this match");
+    }
+
+    const messages = await ctx.db
+      .query("messages")
+      .withIndex("matchId", (q) => q.eq("matchId", args.matchId))
+      .collect();
+
+    for (const message of messages) {
+      const deletedFor = new Set<Id<"users">>((message as any).deletedForUserIds ?? []);
+      deletedFor.add(args.userId);
+      await ctx.db.patch(message._id, { deletedForUserIds: Array.from(deletedFor) });
+    }
+
+    await ctx.db.patch(args.matchId, {
+      user1Unread: 0,
+      user2Unread: 0,
+    });
+
+    return { deletedCount: messages.length };
+  },
+});
+
+export const deleteMessage = mutation({
+  args: {
+    messageId: v.id("messages"),
+    userId: v.id("users"),
+    deleteForEveryone: v.boolean(),
+  },
+  handler: async (ctx, args) => {
+    const message = await ctx.db.get(args.messageId);
+    if (!message) {
+      throw new Error("Message not found");
+    }
+
+    const match = await ctx.db.get(message.matchId);
+    if (!match) {
+      throw new Error("Match not found");
+    }
+
+    const isParticipant = match.user1Id === args.userId || match.user2Id === args.userId;
+    if (!isParticipant) {
+      throw new Error("Unauthorized: not part of this match");
+    }
+
+    if (args.deleteForEveryone) {
+      if (message.senderId !== args.userId) {
+        throw new Error("Only the sender can delete this message for everyone");
+      }
+
+      const now = Date.now();
+      await ctx.db.patch(message._id, {
+        isDeleted: true,
+        deletedAt: now,
+        body: "",
+        metadata: undefined,
+      });
+    } else {
+      const deletedFor = new Set<Id<"users">>((message as any).deletedForUserIds ?? []);
+      deletedFor.add(args.userId);
+      await ctx.db.patch(message._id, { deletedForUserIds: Array.from(deletedFor) });
+    }
+
+    return { success: true };
+  },
+});
+
+// Mark messages as read
+export const markMessagesAsRead = mutation({
+  args: {
+    matchId: v.id("matches"),
+    userId: v.id("users"),
+  },
+  handler: async (ctx, args) => {
+    // Verify user is part of this match
+    const match = await ctx.db.get(args.matchId);
+    if (!match) {
+      throw new Error("Match not found");
+    }
+
+    if (match.user1Id !== args.userId && match.user2Id !== args.userId) {
+      throw new Error("Unauthorized: not part of this match");
+    }
+
+    // Get unread messages sent to this user
+    const messages = await ctx.db
+      .query("messages")
+      .withIndex("matchId", (q) => q.eq("matchId", args.matchId))
+      .filter((q) =>
+        q.and(
+          q.eq(q.field("receiverId"), args.userId),
+          q.eq(q.field("isRead"), false)
+        )
+      )
+      .collect();
+
+    const now = Date.now();
+
+    // Mark all as read
+    for (const message of messages) {
+      await ctx.db.patch(message._id, { isRead: true, readAt: now });
+    }
+
+    // Reset unread count for this user
+    const isUser1 = match.user1Id === args.userId;
+    await ctx.db.patch(args.matchId, {
+      user1Unread: isUser1 ? 0 : match.user1Unread,
+      user2Unread: isUser1 ? match.user2Unread : 0,
+    });
+
+    return { markedCount: messages.length };
+  },
+});
+
+// Phase 5: Mark a single message as read (for per-message read receipts)
+export const markMessageAsRead = mutation({
+  args: {
+    messageId: v.id("messages"),
+    userId: v.id("users"),
+  },
+  handler: async (ctx, args) => {
+    const msg = await ctx.db.get(args.messageId);
+    if (!msg) throw new Error("Message not found");
+
+    const match = await ctx.db.get(msg.matchId);
+    if (!match) throw new Error("Match not found");
+
+    if (match.user1Id !== args.userId && match.user2Id !== args.userId) {
+      throw new Error("Unauthorized: not part of this match");
+    }
+
+    if (msg.receiverId !== args.userId) {
+      return { success: false };
+    }
+
+    if (msg.isRead) return { success: true };
+
+    const now = Date.now();
+    await ctx.db.patch(msg._id, { isRead: true, readAt: now });
+
+    // Also ensure unread count is reduced to 0 in this thread if needed
+    const isUser1 = match.user1Id === args.userId;
+    await ctx.db.patch(match._id, {
+      user1Unread: isUser1 ? 0 : match.user1Unread,
+      user2Unread: isUser1 ? match.user2Unread : 0,
+    });
+
+    return { success: true };
+  },
+});
+
+// Phase 5: Read receipts (Premium) - returns read status for messages in a conversation
+export const getReadReceipts = query({
+  args: {
+    matchId: v.id("matches"),
+    userId: v.id("users"),
+  },
+  handler: async (ctx, args) => {
+    const premium = await isUserPremium(ctx, args.userId);
+    if (!premium) throw new Error("Premium required for read receipts");
+
+    const match = await ctx.db.get(args.matchId);
+    if (!match) throw new Error("Match not found");
+    if (match.user1Id !== args.userId && match.user2Id !== args.userId) {
+      throw new Error("Unauthorized: not part of this match");
+    }
+
+    const otherUserId = match.user1Id === args.userId ? match.user2Id : match.user1Id;
+    const mySettings = await ctx.db
+      .query("userSettings")
+      .withIndex("userId", (q) => q.eq("userId", args.userId))
+      .first();
+    const otherSettings = await ctx.db
+      .query("userSettings")
+      .withIndex("userId", (q) => q.eq("userId", otherUserId))
+      .first();
+
+    // Privacy rule: if either party has read receipts disabled, don't show receipts.
+    if (mySettings?.readReceipts === false) return {};
+    if (otherSettings?.readReceipts === false) return {};
+
+    const messages = await ctx.db
+      .query("messages")
+      .withIndex("matchId", (q) => q.eq("matchId", args.matchId))
+      .collect();
+
+    const receipts: Record<string, { deliveredAt?: number; readAt?: number }> = {};
+    for (const m of messages) {
+      if ((m as any).isDeleted) continue;
+      const deletedFor = (m as any).deletedForUserIds as string[] | undefined;
+      if (deletedFor?.includes(args.userId)) continue;
+      if (m.senderId !== args.userId) continue;
+      receipts[m._id] = {
+        deliveredAt: (m as any).deliveredAt,
+        readAt: (m as any).readAt,
+      };
+    }
+
+    return receipts;
+  },
+});
+
+// Frontend alias
+export const markAsRead = markMessagesAsRead;
+
+// Get conversations (matches with last message preview)
+export const getConversations = query({
+  args: {
+    userId: v.id("users"),
+  },
+  handler: async (ctx, args) => {
+    // Get all matches for this user
+    const matches1 = await ctx.db
+      .query("matches")
+      .withIndex("user1Id", (q) => q.eq("user1Id", args.userId))
+      .collect();
+
+    const matches2 = await ctx.db
+      .query("matches")
+      .withIndex("user2Id", (q) => q.eq("user2Id", args.userId))
+      .collect();
+
+    const allMatches = [...matches1, ...matches2];
+
+    // Enrich with last message and profile data
+    const conversations = await Promise.all(
+      allMatches.map(async (match) => {
+        const otherUserId =
+          match.user1Id === args.userId ? match.user2Id : match.user1Id;
+        const unreadCount =
+          match.user1Id === args.userId ? match.user1Unread : match.user2Unread;
+
+        // Get other user's profile
+        const profile = await ctx.db
+          .query("profiles")
+          .withIndex("userId", (q) => q.eq("userId", otherUserId))
+          .first();
+
+        if (!profile) return null;
+
+        // Get primary photo
+        const photos = await ctx.db
+          .query("photos")
+          .withIndex("userId", (q) => q.eq("userId", otherUserId))
+          .collect();
+
+        const primaryPhoto = photos.find((p) => p.isPrimary) || photos[0];
+
+        // Get last message
+        const messages = await ctx.db
+          .query("messages")
+          .withIndex("matchId", (q) => q.eq("matchId", match._id))
+          .order("desc")
+          .take(10);
+
+        const lastMessage = messages.find((message) => {
+          if ((message as any).isDeleted) return false;
+          const deletedFor = (message as any).deletedForUserIds as string[] | undefined;
+          return !deletedFor?.includes(args.userId);
+        });
+
+        // Get user name
+        const user = await ctx.db.get(otherUserId);
+
+        return {
+          matchId: match._id,
+          userId: otherUserId,
+          name: user?.name,
+          age: profile.age,
+          primaryPhoto: primaryPhoto?.url,
+          lastMessage: lastMessage
+            ? {
+              body: lastMessage.body,
+              createdAt: lastMessage.createdAt,
+              isFromMe: lastMessage.senderId === args.userId,
+            }
+            : null,
+          unreadCount,
+          matchedAt: match.matchedAt,
+        };
+      })
+    );
+
+    return conversations
+      .filter((c) => c !== null)
+      .sort((a, b) => {
+        const aTime = a.lastMessage?.createdAt || a.matchedAt;
+        const bTime = b.lastMessage?.createdAt || b.matchedAt;
+        return bTime - aTime;
+      });
+  },
+});
+
+// Set typing status
+export const setTypingStatus = mutation({
+  args: {
+    matchId: v.id("matches"),
+    userId: v.id("users"),
+    isTyping: v.boolean(),
+  },
+  handler: async (ctx, args) => {
+    const now = Date.now();
+
+    // Check if typing status exists
+    const existing = await ctx.db
+      .query("typingStatus")
+      .withIndex("matchUser", (q) =>
+        q.eq("matchId", args.matchId).eq("userId", args.userId)
+      )
+      .first();
+
+    if (existing) {
+      // Update existing status
+      await ctx.db.patch(existing._id, {
+        isTyping: args.isTyping,
+        updatedAt: now,
+      });
+    } else {
+      // Create new status
+      await ctx.db.insert("typingStatus", {
+        matchId: args.matchId,
+        userId: args.userId,
+        isTyping: args.isTyping,
+        updatedAt: now,
+      });
+    }
+
+    return { success: true };
+  },
+});
+
+// Get typing status for a match
+export const getTypingStatus = query({
+  args: {
+    matchId: v.id("matches"),
+    userId: v.id("users"),
+  },
+  handler: async (ctx, args) => {
+    // Get match to find other user
+    const match = await ctx.db.get(args.matchId);
+    if (!match) return { isTyping: false };
+
+    const otherUserId = match.user1Id === args.userId ? match.user2Id : match.user1Id;
+
+    // Get other user's typing status
+    const status = await ctx.db
+      .query("typingStatus")
+      .withIndex("matchUser", (q) =>
+        q.eq("matchId", args.matchId).eq("userId", otherUserId)
+      )
+      .first();
+
+    if (!status) return { isTyping: false };
+
+    // Consider status stale after 5 seconds
+    const isRecent = Date.now() - status.updatedAt < 5000;
+
+    return {
+      isTyping: status.isTyping && isRecent,
+      userId: otherUserId,
+    };
+  },
+});
+
+// Add reaction to a message
+export const addReaction = mutation({
+  args: {
+    messageId: v.id("messages"),
+    userId: v.id("users"),
+    emoji: v.string(),
+  },
+  handler: async (ctx, args) => {
+    // Check if user already reacted to this message
+    const existing = await ctx.db
+      .query("messageReactions")
+      .withIndex("messageUser", (q) =>
+        q.eq("messageId", args.messageId).eq("userId", args.userId)
+      )
+      .first();
+
+    if (existing) {
+      // Update existing reaction
+      await ctx.db.patch(existing._id, {
+        emoji: args.emoji,
+      });
+      return existing._id;
+    } else {
+      // Create new reaction
+      const reactionId = await ctx.db.insert("messageReactions", {
+        messageId: args.messageId,
+        userId: args.userId,
+        emoji: args.emoji,
+        createdAt: Date.now(),
+      });
+      return reactionId;
+    }
+  },
+});
+
+// Remove reaction from a message
+export const removeReaction = mutation({
+  args: {
+    messageId: v.id("messages"),
+    userId: v.id("users"),
+  },
+  handler: async (ctx, args) => {
+    const reaction = await ctx.db
+      .query("messageReactions")
+      .withIndex("messageUser", (q) =>
+        q.eq("messageId", args.messageId).eq("userId", args.userId)
+      )
+      .first();
+
+    if (reaction) {
+      await ctx.db.delete(reaction._id);
+      return { success: true };
+    }
+
+    return { success: false };
+  },
+});
+
+// Get reactions for messages
+export const getMessageReactions = query({
+  args: {
+    matchId: v.id("matches"),
+  },
+  handler: async (ctx, args) => {
+    // Get all messages for this match
+    const messages = await ctx.db
+      .query("messages")
+      .withIndex("matchId", (q) => q.eq("matchId", args.matchId))
+      .collect();
+
+    // Get reactions for each message using the index
+    const reactions = [];
+    for (const message of messages) {
+      const messageReactions = await ctx.db
+        .query("messageReactions")
+        .withIndex("messageId", (q) => q.eq("messageId", message._id))
+        .collect();
+      reactions.push(...messageReactions);
+    }
+
+    // Group by message ID
+    const reactionsByMessage: Record<string, any[]> = {};
+    for (const reaction of reactions) {
+      const msgId = reaction.messageId;
+      if (!reactionsByMessage[msgId]) {
+        reactionsByMessage[msgId] = [];
+      }
+      reactionsByMessage[msgId].push({
+        userId: reaction.userId,
+        emoji: reaction.emoji,
+        createdAt: reaction.createdAt,
+      });
+    }
+
+    return reactionsByMessage;
+  },
+});
+
+
