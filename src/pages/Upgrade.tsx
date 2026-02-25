@@ -9,7 +9,7 @@ import { Star, Heart, Sparkles, RotateCcw, Zap, Eye, Infinity, Check, X, Clock, 
 import { PaymentModal } from "@/components/premium/PaymentModal";
 
 const Upgrade = () => {
-  const { user } = useAuth();
+  const { user, isLoading: authLoading } = useAuth();
   const userId = user?._id;
   const entitlements = useQuery(api.subscriptions.getMyEntitlements, userId ? { userId } : "skip");
   const likesData = useQuery(api.matching.getWhoLikedYous, userId ? { userId, sortBy: "recent" } : "skip");
@@ -28,6 +28,17 @@ const Upgrade = () => {
     { icon: Sparkles, title: "Super Likes/Day", free: "0", premium: "5" },
     { icon: RotateCcw, title: "Rewinds", free: "1/day", premium: "Unlimited" },
   ];
+
+  if (authLoading || (userId && entitlements === undefined)) {
+    return (
+      <div className="flex flex-col items-center justify-center min-h-[60vh] space-y-4">
+        <Clock className="h-12 w-12 text-primary animate-spin opacity-20" />
+        <p className="text-muted-foreground animate-pulse">
+          {authLoading ? "Authenticating..." : "Loading plans..."}
+        </p>
+      </div>
+    );
+  }
 
   return (
     <div className="max-w-6xl mx-auto px-4 space-y-12 pb-12">

@@ -18,8 +18,9 @@ import { useAuth } from "@/contexts/AuthContext";
 
 const Dashboard = () => {
   const navigate = useNavigate();
-  const { user } = useAuth();
+  const { user, isLoading: authLoading } = useAuth();
   const userId = user?._id;
+  
   const profile = useQuery(api.profiles.getMyProfile, userId ? { userId } : "skip");
   const matches = useQuery(api.matching.getMatches, userId ? { userId } : "skip");
   const conversations = useQuery(api.messages.getConversations, userId ? { userId } : "skip");
@@ -42,15 +43,24 @@ const Dashboard = () => {
     }
   }, [userId, profile, navigate, updateLastActive]);
 
-  if (!userId) {
+  if (authLoading || (userId && profile === undefined)) {
     return (
       <div className="min-h-[50vh] flex items-center justify-center">
         <div className="text-center animate-pulse-soft">
           <Heart className="w-12 h-12 text-primary mx-auto mb-4" />
-          <p className="text-muted-foreground">Loading your profile...</p>
+          <p className="text-muted-foreground">
+            {authLoading ? "Authenticating..." : "Loading your profile..."}
+          </p>
         </div>
       </div>
     );
+  }
+
+  if (!userId) {
+    useEffect(() => {
+      navigate("/login");
+    }, [navigate]);
+    return null;
   }
 
   const unreadCount = conversations?.reduce((sum, conv) => sum + conv.unreadCount, 0) || 0;
@@ -243,109 +253,27 @@ const Dashboard = () => {
         </Card>
       </motion.div>
 
-      {/* Phase 2: Discovery Carousels */}
+      {/* Carousels */}
       {userId && (
         <>
           <motion.div variants={itemVariants}>
-            <NewInAreaCarousel userId={userId} daysBack={7} limit={10} />
+            <TopCompatibleCarousel userId={userId} />
           </motion.div>
-
           <motion.div variants={itemVariants}>
-            <TopCompatibleCarousel userId={userId} limit={10} />
+            <NewInAreaCarousel userId={userId} />
           </motion.div>
         </>
       )}
 
-      {/* Engagement Widgets Row */}
-      <motion.div variants={itemVariants} className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-        {/* Profile Completion Score */}
-        {userId && <ProfileCompletionScore userId={userId} variant="compact" />}
-
-        {/* Profile Views Counter */}
-        {userId && <ProfileViewsCounter userId={userId} variant="compact" />}
-
-        {/* Daily Streak Compact */}
-        {userId && <DailyStreakWidget userId={userId} variant="compact" />}
-      </motion.div>
-
-      {/* Activity & Quests */}
-      <motion.div variants={itemVariants} className="grid gap-4 md:grid-cols-2">
-        {/* Activity Feed */}
-        <Card className="glass-panel border-white/40">
-          <CardHeader>
-            <CardTitle className="text-lg flex items-center gap-2">
-              <TrendingUp className="w-5 h-5 text-primary" />
-              Recent Activity
-            </CardTitle>
-          </CardHeader>
-          <CardContent>
-            {activityFeed && activityFeed.length > 0 ? (
-              <div className="space-y-4">
-                {activityFeed.map((activity: any, idx: number) => (
-                  <div key={idx} className="flex items-start gap-3 text-sm border-b border-border/40 last:border-0 pb-3 last:pb-0">
-                    <div className="w-2 h-2 rounded-full bg-primary mt-1.5 flex-shrink-0" />
-                    <div className="flex-1">
-                      <p className="text-foreground font-medium">{activity.message}</p>
-                      <p className="text-xs text-muted-foreground mt-0.5">
-                        {new Date(activity.timestamp).toLocaleDateString()} • {new Date(activity.timestamp).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
-                      </p>
-                    </div>
-                  </div>
-                ))}
-              </div>
-            ) : (
-              <div className="text-center py-8 opacity-60">
-                <Sparkles className="w-8 h-8 mx-auto mb-2 text-muted-foreground" />
-                <p className="text-sm text-muted-foreground">
-                  Start swiping to see your activity here!
-                </p>
-              </div>
-            )}
-          </CardContent>
-        </Card>
-
-        {/* Daily Quests */}
-        {userId && <DailyQuests userId={userId} compact={true} />}
-      </motion.div>
-
-      {/* Profile Strength - Conditional */}
-      {profileStrength && profileStrength.score < 100 && (
+      {/* Daily Quests & Profile Strength */}
+      <div className="grid gap-6 lg:grid-cols-2">
         <motion.div variants={itemVariants}>
-          <Card className="glass-panel border-amber-200/40 bg-gradient-to-r from-amber-50/40 to-orange-50/40 dark:from-amber-950/15 dark:to-orange-950/15">
-            <CardHeader>
-              <div className="flex items-center justify-between">
-                <CardTitle className="text-lg flex items-center gap-2">
-                  <Star className="w-5 h-5 text-amber-500 fill-amber-500" />
-                  Profile Strength
-                </CardTitle>
-                <span className="text-2xl font-bold text-amber-600 dark:text-amber-400">{profileStrength.score}%</span>
-              </div>
-              <CardDescription>Complete your profile to get 3x more matches</CardDescription>
-            </CardHeader>
-            <CardContent>
-              <Progress value={profileStrength.score} className="h-2 mb-4 bg-amber-100 dark:bg-amber-900/30" indicatorClassName="bg-amber-500" />
-
-              {profileStrength.tips && profileStrength.tips.length > 0 && (
-                <div className="space-y-2 mb-4">
-                  {profileStrength.tips.slice(0, 2).map((tip: string, idx: number) => (
-                    <div key={idx} className="flex items-center gap-2 text-sm text-muted-foreground bg-white/40 dark:bg-black/20 p-2 rounded-lg">
-                      <div className="w-1.5 h-1.5 rounded-full bg-amber-500" />
-                      <span>{tip}</span>
-                    </div>
-                  ))}
-                </div>
-              )}
-
-              <Button
-                onClick={() => navigate('/profile-setup')}
-                className="w-full bg-white hover:bg-white/80 text-amber-600 font-bold shadow-sm border border-amber-200"
-              >
-                Complete Profile Now
-              </Button>
-            </CardContent>
-          </Card>
+          <DailyQuests userId={userId} />
         </motion.div>
-      )}
+        <motion.div variants={itemVariants}>
+          <ProfileCompletionScore userId={userId} />
+        </motion.div>
+      </div>
     </motion.div>
   );
 };

@@ -12,24 +12,26 @@ import { format } from "date-fns";
 import { useSearchParams } from "react-router-dom";
 
 export default function Subscription() {
-  const { user } = useAuth();
+  const { user, isLoading: authLoading } = useAuth();
   const userId = user?._id;
   const [searchParams] = useSearchParams();
   const subscription = useQuery(api.subscriptions.getMySubscription, userId ? { userId: userId as any } : "skip");
   const payments = useQuery(api.payments.getMyBillingHistory, userId ? { userId: userId as any, limit: 50 } : "skip");
   const [payOpen, setPayOpen] = useState(false);
 
-  // Handle loading and error states
-  if (userId && (subscription === undefined || payments === undefined)) {
+  // Handle loading states
+  if (authLoading || (userId && (subscription === undefined || payments === undefined))) {
     return (
       <div className="flex flex-col items-center justify-center min-h-[60vh] space-y-4">
         <Clock className="h-12 w-12 text-primary animate-spin opacity-20" />
-        <p className="text-muted-foreground animate-pulse">Loading subscription details...</p>
+        <p className="text-muted-foreground animate-pulse">
+          {authLoading ? "Authenticating..." : "Loading subscription details..."}
+        </p>
       </div>
     );
   }
 
-  // If not logged in, show a simple message or redirect (though usually handled by higher-level route)
+  // If not logged in after loading, show login message
   if (!userId) {
     return (
       <div className="flex flex-col items-center justify-center min-h-[60vh] space-y-4">

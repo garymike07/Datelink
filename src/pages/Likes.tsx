@@ -21,8 +21,8 @@ export default function Likes() {
   const navigate = useNavigate();
   const [sortBy, setSortBy] = useState<"recent" | "distance" | "score">("recent");
 
-  const { user } = useAuth();
-  const userId = user._id;
+  const { user, isLoading: authLoading } = useAuth();
+  const userId = user?._id;
 
   // Get who liked you data
   const likesData = useQuery(
@@ -47,10 +47,25 @@ export default function Likes() {
     }
   };
 
+  if (authLoading) {
+    return (
+      <div className="container max-w-6xl mx-auto py-3 sm:py-4 md:py-6 lg:py-8 px-2 sm:px-3 md:px-4">
+        <div className="flex flex-col items-center justify-center min-h-[40vh] space-y-4">
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-primary"></div>
+          <p className="text-muted-foreground animate-pulse">Authenticating...</p>
+        </div>
+      </div>
+    );
+  }
+
   if (!userId) {
     return (
       <div className="container max-w-6xl mx-auto py-3 sm:py-4 md:py-6 lg:py-8 px-2 sm:px-3 md:px-4">
-        <p>Please sign in to view who likes you.</p>
+        <div className="flex flex-col items-center justify-center min-h-[40vh] space-y-4 text-center">
+          <Heart className="h-12 w-12 text-muted-foreground opacity-20" />
+          <p className="text-muted-foreground">Please sign in to view who likes you.</p>
+          <Button onClick={() => navigate("/login")}>Login Now</Button>
+        </div>
       </div>
     );
   }
